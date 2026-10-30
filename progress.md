@@ -14,7 +14,7 @@ _Last updated: 2026-10-30_
 | Text format | ✅ Decoded: 905 files, 25,193 messages, all parse cleanly |
 | Japanese script dump | ✅ Readable. Kanji identification 98.8% on a hand-checked sample |
 | English text in-game | ✅ Working: wrapping, `!` glyph, name entry |
-| Translation | 🟡 Main story done; LBX data and character lists done (50.3% overall) |
+| Translation | 🟡 Main story done; LBX data, character lists, battle and gift messages done (55.8% overall) |
 | Graphics with baked-in Japanese | ⬜ Not started |
 | Cutscene videos (MOFLEX) | ⬜ Not started |
 | Distribution (patch packaging) | ⬜ Not started |
@@ -29,9 +29,9 @@ Refresh with `python3 tools/progress.py`.
 | Character conversations | 0 | 3,180 | 0.0% |
 | Map examine text | 0 | 3,676 | 0.0% |
 | Character/LBX data | 1,727 | 1,735 | 99.5% |
-| System & UI | 3,658 | 5,780 | 63.3% |
-| Other | 0 | 34 | 0.0% |
-| **All** | **9,945** | **19,765** | **50.3%** |
+| System & UI | 4,715 | 5,780 | 81.6% |
+| Other | 27 | 34 | 79.4% |
+| **All** | **11,029** | **19,765** | **55.8%** |
 
 Story scenes include the speaker name tags (filled from `script/speaker_names.tsv`). The remaining story lines are debug/placeholder text, the 53922 CG list and the 53920/53921 debug lists.
 
@@ -44,6 +44,9 @@ Translated so far:
 - **The ending, 53341–53388,** and the mission-unlock messages (53901). The whole main story is now in English.
 - **LBX data (system text 01000.98):** all LBX and part names (1000–4999), weapons (5000–6023), weapon info lines (7000–8045, generated from a term table), chips and their descriptions (14xxx), Special Functions (48xxx, 51xxx), modes and misc parts (53xxx–56xxx), and the character lists (24xxx, 32xxx).
 - **13xxx data:** character name lists (13011 in three font sizes, 13017), base names, operation names, mission briefings ("Info") and goals (13260), and the multiplayer menus.
+- **Capture announcements (01000.98:10000–10176),** generated from the 13260 place table: "Ownership of X / passes from Y", then "to [x14:0000]. All fighting in the base must stop immediately."
+- **Battle messages (01000.98:12000–12510):** the battle log for squads and named characters (Flag, boss, LP/BP recovery, C Gauge, Item Box, enemy Special/Ultimate warnings, LP critical) and the counter menu. One line of at most 308 px, the widest Japanese.
+- **Partner gift messages (01047.12:1–151, 158, 172, 183).** The fragments the game joins at runtime (152–157, 159–171, 173–182) are left as labels until a screenshot shows their order.
 - **System text:**
   - opening-movie skip prompt (Skip?/Yes/No)
   - name-entry screen (prompt, confirmation, invalid-name error, the online-name notice)
@@ -157,3 +160,4 @@ Plan:
 - More glyph overrides (system-text digits, α/β, 13260 kanji) and a fresh dump. Overall 50.3%.
 - Crash investigation (see Known issues): shortened 160 data strings to fit the original size limits (Industrial Zone → Works, Volcanic Zone → Volcano, "Battle X!" → "VS X!", "Machine Gun" → "MG", shorter titles). Added `tools/sizecheck.py`.
 - From the latest screenshots: battle speaker names (01000.98:11–273), the tutorial battle (51015), bottom-screen objective hints (01000_095, one line of up to 280 px, in `textfit.BOXES`), save-screen day labels (01540), area titles and save/load messages (01000.98:17840–17953). 52.7% overall.
+- Capture announcements (01000.98:10000–10176) generated from the 13260 place table; battle log and counter menu (12xxx), with 超必殺ファンクション as "Ultimate" to keep one line; partner gift messages (01047). The gift lines carry no speaker, so each keeps the voice its Japanese implies (Kansai, posh, katakana accent). 55.8% overall. Build boots.
