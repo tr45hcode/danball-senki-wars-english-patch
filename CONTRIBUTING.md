@@ -1,18 +1,16 @@
 # Contributing
 
-Thanks for helping translate **Danball Senki Wars** (3DS) into English. This guide covers getting set up, how translation works here, how to test, and how to send changes.
+Glad you're here. This covers setting up, how translation works in this repo, testing your changes in an emulator, and sending them in. [README.md](README.md) explains the file formats and tools in more depth, and [progress.md](progress.md) has the current status, the decisions made so far and the open questions.
 
-Background: [README.md](README.md) covers the file formats and tools. [progress.md](progress.md) has the current status, decisions and open questions.
+## Before you start
 
-## Ground rules
+Never commit game files: no ROMs, no CPKs, no extracted data, no built patches. `.gitignore` already catches the usual paths, but check `git status` before you push anyway. Everyone works from their own dump of the game.
 
-- **Never commit game files.** That means no ROMs, CPKs, extracted data or built patches. `.gitignore` covers the usual paths. Everyone works from their own legally dumped copy of the game.
-- **Follow the glossary** ([`script/glossary.tsv`](script/glossary.tsv)). If a term isn't there, add it in the same pull request.
-- **Test before you submit.** Build the patch and play the part you changed (see [Testing](#testing)).
+Stick to [`script/glossary.tsv`](script/glossary.tsv) for names and terms, and if you need a term that isn't in there yet, add it in the same pull request. And play what you changed before you send it; the [Testing](#testing) section shows how.
 
 ## Setup
 
-You need Python 3.10+, a dump of the Japanese game (CTR-P-BDNJ, title ID `00040000000F4000`) as a decrypted `.3ds`, and Azahar (or Citra) to test.
+You'll need Python 3.10 or newer, a decrypted `.3ds` dump of the Japanese game (CTR-P-BDNJ, title ID `00040000000F4000`), and Azahar or Citra for testing.
 
 ```sh
 python3 -m venv .venv && .venv/bin/pip install numpy pillow
@@ -25,29 +23,29 @@ python3 tools/unpack_all.py extracted/romfs/DA3File_3ds.cpk extracted/cpk
 python3 tools/fix_nocrypto.py "path/to/Danball Senki Wars (Japan) Decrypted.3ds" "build/Danball Senki Wars (Japan) [nocrypto].3ds"
 ```
 
-The Japanese script is already dumped in `script/raw/`, so you don't need to re-dump it to translate. Re-dumping is only needed after fixing a misread glyph (see [Misread characters](#misread-characters)). For that you also need the dictionaries listed in README, *Kanji identification*.
+The Japanese script is already dumped in `script/raw/`, so translating doesn't require a re-dump. You'd only re-dump after fixing a misread glyph (see [Misread characters](#misread-characters)), and that also needs the two dictionaries from README's *Kanji identification* section.
 
-## How the text is organised
+## How the text is laid out
 
-Every text file in the game is a `script/raw/<container>_<index>_<id>.tsv` with one `id<TAB>japanese` row per message. Translations go in a file of the same name in `script/en/`, with columns `id`, `ja` (reference only) and `en`. A blank `en` means untranslated.
+Every text file in the game becomes `script/raw/<container>_<index>_<id>.tsv`, one `id<TAB>japanese` row per message. Translations go in the file with the same name under `script/en/`, which has three columns: `id`, `ja` (just for reference) and `en`. An empty `en` means the line isn't translated yet.
 
-| Containers | Content |
+| Containers | What's in them |
 |---|---|
-| 525xx–533xx | Main story scenes, in play order. `_004_` files are speaker name tags |
+| 525xx–533xx | Main story scenes in play order; the `_004_` files are speaker name tags |
 | 539xx | Mission events: tutorials and map chatter |
-| 11xxx | Character conversations (optional, unlock over time) |
+| 11xxx | Character conversations, which unlock as you play |
 | 06xxx | Examine text around the island |
 | 13xxx | Character lists, base and operation names, mission briefings |
 | 01000_098 | System text: LBX, parts, weapons, Special Functions, menus, messages |
-| 01000_095 | Objective hint in the bottom-screen header |
+| 01000_095 | The objective hint in the bottom screen's header bar |
 
-`01000_100` is a 10 px copy of `01000_098`. Don't edit it; the build copies the `01000_098` translations into it.
+Leave `01000_100` alone. It's a 10 px copy of `01000_098`, and the build fills it from your `01000_098` translations.
 
-Coverage per area: `python3 tools/progress.py`.
+`python3 tools/progress.py` shows how much of each area is done.
 
 ## Translating
 
-### The quick loop
+### The usual loop
 
 ```sh
 python3 tools/xlate.py show 52610 52611        # untranslated lines, furigana collapsed
@@ -57,75 +55,74 @@ python3 tools/xlate.py batch b.tsv < lines.txt
 python3 tools/fill_translations.py b.tsv       # merges into script/en/
 ```
 
-Shorthand: `52610:3 Text` targets the dialogue file `52610_002_*`. Use `52610.4:1 Arata` for another RMD index, such as a name tag file, and `01000.98:17852 Text` for system text.
+`52610:3 Text` targets the dialogue file `52610_002_*`. For another RMD index, such as a name tag file, write `52610.4:1 Arata`; for system text, `01000.98:17852 Text`.
 
-`xlate.py reuse out.tsv 527` fills speaker tags from `script/speaker_names.tsv` and copies exact repeats of lines already translated. Review the repeats it prints before merging: a short reply like "Yes, sir." depends on who is being answered.
+`xlate.py reuse out.tsv 527` fills speaker tags from `script/speaker_names.tsv` and copies lines that exactly repeat something already translated. Look over the repeats it prints before you merge them, since a short reply like "Yes, sir." isn't right for every listener.
 
 ### Markup
 
 | Markup | Meaning |
 |---|---|
-| `[n]` | Line break. Long lines wrap automatically, but explicit breaks often fit better |
-| `[var:0]` | Player name (up to 8 characters) |
-| `[x14:0000]` | Player's country name (up to 8 characters) |
+| `[n]` | Line break. Long lines wrap on their own, but a hand-placed break often fits better |
+| `[var:0]` | The player's name, up to 8 characters |
+| `[x14:0000]` | The player's country name, also up to 8 |
 | `[c:01]…[x2]`, `[c:03]…[x2]` | Narration and colour; keep them where the Japanese has them |
 
-Don't add the final `[p]`; the build does that.
+The build adds the final `[p]`, so don't type it.
 
-### Space limits
+### How much fits
 
-- **Dialogue box:** 319 px per line, 2 lines. Beyond that the game breaks words mid-way or draws off the box. `check` measures in pixels with the real font, so trust it over character counts.
-- **Other boxes** are listed in `textfit.BOXES` in `tools/textfit.py`. Examples: map chatter (one line), the objective header (one line, 280 px), and battle lines (one line, 319 px). If you find a new one in game, add it there.
-- **Names and labels in the data files** must not be bigger than the largest original of their kind; long names might overflow the game's buffers. Run `python3 tools/sizecheck.py` after changing any names. It must print nothing.
+The dialogue box takes 319 px per line and two lines. Go past that and the game breaks words mid-way or draws text outside the box. `check` measures with the game's real font, so trust its pixel counts over counting characters.
 
-### Characters
+Some text lives in other boxes with their own limits, listed in `textfit.BOXES` in `tools/textfit.py`: map chatter gets one line, the objective header one line of 280 px, battle lines one line of 319 px. If you find another kind of box in game, add it there.
 
-The font has only ASCII letters, digits and basic punctuation (plus a redrawn `!`). There are **no accented letters** ("Cafe", not "Café"), no `☆` and no Greek letters. `"`, `[`, `]`, `<`, `>` and `~` are mapped to the nearest full-width glyph. `check` reports anything unsupported.
+Names and labels in the data files have one more rule. They must not end up bigger than the largest original of their kind, in case the game copies them into fixed-size buffers. Run `python3 tools/sizecheck.py` after changing any of them; it should print nothing.
+
+### The font
+
+It only has ASCII letters, digits, basic punctuation and a redrawn `!`. That means no accented letters (write "Cafe", not "Café"), no `☆` and no Greek. `"`, `[`, `]`, `<`, `>` and `~` get mapped to the closest full-width glyph. `check` tells you about anything it can't draw.
 
 ### Style
 
-- **Names:** romanized Japanese, Hepburn without macrons, long vowels dropped (Hojo, Kojo, Ginjiro). Given name first. Speaker tags show the given name only.
-- **Honorifics** become natural English ("Captain", "Ms. Mito"), not -san/-kun.
-- **Katakana loanwords** use their English form (Achilles, Dot Phaser).
-- **Voices:** Suzune speaks casual Kansai, which becomes a relaxed "gonna/ya" English. Josephine is flamboyant ("darling", "-kins"/"-poo" nicknames). Metazawa ends lines with "-mo". Keep characters consistent with what's already translated.
-- Aim for natural English that fits the box, not a literal gloss. When in doubt, read the surrounding scene.
+Names are romanized Japanese in Hepburn without macrons, with long vowels dropped (Hojo, Kojo, Ginjiro) and the given name first; speaker tags use the given name only. Honorifics turn into natural English such as "Captain" or "Ms. Mito" rather than -san or -kun. Katakana loanwords take their English form, so アキレス is Achilles and ドットフェイサー is Dot Phaser.
+
+Characters have voices. Suzune talks in casual Kansai dialect, which comes out as relaxed "gonna, ya" English; Josephine is flamboyant, all "darling" and "-kins"/"-poo" nicknames; Metazawa ends his lines with "-mo". Read some of what's already translated for a character before you write their lines.
+
+Go for natural English that fits the box rather than a literal gloss, and when a line is unclear, read the scene around it.
 
 ### Misread characters
 
-`⟨字⟩` in the dump marks a kanji identified only from its image, and digits are often wrong: ⟨日⟩ can be 3 or 8, ⟨Ｑ⟩ is usually 0. To check one:
+`⟨字⟩` in the dump marks a kanji identified only from its image. Digits are the usual trouble: ⟨日⟩ can be 3 or 8, and ⟨Ｑ⟩ is normally 0. To see what a glyph really is:
 
 ```sh
-.venv/bin/python tools/glyphsheet.py /tmp/glyphs.png 52567     # draws the unverified glyphs of a container
+.venv/bin/python tools/glyphsheet.py /tmp/glyphs.png 52567     # draws the unverified glyphs in a container
 ```
 
-Add the right character to `script/glyph_overrides.tsv` (`key<TAB>char`) and re-dump with `.venv/bin/python tools/dump_text.py extracted/cpk script/raw`.
+Put the right character in `script/glyph_overrides.tsv` (`key<TAB>char`) and re-dump with `.venv/bin/python tools/dump_text.py extracted/cpk script/raw`.
 
 ## Testing
 
 ```sh
 python3 tools/build_patch.py --test-ids extracted/romfs/DA3File_3ds.cpk build/mods
-tools/boot_test.sh                  # headless Azahar boot check; must say OK
+tools/boot_test.sh                  # headless Azahar boot check; it has to say OK
 ```
 
-- `--test-ids` shows untranslated text as labels like `01000.98:17852` (container.index:id), so screenshots tell you exactly which line to translate next.
-- Install the patch as a LayeredFS mod: put `build/mods/00040000000F4000/romfs/` in Azahar's mod folder (right-click the game, *Open Mods Location*). On a 3DS, it goes in `luma/titles/00040000000F4000/romfs/`.
-- Load `build/Danball Senki Wars (Japan) [nocrypto].3ds` in Azahar.
-- **Don't load emulator save states across builds.** A quicksave from an older build crashes the new one. Use in-game saves.
-- `build/mods/text_report.txt` lists overflows and UI strings much wider than the Japanese.
+With `--test-ids`, untranslated text shows up in game as a label like `01000.98:17852` (container.index:id), so a screenshot tells you exactly which line to translate next.
+
+To play it, install `build/mods/00040000000F4000/romfs/` as a LayeredFS mod (right-click the game in Azahar, *Open Mods Location*) and load `build/Danball Senki Wars (Japan) [nocrypto].3ds`. On a 3DS the folder goes in `luma/titles/00040000000F4000/romfs/`.
+
+One warning that has already cost us a crash investigation: don't load an emulator save state made with an older build. The game crashes because its memory no longer matches the files, and it looks exactly like a patch bug. Use in-game saves instead.
+
+If something overflows, or a UI string comes out much wider than its Japanese, `build/mods/text_report.txt` will list it.
 
 ## Sending changes
 
-1. Fork, or create a branch named after the content (e.g. `conversations-117xx`, `ui-lab-menu`).
-2. Keep each pull request to one area or chunk of scenes so it can be reviewed.
-3. Before opening it, run `xlate.py check` on everything you added (no BAD lines), then `tools/sizecheck.py` (no output) and a build plus `boot_test.sh` (OK).
-4. In the description, say what you covered and how you tested it, and attach screenshots of anything in a new kind of box or menu.
-5. New names or terms go in `script/glossary.tsv`, new speaker tags in `script/speaker_names.tsv`.
+Work on a fork or a branch named after what you're doing, like `conversations-117xx` or `ui-lab-menu`, and keep each pull request to one area or chunk of scenes so someone can review it in one sitting.
+
+Before you open it, `xlate.py check` should show no BAD lines for anything you added, `tools/sizecheck.py` should print nothing, and a fresh build should pass `boot_test.sh`. In the description, say what you covered and how you tested it, with screenshots of any box or menu that hasn't been translated before. Put new names or terms in `script/glossary.tsv` and new speaker tags in `script/speaker_names.tsv`.
 
 ## Where help is needed
 
-See *Next steps* in [progress.md](progress.md). In short:
+*Next steps* in [progress.md](progress.md) has the full list. The biggest gaps right now are the character conversations (11xxx) and the examine text (06xxx), together about 6,800 lines. The system text and UI in `01000_098` (menus, battle messages, base capture announcements) go much faster when someone sends screenshots with the test labels showing.
 
-- **System text and UI** (01000_098): menus, battle messages, capture announcements. Screenshots with labels help a lot.
-- **Character conversations** (11xxx) and **examine text** (06xxx), the two biggest untranslated areas.
-- **Proofreading** the translated story in game: wording, character voice, anything that doesn't fit.
-- **Graphics:** buttons and titles with Japanese drawn into the image (進む, しらべる, screen headers). Not started.
+Proofreading counts too: playing through the translated story and flagging lines that read badly, sound wrong for the character or don't fit. And if you can edit textures, the buttons and screen titles with Japanese drawn into them (進む, しらべる, the screen headers) haven't been touched yet.
