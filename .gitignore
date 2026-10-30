@@ -16,3 +16,6 @@ data/kanjidic/
 .venv/
 __pycache__/
 *.pyc
+
+# Personal notes
+handoff.md
