@@ -1,0 +1,26 @@
+id	ja	en
+10000	{敵小隊|てきしょうたい}の{全滅|ぜんめつ}[p]	Wipe out the enemy squads
+10001	{全|すべ}てのフラッグ{占領|せんりょう}[p]	Capture all Flags
+10002	{味方小隊|みかたしょうたい}の{全滅|ぜんめつ}[p]	All your squads defeated
+10003	{無敵|むてき}　ギンジロウより{先|さき}にフラッグへ{到達|とうたつ}する[p]	Reach the Flag before Ginjiro
+10004	{無敵|むてき}　ギンジロウに{先|さき}にフラッグへ{到達|とうたつ}される[p]	Ginjiro reaches the Flag first
+10005	[var:0]の{撃破|げきは}[p]	[var:0] defeated
+10006	{背名|せな}　アラタの{撃破|げきは}[p]	Arata Sena defeated
+10007	{東号|とうごう}　リクヤの{撃破|げきは}[p]	Rikuya Togo defeated
+10008	{白牙|はくが}　ムサシの{撃破|げきは}[p]	Musashi Hakuga defeated
+10009	{沖田|おきた}　ヒナコの{撃破|げきは}[p]	Hinako Okita defeated
+10010	{石⟨川⟩|いしかゎ}　タケヒロの{撃破|げきは}[p]	
+10011	アンドレイ・グレゴリーの{撃破|げきは}[p]	Andrei Gregory defeated
+10012	{高崎|たかさき}　ケンタロウの{撃破|げきは}[p]	Kentaro Takasaki defeated
+10013	ワイバーンの{撃破|げきは}[p]	Wyvern defeated
+10014	ワイバーン・ガイアの{撃破|げきは}[p]	Wyvern Gaia defeated
+10015	ガウンタの{撃破|げきは}[p]	Gaunta defeated
+10016	ヒドラの{撃破|げきは}[p]	Hydra defeated
+10017	エルドバンドの{撃破|げきは}[p]	Eld Band defeated
+10018	ペガサスの{撃破|げきは}[p]	Pegasus defeated
+10019	ミノタウロスの{撃破|げきは}[p]	Minotaur defeated
+10020	{背名|せな}　アラタ・{東号|とうごう}　リクヤの{撃破|げきは}[p]	Arata Sena & Rikuya Togo defeated
+10021	{風|ふう}{神|じん} カイトの{撃破|げきは}[p]	Kaito Fujin defeated
+10022	{味方|みかた}{機|き}いずれかの{撃破|げきは}[p]	Any ally unit defeated
+10100	ミッションにもどる[p]	Return to mission
+10101	あきらめてタイトルにもどる[p]	Give up and return to title

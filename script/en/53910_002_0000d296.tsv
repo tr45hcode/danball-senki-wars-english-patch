@@ -1,0 +1,17 @@
+id	ja	en
+150	{交戦|こうせん}{状態|じょうたい}に{入|はい}ると{下|した}{画面|がめん}の{右|みぎ}に[n]ＶＳアイコンが{表示|ひょうじ}される。[p]	When engaged, a VS icon appears[n]on the right of the bottom screen.
+151	ＶＳアイコンをタッチすると{交戦|こうせん}{状態|じょうたい}の{相手|あいて}に[n]アクションバトルを{仕掛|しか}ける{事|こと}が{出来|でき}る。[p]	Touch the VS icon to start an Action Battle with the enemy you're fighting.
+152	[var:0]、{君|きみ}のＬＢＸプレイヤーと[n]しての{能力|のうりょく}を{最大限|さいだいげん}に{発揮|はっき}できるチャンスだ。[p]	[var:0], it's your chance to show everything you've got as an LBX player.
+153	{腕|うで}に{自信|じしん}があるなら、{挑|いど}んで{見|み}るといいだろう。[n][p]	If you're confident in your skills, give it a try.
+160	ＶＳで{挑|いど}んだアクションバトルは[n]{制限|せいげん}{時間|じかん}が{設定|せってい}されている。[p]	Action Battles started with VS have a time limit.
+161	{制限|せいげん}{時間内|じかんない}に{一気|いっき}に{勝負|しょうぶ}をつけるんだ。[n][p]	Settle the fight before time runs out.
+162	{制限|せいげん}{時間|じかん}が{過|す}ぎると、{交戦|こうせん}{状態|じょうたい}に{戻|もど}るが[n]{苦手|にがて}な{相手|あいて}にこそ、アクションバトルを[p]	When time's up, you go back to being engaged. But taking tough matchups
+163	{挑|いど}む{事|こと}で、{活路|かつろ}が{開|ひら}ける{事|こと}もある。[n][p]	into an Action Battle can sometimes open the way to victory.
+170	{最後|さいご}に、バトルアドバンスカード。[n]{通称|つうしょう}『ＢＡカード』について{説明|せつめい}する。[p]	Lastly, Battle Advance Cards, "BA Cards" for short.
+171	アクションバトルに{入|はい}る{際|さい}に、ＢＡカードを[n]{使用|しよう}し、そのアクションバトルに{勝利|しょうり}すると[p]	Use a BA Card as you enter an Action Battle, and if you win,
+172	{倒|たお}した{敵|てき}の{設計図|せっけいず}の{一部|いちぶ}を{必|かなら}ず{入手|にゅうしゅ}できる。[n][p]	you're guaranteed part of the defeated enemy's blueprint.
+173	ＢＡカードは、１{回|かい}のミッションで３{回|かい}まで[n]{使用|しよう}する{事|こと}が{出来|でき}る。{特|とく}にリスクもないから[p]	You can use BA Cards up to 3 times per mission. There's no real risk, either,
+174	{積極的|せっきょくてき}に{使用|しよう}していく{事|こと}を{推奨|すいしょう}するよ。[n][p]	so I recommend using them freely.
+175	{設計図|せっけいず}はラボを{手|て}に{入|い}れる{事|こと}でＬＢＸや[n]{武器|ぶき}を{作|つく}る{事|こと}が{出来|でき}る。[p]	Once you have a Lab, you can build LBX and weapons from blueprints.
+176	ラボに{関|かん}しては、また{時期|じき}が{来|き}たら{説明|せつめい}しよう。[n][p]	I'll explain the Lab when the time comes.
+177	さぁ、{戦闘|せんとう}を{再開|さいかい}するぞ！[n][p]	Now, back to the battle!

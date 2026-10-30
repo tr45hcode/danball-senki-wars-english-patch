@@ -1,0 +1,162 @@
+id	ja	en
+1	１２３４５６７８９０１２３４５６７８９０[p]	
+10190	『しらべる』を{選|えら}んでヒカルに{話|はな}しかけよう[p]	Choose Examine and talk to Hikaru.
+10210	{地図|ちず}から『{神威|かむい}{商店街|しょうてんがい}』を{選択|せんたく}しよう[p]	Pick the Shopping District.
+10240	{神威|かむい}{大門|だいもん}{統合|とうごう}{学園|がくえん}に{行|い}こう[p]	Head to Kamui Daimon Academy.
+10270	２{年|ねん}３{組|くみ}の{教室|きょうしつ}に{行|い}こう[p]	Go to the Class 2-3 classroom.
+10290	{校庭|こうてい}に{行|い}き、{日暮|ひぐらし}{先生|せんせい}に{話|はな}しかけよう[p]	Talk to Ms. Higurashi in the yard.
+10310	{校庭|こうてい}にある{時計台|とけいだい}を{調|しら}べてみよう[p]	Examine the clock tower.
+10380	『ウォータイム{出撃|しゅつげき}』を{選択|せんたく}しよう[p]	Choose War Time Sortie.
+10520	{正門|せいもん}でカゲトラを{待|ま}とう[p]	Wait for Kagetora at the gate.
+10521	{正門|せいもん}にアラタがいる。{話|はな}しかけてみよう[p]	Arata's at the gate. Talk to him.
+10540	{宿舎|しゅくしゃ}『ダック{荘|そう}』に{行|い}こう[p]	Head to the Duck Lodge dorm.
+10560	ダック{荘|そう}の{入|い}り{口|ぐち}を{調|しら}べて、{中|なか}に{入|はい}ろう[p]	Examine the Duck Lodge entrance.
+10620	『{次|つぎ}の{日|ひ}』を{選|えら}んで、{今日|きょう}は{終|お}わりにしよう[p]	Choose Next Day to end the day.
+10650	{教室|きょうしつ}に{行|い}き、{授業|じゅぎょう}を{受|う}けよう[p]	Go to the classroom for class.
+10670	{司令室|しれいしつ}に{行|い}き、ブリーフィングに{参加|さんか}しよう[p]	Go to the Command Room briefing.
+10690	ニーズシティを{攻略|こうりゃく}しよう[p]	Take Needs City.
+10691	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+10755	『ラボ』を{選択|せんたく}しよう[p]	Choose Lab.
+10765	『{編成|へんせい}』を{選択|せんたく}しよう[p]	Choose Formation.
+10766	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+10780	{教室|きょうしつ}に{行|い}き、{授業|じゅぎょう}を{受|う}けよう[p]	Go to the classroom for class.
+10800	{司令室|しれいしつ}に{行|い}き、ミーティングに{参加|さんか}しよう[p]	Go to the meeting.
+10830	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+10831	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+10850	{神威|かむい}{商店街|しょうてんがい}にある{純喫茶|じゅんきっさ}スワローに{行|い}こう[p]	Go to Cafe Swallow, downtown.
+10870	エンカ{古代|こだい}{遺跡|いせき}で、ギンジロウと{勝負|しょうぶ}だ！[p]	Race Ginjiro to the Enka Ruins!
+10871	{明日|あす}にそなえて、{今日|きょう}はもう{終|お}わりにしよう[p]	Rest up for tomorrow.
+10940	{純|じゅん}{喫茶|きっさ}スワローで、ギンジロウと{話|はな}そう[p]	Talk to Ginjiro at Cafe Swallow.
+10960	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+10980	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+10981	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+11000	{緊急|きんきゅう}の{呼|よ}び{出|だ}しだ！　{司令室|しれいしつ}に{急|いそ}ごう！[p]	Emergency! Go to Command!
+11015	{第|だい}３{小隊救出|しょうたいきゅうしゅつ}のためグランデの{港|みなと}を{目指|めざ}そう[p]	Rescue 3rd Squad at Port Grande.
+11016	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+11090	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+20020	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+20100	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+20101	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+20120	ゴールドバレー{基地|きち}を{攻略|こうりゃく}しよう[p]	Take Gold Valley Base.
+20121	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+20180	{純|じゅん}{喫茶|きっさ}スワローで、フィリップをスカウト。[p]	Scout Philip at Cafe Swallow.
+20210	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+20211	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+20230	{司令室|しれいしつ}に{行|い}き、ウォータイム{出撃|しゅつげき}をしよう[p]	Sortie from the Command Room.
+20250	フェンレス{雪原|せつげん}を{攻略|こうりゃく}しよう[p]	Take the Fenless Snowfield.
+20251	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+20310	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+20330	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+20331	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+20350	{司令室|しれいしつ}に{行|い}き、ウォータイム{出撃|しゅつげき}をしよう[p]	Sortie from the Command Room.
+20370	ゴールドバレー{基地|きち}を{守|まも}れ！[p]	Defend Gold Valley Base!
+20371	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+20410	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+20430	スズネを{追|お}って、{神威|かむい}{港|こう}へ{行|い}こう[p]	Follow Suzune to Kamui Port.
+20450	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+20451	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+20490	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+20491	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+20510	アラビスタ{重要拠点|じゅうようきょてん}を{制圧|せいあつ}しよう[p]	Take Arabista's key bases.
+20511	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+20530	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+20570	みんなが{待|ま}っている。ダック{荘|そう}に{帰|かえ}ろう[p]	Head back to Duck Lodge.
+20600	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+20601	{司令室|しれいしつ}に{行|い}き、ブリーフィングに{参加|さんか}しよう[p]	Go to the Command Room briefing.
+30010	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+30011	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+30030	{司令室|しれいしつ}に{行|い}き、ウォータイム{出撃|しゅつげき}をしよう[p]	Sortie from the Command Room.
+30045	グリーンバース{雇|こ}を{攻略|こうりゃく}しよう[p]	Take Greenbirth Lake.
+30050	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+30070	グリーンバース{雇|こ}を{攻略|こうりゃく}しよう[p]	Take Greenbirth Lake.
+30071	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+30080	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+30120	{学園|がくえん}{内|ない}でジェノック{小隊長|しょうたいちょう}たちと{話|はな}そう[p]	Talk to Jenock's squad captains.
+30121	{残|のこ}り３{人|にん}のジェノック{小隊長|しょうたいちょう}と{話|はな}そう。[p]	Talk to the 3 other captains.
+30122	{残|のこ}り{２人|ふたり}のジェノック{小隊長|しょうたいちょう}と{話|はな}そう。[p]	Talk to the 2 other captains.
+30123	{残|のこ}り{１人|ひとり}のジェノック{小隊長|しょうたいちょう}と{話|はな}そう。[p]	Talk to the last Jenock captain.
+30150	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+30180	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+30200	スズネと{競争|きょうそう}だ！　{教室|きょうしつ}へ{行|い}こう！[p]	Race Suzune to the classroom!
+30220	{緊急|きんきゅう}{招集だ|しょうしゅう}。{司令室|しれいしつ}へ{行|い}こう[p]	Emergency! Go to Command!
+30250	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+30251	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+30260	{司令室|しれいしつ}に{行|い}き、ブリーフィングに{参加|さんか}しよう[p]	Go to the Command Room briefing.
+30290	ロシウスの{拠点|きょてん}を{攻略|こうりゃく}し{補給路|ほきゅうろ}を{確保|かくほ}しよう[p]	Take Rossius bases for supplies.
+30291	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+30300	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+30320	ロシウスの{拠点|きょてん}を{攻略|こうりゃく}し{補給路|ほきゅうろ}を{確保|かくほ}しよう[p]	Take Rossius bases for supplies.
+30321	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+30330	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+30350	ロシウスの{拠点|きょてん}を{攻略|こうりゃく}し{補給路|ほきゅうろ}を{確保|かくほ}しよう[p]	Take Rossius bases for supplies.
+30351	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+30370	ロシウスの{拠点|きょてん}を{攻略|こうりゃく}し{補給路|ほきゅうろ}を{確保|かくほ}しよう[p]	Take Rossius bases for supplies.
+30375	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+30390	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+30410	{司令室|しれいしつ}に{行|い}き、ウォータイム{出撃|しゅつげき}をしよう[p]	Sortie from the Command Room.
+30430	デスフォレストを{攻略|こうりゃく}しよう[p]	Take the Death Forest.
+30431	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+30630	すごく{疲|つか}れた……、{今日|きょう}はゆっくり{休|やす}もう[p]	So tired… Get some rest today.
+30660	{臨時|りんじ}の{全校|ぜんこう}{集会|しゅうかい}があるらしい。{学園|がくえん}へ{急|いそ}ごう[p]	Special assembly! Hurry to school.
+30680	{司令室|しれいしつ}に{行|い}き、ブリーフィングに{参加|さんか}しよう[p]	Go to the Command Room briefing.
+40030	ウォータイム{出撃|しゅつげき}をしよう[p]	Sortie in War Time.
+40050	{精密|せいみつ}{検査|けんさ}の{結果|けっか}が{出|で}る{頃|ころ}だ。{保健室|ほけんしつ}へ{行|い}こう[p]	Results are in. Go to the Infirmary.
+40055	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+40080	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+40081	{司令室|しれいしつ}に{行|い}き、ブリーフィングに{参加|さんか}しよう[p]	Go to the Command Room briefing.
+40100	{拠点|きょてん}を{攻略|こうりゃく}しラボの{基礎|きそ}ランクを６にしよう[p]	Take bases: Basic Lab rank to 6.
+40101	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+40130	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+40131	{司令室|しれいしつ}に{行|い}き、ブリーフィングに{参加|さんか}しよう[p]	Go to the Command Room briefing.
+40150	{拠点|きょてん}を{攻略|こうりゃく}しラボの{基礎|きそ}ランクを６にしよう[p]	Take bases: Basic Lab rank to 6.
+40151	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+40180	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+40185	{司令室|しれいしつ}に{行|い}き、ブリーフィングに{参加|さんか}しよう[p]	Go to the Command Room briefing.
+40200	エンカ{古代|こだい}{遺跡|いせき}の{哨戒|しょうかい}{任務|にんむ}に{行|い}こう[p]	Patrol the Enka Ancient Ruins.
+40201	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+40290	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+40320	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+40340	バンデットに{攻|せ}められた{拠点|きょてん}を{防衛|ぼうえい}しよう[p]	Defend the base from the Bandits.
+40341	{明日|あした}にそなえて、{今日|きょう}はもう{終|お}わりにしよう[p]	Rest up for tomorrow.
+40350	{防衛|ぼうえい}{成功|せいこう}！　{残|のこ}りは２つだ。{今日|きょう}は{休|やす}もう[p]	Defended! 2 to go. Rest for today.
+40370	バンデットに{攻|せ}められた{拠点|きょてん}を{防衛|ぼうえい}しよう[p]	Defend the base from the Bandits.
+40371	{明日|あした}にそなえて、{今日|きょう}はもう{終|お}わりにしよう[p]	Rest up for tomorrow.
+40380	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+40400	{学生|がくせい}{食堂|しょくどう}で、セレディ{先生|せんせい}の{授業|じゅぎょう}を{受|う}けよう[p]	Take Seredi's class (cafeteria).
+40420	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+40421	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+40440	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+40460	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+40480	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+40500	ローズシティにバンデット{出現|しゅつげん}、{救援|きゅうえん}に{向|むか}え[p]	Bandits at Rose City! Go help!
+40501	{明日|あした}にそなえて、{今日|きょう}はもう{終|お}わりにしよう[p]	Rest up for tomorrow.
+40580	{今日|きょう}はいったん{解散|かいさん}だ。{明日|あした}、{話|はな}し{合|あ}おう[p]	Dismissed. We'll talk tomorrow.
+40610	{司令室|しれいしつ}に{行|い}き、ブリーフィングに{参加|さんか}しよう[p]	Go to the Command Room briefing.
+40630	{敵|てき}の{拠点|きょてん}を{攻略|こうりゃく}して、{領地|りょうち}を{増|ふ}やそう[p]	Take enemy bases to expand.
+40631	{今日|きょう}のウォータイムは{終了|しゅうりょう}。ゆっくり{休|やす}もう[p]	War Time's over. Get some rest.
+40640	{司令室|しれいしつ}に{行|い}き、ブリーフィングに{参加|さんか}しよう[p]	Go to the Command Room briefing.
+50020	ジーク・ギガンテスの{周辺|しゅうへん}{拠点|きょてん}を{制圧|せいあつ}せよ！[p]	Take the Sieg Gigantes area!
+50021	{明日|あした}にそなえて、{今日|きょう}はもう{終|お}わりにしよう[p]	Rest up for tomorrow.
+50040	ジーク・ギガンテスに{進軍|しんぐん}せよ！[p]	March on Sieg Gigantes!
+50041	{明日|あした}にそなえて、{今日|きょう}はもう{終|お}わりにしよう[p]	Rest up for tomorrow.
+50110	{今日|きょう}は{疲|つか}れた……、ゆっくり{休|やす}もう[p]	What a day… Get some rest.
+50140	{先生|せんせい}たちに{報告|ほうこく}だ！　{教室|きょうしつ}へ{行|い}こう！[p]	Report to the teachers in class!
+50170	{司令室|しれいしつ}に{集合|しゅうごう}しよう[p]	Assemble in the Command Room.
+50200	セレディの{話|はなし}は{本当|ほんとう}？　{先生|せんせい}に{話|はなし}を{聞|き}こう[p]	Is Seredi right? Ask the teachers.
+50215	エゼルダームの{計画|けいかく}を{阻止|そし}しよう！[p]	Stop Ezeldarm's plan!
+50230	あとは{分析|ぶんせき}{結果|けっか}を{待|ま}つのみ。{今日|きょう}は{休|やす}もう[p]	Wait for the analysis. Rest today.
+50231	エゼルダームの{計画|けいかく}を{阻止|そし}しよう！[p]	Stop Ezeldarm's plan!
+50250	{司令室|しれいしつ}に{行|い}き、ブリーフィングに{参加|さんか}しよう[p]	Go to the Command Room briefing.
+50270	{各国|かっこく}の{本拠地|ほんきょち}を{攻略|こうりゃく}し、{世界連合|せかいれんごう}を{結成|けっせい}だ！[p]	Take home bases: World Alliance!
+50271	{明日|あした}にそなえて、{今日|きょう}はもう{終|お}わりにしよう[p]	Rest up for tomorrow.
+50290	{明日|あした}にそなえて、{今日|きょう}はゆっくり{休|やす}もう[p]	Rest up for tomorrow.
+50300	{司令室|しれいしつ}に{行|い}き、{各|かく}{仮想国|かそうこく}の{代表|だいひょう}と{話|はなし}をしよう[p]	Talk to each nation's reps.
+50320	{空中|くうちゅう}{空母|くうぼ}ドル・ガルーダに{突入|とつにゅう}だ！[p]	Storm the Dol Garuda!
+50321	{明日|あした}にそなえて、{今日|きょう}はもう{終|お}わりにしよう[p]	Rest up for tomorrow.
+50450	{本当|ほんとう}の{戦争|せんそう}？　とりあえず{教室|きょうしつ}へ{行|い}こう[p]	A real war? Go to class for now.
+50470	{司令室|しれいしつ}で、ウォータイムの{準備|じゅんび}をしよう[p]	Prep for War Time.
+50510	ロストエリアへ{突入|とつにゅう}し、{最後|さいご}の{戦|たたか}いだ！[p]	Storm the Lost Area. Final battle!
+50511	{明日|あした}にそなえて、{今日|きょう}はもう{終|お}わりにしよう[p]	Rest up for tomorrow.
+50630	{最終|さいしゅう}{決戦|けっせん}！　ターミナル{区画|くかく}へ{突入|とつにゅう}だ⟨］⟩[p]	Final battle! Storm the Terminal!
+50631	{明日|あした}にそなえて、{今日|きょう}はもう{終|お}わりにしよう[p]	Rest up for tomorrow.
+60000	{学園生活|がくえんせいかつ}を{満喫|まんきつ}しよう！[p]	Enjoy school life!

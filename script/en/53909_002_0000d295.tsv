@@ -1,0 +1,12 @@
+id	ja	en
+130	さっきの{交戦|こうせん}{状態|じょうたい}で、Ｃゲージが{溜|た}まったな。[n][p]	That engagement filled up your C Gauge.
+131	Ｃゲージは{必殺|ひっさつ}ファンクションを{使用|しよう}する{為|ため}に[n]{必要|ひつよう}なものだ。[p]	You need the C Gauge to use Special Functions.
+132	{必殺|ひっさつ}ファンクションのアイコンをタッチすれば[n]ファンクションの{選択|せんたく}メニューが{出|で}る。[p]	Touch the Special Function icon to open the Function menu.
+140	{使用|しよう}したい{必殺|ひっさつ}ファンクションをタッチすれば[n]その{技|ゎざ}を{使用|しよう}できるぞ。[p]	Touch the Special Function you want to use that move.
+141	{必殺|ひっさつ}ファンクションは{非常|ひじょう}に{強力|きょうりょく}だ。[n]{敵|てき}の{弱点|じゃくてん}{属性|ぞくせい}を{狙|ねら}えば{一発|いっぱつ}{逆転|ぎゃくてん}もあり{得|え}る。[p]	Special Functions are very powerful. Hit a weak attribute to turn the tables.
+142	Ｃゲージを{溜|た}めて、{強敵|きょうてき}を{一気|いっき}に{叩|たた}く！[n]{使用|しよう}するタイミングは{重要|じゅうよう}なポイントだ。[p]	Build your C Gauge and crush tough foes in one go! Timing is key.
+180	そうや、[var:0]！[n]ウチがいい{事|こと}、{教|おし}えといたるわ。[p]	Oh yeah, [var:0]! Lemme teach ya somethin' useful.
+181	{下画面|したがめん}の{時計|とけい}アイコンをタッチすれば[n]ミッションを{一時停止|いちじていし}できるねん。[p]	Touch the clock icon on the bottom screen to pause the mission.
+182	{一時|いちじ}{停止中|ていしちゅう}は{複数|ふくすう}のＬＢＸに[n]{移動|いどう}の{指示|しじ}が{出|だ}せるんや。[p]	While paused, you can give move orders to several LBX.
+183	もう{一回|いっかい}、{時計|とけい}アイコンをタッチしたら[n]{一時停止|いちじていし}が{解除|かいじょ}されて、ＬＢＸが{動|うご}き{出|だ}すで。[p]	Touch the clock icon again to unpause, and your LBX'll start movin'.
+184	ミッションをどうやって{攻略|こうりゃく}するか[n]ゆっくり{考|かんが}えたい{時|とき}に{使|つか}うとええよ。[p]	Use it when you wanna take your time plannin' a mission.

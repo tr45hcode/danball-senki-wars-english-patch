@@ -1,0 +1,8 @@
+id	ja	en
+1	あれが{占領|せんりょう}ポイント、{通称|つうしょう}フラッグだ。[p]	That's the capture point. We call it the Flag.
+2	フラッグはエリア{内|ない}に{入|はい}る{事|こと}で[n]{占領|せんりょう}ゲージの{増減|ぞうげん}が{発生|はっせい}する。[p]	Entering the Flag's area moves its capture gauge up or down.
+3	ただし、{占領|せんりょう}ゲージの{増減|ぞうげん}スピードは[n]エリア{内|ない}に{入|はい}っているＬＢＸ{数|すう}で{決|き}まるんだ。[p]	But how fast it moves depends on how many LBX are in the area.
+4	だから、{敵|てき}のＬＢＸを{排除|はいじょ}してから[n]エリアに{侵入|しんにゅう}するのが{基本|きほん}だ。[p]	So the basic idea is to clear out enemy LBX first, then go in.
+5	ここには、１{ヶ所|かしょ}しかないけど[n]{拠点|きょてん}によっては{複数|ふくすう}ある{場合|ばあい}もある。[p]	There's only one here, but some bases have more than one.
+6	その{場合|ばあい}は{全|すべ}て{占領|せんりょう}する{必要|ひつよう}があるんだ。[p]	In that case, you have to capture all of them.
+7	[var:0]、がんばってね。[p]	Good luck, [var:0].

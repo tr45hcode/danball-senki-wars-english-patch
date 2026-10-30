@@ -1,0 +1,25 @@
+id	ja	en
+1	{来|き}たな。……では、{説明|せつめい}をはじめる。[n]{少々長|しょうしょうなが}くなるので{覚悟|かくご}して{聞|き}くように。[p]	You're here. …Then let's begin. This will take a while, so listen carefully.
+2	……おや？[p]	…Oh?
+3	{日暮|ひぐらし}{先生|せんせい}。　あなたも{転入生|てんにゅうせい}への{説明|せつめい}ですか？[p]	Ms. Higurashi. Are you briefing a transfer student too?
+4	ええ。{見|み}ての{通|とお}り。[p]	Yes. As you can see.
+5	おおっ！[n][var:0]も{来|き}てたのか！[p]	Whoa! [var:0], you're here too!
+6	あら、あなたたち、{顔見知|かおみし}りなの？[p]	Oh, do you two know each other?
+7	はい。ここに{来|く}る{時|とき}に[n]フェリーで{出合|であ}ったんです！[p]	Yeah. We met on the ferry on the way here!
+8	なるほど……。{時|とき}に、{美都|みと}{先生|せんせい}。[n]{良|よ}い{提案|ていあん}があるのだが……。[p]	I see… By the way, Ms. Mito. I have a fine proposal for you…
+9	{何|なん}でしょうか？[p]	What would that be?
+10	…………。[p]	……
+11	ま・さ・か。{私|ゎたし}にこの{先|さき}の{説明|せつめい}を[n]して{欲|ほ}しいという{提案|ていあん}ですか？[p]	Don't tell me. You're proposing that I give the rest of this briefing?
+12	さすが、ジェノックの{司令官|しれいかん}。[n]{察|さっ}しが{良|よ}いですね。[p]	Just what I'd expect from Jenock's commander. Very perceptive.
+13	あれ？　お{前|まえ}{聞|き}いていないの？[p]	Huh? Didn't they tell you?
+14	その{様子|ようす}だと、まだ[x14:0000]の[n]{説明|せつめい}もしていないんですね……。[p]	By the look of it, you haven't even explained [x14:0000] yet…
+15	まぁ……、な。[p]	Well… no.
+16	……わかりました。[n]そのままだと、その{子|こ}が{可⟨嗣⟩想|かゎいそう}です。[p]	…Fine. It wouldn't be fair to leave the poor kid like this.
+17	{感謝|かんしゃ}する。[p]	I appreciate it.
+18	それに、{初戦|しょせん}でロストされた{日|ひ}には[n]{目|め}も{当|あ}てられませんからね。[p]	Besides, if their LBX were Lost in their first battle, I couldn't bear it.
+19	[var:0]、{初|はじ}めまして。[n]{私|ゎたし}は{美都|みと}{玲奈|れいな}。ジェノックの{司令官|しれいかん}よ。[p]	[var:0], nice to meet you. I'm Reina Mito, Jenock's commander.
+20	{日暮|ひぐらし}{先生|せんせい}は[x14:0000]の[n]{司令官|しれいかん}になります。[p]	Ms. Higurashi is [x14:0000]'s commander.
+21	もうあまり{時間|じかん}がありませんね。[n]{移動|いどう}しながら{説明|せつめい}しましょう。[p]	We're short on time. Let's explain on the way.
+22	それに……。{百聞|ひゃくぶん}は{一見|いっけん}にしかず。[n]……と{言|い}いますしね。[p]	Besides… seeing is believing, as they say.
+23	[var:0][n]そこの{時計台|とけいだい}を{調|しら}べてみなさい。[p]	[var:0], go examine that clock tower.
+24	…………。[p]	……

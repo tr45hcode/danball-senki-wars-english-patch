@@ -1,0 +1,31 @@
+id	ja	en
+20404	スタンダード[p]	Standard
+20405	ストリート[p]	Street
+20406	ゼネラル[p]	General
+20407	アンリミテッド[p]	Unlimited
+20408	レギュレーション[p]	Regulation
+20418	スタンダードレギュレーション[p]	Standard Regulation
+20419	ストリートレギュレーション[p]	Street Regulation
+20420	ゼネラルレギュレーション[p]	General Regulation
+20421	アンリミテッドレギュレーション[p]	Unlimited Regulation
+20445	{制限時間|せいげんじかん}[p]	Time
+20446	アイテム{制限|せいげん}[p]	Items
+20447	レベルあわせ[p]	Level Sync
+20448	{箆墨条件|はいぼくじょうけん}[p]	Lose If
+20450	なし[p]	None
+20451	1{分|ぷん}マッチ[p]	1 min
+20452	3{分|ぷん}マッチ[p]	3 min
+20453	5{分|ふん}マッチ[p]	5 min
+20454	10{分|ふん}マッチ[p]	10 min
+20455	{制限|せいげん}しない[p]	No limit
+20456	{制限|せいげん}あり[p]	Limited
+20458	LV.20[p]	Lv.20
+20459	LV.50[p]	Lv.50
+20460	LV.100[p]	Lv.100
+20461	LV.150[p]	Lv.150
+20462	{全滅|ぜんめつ}[p]	Wipeout
+20463	1{機|き}{破壊|はかい}[p]	1 down
+20464	2{機|き}{破壊|はかい}[p]	2 down
+20465	3{機|き}{破壊|はかい}[p]	3 down
+20466	へんこうふか[p]	Locked
+20467	へんこうかのう[p]	Open

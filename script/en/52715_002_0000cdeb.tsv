@@ -1,0 +1,24 @@
+id	ja	en
+1	よくやってくれた。これで[n]ゴールドバレー{基地|きち}に{所属|しょぞく}していた[p]	Well done. Now Philip Bruno and the others
+2	『フィリップ・ブルーノ』たちが[n]『スカウト』{可能|かのう}になった。[p]	who belonged to Gold Valley Base can be scouted.
+3	スカウト？[p]	Scouted?
+4	そうだ。[p]	That's right.
+5	セカンドワールドの{外|そと}で、フィリップと{接触|せっしょく}し[n]スカウトを{成功|せいこう}させる{事|こと}が{必要|ひつよう}だ。[p]	You must contact Philip outside the Second World and scout him.
+6	スカウトするにはいくつか{条件|じょうけん}があるが[n]それはフィリップ{本人|ほんにん}に{確認|かくにん}をするといい。[p]	There are some conditions for scouting. Ask Philip himself about them.
+7	{了解|りょうかい}しました。[p]	Understood.
+10	フィリップは{純|じゅん}{喫茶|きっさ}スワローにいる。[p]	Philip is at Cafe Swallow.
+11	では、{頼|たの}んだぞ。[p]	I'm counting on you.
+12	スカウトができるようになった！[p]	Scouting is now available!
+13	『ＬＢＸプレイヤーリスト』が[n]{使|つか}えるようになった！[p]	The LBX Player List is now available!
+14	『{学生|がくせい}{食堂|しょくどう}』に{行|い}けるようになった！[p]	You can now go to the Cafeteria!
+15	『{保健室|ほけんしつ}』に{行|い}けるようになった！[p]	You can now go to the Infirmary!
+100	そうだ。[n]{神威島|かむいとう}のどこかにいる{彼|かれ}らと{接触|せっしょく}し[p]	Right. Make contact with them somewhere on Kamui Island
+101	{本人|ほんにん}が{要求|ようきゅう}する{契約金|けいやくきん}を[n]{支払|しはら}えば、スカウト{成功|せいこう}だ。[p]	and pay the signing fee they ask for, and the scouting succeeds.
+102	{以後|いご}、{仲間|なかま}に{加|くゎ}わり[n]{小隊|しょうたい}に{編成|へんせい}する{事|こと}が{可能|かのう}となる。[p]	After that, they join you and can be put in a squad.
+103	それから、システムメニューから[n]『ＬＢＸプレイヤーリスト』が{使用|しよう}{可能|かのう}だ。[p]	Also, the LBX Player List is now available from the System Menu.
+104	ここでは{仲間|なかま}のリストだけではなく[n]スカウト{可能|かのう}なプレイヤーの{一覧|いちらん}も{確認|かくにん}できる。[p]	It shows not just your teammates, but also the players you can scout.
+105	『スカウト{一覧|いちらん}』に{並|なら}んだプレイヤーは[n]{呼|よ}び{出|だ}す{事|こと}が{可能|かのう}だ。[p]	You can call any player on the Scout List.
+106	ダック{荘|そう}の{娯楽室|ごらくしつ}でスカウトする{事|こと}が[n]{出来|でき}るぞ。[p]	You can scout them in the Duck Lodge Rec Room.
+107	{直接|ちょくせつ}、{神威島|かむいとう}でプレイヤーを{探|さが}してもいいが[n]{呼|よ}び{出|だ}しを{行|おこな}う{方|ほう}が{確実|かくじつ}だ。[p]	You can look for players around Kamui Island yourself, but calling them is surer.
+108	……スカウトの{説明|せつめい}は{以上|いじょう}とする。[n]あとは、{君|きみ}たち{自身|じしん}の{判断|はんだん}に{任|まか}せる。[p]	…That covers scouting. The rest is up to you.
+109	[x14:0000]の{戦力|せんりょく}{増強|ぞうきょう}を{望|のぞ}むのであれば[n]スカウトをしてみるといい。[p]	If you want to strengthen [x14:0000], try some scouting.

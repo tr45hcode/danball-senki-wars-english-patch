@@ -1,0 +1,32 @@
+id	ja	en
+1	{待|ま}ってたぜ！　ジョニー、あれを{持|も}ってこい。[p]	Been waitin' for ya! Johnny, bring that thing.
+2	へいへい。これネ。[p]	Yeah, yeah. Here it is.
+3	{受|う}け{取|と}れ。{第|だい}１{小隊|しょうたい}。[p]	Take it, 1st Squad.
+4	『{設計図|せっけいず}⟨：⟩{韋駄天|いだてん}⟨｛⟩ランチャー⟨】⟩』を{手|て}に{入|い}れた！[p]	Got Blueprint: Idaten (Launcher)!
+5	これは、{武器|ぶき}{開発|かいはつ}が{得意|とくい}なジョニーが{作|つく}った[n]ランチャーの{設計図|せっけいず}だ。[p]	It's a launcher blueprint made by Johnny, our weapons expert.
+6	エンカ{古代遺跡|こだいいせき}のラボで{作|つく}ろうと[n]{思|おも}っていたんですがネ。{譲|ゆず}ってあげますヨ。[p]	I was gonna build it at the Enka Ancient Ruins Lab, ya know. It's all yours.
+7	ありがとう！　{使|つか}わせてもらうよ。[p]	Thanks! We'll put it to good use.
+8	……で、ギンジロウの{言|い}っとった『アレ』って[n]このデータディスクの{事|こと}やったん？[p]	…So this data disc is the "you-know-what" Ginjiro meant?
+9	ハハッ！　{見|み}くびるんじゃねぇ！！[n]これは{前座|ぜんざ}ってやつだ。[p]	Hah! Don't underestimate me!! That was just the opening act.
+10	マスター！　アレを。[p]	Master! The thing.
+11	はい。ギンジロウ{君|くん}。[p]	Coming up, Ginjiro.
+12	{純喫茶|じゅんきっさ}スワロー[n]ギンジロウカスタムスペシャルココアだ。[p]	Cafe Swallow's Ginjiro Custom Special Cocoa.
+13	ハハッ！　たっぷり{堪能|たんのう}してくれ！！[p]	Hah! Enjoy every drop!!
+14	ありがとう……。[p]	Thanks…
+15	……う、{胸焼|むねや}けがしそうや……。[p]	…Ugh, I'm gettin' heartburn just lookin' at it…
+101	{無敵|むてき}ギンジロウから{必殺|ひっさつ}ファンクション[n]『オーシャンブラスト』の[n]データディスクをもらった！[p]	Got a data disc with the[n]Special Function Ocean Blast[n]from Ginjiro Muteki!
+201	これは、{俺|おれ}{様|さま}が{使|つか}っている{必殺|ひっさつ}ファンクションの[n]データが{入|はい}った『データディスク』ってヤツだ。[p]	This is a data disc. It holds the data for a Special Function I use.
+202	{隊長|たいちょう}お{気|き}に{入|い}りの{必殺|ひっさつ}ファンクションデース。[n]ありがたく{受|う}け{取|と}るがイイネ。[p]	It's the captain's favorite Special Function. Be grateful, ya know.
+203	ありがとう！　{使|つか}わせてもらうよ。[p]	Thanks! We'll put it to good use.
+204	そうだ、データディスクの{事|こと}[n]まだ[var:0]には{話|はな}してなかったな。[p]	Oh right, I haven't told [var:0] about data discs yet.
+205	{俺|おれ}たちは、ともにミッションに{出撃|しゅつげき}する{事|こと}で[n]{仲間|なかま}との{親密度|しんみつど}を{上|あ}げる{事|こと}ができるんだ。[p]	Going on missions together raises our affinity with our teammates.
+206	その{親密度|しんみつど}が{上|あ}がると、バトル{後|ご}に[n]データディスクをもらえる{事|こと}がある。[p]	With higher affinity, you can sometimes get a data disc after battle.
+207	データディスクを{使|つか}えば、{自分|じぶん}じゃ{覚|おぼ}えられない[n]{必殺|ひっさつ}ファンクションも{覚|おぼ}えられるって{寸法|すんぽう}さ。[p]	With a data disc, you can learn Special Functions you couldn't learn yourself.
+299	isnr54488  {一⟨枚⟩|ゔケノゔ}{絵|゘}[p]	
+301	データディスクは[n]『{編成|へんせい}』メニューから{使用|しよう}する。[p]	Use data discs from the Formation menu.
+302	まず、{編成|へんせい}メニューからキャラクターを{選|えら}んで[n]『{必殺|ひっさつ}ファンクション』を{決定|けってい}……[p]	First, pick a character in the Formation menu and choose Special Function…
+303	{次|つぎ}にセットしたいボタンの{⟨枠⟩|ゎく}をタッチし[n]『データディスク』を{選|えら}ぶんだ。[p]	Next, touch the button slot you want to set and choose Data Disc.
+304	あとは、リストから{覚|おぼ}えたいデータディスクを[n]{選択|せんたく}すれば、{必殺|ひっさつ}ファンクションを{覚|おぼ}えられる。[p]	Then pick the data disc you want from the list to learn its Special Function.
+305	１{度|ど}{覚|おぼ}えた{必殺|ひっさつ}ファンクションは[n]『{入|い}れ{替|か}え』でセットし{直|なお}せる。{覚|おぼ}えときや。[p]	Once learned, a Special Function can be set again with Swap. Remember that.
+306	データディスクは１{度|ど}{使|つか}うとなくなっちゃうから[n]よく{考|かんが}えて{使|つか}うといいよ。[p]	A data disc is used up after one use, so think before you use it.
+399	{一⟨枚⟩|ゔケノゔ}{絵|゘}　{終了|ェフゖペプゖ}[p]	

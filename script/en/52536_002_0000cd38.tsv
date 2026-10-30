@@ -1,0 +1,22 @@
+id	ja	en
+1	……さて、{先|さき}ほどの{美都|みと}{先生|せんせい}の{説明|せつめい}で[n]{概|おおむ}ね{理解|りかい}できたと{思|おも}うが[p]	…Now, I believe Ms. Mito's explanation covered most of it,
+2	この{神威大門|かむいだいもん}{統合学園|とうごうがくえん}に{入|はい}ったからには[n]ウォータイムへの{参加|さんか}は{必須|ひっす}だ。[p]	But at Kamui Daimon Academy, taking part in War Time is mandatory.
+3	[var:0]にも[n][x14:0000]の{一兵士|いちへいし}として[p]	[var:0], you too will fight
+4	{参戦|さんせん}してもらう。{覚悟|かくご}してのぞめ。[p]	as a soldier of [x14:0000]. Be ready.
+5	{日暮|ひぐらし}{司令|しれい}。お{持|も}ちしました。[p]	Commander Higurashi. I've brought it.
+6	ご{苦労|くろう}。{副司令|ふくしれい}。[p]	Thank you, Vice Commander.
+7	はい。ただ、１つ{問題|もんだい}が……。[p]	Yes, ma'am. There's just one problem…
+8	なんだ？[p]	What is it?
+9	{運営⟨側⟩|うんえいがゎ}の{不手際|ふてぎゎ}で、[x14:0000]{仕様|しよう}の[n]カラーリングが{間|ま}に{合|あ}わず[p]	The organizers slipped up, so the [x14:0000] colors weren't ready in time,
+10	{標準|ひょうじゅん}のカラーリングのままになっています。[p]	so it still has the standard colors.
+11	{出撃|しゅつげき}に{問題|もんだい}はないだろう。[n]{後|あと}で{処理|しょり}をすれば{良|よ}い。[p]	That shouldn't stop it from sortieing. We can deal with it later.
+12	[var:0]。[n]これが{君|きみ}のＬＢＸとＣＣＭだ。[p]	[var:0], this is your LBX and CCM.
+13	『⟨＊⟩⟨＊⟩⟨＊⟩⟨＊⟩⟨＊⟩⟨＊⟩⟨＊⟩⟨＊⟩⟨＊⟩⟨＊⟩⟨＊⟩⟨＊⟩⟨＊⟩』を手に入れた。[p]	
+14	ＤＣシリーズの{汎用型|はんようがた}ＬＢＸ。[p]	A general-purpose LBX from the DC series.
+15	どんな{戦場|せんじょう}にも[n]オールラウンドに{対応|たいおう}できる{兵器|へいき}だ。[p]	An all-round machine that can handle any battlefield.
+16	{準備|じゅんび}ができたら、コントロールポッドの[n]『ウォータイム{出撃|しゅつげき}』を{選|えら}ぶんだ。[p]	When you're ready, pick War Time Sortie at a Control Pod.
+17	ミッションブリーフィングは{中|なか}で{行|おこな}う。[p]	You'll get your mission briefing inside.
+101	ＬＢＸ『ＤＣブレイバー』を{手|て}に{入|い}れた！[p]	Got the LBX DC Braver!
+102	ＬＢＸ『ＤＣエリアル』を{手|て}に{入|い}れた！[p]	Got the LBX DC Aerial!
+103	ＬＢＸ『ＤＣオフェンサー』を{手|て}に{入|い}れた！[p]	Got the LBX DC Offenser!
+104	{司令室|しれいしつ}で{通信|つうしん}メニューが{使|つか}えるようになった！[p]	The Comms menu is now available in the Command Room!

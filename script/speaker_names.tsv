@@ -1,0 +1,90 @@
+# Speaker tag (004 files) -> English, for xlate.py reuse.
+# Key: the tag reading, i.e. {漢字|かな} replaced by the kana and ⟨⟩ removed,
+# so misread kanji still match. Given names only, per the glossary.
+いぬい カゲトラ	Kagetora
+いぬいカゲトラ	Kagetora
+せな アラタ	Arata
+こじょう タケル	Takeru
+きんばこ スズネ	Suzune
+きんばこスズネ	Suzune
+かいどう ジン	Jin
+ほしはら ヒカル	Hikaru
+いずも ハルキ	Haruki
+[var:0]	[var:0]
+みと れいな	Reina
+ほうじょう ムラク	Muraku
+ひぐらし まひろ	Mahiro
+？？？	???
+むてき ギンジロウ	Ginjiro
+アナウンス	Announcement
+せんないアナウンス	Announcement
+しろこうじ オトヒメ	Otohime
+ほその サクヤ	Sakuya
+だいもん ジョセフィーヌ	Josephine
+はくが ムサシ	Musashi
+システムボイス	System Voice
+いちどう	All
+アラタ&ヒカル	Arata & Hikaru
+アラタ＆ヒカル	Arata & Hikaru
+ハルキ＆ヒカル	Haruki & Hikaru
+アラタたち	Arata & co.
+[var:0]たち	[var:0] & co.
+カゲトラ＆スズネ	Kagetora & Suzune
+タケル＆スズネ	Takeru & Suzune
+カゲトラ＆[var:0]	Kagetora & [var:0]
+[var:0]＆アラタ	[var:0] & Arata
+アラタ＆[var:0]	Arata & [var:0]
+カゲトラたち	Kagetora & co.
+ヒカルたち	Hikaru & co.
+はまさき タイガ	Taiga
+やまの バン	Ban
+ＣＣＭボイス	CCM Voice
+けいびいんＡ	Guard A
+けいびいんＢ	Guard B
+キース・ジョーダン	Keith
+かしま ユノ	Yuno
+トメさん	Tome
+さるた まなぶ	Manabu
+スイ&シェリー	Sui & Sherry
+ギンジロウ&オトヒメ	Ginjiro & Otohime
+スワローマスター	Swallow Master
+しんたに テッペイ	Teppei
+ともえ シズカ	Shizuka
+ジョニー・バウワー	Johnny
+にのみや フウ	Fu
+シェリー・マキシマム	Sherry
+にのみや スイ	Sui
+こうもり シスイ	Shisui
+セレディ・クライスラー	Seredi
+いたん キョウジ	Kyoji
+いそがい ゲンドウ	Gendo
+タケル＆サクヤ	Takeru & Sakuya
+なみの リンコ	Rinko
+せんどう キヨカ	Kiyoka
+イワン・クロスキー	Ivan
+みと＆ジン	Reina & Jin
+メタざゎ いちろう	Ichiro
+ふうじん カイト	Kaito
+ジン＆メタざゎ	Jin & Ichiro
+とうごう ぎいち	Giichi
+ありま トオル	Toru
+シャーロット・レイン	Charlotte
+ミハイル・ローク	Mikhail
+バネッサ・ガラ	Vanessa
+アンドレイ・グレゴリー	Andrei
+けんびし ワタル	Wataru
+ムラク＆[var:0]	Muraku & [var:0]
+アラタ＆ムラク	Arata & Muraku
+とうごう リクヤ	Rikuya
+あさひな コウタ	Kota
+しのめ アカネ	Akane
+ロイ・チェン	Roy
+キャサリン・ルース	Catherine
+あやべ れんじろう	Renjiro
+ガーディ・ドーン	Gardie
+アーノルド・ヒッキー	Arnold
+ロバート・レイノルズ	Robert
+ほおずき ムネモリ	Munemori
+くにい オオジ	Oji
+たちもり コヨミ	Koyomi
+メタさゎ いちろう	Ichiro

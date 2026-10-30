@@ -1,0 +1,141 @@
+japanese	reading	english	notes
+# Style: names romanized (Hepburn, no macrons, long vowels dropped: Hojo, Kojo), given name first; name tags show given names only.
+# Honorifics localized (no -san/-senpai); katakana loanwords use their English form.
+# Placeholders: [var:0] = player's name, [x14:0000] = player's country name.
+瀬名 アラタ	せな あらた	Arata Sena	protagonist's friend, 1st Squad
+星原 ヒカル	ほしはら ひかる	Hikaru Hoshihara	1st Squad
+出雲 ハルキ	いずも はるき	Haruki Izumo	squad captain ("Captain")
+法条 ムラク	ほうじょう むらく	Muraku Hojo	pilots the Violet Devil
+乾 カゲトラ	いぬい かげとら	Kagetora Inui
+古城 タケル	こじょう たける	Takeru Kojo
+金箱 スズネ	きんばこ すずね	Suzune Kinbako
+海道 ジン	かいどう じん	Jin Kaido	from the original Danball Senki
+山野 バン	やまの ばん	Ban Yamano	from the original Danball Senki
+細野 サクヤ	ほその さくや	Sakuya Hosono	Jenock 1st Squad mechanic
+浜崎 タイガ	はまさき たいが	Taiga Hamasaki	Jenock 2nd Squad
+美都 玲奈	みと れいな	Reina Mito
+日暮 真尋	ひぐらし まひろ	Mahiro Higurashi
+無敵 ギンジロウ	むてき ぎんじろう	Ginjiro Muteki
+白小路 オトヒメ	しろこうじ おとひめ	Otohime Shirokoji
+大門 ジョセフィーヌ	だいもん じょせふぃーぬ	Josephine Daimon	academy headmistress
+システムボイス		System Voice
+アナウンス		Announcement
+LBX		LBX
+ドットフェイサー		Dot Phaser	LBX
+バイオレットデビル		Violet Devil	LBX
+ゼットランス / ゼットソード		Z-Lance / Z-Sword	"セットアップ、〜" = "Set up: ~"
+ラージドロイド		Large Droid
+バンデット		Bandit
+神威大門統合学園	かむいだいもんとうごうがくえん	Kamui Daimon Academy
+神威島	かむいとう	Kamui Island
+セカンドワールド		Second World	giant underground diorama
+ウォータイム		War Time	the academy's combat exercises
+ダック荘	だっくそう	Duck Lodge	dormitory
+ロシウス		Rossius	nation
+ジェノック		Jenock	nation
+小隊	しょうたい	squad	第１小隊 = 1st Squad
+隊長	たいちょう	Captain	as a form of address
+司令官	しれいかん	Commander
+本部	ほんぶ	HQ
+退学	たいがく	expulsion / get expelled
+タッチ移動 / ライン移動		Touch Move / Line Move	movement modes
+鹿島 ユノ	かしま ゆの	Yuno Kashima	Jenock class vice president
+猿田 学	さるた まなぶ	Manabu Saruta	tactics instructor ("Instructor Saruta")
+キース・ジョーダン		Keith Jordan	Arabista commander ("Mr. Jordan")
+白牙 ムサシ	はくが むさし	Musashi Hakuga	Arabista ace sniper
+新谷 テッペイ	しんたに てっぺい	Teppei Shintani	2nd Squad
+巴 シズカ	ともえ しずか	Shizuka Tomoe	2nd Squad
+ジョニー・バウワー		Johnny Bauer	2nd Squad mechanic
+二宮 スイ / 二宮 フウ	にのみや	Sui / Fu Ninomiya	3rd Squad
+シェリー・マキシマム		Sherry Maximum	3rd Squad
+蝙森 シスイ	こうもり しすい	Shisui Komori
+トメ		Tome	Duck Lodge dorm mother
+ドルドキンス		Dordkins	Jin's code name as commander
+ミゼル事変		Mizell Incident
+ジョセフィーヌの呼び名		Arata-kins, Hiki-poo, [x14:0100]-kins	Josephine's nicknames (アラたん, ヒー君)
+アラビスタ同盟		Arabista Alliance	nation
+ロシウス連合		Rossius Union	nation (largest power)
+ポルトン		Porton	nation
+ロスト		Lost	LBX completely destroyed; the player is expelled
+エスケープスタンス		Escape Stance
+ブレイクオーバー		Broken Over / Break Over
+必殺ファンクション		Special Function
+データディスク		data disc
+親密度		affinity
+Ｃゲージ		C Gauge
+ＢＡカード		BA Card (Battle Advance Card)
+アクションバトル		Action Battle
+交戦状態		engaged
+占領ポイント / フラッグ		capture point / Flag
+コントロールポッド		Control Pod
+クラフトキャリア		Craft Carrier
+司令室		Command Room
+ラボ / ラボライセンス		Lab / Lab License
+アーマーフレーム / コアボックス		Armor Frame / Core Box
+編成 / 入れ替え		Formation / Swap
+ウォータイムコスト		War Time Cost
+シルバークレジット		Silver Credits
+設計図		blueprint
+ＤＣブレイバー / ＤＣエリアル / ＤＣオフェンサー		DC Braver / DC Aerial / DC Offenser
+しらべる		Examine	field command
+スライドパッド / 十字ボタン		Circle Pad / +Control Pad
+すれちがい通信		StreetPass
+純喫茶スワロー		Cafe Swallow	no é: the font has no accented letters; the owner is "Master"
+商店街 / 校庭 / 教室		Shopping District / Schoolyard / Classroom
+神の門		Gate of the Gods	nickname of Kamui Daimon Academy
+アルテミス		Artemis	LBX tournament
+ＥＲＰ		Experiment Realism Project (ERP)
+国連統合政府		UN Unified Government
+ニーズシティ		Needs City
+オアシス８		Oasis 8
+グレスト山地 / アカマ砂漠		Grest Mountains / Akama Desert
+エンカ古代遺跡		Enka Ancient Ruins
+グランデの港		Port Grande
+ホワイトフォックス / ホワイトファング		White Fox / White Fang	Musashi's unit (52603 vs 53904)
+伊丹 キョウジ	いたみ きょうじ	Kyoji Itami	Ezeldarm mercenary; pilots the black Bandit LBX (Gurzeon)
+セレディ・クライスラー		Seredi Chrysler	teacher; leads Ezeldarm and the World Saver
+法条 ムラク	ほうじょう むらく	Muraku Hojo	Violet Devil; later Jenock 6th Squad
+東郷 リクヤ	とうごう りくや	Rikuya Togo	Jenock 3rd Squad captain; the PM's son ("Riku-poo" to Josephine)
+東郷 儀一	とうごう ぎいち	Giichi Togo	Prime Minister
+美都 英輔	みと えいすけ	Eisuke Mito	Dr. Mito, Reina's father
+磯谷 ゲンドウ / 黻部 連次郎		Gendo Isogai / Renjiro Ayabe	Jenock 2nd Squad captain / his butler
+朝比奈 コウタ / 篠目 アカネ / ロイ・チェン		Kota Asahina / Akane Shinome / Roy Chen	Jenock 3rd Squad
+キャサリン・ルース / 風陣 カイト		Catherine Ruth / Kaito Fujin	Jenock 4th / 5th Squad captains
+鬼灯 ムネモリ / 国井 オオジ / 日月 コヨミ		Munemori Hozuki / Oji Kunii / Koyomi Tachimori	4th Squad
+メタ沢 一郎		Ichiro Metazawa ("Meta")	ends sentences with "-mo"
+古城 アスカ		Asuka Kojo	Takeru's sister
+ガーディ / アーノルド		Gardie / Arnold	Deathwalz Brothers
+デスワルズブラザーズ / ブルーグリフォン		Deathwalz Brothers / Blue Griffon	Rossius squad (provisional spelling)
+バンデット		Bandit	Ezeldarm in disguise
+エゼルダーム		Ezeldarm	Seredi's nation
+ワールドセイバー		World Saver	terrorist group
+ロンドニア / クルセイド / イグアニア		Londonia / Crusade / Iguania
+チルジア共和国 / Ａ国		Republic of Chiljia / Country A
+パラサイトキー / マスターキー		Parasite Key / Master Key
+ロストエリア / グランドマスター / アンダーバランス		Lost Area / Grand Master / Under Balance
+オーバーロード		Overload
+静かな戦争		silent war
+世界連合		World Alliance
+ジーク・ギガンテス / ドル・ガルーダ		Sieg Gigantes / Dol Garuda	Ezeldarm bases
+ドットブラスライザー / ジーエクスト / ドットフェニックス		Dot Blastrizer / G-Ext / Dot Phoenix
+グルゼオン / ガウンタ / グラスター / ジラント		Gurzeon / Gaunta / Glaster / Zilant	LBX
+トライヴァイン / バル・ダイバー / ジル・グレイブ / レオローダー / ヴェスパー		Trivine / Bal Diver / Gil Grave / Leo Loader / Vesper
+オーヴェイン / バル・スパロス		Ovain / Bal Sparos
+スカウト / 契約金		scout / signing fee
+行動力		Action Points
+サディアナ草原 / ゴールドバレー基地 / ラリンガシティ		Sadiana Plains / Gold Valley Base / Laringa City
+フェンレス雪原 / グレートリンク湖 / リバーエンドブリッジ		Fenless Snowfield / Great Link Lake / Riverend Bridge
+ギガントの壁 / デスフォレスト / ローズシティ / グリーンバース湖		Gigant Wall / Death Forest / Rose City / Greenbirth Lake
+神威港 / 学生食堂 / 保健室		Kamui Port / Cafeteria / Infirmary
+斬 / 貫 / 衝		Slash / Pierce / Impact	attack attributes
+火 / 水 / 雷 / 光		Fire / Water / Bolt / Light	elements; 雷 is "Bolt" to keep weapon info lines short
+ジャンル / 属性 / 耐性		Type / Attr / Resist	weapon info lines (01000.98:7000-8045)
+単発銃 / 狙撃銃 / アサルト		Handgun / Sniper / Assault	weapon types; 拳＆単発 = Fist/Shot
+改 / Ｃ (name suffix)		Kai / C	e.g. Deqoo Kai, Achilles C
+最強〜		Strongest ~	boss variants
+〜攻略作戦 / 〜奪還作戦 / 〜防衛戦 / 〜演習戦		Take ~ / Retake ~ / Defend ~ / ~ Drill	operation names
+〜世界連合作戦 / 〜突入作戦 / 〜救援作戦		Ally with ~ / Storm ~ / Relieve ~
+〜の撃破		~ defeated	mission win/lose conditions
+工場地帯 / 火山地帯		Works / Volcano	place suffixes (short for buffer safety)
+〜とバトルだ！		VS ~!	battle lists
+空中空母ドル・ガルーダ		Dol Garuda	the flying carrier, in names and lists

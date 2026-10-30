@@ -1,0 +1,34 @@
+id	ja	en
+1	[var:0]―――！！[p]	[var:0]!!
+2	セカンドワールド！　すごかったよな！！[p]	The Second World! Wasn't that amazing!?
+3	お{前|まえ}も{出撃|しゅつげき}したんだろ？[n]{俺|おれ}、{超興奮|ちょうこうふん}したぜ。[p]	You sortied too, right? I was so pumped.
+4	さすが{神威大門|かむいだいもん}！[n]やる{事|こと}のスケールが{違|ちが}うよな。[p]	That's Kamui Daimon for you! Everything's on another scale.
+5	{仮想国|かそうこく}に{分|ゎ}かれての{戦闘活動|せんとうかつどう}なんてさ。[n]{設定|せってい}も{熱|あつ}いよな！[p]	Fighting split into virtual nations! What an awesome setup!
+6	[var:0]もそう{思|おも}うだろ？[p]	Don't you think so, [var:0]?
+7	こら！　{背名|せな}アラタ！[p]	Hey! Arata Sena!
+8	？？？　{誰|だれ}？[p]	??? Who're you?
+9	{他|ほか}の{仮想国|かそうこく}の{生徒|せいと}と{戦闘活動|せんとうかつどう}に{関|かん}する{話|はなし}を[n]おいそれとしてはいけません。[p]	Don't go discussing combat operations with students from other nations.
+10	{情報漏洩|じょうほうろうえい}で{処罰|しょばつ}されちゃうよ？[p]	You'll get punished for leaking information, you know?
+11	お{前|まえ}は{確|たし}か、{同|おな}じクラスの……。[p]	You're… from my class, right…?
+12	{私|ゎたし}は{鹿島|かしま}ユノ。よろしくね。[n]えっと、キミは？[p]	I'm Yuno Kashima. Nice to meet you. Um, and you are?
+13	へぇ、[var:0]って{言|い}うのね。[p]	Oh, so you're [var:0].
+14	{俺|おれ}とヒカルと{一緒|いっしょ}に[n]{今日|きょう}から{転校|てんこう}してきたんだ。[p]	We transferred in today, along with Hikaru.
+15	[x14:0000]の{所属|しょぞく}って{設定|せってい}なんだ！[p]	In this setup, [var:0]'s with [x14:0000]!
+16	{設定|せってい}……、ハァ……。[n]やれやれ、わかってないなぁ。[p]	"Setup"… Sigh… Boy, you really don't get it.
+17	まぁいいわ。{副委員長|ふくいいんちょう}として[n]あなたを{案内|あんない}するように{言|い}われてるの。[p]	Whatever. As class vice president, I've been told to show you around.
+18	{行|い}くわよ。アラタ。[p]	Let's go, Arata.
+19	ああ。わかったよ。[n][var:0]。またなー！[p]	Okay, okay. See ya, [var:0]!
+20	なんや、えらい{賑|にぎ}やかなやっちゃなー。[p]	Sheesh, what a noisy guy.
+21	{知|し}り{合|あ}いなの？[n]やたら{大|おお}きな{声|こえ}で{名前|なまえ}{呼|よ}ばれてたけど。[p]	You know him? He was shouting your name pretty loud.
+22	……なるほど、{背名|せな}アラタ{君|くん}か。[n]ジェノックの{新人|しんじん}なんだね。[p]	…I see, Arata Sena. So he's new in Jenock.
+23	え？　なんでわかるのかって？[n]そりゃわかるよ。[p]	Huh? How can I tell? Easy.
+24	{制服|せいふく}の{色|いろ}だ。[p]	Uniform colors.
+25	この{学園|がくえん}の{生徒|せいと}は{所属|しょぞく}する{仮想国|かそうこく}ごとに[n]{制服|せいふく}の{色|いろ}が{決|き}められているのさ。[p]	At this academy, each virtual nation has its own uniform color.
+26	{俺|おれ}たち[x14:0000]は{紫|むらさき}。[n]{先|さき}ほどのジェノックは{青|あお}。[p]	We in [x14:0000] wear purple. Jenock, like him, wears blue.
+27	{最大勢力|さいだいせいりょく}のロシウス{連合|れんごう}はグレー。[p]	The Rossius Union, the biggest power, wears gray.
+28	{今日|きょう}{戦|たたか}ったアラビスタ{同盟|どうめい}はカーキ。[n]まぁ、そんな{感|かん}じだな。[p]	The Arabista Alliance we fought today wears khaki. That's about it.
+29	カゲトラ、そんなかったるい[n]{説明|せつめい}は{抜|ぬ}きにして、はやく{帰|かえ}ろうや。[p]	Kagetora, skip the boring lecture and let's head home.
+30	ウチ、{腹|はら}が{減|へ}って{死|し}にそうや。[p]	I'm starvin' to death here.
+31	そうだな。ではダック{荘|そう}に{帰|かえ}ろう。[p]	Fair enough. Let's head back to Duck Lodge.
+32	ダック{荘|そう}にいけるようになりました。[p]	You can now go to Duck Lodge.
+101	『ダック{荘|そう}』に{行|い}けるようになった！[p]	You can now go to Duck Lodge!

@@ -1,0 +1,18 @@
+# Game files: never commit (copyrighted and huge). Dump your own copy.
+*.zip
+*.3ds
+*.cia
+*.cxi
+*.cpk
+Danball Senki Wars (Japan)/
+extracted/
+build/
+
+# Dictionaries: download them (see README, "Kanji identification")
+data/jmdict/
+data/kanjidic/
+
+# Local environment
+.venv/
+__pycache__/
+*.pyc

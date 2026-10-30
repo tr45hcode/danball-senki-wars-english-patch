@@ -1,0 +1,16 @@
+id	ja	en
+1	{寮長|りょうちょう}、{新人|しんじん}１{名|めい}。{連行|れんこう}{致|いた}しました！[p]	Dorm Mother, one new recruit, delivered as ordered!
+2	ご{苦労様|くろうさま}。この{子|こ}が{新人|しんじん}さんだね。[p]	Thank you, dear. So this is the new one.
+3	さっきのジェノックの{２人|ふたり}といい[n]なかなかいい{面構|つらがま}えじゃないか。[p]	Like those two Jenock kids earlier, you've got a good look about you.
+4	あたしゃ、トメ。このダック{荘|そう}の{寮長|りょうちょう}だ。[n]よろしくね。[p]	I'm Tome, Duck Lodge's dorm mother. Nice to have you.
+5	はい。これがアンタの{部屋|へや}の{畫|かぎ}。[n]{無|な}くすんじゃないよ。[p]	Here, this is your room key. Don't you lose it.
+6	トメさん。ありがとうございます。[p]	Thank you, Tome.
+7	カゲトラ、{寮|りょう}の{案内|あんない}は{任|まか}せていいかい？[p]	Kagetora, can I leave the dorm tour to you?
+8	はい。わかりました。[p]	Yes, of course.
+9	では、{頼|たの}んだよ。[p]	Then I'm counting on you.
+10	[var:0][n]{困|こま}った{事|こと}があったらあたしに{言|い}っておいで。[p]	[var:0], if anything's troubling you, come and tell me.
+11	{案内|あんない}をする{前|まえ}に、これを{受|う}け{取|と}ってくれ。[p]	Before the tour, take this.
+12	これが、{俺|おれ}たちが{住|す}んでいる{寮|りょう}[n]ダック{荘|そう}の{見取|みと}り{図|ず}だ。[p]	It's a floor plan of Duck Lodge, the dorm we live in.
+13	{今|いま}いる{場所|ばしょ}が、『{玄関|げんかん}』だ。[n]ここから『{自室|じしつ}』『{娯楽室|ごらくしつ}』に{繋|つな}がっている。[p]	We're at the Entrance. From here you can reach My Room and the Rec Room.
+14	{娯楽室|ごらくしつ}はいろんな{生徒|せいと}が{雑談|ざつだん}をしているから[n]{顔|かお}を{出|だ}してみると{面白|おもしろ}いかもな。[p]	Lots of students hang out in the Rec Room, so it might be fun to drop by.
+101	『ダック{荘|そう}の{見取|みと}り{図|ず}』を{手|て}に{入|い}れた！[p]	Got the Duck Lodge Floor Plan!

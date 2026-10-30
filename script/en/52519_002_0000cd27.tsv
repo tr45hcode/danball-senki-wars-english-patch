@@ -1,0 +1,16 @@
+id	ja	en
+1	……{君|きみ}たちは？[p]	…And you are?
+2	{俺|おれ}は{背名|せな}アラタ。[n]んで、こいつが[var:0]。[p]	I'm Arata Sena. And this is [var:0].
+3	{君|きみ}も{神威|かむい}{大門|だいもん}{統合|とうごう}{学園|がくえん}に{入|はい}るんだろ？[n]よろしくな！[p]	You're starting at Kamui Daimon Academy too, right? Nice to meet you!
+4	……まぁね。{僕|ぼく}は{星原|ほしはら}ヒカル。[p]	…Something like that. I'm Hikaru Hoshihara.
+5	おおっー！　{仲間|なかま}{仲間|なかま}！！[n]ん？[p]	Alright! Another new guy!![n]Hm?
+6	{星原|ほしはら}……、どっかで[n]{聞|き}いた{事|こと}があるような……。[p]	Hoshihara… Where have I heard that before…?
+7	じゃ、{急|いそ}ぐから。[p]	Well, I'm in a hurry.
+8	あ！　おい！[p]	Ah! Hey!
+9	[var:0]。{俺|おれ}たちも行こうぜ！[p]	[var:0], let's get going too!
+10	あ、そうだ。{島|しま}の{地図|ちず}は{持|も}ってきたか？[n]これ、お{前|まえ}にやるよ！[p]	Oh, right. Did you bring a map of the island? Here, you can have this!
+11	それじゃ、[var:0]。[n]{地図|ちず}から『{商店街|しょうてんがい}』を{選|えら}ぶんだ。[p]	Okay, [var:0]. Pick the Shopping District on the map.
+12	そこを{抜|ぬ}ければ[n]{神威|かむい}{大門|だいもん}{統合|とうごう}{学園|がくえん}に{着|つ}くぞ。[p]	Go through there and we'll reach Kamui Daimon Academy.
+101	[c:03]{下|した}{画面|がめん}に　{島|しま}マップが{表示|ひょうじ}される[x2][p]	[c:03]The island map appears on the bottom screen.[x2]
+102	『{神威島|かむいとう}の{地図|ちず}』を{手|て}に{入|い}れた！[p]	Got the Kamui Island Map!
+103	システムメニューから[n]セーブができるようになった！[p]	You can now save from the System Menu!
