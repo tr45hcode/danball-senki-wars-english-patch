@@ -103,6 +103,26 @@ All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 4. **Graphics:** find and translate textures with baked-in Japanese (buttons, titles, menus).
 5. **Packaging:** decide on the release format, either a LayeredFS folder or a patch file against the CPK. Check it on real hardware (Luma3DS).
 
+## Future work
+
+### Save editor (PKHeX-style)
+
+An editor for money, LBX, parts, weapons, chips and scouted players looks feasible. This is outside the translation; give it its own folder or repo.
+
+What a first look at a save showed (2026-10-30):
+
+- One file per slot: `sv1.bin` / `sv2.bin`, 103,400 bytes, in Azahar's `sdmc/Nintendo 3DS/<id0>/<id1>/title/00040000/000f4000/data/00000001/`. On a real 3DS, back it up with Checkpoint or JKSM.
+- It doesn't look encrypted or compressed: 64% zero bytes, plain little-endian integers, and 4 KB blocks of at most ~4.9 bits/byte of entropy.
+- No CRC32 or byte-sum of the file sits in the first 0x100 bytes. A checksum could still be elsewhere; test by loading a hand-edited save.
+- The player name ("T") and the country (ハーネス) don't appear as global-font glyph indices, RMD tokens, UTF-16 or Shift-JIS. Find out how strings are stored first.
+
+Plan:
+
+1. Map fields by diffing saves that differ by one action (buy one item, spend money, gain a level, build an LBX).
+2. Check for a checksum by editing a byte and loading the save in game.
+3. Show names instead of IDs. The English tables for LBX, parts, weapons, chips and Special Functions already exist in `script/en/01000_098_000203e8.tsv`.
+4. Build a small editor (Python or a web page) that reads and writes `sv1.bin` and fixes any checksum.
+
 ## Log
 
 ### 2026-10-29
