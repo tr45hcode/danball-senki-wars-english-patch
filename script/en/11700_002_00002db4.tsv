@@ -1,0 +1,21 @@
+id	ja	en
+10	あぁ、[var:0]か。[n]お{前|まえ}がいてくれて、{心強|こころづよ}いよ。[p]	Ah, [var:0]. Having you around is a real comfort.
+11	これからも、ともに{力|ちから}を{合|あ}わせていこう！[p]	Let's keep working together from here on!
+20	クラスの{委員長|いいんちょう}は、{自分|じぶん}から{立候補|りっこうほ}して[n]なったわけじゃない。[p]	I didn't volunteer to be class president, you know.
+21	{委員|いいん}{長|ちょう}{決|ぎ}めの{時|とき}にキャサリンとカイトが……。[n]はぁ……。いや、{何|なん}でもない。[p]	When we were choosing, Catherine and Kaito… Sigh… No, never mind.
+30	{正直|しょうじき}、{俺|おれ}は{隊長|たいちょう}の{器|うつゎ}ではないと[n]ずっと{思|おも}い{悩|なや}んでいた……。[p]	Honestly, I've always worried that I'm not cut out to be a captain…
+31	だが、{世界|せかい}{連合|れんごう}を{結成|けっせい}した{時|とき}、みんなが{俺|おれ}を[n]{司令官|しれいかん}に{推薦|すいせん}してくれて、{少|すこ}し{自信|じしん}がついた。[p]	Everyone backed me as World Alliance commander. It gave me confidence.
+32	{今|いま}までしてきた{事|こと}が{無駄|むだ}じゃないと{思|おも}えたんだ。[n]お{前|まえ}やアラタたちのおかげだ。ありがとう。[p]	My efforts weren't wasted. That's thanks to you and Arata. Thank you.
+40	なんだ？[n]なにか{相談事|そうだんごと}か？[p]	What is it? Something on your mind?
+50	これを{俺|おれ}に？[n]すまない。{使|つか}わせてもらう。[p]	This is for me? Thanks. I'll put it to good use.
+60	お{前|まえ}とならこの{先|さき}も{上手|うま}くやっていけると[n]{思|おも}っていたが、{俺|おれ}の{勘違|かんちが}いだったか……。[p]	I thought we'd keep getting along fine, but I guess I was wrong…
+70	{驚|おどろ}いた、もうこんな{時間|じかん}か。[n]では、{俺|おれ}はこれで{失礼|しつれい}する。[p]	Oh, is it that late already? Then I'll be going.
+80	いいだろう。お{前|まえ}と{一緒|いっしょ}なら{安心|あんしん}だ。[n]これからもよろしく{頼|たの}む。[p]	All right. With you along, I can relax. I'm counting on you.
+90	おはよう、[var:0]。[n]お{前|まえ}はちゃんと{時間|じかん}を{守|まも}るから、{助|たす}かるよ。[p]	Morning, [var:0]. You're always on time. I appreciate it.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{出雲|いずも}ハルキをスカウトしました。[p]	You scouted Haruki Izumo!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{出雲|いずも}ハルキとわかれた。[p]	Haruki Izumo has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

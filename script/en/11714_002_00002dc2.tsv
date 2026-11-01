@@ -1,0 +1,21 @@
+id	ja	en
+10	あ、えと、その……[n]ジェノック{第|だい}４{小隊|しょうたい}の……、{園山|そのやま}ハナコです。[p]	Oh, um, well… I'm, um… Hanako Sonoyama, from Jenock 4th Squad.
+11	その……、よろしくお{願|ねが}いします。[p]	Um… nice to meet you.
+20	{商店街|しょうてんがい}にある{純|じゅん}{喫茶|きっさ}スワローは[n]{生徒|せいと}のみんなに{大人気|だいにんき}で、いつもいっぱいだね。[p]	Cafe Swallow in the Shopping District is so popular. It's always packed.
+21	え？　{一緒|いっしょ}に{行|い}かないかって？[n]あ、えっと……、ごめん{今|いま}ダイエット{中|ちゅう}だから。[p]	Huh? Go there together? Oh, um… sorry, I'm on a diet.
+30	{洗濯|せんたく}って{楽|たの}しいよね。{物干|ものほ}し{⟨芋⟩|ざお}につるされた[n]{風|かぜ}に{揺|ゆ}れる{白|しろ}いシャツを{見|み}ると{胸|むね}がときめくの。[p]	Laundry's fun, isn't it? White shirts swaying on the line make my heart sing.
+31	キャサリンがよく{洗濯物|せんたくもの}を{溜|た}め{込|こ}んでるから[n]いつも{手伝|てつだ}ってあげるんだけど[p]	Catherine always lets her laundry pile up, so I usually help her,
+32	ユノとキヨカに、{甘|あま}やかしちゃダメだって[n]{止|と}められちゃったんだ。……ちょっと{残念|ざんねん}。[p]	but Yuno and Kiyoka told me not to spoil her. …That's a bit sad.
+40	えーっと、その……[n]どうしたの？[p]	Um, well… What is it?
+50	ありがとう。[p]	Thank you.
+60	えっ！　あの、その……[n]ハナコ……、どこがダメだったのかな？[p]	Huh! Um, well… What did Hanako do wrong?
+70	あ、うん。またね。[p]	Oh, okay. See you.
+80	え、ハナコを{仲間|なかま}に？[n]いいよ。{一緒|いっしょ}に{戦|たたか}えるなんて、うれしい！[p]	Huh, you want Hanako on your team? Sure. I'm happy to fight with you!
+90	おはよう！[n]あっ、{急|いそ}がないと{遅刻|ちこく}しちゃうよ。[p]	Morning! Oh, we have to hurry or we'll be late.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{園山|そのやま}ハナコをスカウトしました。[p]	You scouted Hanako Sonoyama!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{園山|そのやま}ハナコとわかれた。[p]	Hanako Sonoyama has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

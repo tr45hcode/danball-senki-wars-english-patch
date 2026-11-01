@@ -1,0 +1,21 @@
+id	ja	en
+10	ウッス！　{俺|おれ}は、{塚原|つかはら}ヨウジ！　[n]よろしくな！！[p]	Osu! I'm Yoji Tsukahara! Nice to meet ya!!
+11	{好|す}きな{言葉|ことば}は、『{気合|きあい}』だ！[n]{気合|きあい}があれば、{何|なん}でもできる！[p]	My favorite word is "guts"! With guts, you can do anything!
+20	{島|しま}での{生活|せいかつ}は{毎日|まいにち}が{楽|たの}しいよな。[n]{何|なに}よりメシがうめえ！　{最高|さいこう}だ！[p]	Every day on this island is fun. Best of all, the food's great!
+21	{学園|がくえん}の{食堂|しょくどう}もいいけど[n]スワローもいいぜ。{量|りょう}は{少|すく}ないけどな！[p]	The academy cafeteria's good, but so's Swallow. Small portions, though!
+30	[var:0]、{人生|じんせい}{気合|きあ}いだ！[n]{足|た}りない{分|ぶん}は、{俺|おれ}が{注入|ちゅうにゅう}してやろうか？[p]	[var:0], life is all about guts! Want me to pump some into you?
+31	{簡単|かんたん}な{方法|ほうほう}だぞ？　１、２の３で[n]ダーッと{背中|せなか}をぶっ{叩|たた}くだけだ。[p]	It's easy! One, two, three, and I slap you on the back. Wham!
+32	えっ、やめておくのか？[n]{気|き}が{引|ひ}き{締|し}まるんだがなぁ……。[p]	Huh, you'll pass? It really sharpens you up…
+40	{気合|きあい}があれば、{何|なん}でもできる！　[n]さあ、{何|なん}でも{来|き}やがれ！！[p]	With guts, you can do anything! Bring it on!!
+50	{恩|おん}に{着|き}るぞ！[p]	I owe you one!
+60	お{前|まえ}がセカンドワールドで{戦|たたか}い{続|つづ}ける{限|かぎ}り[n]{俺|おれ}はいつまでも{待|ま}っているぞ！[p]	As long as you keep fighting in the Second World, I'll be waiting!
+70	じゃあ、また{呼|よ}んでくれよな！[p]	Call me again sometime!
+80	よーし！　{気合|きあい}がみなぎってきたぜー！！[p]	All right! I'm bursting with guts!!
+90	ウッス、[var:0]！[n][x14:0000]の{朝|あさ}は{早|はや}いんだな！[p]	Osu, [var:0]! Mornings start early in [x14:0000], huh!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{塚原|つかはら}ヨウジをスカウトしました。[p]	You scouted Yoji Tsukahara!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{塚原|つかはら}ヨウジとわかれた。[p]	Yoji Tsukahara has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

@@ -1,0 +1,18 @@
+id	ja	en
+10	{私|ゎたし}の{名前|なまえ}……、{木之下|きのもと}リンゴ。[n]バトル……、{好|す}き。[p]	My name… Ringo Kinomoto. Battles… I like.
+11	[var:0]……、バトル{好|す}き？[p]	[var:0]… you like battles?
+20	ロシウス、{大|おお}きい{国|くに}……。[n]{人|ひと}{多|おお}すぎて{酔|よ}う……。[p]	Rossius, big country… So many people, I get dizzy…
+30	[var:0]が{呼|よ}んでくれた……。[n]{私|ゎたし}、うれしい。[p]	[var:0] called me… I'm happy.
+40	……{何|なに}か{用|よう}？[p]	…Need something?
+50	ありがとう。[p]	Thank you.
+60	……さよなら、なの？[p]	…Is this goodbye?
+70	…………。[p]	…………
+80	{失望|しつぼう}は、させない……。[p]	I won't… disappoint you…
+90	{朝|あさ}……。[p]	Morning…
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{木之下|きのもと}リンゴをスカウトしました。[p]	You scouted Ringo Kinomoto!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{木之下|きのもと}リンゴとわかれた。[p]	Ringo Kinomoto has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

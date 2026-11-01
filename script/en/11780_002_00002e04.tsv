@@ -1,0 +1,21 @@
+id	ja	en
+10	{俺|おれ}は{筒居|つつい}ミツルだ。　[n]バトルなら、ちょっと{自信|じしん}あるぜ。[p]	I'm Mitsuru Tsutsui. I'm pretty confident in battle.
+11	あとで{戦|たたか}って、ビビるんじゃねーぞ。[p]	Don't go chickening out when we fight later.
+20	な、{何|なん}だよ？　こんな{所|ところ}まで{呼|よ}び{出|だ}しやがって。[n]{返事|へんじ}{次第|しだい}じゃ、ロシウスが{黙|だま}ってねーぞ！？[p]	Wh-what? Calling me out here? Answer wrong and Rossius won't let it slide!
+21	ロシウスは、セカンドワールド{最大|さいだい}の{仮想|かそう}{国|こく}だ。[n]そこんトコ、わかってんだろうな？[p]	Rossius is the biggest virtual nation in the Second World. You get that, right?
+30	ちょ、ちょっと{相談|そうだん}なんだけどよ。{今|いま}いいか？[n]こういう{事|こと}、お{前|まえ}にしか{相談|そうだん}できないからさ。[p]	C-can I ask you something? Got a minute? You're the only one I can ask.
+31	{俺|おれ}って、ビビりのくせに{強|つよ}がる{性質|たち}だろ？[n]でもさ、{本当|ほんとう}はそういうトコ{直|なお}したいんだよ。[p]	I'm a coward who acts tough, right? But I really want to fix that.
+32	だからさ、{頼|たの}む！　{俺|おれ}を{鍛|きた}えるつもりで[n]{俺|おれ}の{事|こと}、チームでどんどん{使|つか}ってくれよな！[p]	So please! Toughen me up! Use me on your team as much as you can!
+40	で、{用|よう}って{何|なん}だよ？[p]	So, what d'you want?
+50	へっ、もらっておくぜ！[p]	Heh, I'll take it!
+60	ああーん！？　マジで{言|い}ってんのか？[n]{俺|おれ}の{何|なに}が、{不満|ふまん}だってんだよ？[p]	Huh!? Are you serious? What's your problem with me?
+70	じゃあ、あばよ。[p]	Later, then.
+80	へへ、なかなか{見|み}る{目|め}があるじゃねぇか！[n]{俺|おれ}に{任|まか}せな。どんな{敵|てき}でも{来|こ}いってんだ！[p]	Heh, you've got a good eye! Leave it to me. Bring on any enemy!
+90	{今日|きょう}の{相手|あいて}は{誰|だれ}だろうな……。[n]べ、{別|べつ}にビビってなんか、いねーぜ！[p]	Wonder who we're up against today… I-I'm not scared or anything!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{筒居|つつい}ミツルをスカウトしました。[p]	You scouted Mitsuru Tsutsui!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{筒居|つつい}ミツルとわかれた。[p]	Mitsuru Tsutsui has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

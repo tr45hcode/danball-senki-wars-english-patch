@@ -1,0 +1,21 @@
+id	ja	en
+10	やあ、[var:0]。また{会|あ}ったね。[n]まっ、{同|おな}じ{寮|りょう}だから{会|あ}うのも{当然|とうぜん}か。[p]	Hey, [var:0]. We meet again. Well, we're in the same dorm, so of course.
+11	ボクから{言|い}っておきたい{事|こと}は、ただ１つ。[n]アラタみたいに{面倒|めんどう}{事|ごと}は{持|も}ちこまないでくれよ。[p]	I've only got one thing to say. Don't bring trouble around like Arata does.
+20	あぁ、{君|きみ}か。まったくみんな{勝手|かって}{過|す}ぎるよね。[n]お{坊|ぼっ}ちゃまってだけで{偉|えら}そうなゲンドウも……[p]	Oh, it's you. Everyone's so selfish. Gendo, acting all high and mighty…
+21	ろくに{命令|めいれい}を{聞|き}きやしないアラタも。[n]ホント、ボクの{将来|しょうらい}{設計|せっけい}を{乱|みだ}さないで{欲|ほ}しいな。[p]	and Arata, who never follows orders. Stop messing up my future plans.
+30	ボクの{家|いえ}はいわゆる{貧之|びんぼう}ってヤツでさ[n]そのせいで{色|いろ}んな{苦労|くろう}をしてきた……。[p]	My family's what you'd call poor. That's caused me all kinds of hardship…
+31	{神威|かむい}{大門|だいもん}の{門|もん}を{叩|たた}いたのは[n]そんな{底辺|ていへん}の{生活|せいかつ}から{波|は}い{上|あ}がるためさ。[p]	I came to Kamui Daimon to climb out of that life at the bottom.
+32	ここで{良|い}い{成績|せいせき}をおさめれば、{卒業後|そつぎょうご}は[n]ＬＢＸメーカーへの{就職|しゅうしょく}が{有利|ゆうり}になるからね。[p]	Good grades here give you an edge getting hired by an LBX maker.
+40	で、ボクに{何|なに}か{用|よう}かな？[p]	So, what do you want with me?
+50	ふぅん。なかなか{気|き}が{利|き}くじゃないか。[p]	Hmm. Pretty thoughtful of you.
+60	{本当|ほんとう}に、いいのかな～？[n]{後悔|こうかい}したって{知|し}らないよ？[p]	Are you really sure~? Don't come crying to me later.
+70	じゃあ、ボクはもう{行|い}くよ。[n]{君|きみ}と{違|ちが}って、ヒマじゃないんでね。[p]	Well, I'm off. Unlike you, I've got things to do.
+80	ボクを{仲間|なかま}にだって？　{本気|ほんき}かい？[n]……しょうがないな、{協力|きょうりょく}してやるよ。[p]	You want me on your team? Seriously? …Fine, I'll help you.
+90	やぁ、[var:0]。{待|ま}たせたようだね。[n]{悪|ゎる}い、{朝|あさ}は{苦手|にがて}なんだ。[p]	Hey, [var:0]. Looks like I kept you waiting. Sorry, mornings aren't my thing.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{風陣|ふうじん}カイトをスカウトしました。[p]	You scouted Kaito Fujin!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{風陣|ふうじん}カイトとわかれた。[p]	Kaito Fujin has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

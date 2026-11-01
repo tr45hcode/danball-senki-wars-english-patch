@@ -1,0 +1,21 @@
+id	ja	en
+10	やぁ、{僕|ぼく}は{三⟨輸⟩|みゎ}スバル。[n]スイートに{戦|たたか}う{事|こと}が、モットーさ。[p]	Hi, I'm Subaru Miwa. My motto is to fight sweetly.
+11	{例|たと}えるならば、{純喫茶|じゅんきっさ}スワローの{名物|めいぶつ}[n]チョコレートパフェぐらいね！[p]	Like Cafe Swallow's famous chocolate parfait!
+20	フフフ、ただバトルするだけじゃ{面白|おもしろ}くない。[n]だから、{僕|ぼく}はバトルの{演出|えんしゅつ}にも{気|き}を{配|くば}るんだ。[p]	Heh heh, just battling isn't fun. So I pay attention to the presentation too.
+21	スイートの{他|ほか}なら、どんなのがいいかな。[n]エレガント？　キュート？　{好|す}きなの{選|えら}んでよ。[p]	Besides sweet, what else? Elegant? Cute? Pick your favorite.
+30	{最近|さいきん}の{君|きみ}、スイートな{戦|たたか}い{方|かた}が{似合|にあ}ってきたね。[n]{僕|ぼく}と{仲良|なかよ}くしているおかげかな？[p]	Sweet fighting suits you lately. Is it because we're close?
+31	フフン、{僕|ぼく}と{君|きみ}が{組|く}んで{戦|たたか}えば[n]{敵|てき}はスイートに{倒|たお}されるしかないのさ。[p]	Hmph, if you and I team up, the enemy can only be sweetly defeated.
+32	{僕|ぼく}らってさ、{罪深|つみぶか}い{存在|そんざい}だよね……。[p]	We're such sinful creatures…
+40	さぁーて、そろそろ{本題|ほんだい}に{入|はい}ろうか？[p]	Now then, shall we get to the point?
+50	これは、{素晴|すば}らしいプレゼントだね。[n]ありがとう。[p]	What a wonderful present. Thank you.
+60	{戦場|せんじょう}でも{出|で}{会|あ}いに{別|ゎか}れはつきものか……[n]{大丈夫|だいじょうぶ}だよ、{僕|ぼく}は{泣|な}かないから！[p]	Every meeting ends in parting, even in war… Don't worry, I won't cry!
+70	それでは、ごきげんよう。[p]	Well then, good day.
+80	ご{指名|しめい}ありがとう！　[n]{君|きみ}は{僕|ぼく}が{守|まも}ってみせる、この{命|いのち}に{代|か}えても。[p]	Thanks for choosing me! I'll protect you, even with my life.
+90	おはよう！[n]{今日|きょう}もいいバトルができるといいね。[p]	Morning! I hope we have a good battle today too.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{三⟨輸⟩|みゎ}スバルをスカウトしました。[p]	You scouted Subaru Miwa!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{三⟨輸⟩|みゎ}スバルとわかれた。[p]	Subaru Miwa has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

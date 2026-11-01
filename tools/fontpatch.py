@@ -5,6 +5,13 @@ in containers 01000 and 01500).
 The font has no ASCII '!', and its full-width '！' (glyph 288) is drawn as a
 slanted stroke that reads as '/'. It is redrawn as a narrow '!' built from
 the font's own 'l' stem and '.' dot, and its advance width is narrowed.
+
+The 10 px font (01500) draws its ASCII glyphs centred in the 10 px cell, but
+the game draws every cell from the pen position and then advances by the
+glyph's proportional width. Narrow letters land 3-4 px right of their slot,
+on top of the next letter ("Inui" reads "hui"); the Japanese text never used
+half-width letters at 10 px, so it never showed. Those glyphs are moved left
+to sit inside their advance, like the 14 and 11 px fonts already do.
 Only pixels and one width byte change, so every file keeps its size.
 """
 import mron
@@ -13,6 +20,8 @@ from rmd import GLOBAL_CHARS, Rmd
 
 EXCLAIM = GLOBAL_CHARS.index('！')
 EXCLAIM_ADVANCE = {14: 4, 11: 4, 10: 3}
+PROPORTIONAL = 78        # glyphs 0-77 (ASCII, ±) have their own advance widths
+CENTRED_CELLS = (10,)    # fonts whose proportional glyphs are drawn centred
 TEX_HEADER = 0x1E0
 
 
@@ -45,6 +54,31 @@ def redraw_exclaim(rmd, img):
         px[x0 + stem_x + (x - dot_x0), y0 + y] = v
 
 
+def left_align(rmd, img):
+    """Move each proportional glyph left so its ink is centred in its advance
+    width (rounding right) instead of in the cell. Never moves a glyph right.
+    The extent is measured on clearly inked pixels: some cells carry a faint
+    stray pixel (241 on a 240 background) that would otherwise pin them."""
+    px = img.load()
+    for i in range(PROPORTIONAL):
+        rect, adv = rmd.glyph_rect(i)
+        ink, bg = _ink(img, rect)
+        solid = [x for (x, _), v in ink.items() if abs(v - bg) >= 8]
+        if not solid:
+            continue
+        left, right = min(solid), max(solid)
+        shift = left - max(0, (adv - (right - left + 1) + 1) // 2)
+        if shift <= 0:
+            continue
+        x0, y0, x1, y1 = rect
+        for y in range(y0, y1):
+            for x in range(x0, x1):
+                px[x, y] = bg
+        for (x, y), v in ink.items():
+            if x >= shift:
+                px[x0 + x - shift, y0 + y] = v
+
+
 def _global_fonts(data):
     """Yield (rmd index, Rmd, rmdt index) for each global font in a container."""
     entries = mron.parse(data)
@@ -68,6 +102,8 @@ def patch_container(data):
         rmd_bytes = rmd.data
         tex = mron.read_entry(data, entries[tex_i])
         img = decode_l8(tex[TEX_HEADER:], rmd.atlas_w, rmd.atlas_h)
+        if rmd.cell in CENTRED_CELLS:
+            left_align(rmd, img)        # before the '!' copies the 'l' stem
         redraw_exclaim(rmd, img)
         out[tex_i] = tex[:TEX_HEADER] + encode_l8(img)
         new_rmd = bytearray(rmd_bytes)

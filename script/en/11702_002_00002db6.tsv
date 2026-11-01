@@ -1,0 +1,21 @@
+id	ja	en
+10	[var:0]か。[n]{君|きみ}が{味方|みかた}で、{本当|ほんとう}に{良|よ}かったと{思|おも}うよ。[p]	[var:0]. I'm really glad you're on our side.
+11	{僕|ぼく}もできる{限|かぎ}り、{自分|じぶん}の{役⟨割⟩|やくゎり}を{果|は}たすつもりだ。[n]これからもよろしく。[p]	I'll do my part as best I can, too. I'm counting on you.
+20	あぁ、{君|きみ}か。どうしたんだ？[n]アラタならここにはいないぞ。[p]	Oh, it's you. What is it? Arata's not here.
+21	{僕|ぼく}に{話|はなし}がある？　{悪|ゎる}いけど、{僕|ぼく}にはない。[n]{忙|いそが}しいから、またの{機会|きかい}にしてくれ。[p]	You want to talk to me? Sorry, but I don't. I'm busy, so some other time.
+30	みんなに{認|みと}められて、{誰|だれ}にも{馬鹿|ばか}にされない。[n]そんな{人間|にんげん}になりたくてこの{学園|がくえん}に{来|き}たんだ。[p]	I came here to become someone everyone respects and nobody mocks.
+31	{今|いま}{思|おも}えば、なんてあいまいな{理由|りゆう}なんだろう。[n]アラタのプロになるためって{方|ほう}がまだ{現実的|げんじつてき}だ。[p]	What a vague reason that was. Arata's dream of going pro is more realistic.
+32	{自分|じぶん}の{夢|ゆめ}や{役⟨割⟩|やくゎり}を、{僕|ぼく}はこれからここで[n]{探|さが}そうと{思|おも}う。……{君|きみ}も{手伝|てつだ}ってくれないか？[p]	I'll search for my own dream and my role here. …Will you help me?
+40	それで、{僕|ぼく}に{何|なに}か{用|よう}か？[p]	So, what do you need me for?
+50	{僕|ぼく}にくれるのか？[n]ありがとう、{助|たす}かる。[p]	You're giving this to me? Thank you. It helps.
+60	フンっ、{好|す}きにすればいい。[n]{後悔|こうかい}するのは{僕|ぼく}じゃなくて{君|きみ}の{方|ほう}なんだからな。[p]	Hmph, do as you like. You'll be the one who regrets it, not me.
+70	{話|はなし}は{終|お}わりか？　だったら、{僕|ぼく}はもう{行|い}く。[p]	Are we done? Then I'm going.
+80	わかった。{君|きみ}に{協力|きょうりょく}しよう。[n]{僕|ぼく}は{僕|ぼく}の{役⟨割⟩|やくゎり}を{果|は}たす。[p]	All right, I'll help you. I'll play my part.
+90	おはよう、[var:0]。[n]……アラタはまだだ。はぁ、もう{２人|ふたり}で{行|い}こう。[p]	Morning, [var:0]. …Arata's not here yet. Sigh. Let's just go, the two of us.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{星原|ほしはら}ヒカルをスカウトしました。[p]	You scouted Hikaru Hoshihara!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{星原|ほしはら}ヒカルとわかれた。[p]	Hikaru Hoshihara has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

@@ -1,0 +1,21 @@
+id	ja	en
+10	{僕|ぼく}は、ミハイル・ローク。[n]この{度|たび}、ジェノック{第|だい}６{小隊|しょうたい}に{転属|てんぞく}となった。[p]	I'm Mikhail Rourke. I've just been transferred to Jenock 6th Squad.
+11	[var:0]、これからよろしく。[n]{君|きみ}とはいい{友人|ゆうじん}になれそうだ。[p]	I'm looking forward to this, [var:0]. I think we'll be good friends.
+20	{僕|ぼく}のルームメイト？　ああ、それだったら[n]カゲトだよ、メカニックの{木場|きば}カゲト。[p]	My roommate? Oh, that's Kageto. Kageto Kiba, the mechanic.
+21	{腐|くさ}れ{縁|えん}というか、ロシウスのスワン{荘|そう}の{頃|ころ}から[n]あいつとはずっと{一緒|いっしょ}なんだ。[p]	We've been stuck together since our Swan Lodge days in Rossius.
+30	{僕|ぼく}らがジェノックに{転属|てんぞく}となった{日|ひ}[n]わざわざ{歓迎|かんげい}{会|かい}を{開|ひら}いてくれて、ありがとう。[p]	Thank you for the welcome party the day we transferred to Jenock.
+31	{拒絶|きょぜつ}される{事|こと}は{覚悟|かくご}していたが[n]まさか{歓迎|かんげい}されるとは{夢|ゆめ}にも{思|おも}わなかったよ。[p]	I was ready to be rejected. I never dreamed we'd be welcomed.
+32	みんなで{ＳＣ|ェホダモゟボエコジ}を{出|だ}し{合|あ}ってまで{買|か}い{集|あつ}めてくれた[n]{駄菓子|だがし}の{数々|かずかず}……。あれにはホント{感激|かんげき}したな。[p]	All those snacks everyone chipped in SC to buy… That really moved me.
+40	それで、{僕|ぼく}に{話|はなし}って{何|なに}かな？[p]	So, what did you want to talk about?
+50	ありがとう。[p]	Thank you.
+60	{残念|ざんねん}だが、{仕方|しかた}がないか。[n]{君|きみ}とは{最後|さいご}まで{一緒|いっしょ}に{戦|たたか}いたかったんだがな。[p]	A shame, but it can't be helped. I wanted to fight with you to the end.
+70	では、{僕|ぼく}はこれで{失礼|しつれい}するよ。[p]	Well, I'll be going.
+80	{君|きみ}の{期待|きたい}に{添|そ}えるよう[n]{最大限|さいだいげん}の{努力|どりょく}をさせてもらうよ。[p]	I'll do my very best to live up to your expectations.
+90	おはよう、[var:0]。[n]さあ、{一緒|いっしょ}に{登校|とうこう}しよう。[p]	Morning, [var:0]. Come on, let's walk to school together.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{家|かね}が{足|た}りません。[p]	Not enough money.
+60002	ミハイル・ロークをスカウトしました。[p]	You scouted Mikhail Rourke!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	ミハイル・ロークとわかれた。[p]	Mikhail Rourke has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

@@ -1,0 +1,21 @@
+id	ja	en
+10	[var:0]。よくぞ、ここまで{成長|せいちょう}した。[n]もう{僕|ぼく}から{君|きみ}に{教|おし}える{事|こと}はない。[p]	[var:0]. You've grown so much. I have nothing left to teach you.
+11	これからは、{僕|ぼく}は{一|いち}ＬＢＸプレイヤーとして[n]{君|きみ}に{力|ちから}を{貸|か}そう。いつでも{声|こえ}をかけてくれ。[p]	From now on, I'll lend you my strength as an LBX player. Call on me anytime.
+20	{君|きみ}よりも{先|さき}に、ＬＢＸをパートナーとして[n]{悪|あく}と{戦|たたか}った{先輩|せんぱい}たちがいる……。[p]	Before you, there were others who fought evil with LBX as partners…
+21	その{先輩|せんぱい}たちに、この{島|しま}へ{集|あつ}まるよう{連絡|れんらく}した。[n]{彼|かれ}らに{会|あ}い、{色々|いろいろ}と{話|はなし}を{聞|き}いてみるといい。[p]	I've asked them to come here. Meet them and hear what they have to say.
+30	{僕|ぼく}の{仲間|なかま}たちには、もう{会|あ}えたかい？[n]ミゼル{事変|じへん}{後|ご}、{僕|ぼく}たちはみんな{自分|じぶん}で{考|かんが}え[p]	Have you met my friends yet? After the Mizell Incident, we each thought hard
+31	そして、{自分|じぶん}たちのできる{事|こと}をやろうと[n]これまでずっと{頑張|がんば}ってきた……。[p]	and kept working hard to do whatever we could…
+32	{君|きみ}にはその{思|おも}いを{知|し}った{上|うえ}で{前|まえ}へ{進|すす}んでほしい。[n]これからは、{君|きみ}もその{仲間|なかま}の{１人|ひとり}なのだから。[p]	Know that, and keep moving forward. You're one of us now, after all.
+40	では、{君|きみ}の{話|はなし}を{聞|き}こう。[p]	Now, let me hear what you have to say.
+50	{感謝|かんしゃ}する。[p]	I'm grateful.
+60	{大事|だいじ}な{決断|けつだん}の{時|とき}ほど{冷静|れいせい}さを{⟨麻⟩|ゎす}れてはならない。[n]{冷静|れいせい}さを{欠|か}いた{決断|けつだん}は、{必|かなら}ず{後悔|こうかい}を{招|まね}くからな。[p]	Stay calm when big decisions matter most. Rash choices always bring regret.
+70	……そろそろ{時間|じかん}だな。[n]また、{気|き}が{向|む}いたら{君|きみ}の{話|はなし}を{聞|き}かせてくれ。[p]	…It's about time. If you feel like it, come talk to me again.
+80	……わかった、{引|ひ}き{受|う}けよう。[n]{教|おし}え{子|ご}たちと{共|とも}に{戦|たたか}えて、{僕|ぼく}もうれしいよ。[p]	…All right, I'll do it. I'm glad to fight alongside my students.
+90	おはよう。{遅刻|ちこく}しないように{気|き}を{付|つ}けるんだぞ。[p]	Morning. Be careful not to be late.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{海道|かいどう}ジンをスカウトしました。[p]	You scouted Jin Kaido!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{海道|かいどう}ジンとわかれた。[p]	Jin Kaido has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

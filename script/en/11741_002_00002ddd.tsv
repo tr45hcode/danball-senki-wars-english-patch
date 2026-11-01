@@ -1,0 +1,21 @@
+id	ja	en
+10	{法条|ほうじょう}ムラクだ。ジェノック{加入|かにゅう}{後|ご}は[n]{第|だい}６{小隊|しょうたい}{隊長|たいちょう}を{任|まか}される{事|こと}となった。[p]	Muraku Hojo. Since joining Jenock, I've been made captain of 6th Squad.
+11	{色々|いろいろ}、{思|おも}う{事|こと}はあるだろうが、{宜|よろ}しく{頼|たの}む。[p]	I'm sure you have your thoughts, but I look forward to working with you.
+20	ロシウスからジェノックに{転属|てんぞく}となり[n]{寮|りょう}もスワン{荘|そう}からダック{荘|そう}に{移|うつ}る{事|こと}になった。[p]	Moving from Rossius to Jenock, I also left Swan Lodge for Duck Lodge.
+21	その{結果|けっか}、ハルキと{同室|どうしつ}になった。[n]あいつとは{隊長|たいちょう}{同士|どうし}、{話|はなし}が{合|あ}いそうだ。[p]	So now I room with Haruki. As fellow captains, we should get along.
+30	{相手|あいて}のバトルに{敬意|けいい}を{表|ひょう}し[n]{決着|けっちゃく}がついた{後|のち}に、{再戦|さいせん}を{誓|ちか}い{合|あ}う。[p]	Respect your opponent's battle, and once it's settled, vow a rematch.
+31	それが{本来|ほんらい}のＬＢＸバトルであるはず。[n]{俺|おれ}はそれを{取|と}り{戻|もど}すために{戦|たたか}っている……。[p]	That's what LBX battles should be. I fight to bring that back…
+32	フッ、なぜだろうな。お{前|まえ}といると[n]ＬＢＸを{純粋|じゅんすい}に{楽|たの}しんでいたあの{頃|ころ}を{思|おも}い{出|だ}す。[p]	Heh, I wonder why. Around you, I remember when LBX was just fun.
+40	それで、{俺|おれ}に{何|なん}の{用|よう}だ？[p]	So, what do you want with me?
+50	{悪|ゎる}いな。[p]	Thanks.
+60	……{了解|りょうかい}した。[n]お{前|まえ}の{選択|せんたく}を{尊重|そんちょう}しよう。[p]	…Understood. I'll respect your choice.
+70	では、また{合|あ}おう。[p]	Until we meet again.
+80	わかった。{宜|よろ}しく{頼|たの}む。[p]	Understood. I'm counting on you.
+90	なんだ、{俺|おれ}を{待|ま}っていてくれたのか？[n]わかった。{一緒|いっしょ}に{行|い}こう。[p]	What, were you waiting for me? All right. Let's go together.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{家|かね}が{足|た}りません。[p]	Not enough money.
+60002	{法条|ほうじょう}ムラクをスカウトしました。[p]	You scouted Muraku Hojo!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{法条|ほうじょう}ムラクとわかれた。[p]	Muraku Hojo has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

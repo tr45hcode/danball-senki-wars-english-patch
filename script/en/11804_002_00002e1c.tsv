@@ -1,0 +1,19 @@
+id	ja	en
+10	マイ　ネイム　イズ　ダニエル・メリコスキ。[n]ナイス　トゥー　ミー　チュー！[p]	My name is Daniel Merikoski. Nice to meet you!
+11	ハウ　ドゥーユードゥー？[p]	How do you do?
+20	ニホンゴ、{難|むずか}シイ……。バット、ＬＢＸ{大|だい}スキ！[n]ダカラ、ガンバルね！[p]	Japanese, so difficult… But LBX, I love it! So I try hard!
+21	ノーＬＢＸ！　ノーライフ！！[p]	No LBX! No life!!
+30	ノーＬＢＸ！　ノーライフ！！[n]アーンド、ノーフレンズ！　ノーライフ！！[p]	No LBX! No life!! Aaand no friends! No life!!
+40	ワッツ？　{何|なに}カ{問題|もんだい}デスか？[p]	What? Is there problem?
+50	センキュー　ベリー　マッチ！[n]アリガトゴザイマス！！[p]	Thank you very much! Arigato gozaimasu!!
+60	リアリー？　{本気|ほんき}デスか？[p]	Really? You are serious?
+70	シーユー！　サヨナラね！[p]	See you! Sayonara!
+80	オーケー！　レッツ　ファイト　ウィズ　ミー！[n]イッショニ{戦|たたか}いマス！[p]	Okay! Let's fight with me! We fight together!
+90	グッモーニン！　[n]えー、オハヨウゴザイマス！[p]	Good morning! Uh, ohayo gozaimasu!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	ダニエル・メリコスキをスカウトしました。[p]	You scouted Daniel Merikoski!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	ダニエル・メリコスキとわかれた。[p]	Daniel Merikoski has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

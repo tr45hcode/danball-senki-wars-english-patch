@@ -1,0 +1,21 @@
+id	ja	en
+10	ハァ～イ！　あなたが[var:0]ね？[n]{私|ゎたし}は、ジェシカ・カイオス。ヨロシクね！[p]	Hiii! You're [var:0], right? I'm Jessica Kaios. Nice to meet you!
+11	なぜ、すぐにあなたの{事|こと}がわかったか{不思議|ふしぎ}？[n]{簡単|かんたん}よ。{生徒|せいと}{全員|ぜんいん}の{顔|かお}と{名前|なまえ}は{記憶|きおく}{済|ず}みだもの。[p]	How did I know you? Easy. I know every student's face and name.
+20	やっぱり、まずはこの{恰好|かっこう}が{気|き}になるみたいね。[n]いいわ、{先|さき}に{説明|せつめい}してあげる。[p]	I see you're curious about this outfit first. Fine, I'll explain.
+21	{今|いま}の{私|ゎたし}は、Ａ{国|こく}が{誇|ほこ}るＬＢＸ{実験|じっけん}{部隊|ぶたい}[n]ファイアースウィーツ{第|だい}２{小隊|しょうたい}{隊長|たいちょう}よ。{驚|おどろ}いた？[p]	I now lead Fire Sweets 2nd Squad, Country A's LBX test unit. Surprised?
+30	え？　{私|ゎたし}がファイアースウィーツに{入|はい}った{理由|りゆう}？[n]いいわ、{教|おし}えてあげる。[p]	Huh? Why did I join the Fire Sweets? Fine, I'll tell you.
+31	いまだに{私|ゎたし}のパパは{危|あぶ}ないからって[n]{大反対|だいはんたい}しているけど、これは{私|ゎたし}の{意志|いし}なの。[p]	My papa still hates it because it's dangerous, but this was my choice.
+32	いつまたミゼルのような{脅威|きょうい}が{現|あらゎ}れないとは[n]{限|かぎ}らない。{備|そな}えが{必要|ひつよう}だと{思|おも}って{志願|しがん}したの。[p]	A threat like Mizell could return anytime. So I volunteered.
+40	それで、{私|ゎたし}に{何|なん}の{用|よう}かしら？[p]	So, what can I do for you?
+50	{金額|きんがく}{分|ぶん}の{働|はたら}きはするから、{安心|あんしん}して。[p]	I'll earn every penny, don't worry.
+60	あら、{残念|ざんねん}ね。{相手|あいて}ＬＢＸのスペックは[n]もう{把握|はあく}{済|ず}みなのに。{本当|ほんとう}に{別|ゎか}れるの？[p]	Too bad. I've already analyzed the enemy's LBX specs. Really leaving me?
+70	じゃあ、{私|ゎたし}は{失礼|しつれい}するわね。シーユー。[p]	Well, I'll be going. See you.
+80	ＯＫ！　ファイアースウィーツ{仕込|じこ}みの{戦|たたか}い{方|かた}を[n]このお{姉|ねえ}さんが{教|おし}えてあげるわ！[p]	OK! Let this big sis teach you Fire Sweets-style fighting!
+90	グッモーニング！　{気持|きも}ちのいい{朝|あさ}ね。[n]せっかくだから、ジンと{散歩|さんぽ}してきちゃったわ。[p]	Good morning! Lovely, isn't it? I went for a walk with Jin.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	ジェシカ・カイオスをスカウトしました。[p]	You scouted Jessica Kaios!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	ジェシカ・カイオスとわかれた。[p]	Jessica Kaios has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

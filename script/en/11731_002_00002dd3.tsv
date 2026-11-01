@@ -1,0 +1,21 @@
+id	ja	en
+10	やあ、ここって{可愛|かゎい}い{子|こ}が{多|おお}いな！[n]うらやましい～！[p]	Hey, this place has a lot of cute girls! I'm so jealous~!
+11	ああ、{俺|おれ}は{森高|もりたか}サトル。よろしくな、へへっ。[p]	Oh, I'm Satoru Moritaka. Nice to meet ya, heh.
+20	{俺|おれ}のタイプは、{古城|こじょう}アスカみたいな{女|おんな}の{子|こ}！[n]{意外性|いがいせい}がある{子|こ}に{弱|よゎ}いんだよな～。[p]	My type's a girl like Asuka Kojo! I'm weak for girls who surprise me~.
+21	[x14:0000]にも、いないかな？[n]{１人|ひとり}くらいいるだろ～？[p]	Isn't there one in [x14:0000]? There's gotta be at least one~.
+30	{神威港|かむいこう}で、デートした{事|こと}ある？[n]{夜|よる}はイイ{雰囲気|ふんいき}で、オススメなんだ。[p]	Ever been on a date at Kamui Port? At night the mood's perfect.
+31	{本土|ほんど}の{夜景|やけい}が、{遠|とお}くに{見|み}えてさ……[n]{海|うみ}からの{風|かぜ}も{気持|きも}ちいいんだ。[p]	You see the mainland's lights far off… and the sea breeze feels great.
+32	……え？　{夜間|やかん}{外出|がいしゅつ}は{禁止|きんし}だって？[n]へへっ、{野暮|やぼ}な{事|こと}は{言|い}いっこなしだ。[p]	…Huh? We can't go out at night? Heh, don't be such a killjoy.
+40	おっと、デートの{約束|やくそく}があるんだった。[n]{手短|てみじか}に{頼|たの}むよ。[p]	Whoops, I've got a date lined up. Make it quick.
+50	えっ？　{俺|おれ}にくれるのかい。[n]それじゃ、ありがたくいただくよ。[p]	Huh? For me? Then I'll gladly take it.
+60	えっ？　{俺|おれ}の{出番|でばん}はないの？[n]{俺|おれ}がいなきゃ、{女|おんな}の{子|こ}たちが{悲|かな}しむでしょ。[p]	Huh? You don't need me? The girls'll be heartbroken without me.
+70	じゃあ、またね～。[p]	Well, see ya~.
+80	へへっ、{女|おんな}の{子|こ}の{黄色|きいろ}い{声援|せいえん}が{楽|たの}しみだぜ！[p]	Heh, can't wait to hear the girls cheering!
+90	おっはよう！[n]{今朝|けさ}の{女子|じょし}{寮|りょう}も{輝|かがや}いているね。[p]	Mooorning! The girls' dorm is sparkling this morning.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{森高|もりたか}サトルをスカウトしました。[p]	You scouted Satoru Moritaka!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{森高|もりたか}サトルとわかれた。[p]	Satoru Moritaka has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

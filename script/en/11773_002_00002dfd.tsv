@@ -1,0 +1,21 @@
+id	ja	en
+10	こちらはロシウス{連合|れんごう}{所属|しょぞく}、{小金井|こがねい}タカシ。[n]{相手|あいて}は[x14:0000]{所属|しょぞく}と{確認|かくにん}！[p]	This is Takashi Koganei, Rossius Union. Contact confirmed as [x14:0000]!
+11	おっと……、すまない。[n]{戦場|せんじょう}でのクセが{抜|ぬ}けないものでな。[p]	Whoops… sorry. Battlefield habits die hard.
+20	{任務|にんむ}の{合間|あいま}は、いつも{英気|えいき}を{養|やしな}っている。[n]{体調|たいちょう}{管理|かんり}も、{立派|りっぱ}な{事|こと}だからな。[p]	Between missions, I always rest up. Staying in shape is part of the job.
+21	{君|きみ}も、いつ{戦場|せんじょう}に{呼|よ}ばれてもいいように[n]{日頃|ひごろ}から{準備|じゅんび}は{怠|おこた}らない{方|ほう}がいいぞ。[p]	You'd better stay prepared too, in case you're called to the front.
+30	{苦難|くなん}をともに{乗|の}り{越|こ}える{事|こと}で[n]{戦友|せんゆう}との{間|あいだ}に{芽生|めば}える{感情|かんじょう}……。[p]	The bond between comrades who overcome hardship together…
+31	ウォータイムのような、{疑似的|ぎじてき}な{戦|たたか}いであっても[n]それは{変|か}わらないぞ。[p]	Even in a mock battle like War Time, that doesn't change.
+32	{心|こころ}を{懸|か}けても、{命|いのち}を{懸|か}けても[n]{友情|ゆうじょう}の{重|おも}さは{同|おな}じ……、なんてな。[p]	Stake your heart or your life, the friendship weighs the same… they say.
+40	こちら、{小金井|こがねい}。{何事|なにごと}だ？[p]	Koganei here. What's the situation?
+50	{補給|ほきゅう}か、ありがたい！[p]	Supplies? Much appreciated!
+60	{了解|りょうかい}……、また{次|つぎ}の{指示|しじ}を{頼|たの}む。[p]	Roger… Awaiting further orders.
+70	それでは、またな。[p]	Until next time.
+80	{了解|りょうかい}！　{直|ただ}ちに{入隊|にゅうたい}の{準備|じゅんび}に{移|うつ}る！[p]	Roger! Preparing to join the unit at once!
+90	[var:0]！[n]{今日|きょう}の{任務|にんむ}、{必|かなら}ず{成功|せいこう}させよう！[p]	[var:0]! Let's make today's mission a success!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{小金井|こがねい}タカシをスカウトしました。[p]	You scouted Takashi Koganei!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{小金井|こがねい}タカシとわかれた。[p]	Takashi Koganei has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

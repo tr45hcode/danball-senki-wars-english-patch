@@ -1,0 +1,21 @@
+id	ja	en
+10	[var:0]だな。[n]{俺|おれ}は{⟨戸⟩⟨川⟩|きしかゎ}セイリュウ。[p]	You're [var:0], right? I'm Seiryu Kishikawa.
+11	ジェノックの{第|だい}２{小隊|しょうたい}に{所属|しょぞく}している。[n]せっかく{同盟|どうめい}を{組|く}んだんだ。お{互|たが}い{頑張|がんば}ろう。[p]	I'm in Jenock's 2nd Squad. We're allies now, so let's both do our best.
+20	どうも{俺|おれ}を{第|だい}２{小隊|しょうたい}のサブリーダーと[n]{思|おも}っている{者|もの}が{多|おお}いようだが、それは{誤解|ごかい}だ。[p]	People seem to think I'm 2nd Squad's sub-leader, but they're mistaken.
+21	{第|だい}２{小隊|しょうたい}はゲンドウさんあってこその{小隊|しょうたい}だ。[n]サブリーダーなんて{必要|ひつよう}ないんだ。[p]	2nd Squad only works because of Gendo. It doesn't need a sub-leader.
+30	{俺|おれ}はよく{周|まゎ}りから、{落|お}ち{着|つ}いている、とか[n]{渋|しぶ}い、などと{言|い}われるのだが、それは{誤解|ごかい}だ。[p]	People call me calm, even cool. That's a misunderstanding too.
+31	ウォータイム{中|ちゅう}についカッとなってしまって[n]ゲンドウさんから{注意|ちゅうい}される{事|こと}も{多|おお}いんだ。[p]	I lose my temper in War Time a lot, and Gendo often has to warn me.
+32	{直|なお}したいとは{思|おも}うんだが、これも{性分|しょうぶん}だからな。[n]なかなか{難|むずか}しいんだ……。[p]	I'd like to fix it, but it's just how I am. It's not easy…
+40	どうした、{俺|おれ}に{用|よう}か？[p]	What is it? You need me?
+50	{助|たす}かる。[p]	That helps.
+60	いいさ、お{前|まえ}が{悪|ゎる}いんじゃない……。[n]お{前|まえ}の{力|ちから}になれなかった{俺|おれ}が{悪|ゎる}いんだ。[p]	It's fine, it's not your fault… It's my fault for not being more help to you.
+70	では、またな。[p]	See you, then.
+80	わかった。お{前|まえ}に{協力|きょうりょく}しよう。[n]これからよろしく{頼|たの}む。[p]	All right, I'll help you. I'm counting on you.
+90	おはよう、[var:0]。[n]ほら{行|い}くぞ。{早|はや}くしろ。[p]	Morning, [var:0]. Come on, let's go. Hurry up.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{⟨戸⟩⟨川⟩|きしかゎ}セイリュウをスカウトしました。[p]	You scouted Seiryu Kishikawa!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{⟨戸⟩⟨川⟩|きしかゎ}セイリュウとわかれた。[p]	Seiryu Kishikawa has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

@@ -1,0 +1,21 @@
+id	ja	en
+10	ワタシ、ニコラス・フランク、イイマス。[n]メカニック、ヤッテマス。[p]	Me, Nicholas Frank. Me doing mechanic.
+11	{完壁|かんぺき}ニ、{整備|せいび}スル。コレが{大事|だいじ}ネ！[p]	Perfect maintenance. This is important, yes!
+20	……フーム、コレデ{完成|かんせい}シタネ！[p]	…Hmm, now is finished!
+21	ワタシの{整備|せいび}、トテモ{完壁|かんぺき}。[n]ＬＢＸ{負|ま}けナイ、{壊|こゎ}れナイ。[p]	My maintenance, very perfect. LBX no lose, no break.
+30	今マデ、ワタシのトモダチ、ＬＢＸダケ……。[n]デモ、アナタがトモダチになってクレタ！[p]	Until now, my only friend is LBX… But you become my friend!
+31	トモダチ、デキルハ、うれシイ！　ヨカッタ！[p]	Making friend, so happy! Very good!
+32	アナタニモ、ワタシノ{整備|せいび}ヲ[n]{教|おし}エテあげたいデス。[p]	Me want to teach you my maintenance too.
+40	ホワッツ？　ドウシマシタ？[p]	What? What is wrong?
+50	アリガトウ、{感謝|かんしゃ}デス。[p]	Thank you, much grateful.
+60	ラジャー……。[n]マタ、{誘|さそ}ッテクダサイ……。[p]	Roger… Please invite me again…
+70	では、サヨウナラ、デス。[p]	Then, goodbye.
+80	{完壁|かんぺき}ナ、メンテナンス、オ{見|み}セシマス。[p]	Me show you perfect maintenance.
+90	オハヨウゴザイマス。{今日|きょう}モ{勝|か}チマショウ！[p]	Good morning. Today also we win!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	ニコラス・フランクをスカウトしました。[p]	You scouted Nicholas Frank!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	ニコラス・フランクとわかれた。[p]	Nicholas Frank has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

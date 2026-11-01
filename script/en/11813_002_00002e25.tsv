@@ -1,0 +1,21 @@
+id	ja	en
+10	あ！　あなたが[var:0]！？[n]はじめまして！　{僕|ぼく}は、{大空|おおぞら}ヒロといいます！！[p]	Oh! Are you [var:0]!? Nice to meet you! My name is Hiro Ozora!!
+11	この{島|しま}には、ジンさんから{呼|よ}ばれて{来|き}たんです！[n]いや～、あなたにやっと{会|あ}えて{感激|かんげき}です！！[p]	Jin invited me to this island! Wow, I'm so thrilled to finally meet you!!
+20	それにしても、{驚|おどろ}きました。あのジンさんが[n]まさか{神威|かむい}{大門|だいもん}で{先生|せんせい}になっていただなんて！[p]	Still, I was surprised. Jin, of all people, a teacher at Kamui Daimon!
+21	でも、あの{人|ひと}らしいかもしれません。{昔|むかし}から[n]クールで{頼|たよ}りがいのある{理想|りそう}の{先輩|せんぱい}でしたから！[p]	But that's just like him. He was always the cool senior I looked up to!
+30	いま{僕|ぼく}は、ＬＢＸの{素晴|すば}らしさを{子|こ}どもたちに[n]{伝|つた}えるために、{世界|せかい}{中|じゅう}を{飛|と}び{回|まゎ}っています。[p]	These days I travel the world, teaching kids how wonderful LBX are.
+31	４{年前|ねんまえ}。ミゼルとの{戦|たたか}いの{中|なか}で、ＬＢＸは[n]{世界|せかい}をつなぐ{欠|か}け{橋|はし}になってくれました。[p]	Four years ago, fighting Mizell, LBX became a bridge between nations.
+32	この{活動|かつどう}は、ＬＢＸに{助|たす}けてもらった[n]{僕|ぼく}からＬＢＸへの、{僕|ぼく}なりの{恩返|おんがえ}しなんです。[p]	LBX saved me, so this is my way of paying them back.
+40	えーっと、それで{僕|ぼく}にどんなご{用件|ようけん}ですか？[p]	Um, so, what can I do for you?
+50	ありがとうございます！[p]	Thank you so much!
+60	えぇー、もうお{別|ゎか}れなんですか！？[n]ヒーローは{最後|さいご}まで{諦|あきら}めちゃダメなんですよ？[p]	Whaaat, goodbye already!? A hero never gives up until the end, you know?
+70	では、{僕|ぼく}はこれで{失礼|しつれい}します！[p]	Well, I'll be going now!
+80	{仲間|なかま}に{入|い}れてくれるんですか？[n]ヨロシクお{願|ねが}いします！！[p]	You'll let me join your team? Looking forward to it!!
+90	おはようございます！　これから{僕|ぼく}は[n]{島|しま}{中|じゅう}を{探索|たんさく}してくるつもりです。{楽|たの}しみだな～。[p]	Good morning! I'm going to explore the whole island now. Can't wait~.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{大空|おおぞら}ヒロをスカウトしました。[p]	You scouted Hiro Ozora!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{大空|おおぞら}ヒロとわかれた。[p]	Hiro Ozora has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

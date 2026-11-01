@@ -1,0 +1,21 @@
+id	ja	en
+10	ふむ……、これはいいパーツだ。 [n]{武器|ぶき}のセッティングも{悪|ゎる}くないな。[p]	Hmm… These are good parts. The weapon setup's not bad either.
+11	おっと、{挨拶|あいさつ}もしないで{失礼|しつれい}した。[n]{僕|ぼく}は{四|よ}ツ{谷|や}ダイスケ。よろしく。[p]	Oh, forgive me for not saying hello. I'm Daisuke Yotsuya. Pleased to meet you.
+20	やぁ、{失礼|しつれい}なお{願|ねが}いかもしれないが[n]{君|きみ}のＬＢＸパーツ、ちょっと{見|み}せてくれないか？[p]	Hi. This may be rude, but could I take a look at your LBX parts?
+21	……ほう、これはこれは……。[n]ありがとう、{参考|さんこう}になったよ。[p]	…Well, well… Thank you, that was instructive.
+30	ＬＢＸは、{単|たん}なるパーツの{組|く}み{合|あ}わせに[n]{過|す}ぎないと{言|い}う{者|もの}もいるが、それは{違|ちが}う。[p]	Some say an LBX is just a combination of parts, but they're wrong.
+31	ＬＢＸのパーツ{選|えら}びとカスタマイズは[n]じつに、クリエイティブな{作業|さぎょう}なんだよ。[p]	Choosing and customizing LBX parts is truly creative work.
+32	{君|きみ}のセンスは{素晴|すば}らしい。ＬＢＸに{対|たい}する[n]{愛|あい}すら{感|かん}じるよ。{僕|ぼく}も{見習|みなら}わなくてはな。[p]	Your sense is superb. I can feel your love for LBX. I must learn from you.
+40	さて、どういったご{用件|ようけん}かな？[p]	Now, what can I do for you?
+50	ありがとう。{好意|こうい}は{無駄|むだ}にしないよ。[p]	Thank you. I won't waste your kindness.
+60	もう、おしまいか。{短|みじか}かったな……。[n]まあ、いいけどさ。[p]	Over already? That was short… Well, whatever.
+70	ではまた。[p]	See you.
+80	わかった。ＬＢＸの{事|こと}なら{僕|ぼく}に{任|まか}せてくれ。[p]	Understood. Leave anything LBX to me.
+90	おはよう。カスタマイズに{集中|しゅうちゅう}してて[n]すっかり{寝|ね}るのが{遅|おそ}くなってしまったよ。[p]	Morning. I got so absorbed in customizing that I stayed up late.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{四|よ}ツ{谷|や}ダイスケをスカウトしました。[p]	You scouted Daisuke Yotsuya!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{四|よ}ツ{谷|や}ダイスケとわかれた。[p]	Daisuke Yotsuya has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

@@ -1,0 +1,21 @@
+id	ja	en
+10	{俺|おれ}{様|さま}は、ドミトリー・クリロワ。[n]{美|うつく}しさと{強|つよ}さを{兼|か}ね{備|そな}えた、{完壁|かんぺき}な{戦士|せんし}だ。[p]	I am Dmitry Krylova. A perfect warrior, beautiful and strong.
+11	バイオレットデビルも、グレイビーストも[n]{俺|おれ}{様|さま}の{敵|てき}ではない。{長生|ながい}きしたくば{覚|おぼ}えておけ。[p]	The Violet Devil and the Gray Beast are no match for me. Remember that.
+20	{俺|おれ}{様|さま}の{強|つよ}さを{知|し}りたい？[n]やめておけ。２{度|ど}と{戦場|せんじょう}に{立|た}てなくなるぞ。[p]	You want to know my strength? Don't. You'd never fight again.
+21	{後悔|こうかい}する{事|こと}は、{目|め}に{見|み}えている。[n]{身|み}の{程|ほど}を{知|し}るのだな。[p]	You'd only regret it. Know your place.
+30	[var:0]！[n]お{前|まえ}は、{本当|ほんとう}に{強|つよ}くなった！！[p]	[var:0]! You've gotten truly strong!!
+31	まあ、{俺|おれ}{様|さま}ほどではないがな。[n]だが、{今後|こんご}の{活躍|かつやく}によっては……[p]	Not as strong as me, of course. But depending on how you do…
+32	{俺|おれ}{様|さま}の{右腕|みぎうで}にしてやってもいいと{思|おも}っている。[n]だから、{精進|しょうじん}するんだぞ！[p]	I might make you my right hand. So keep at it!
+40	この{俺|おれ}{様|さま}に{用|よう}があるのか。[n]それほど{重要|じゅうよう}な{案件|あんけん}なんだろうな？[p]	You want something from me? It had better be important.
+50	フン、これだけか？　この{倍|ばい}は{欲|ほ}しいところだが[n]……まあいい。お{前|まえ}に{免|めん}じて{許|ゆる}してやろう。[p]	Hmph, this is it? I'd like twice as much… Fine. I'll let it go, for you.
+60	{俺|おれ}{様|さま}が{強過|つよす}ぎるからといって[n]お{前|まえ}が{遠慮|えんりょ}する{必要|ひつよう}はないんだぞ？[p]	Just because I'm too strong doesn't mean you have to hold back, you know.
+70	では、さらばだ！[p]	Farewell, then!
+80	はぁーはっはっは！[n]お{前|まえ}に、{完全|かんぜん}なる{勝利|しょうり}を{約束|やくそく}しよう。[p]	Hah hah hah hah! I promise you total victory.
+90	[var:0]、{今日|きょう}のバトルが{楽|たの}しみだな。[n]{俺|おれ}{様|さま}の{俺|おれ}{様|さま}による{俺|おれ}{様|さま}のためのバトルだからな！[p]	Can't wait for today's battle, [var:0]. A battle of me, by me, for me!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	ドミトリー・クリロワをスカウトしました。[p]	You scouted Dmitry Krylova!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	ドミトリー・クリロワとわかれた。[p]	Dmitry Krylova has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

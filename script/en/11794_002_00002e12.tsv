@@ -1,0 +1,21 @@
+id	ja	en
+10	あたしは、{凪|なぎ}{野|の}ウミ。[n]{情報|じょうほう}{分析|ぶんせき}や{作戦|さくせん}{立案|りつあん}を{主|おも}に{担当|たんとう}している。[p]	I'm Umi Nagino. I mainly handle intel analysis and strategy.
+11	ポルトンは{戦略|せんりゃく}{上|じょう}、{特|とく}に{重要|じゅうよう}でもない{小国|しょうこく}だが[n]{人材|じんざい}は{粒|つぶ}ぞろいだ。{軽|かる}く{見|み}ると{痛|いた}い{目|め}にあうぞ。[p]	Porton's a minor nation, but our people are top-notch. Don't underestimate us.
+20	ポルトンは{女|おんな}の{子|こ}ばかりの{国|くに}だけど[n]ＬＢＸバトルの{実力|じつりょく}はみんな{折|お}り{紙|がみ}つきだ。[p]	Porton is a nation of girls, but our LBX skills are first-rate.
+21	せめて{戦|たたか}う{機会|きかい}さえあれば、ポルトンの{名|な}を[n]{世界|せかい}にアピールできるんだが……。[p]	If only we got the chance to fight, we could show the world what Porton is…
+30	えっ！？　[n]『ポルトンの{歩|ある}くコンピューター』！？[p]	What!? "Porton's walking computer"!?
+31	……その{名前|なまえ}、{誰|だれ}から{聞|き}いた？　[n]ヒナコか？　それとも、リリカ？[p]	…Who told you that name? Hinako? Or was it Ririka?
+32	まったく、{誰|だれ}が{付|つ}けたんだか{知|し}らないが[n]{恥|は}ずかしいったらありゃしない。{迷惑|めいゎく}な{話|はなし}だよ。[p]	I don't know who came up with it, but it's so embarrassing. What a nuisance.
+40	ん？　まだ{何|なに}か、あたしに{用|よう}か？[p]	Hm? You need something else from me?
+50	ありがとう！　{助|たす}かるよ！[p]	Thanks! That helps!
+60	あたしが、ポルトン{出身|しゅっしん}だからか？[n]{厳|きび}しい{現実|げんじつ}ね……。[p]	Is it because I'm from Porton? Harsh reality…
+70	メリッサ{先生|せんせい}に{呼|よ}ばれているから[n]じゃあ、またな。[p]	Ms. Portman wants to see me, so see you.
+80	ちょうど{退屈|たいくつ}してたところだ。[n]あたしでよければ、{力|ちから}になるよ。[p]	I was just getting bored. If I'll do, I'll help.
+90	そういえば、[x14:0000]{所属|しょぞく}だったな。[n]ダック{荘|そう}で{会|あ}うのも{当然|とうぜん}というわけだ。[p]	Right, you're with [x14:0000]. No wonder we meet at Duck Lodge.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{凪野|なぎの}ウミをスカウトしました。[p]	You scouted Umi Nagino!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{凪野|なぎの}ウミとわかれた。[p]	Umi Nagino has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

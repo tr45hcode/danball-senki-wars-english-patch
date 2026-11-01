@@ -1,0 +1,21 @@
+id	ja	en
+10	よぉ、お{前|まえ}らに{会|あ}いたかったぜ～。[n]ガーディ・ドーン{様|さま}のお{帰|かえ}りだ！[p]	Yo, I've been dyin' to see you lot~. The great Gardie Dawn is back!
+11	この{前|まえ}の{借|か}りは{必|かなら}ず{返|かえ}してやるからな。[n]{覚|おぼ}えてやがれ！[p]	I'll pay you back for last time. Count on it!
+20	ロストしてからは、ずっと{退屈|たいくつ}でな[n]ずっとストレスを{感|かん}じてた。[p]	Ever since I got Lost, I've been bored stiff. Stressed out the whole time.
+21	{理由|りゆう}は{知|し}らんが、せっかく{戻|もど}って{来|こ}れたんだ。[n]へへへ、{大暴|おおあば}れさせてもらうぜ！[p]	Dunno why, but I'm back. Heh heh heh, I'm gonna go wild!
+30	なんだ、お{前|まえ}。{一緒|いっしょ}に{戦|たたか}ってると[n]{結構|けっこう}、{話|はなし}が{分|ゎ}かるヤツなんじゃねーか。[p]	Huh, you. Fighting together, turns out you're pretty easy to talk to.
+31	へへへ、{誤解|ごかい}してたぜ。[n]これからもよろしくたのむぜ、{兄弟|きょうだい}！[p]	Heh heh heh, I had you wrong. Let's keep at it, brother!
+32	さあ、{今日|きょう}もセカンドワールドに[n]デスグリフォンの{嵐|あらし}を{起|お}こしてやろうぜ！[p]	Now, let's whip up a Death Griffon storm in the Second World today!
+40	フン、{俺|おれ}に{用|よう}だと？[n]おもしれぇ、{聞|き}いてやろうじゃねぇか。[p]	Hmph, you need me? Interesting. Let's hear it.
+50	{悪|ゎる}くない{取引|とりひき}だな。{乗|の}らせてもらうぜ！[p]	Not a bad deal. I'm in!
+60	フン、{俺|おれ}は{暴|あば}れたいだけだ。{勝手|かって}にしろ。[n]ただ、{次|つぎ}の{標的|ひょうてき}はお{前|まえ}になるかもしれねーがな？[p]	Hmph, I just wanna cut loose. Suit yourself. You might be my next target.
+70	フン、{俺|おれ}もヒマじゃないんでな。あばよ。[p]	Hmph, I'm not idle either. Later.
+80	へへへ、{楽|たの}しくなってきやがった！[n]{大暴|おおあば}れしてやるぜ！！[p]	Heh heh heh, now this is getting fun! I'm gonna go wild!!
+90	{本土|ほんど}にいる{間|あいだ}は、{退屈|たいくつ}{過|す}ぎたからよ。[n]{今日|きょう}は、{盛大|せいだい}にストレス{解消|かいしょう}させてもらうぜ！[p]	The mainland was way too boring. Today I'm blowing off steam big time!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	ガーディ・ドーンをスカウトしました。[p]	You scouted Gardie Dawn!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	ガーディ・ドーンとわかれた。[p]	Gardie Dawn has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

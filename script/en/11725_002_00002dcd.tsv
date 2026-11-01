@@ -1,0 +1,21 @@
+id	ja	en
+10	あら、ごきげんよう。[n]{私|ゎたくし}、{⟨皐⟩|すめらぎ}アオイと{申|もう}しますの。[p]	Oh my, good day. I am Aoi Sumeragi.
+11	{機会|きかい}があれば、バトルでご{一緒|いっしょ}したいですわね。[p]	Should the chance arise, I'd love to join you in battle.
+20	{庶民|しょみん}の{生活|せいかつ}を、こうして{体験|たいけん}するのも[n]{悪|ゎる}くありませんわね。[p]	Experiencing the commoner's life like this isn't so bad.
+21	{質素|しっそ}なお{食事|しょくじ}や、{狭苦|せまくる}しいお{部屋|へや}とか……[n]ああっ！　{新鮮|しんせん}すぎますわっ！！[p]	The simple meals, the cramped rooms… Ah! It's all so fresh!!
+30	{私|ゎたくし}、やはり{庶民|しょみん}の{楽|たの}しみが[n]イマイチ{理解|りかい}できないようですの。[p]	I still can't quite grasp what commoners do for fun.
+31	でも、[var:0][n]{貴方|あなた}といる{時|とき}はとっても{楽|たの}しいですわ。[p]	But when I'm with you, [var:0], I have a wonderful time.
+32	{一体|いったい}、{何|なに}が{違|ちが}うのでしょう？[n]{不思議|ふしぎ}ですわね。[p]	What could the difference be? How curious.
+40	それで、{何|なん}のご{用|よう}ですの？[p]	Now, what is it you want?
+50	{庶民|しょみん}からの{施|ほどこ}しだなんて、{貴重|きちょう}な{体験|たいけん}ですわね！[p]	Charity from a commoner! What a rare experience!
+60	は？　{意味|いみ}がわかりませんわ。[n]しっかりと{説明|せつめい}していただけるかしら？[p]	Pardon? That makes no sense. Would you kindly explain yourself?
+70	それでは、ごめん{遊|あそ}ばせ。[p]	Well then, farewell.
+80	{私|ゎたくし}の{力|ちから}、お{見|み}せしますわ！[p]	I shall show you my power!
+90	おはようございます、ですわ！[n]それにしても{随分|ずいぶん}とみすぼらしい{建物|たてもの}ですわね。[p]	Good morning to you! What a shabby building this is.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{⟨皐⟩|すめらぎ}アオイをスカウトしました。[p]	You scouted Aoi Sumeragi!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{⟨皐⟩|すめらぎ}アオイとわかれた。[p]	Aoi Sumeragi has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

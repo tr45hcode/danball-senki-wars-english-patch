@@ -1,0 +1,21 @@
+id	ja	en
+10	あの～、もしかして{君|きみ}が[var:0]かい？[n]ああ、{良|よ}かった。{間違|まちが}いじゃなかったんだね。[p]	Um, are you [var:0], by any chance? Oh, good. I wasn't wrong.
+11	あっ、はじめまして。{僕|ぼく}は{灰原|はいばら}ユウヤ。[n]ここには、ジン{君|くん}から{呼|よ}ばれて{来|き}たんだ。[p]	Oh, nice to meet you. I'm Yuya Haibara. Jin asked me to come here.
+20	{僕|ぼく}たちが{戦|たたか}ったミゼル{事変|じへん}から、もう４{年|ねん}か。[n]{時間|じかん}が{経|た}つのって、{早|はや}いんだね。[p]	Four years already since we fought in the Mizell Incident. Time sure flies.
+21	ＬＢＸ{専門|せんもん}{校|こう}なんてものが{出来|でき}てるなんて[n]{夢|ゆめ}にも{思|おも}わなかった。{本当|ほんとう}にビックリしたよ。[p]	I never dreamed there'd be a school just for LBX. I was really surprised.
+30	ミゼル{事変|じへん}の{後|あと}から、{僕|ぼく}はたった{１人|ひとり}で{世界|せかい}を[n]{回|まゎ}る{度|たび}に{出|で}たんだ。{広|ひろ}い{世界|せかい}を{見|み}るためにね。[p]	After the Mizell Incident, I set out alone to travel the world. To see how big it is.
+31	{狭|せま}い{世界|せかい}しか{知|し}らなかった{僕|ぼく}にとって[n]この{目|め}で{見|み}る{世界|せかい}はずっと{大|おお}きくて{美|うつく}しかった。[p]	I'd only known a small world. The real one was bigger and more beautiful.
+32	{本当|ほんとう}に、{度|たび}に{出|で}て{良|よ}かったって{思|おも}うよ。[n]でも、そろそろＬＢＸが{恋|こい}しくなってきたかな。[p]	I'm really glad I went traveling. But I'm starting to miss LBX.
+40	じゃあ、{君|きみ}の{話|はなし}を{聞|き}かせてくれるかな？[p]	So, will you tell me what's on your mind?
+50	ありがとう！　{助|たす}かるよ！[p]	Thank you! That helps!
+60	ごめん、やっぱり{僕|ぼく}が{足|あし}を{引|ひ}っ{張|ぱ}ったせいだね。[n]また{度|たび}に{出|で}て、{自分|じぶん}を{鍛|きた}え{直|なお}してくるよ。[p]	Sorry, I must have held you back after all. I'll go traveling again and retrain.
+70	じゃあ、{僕|ぼく}はこれで{失礼|しつれい}するよ。[p]	Well, I'll be going now.
+80	{久|ひさ}しぶりのバトルだから{自信|じしん}はないけど[n]{何|なん}とか{力|ちから}になれるように{頑張|がんば}るよ。[p]	It's been a while since I battled, so I'm not confident, but I'll try to help.
+90	おはよう。この{島|しま}は{初|はじ}めて{見|み}るものばかりで[n]{面白|おもしろ}いよ。これが１９６０{年代|ねんだい}の{風景|ふうけい}なんだね。[p]	Morning. Everything here is new to me. So this is what the 1960s looked like.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{灰原|はいばら}ユウヤをスカウトしました。[p]	You scouted Yuya Haibara!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{灰原|はいばら}ユウヤとわかれた。[p]	Yuya Haibara has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

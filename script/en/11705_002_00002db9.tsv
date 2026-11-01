@@ -1,0 +1,21 @@
+id	ja	en
+10	よ！　[var:0]。{俺|おれ}は{浜|はま}{崎|さき}タイガ。[n]ジェノック{第|だい}２{小隊|しょうたい}のプレイヤーだ。[p]	Hey! [var:0]. I'm Taiga Hamasaki, a player in Jenock 2nd Squad.
+11	まともに{話|はな}すのは{初|はじ}めてだったな。[n]{同盟|どうめい}{国|こく}のよしみだ、これからもよろしくな。[p]	This is our first real chat, huh? We're allies now, so let's get along.
+20	よお、[var:0]。[n]{俺|おれ}に{話|はな}しかけてくるなんて、{珍|めずら}しいな。[p]	Hey, [var:0]. It's rare for you to talk to me.
+21	ゲンドウさんの{年齢|ねんれい}？　{何|なに}{言|い}ってんだよ、お{前|まえ}。[n]{同|おな}じクラスだから、１４{歳|さい}に{決|き}まってるだろ！[p]	Gendo's age? What are you on about? He's in our class, so he's 14, obviously!
+30	……え？　{目|め}が{悪|ゎる}いのかって？[n]そーだよ。{見|み}たらわかるだろ。[p]	…Huh? Do I have bad eyesight? Yeah. Isn't it obvious?
+31	コンタクト？　しないよ、コンタクトなんて。[n]だってさ、{指|ゆび}を{目|め}の{中|なか}に{入|い}れるんだぜ？[p]	Contacts? No way. You have to stick your finger in your eye!
+32	{考|かんが}えられるか？　{考|かんが}えられないだろ。[n]あ、{別|べつ}に{怖|こゎ}がってるわけじゃないからな！[p]	Can you imagine that? I sure can't. Not that I'm scared or anything!
+40	で、どうしたんだ？[p]	So, what's up?
+50	ありがとな。[p]	Thanks.
+60	お{前|まえ}がいらないっていうなら、{好|す}きにしろよ。[n]……どうせ{俺|おれ}の{意見|いけん}なんて{聞|き}かないんだろ？[p]	If you don't need me, fine, whatever. …You never listen to me anyway, right?
+70	あっ、もうこんな{時間|じかん}だ。[n]じゃあな！[p]	Oh, look at the time. See ya!
+80	{俺|おれ}を{仲間|なかま}に？[n]いいぜ、{力|ちから}になってやるよ。[p]	Me, on your team? Sure, I'll help you out.
+90	おっ、[var:0]！　おはよう！[n]よし、じゃあ{行|い}こうか！[p]	Oh, [var:0]! Morning! All right, let's go!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{浜崎|はまさき}タイガをスカウトしました。[p]	You scouted Taiga Hamasaki!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{浜崎|はまさき}タイガとわかれた。[p]	Taiga Hamasaki has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

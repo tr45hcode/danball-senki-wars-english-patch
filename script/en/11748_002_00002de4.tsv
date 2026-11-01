@@ -1,0 +1,21 @@
+id	ja	en
+10	{俺|おれ}は{土門|どもん}ソウジロウ。[n]{機体|きたい}の{観察|かんさつ}とデータ{収集|しゅうしゅう}が{得意|とくい}だ。[p]	I'm Sojiro Domon. I specialize in observing units and collecting data.
+11	{君|きみ}も、もちろんデータ{収集|しゅうしゅう}{対象|たいしょう}だ。[n]よろしくお{願|ねが}いしたい。[p]	You're also, naturally, a subject for data collection. I look forward to it.
+20	{話|はなし}ならすぐに{終|お}わらせてくれないか？[n]{思|おも}いついた{仮説|かせつ}を、すぐに{実証|じっしょう}してみたい。[p]	Could you keep this short? I want to test a hypothesis I just thought of.
+21	{研究|けんきゅう}{以外|いがい}の{事|こと}に、{時間|じかん}を{⟨割⟩|さ}きたくないんだ。[p]	I don't want to spend time on anything but research.
+30	この{機体|きたい}に、この{主|あるじ}あり……[n]{君|きみ}を{見|み}ていると、そう{思|おも}うよ。[p]	Like unit, like pilot… That's what I think when I see you.
+31	ＬＢＸは、それを{使|つか}うプレイヤーの{心|こころ}を{撃|うつ}す[n]{鏡|かがみ}のようなものだ。[p]	An LBX is like a mirror that reflects its player's heart.
+32	{君|きみ}のＬＢＸは{素晴|すば}らしい。[n]つまり、{君|きみ}も……、{言|い}わなくてもわかるだろ？[p]	Your LBX is excellent. So you are too… I don't need to say it, do I?
+40	それで、{用件|ようけん}というのは？[p]	So, what can I do for you?
+50	{助|たす}かる。さっそく{研究費|けんきゅうひ}にあてるよ。[p]	That helps. It'll go straight to my research funds.
+60	……{君|きみ}の{判断|はんだん}に{任|まか}せるよ。[n]{俺|おれ}は{研究|けんきゅう}に{戻|もど}るだけだからな。[p]	…It's your call. I'll just go back to my research.
+70	{用件|ようけん}はそれで{終|お}わりかい？　そうか……。[p]	Is that all? I see…
+80	{了解|りょうかい}。いい{実験|じっけん}ができそうだ。[p]	Roger. This should make for a good experiment.
+90	もう{朝|あさ}か……。{整備|せいび}に{没頭|ぼっとう}し{過|す}ぎてしまった。[p]	Morning already… I got too absorbed in maintenance.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{土門|どもん}ソウジロウをスカウトしました。[p]	You scouted Sojiro Domon!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{土門|どもん}ソウジロウとわかれた。[p]	Sojiro Domon has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

@@ -1,0 +1,21 @@
+id	ja	en
+10	やあ、{僕|ぼく}はピノン。[n]ＬＢＸが{大好|だいす}きな、{謎|なぞ}の{少年|しょうねん}さ。[p]	Hi, I'm Pinon. A mysterious boy who loves LBX.
+11	どうぞよろしく！[p]	Nice to meet you!
+20	{僕|ぼく}はＬＢＸバトルが{大好|だいす}きでね。[n]バトルのウワサを{聞|き}いたら、どこでも{行|い}くんだ。[p]	I love LBX battles. If I hear about a battle, I'll go anywhere.
+21	ここのＬＢＸ{専門|せんもん}{校|こう}は{前|まえ}から{興味|きょうみ}があってね。[n]やっと{来|こ}れたよ。あ～、{楽|たの}しみだな～！[p]	I've been curious about this LBX school for ages. I finally made it. Can't wait~!
+30	この{学園|がくえん}の{生徒|せいと}って、{本当|ほんとう}にレベル{高|たか}いね！[n]{思|おも}わず{僕|ぼく}もアツくなっちゃうよ！！[p]	The students here are really skilled! Even I'm getting fired up!!
+31	みんなと{一緒|いっしょ}に{戦|たたか}えば{戦|たたか}うほど[n]{仲間|なかま}たちとの{絆|きずな}が{深|ふか}まるような{気|き}がするよ。[p]	The more we fight together, the deeper our bonds seem to get.
+32	う～ん、やっぱりＬＢＸって{最高|さいこう}だよね！！[p]	Mmm, LBX really are the best!!
+40	ん？　{僕|ぼく}に{何|なん}の{用|よう}？[p]	Hm? What do you need me for?
+50	ありがとー！[p]	Thanks!
+60	えー、もう{僕|ぼく}とは{遊|あそ}んでくれないのー？[n]ぜぇったい{後悔|こうかい}すると{思|おも}うよー？[p]	Aww, you won't play with me anymore? I bet you'll regret it~?
+70	じゃあ、またねー！[p]	See you later!
+80	{僕|ぼく}を{仲間|なかま}にしたいって？[n]いいよ！　{君|きみ}といると{楽|たの}しそうだしね！[p]	You want me on your team? Sure! Being with you sounds fun!
+90	おっはよーーー！[n]さぁ、{今日|きょう}も{楽|たの}しくＬＢＸバトルだよ！[p]	Mooorniiing!! Come on, more fun LBX battles today!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	ピノンをスカウトしました。[p]	You scouted Pinon!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	ピノンとわかれた。[p]	Pinon has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

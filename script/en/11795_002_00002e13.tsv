@@ -1,0 +1,21 @@
+id	ja	en
+10	あなたが[var:0]ね。[n]{私|ゎたし}、{渚|なぎさ}リリカ。よろしくね。[p]	You're [var:0], right? I'm Ririka Nagisa. Nice to meet you.
+11	ポルトンはね、とっても{平和|へいゎ}でいい{国|くに}だよ。[n]{小|ちい}さ{過|す}ぎて、どの{大国|たいこく}も{狙|ねら}ってこないからね！[p]	Porton is a peaceful, nice country. Too small for big nations to bother with!
+20	ポルトンの{司令官|しれいかん}、メリッサ{先生|せんせい}は[n]{他国|たこく}と{同盟|どうめい}を{結|むす}ぼうと{熱心|ねっしん}なんだけど……[p]	Porton's commander, Ms. Portman, keeps trying to make alliances…
+21	いつも{相手|あいて}にされないの。[n]やっぱり、うちが{弱小|じゃくしょう}{国|こく}だからかな～？[p]	but nobody ever takes her up on it. Is it because we're so tiny~?
+30	{私|ゎたし}、お{洗濯|せんたく}が{大好|だいす}きなの。[n]{特|とく}にお{気|き}に{入|い}りなのが、{取|と}り{込|こ}む{時|とき}でね。[p]	I love doing laundry. My favorite part is bringing it in.
+31	{外|そと}で{干|ほ}した{洗濯物|せんたくもの}を{顔|かお}に{当|あ}てると[n]ふかふかしてて、お{日様|ひさま}のニオイがするの。[p]	Pressing sun-dried laundry to your face, it's so fluffy and smells like sunshine.
+32	ああ～、{想像|そうぞう}しただけで{⟨幸⟩|しあゎ}せ～。[p]	Aah~, just picturing it makes me happy~.
+40	えぇ！　{本当|ほんとう}に{私|ゎたし}に{用|よう}なの？[n]ドッキリじゃなくて？[p]	Whoa! You really need me? It's not a prank?
+50	わっ、うれしい！[n]ヒナコたちにも{分|ゎ}けてあげなくちゃ！[p]	Wow, I'm so happy! I have to share with Hinako and the others!
+60	……そう。せっかく{大|おお}きな{舞台|ぶたい}で[n]{活躍|かつやく}できると{思|おも}ったんだけどな……。[p]	…I see. And I thought I'd finally get to shine on a big stage…
+70	あ、まだ{洗濯物|せんたくもの}が{残|のこ}ってた！[n]ごめんなさい。{私|ゎたし}、もう{行|い}くね。[p]	Oh, I still have laundry left! Sorry, I have to go.
+80	わーい！　{大|おお}きな{舞台|ぶたい}で{戦|たたか}えるのね！[n]{私|ゎたし}、がんばるから！[p]	Yay! I get to fight on a big stage! I'll do my best!
+90	おはよう。[x14:0000]も{仲|なか}が{良|い}いのね。[n]でも、ポルトンだって{負|ま}けないんだから。[p]	Morning. [x14:0000] gets along well too. But Porton won't lose!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{渚|なぎさ}リリカをスカウトしました。[p]	You scouted Ririka Nagisa!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{渚|なぎさ}リリカとわかれた。[p]	Ririka Nagisa has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

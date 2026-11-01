@@ -7,7 +7,7 @@ Batch lines: <file name><TAB><message id><TAB><english>   ('#' lines ignored)
   file name as in script/raw, e.g. 52500_002_0000cd14
 Templates are created as needed (make_template.py); existing English is
 overwritten. Afterwards every line in the batch is wrapped like the build
-does and any overflow is reported.
+does (same limits as xlate.py check) and any overflow is reported.
 """
 import os
 import subprocess
@@ -16,6 +16,7 @@ from collections import defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import textfit  # noqa: E402
+import xlate  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -53,7 +54,7 @@ def main():
     for name, rows in batch.items():
         for mid, en in rows.items():
             text, bad = textfit.normalize(en)
-            _, warnings = textfit.wrap(text, *textfit.box(name))
+            _, warnings = textfit.wrap(text, *xlate.limits(name, mid))
             for w in warnings + ([f'unsupported characters {"".join(sorted(bad))}'] if bad else []):
                 print(f'{name}:{mid}: {w}')
                 problems += 1

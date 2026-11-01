@@ -1,0 +1,21 @@
+id	ja	en
+10	{貴方|あなた}、ダック{荘|そう}の{住人|じゅうにん}？[n]{私|ゎたし}は、ロシウス{連合|れんごう}の{⟨競⟩|ゎたり}ナツメ。[p]	Do you live in Duck Lodge? I'm Natsume Watari of the Rossius Union.
+11	{私|ゎたし}たちのスワン{荘|そう}とは、{全然|ぜんぜん}ちがうのね。[n]{興味深|きょうみぶか}いわ……。[p]	It's nothing like our Swan Lodge. Fascinating…
+20	ここで、{何|なに}をしているかって？[n]{住環境|じゅうかんきょう}とＬＢＸプレイヤーの{関係|かんけい}を{調査中|ちょうさちゅう}なの。[p]	What am I doing here? Researching how living environment affects LBX players.
+21	ただ、データ{化|か}して{比較|ひかく}しているだけよ。[n]スパイじみた{活動|かつどう}じゃないから、{安心|あんしん}して。[p]	I'm just turning it into data and comparing. It's not spying, don't worry.
+30	{何|なん}だか{私|ゎたし}もダック{荘|そう}に{住|す}みたくなっちゃった。[n]……{貴方|あなた}に{会|あ}えるから？[p]	Somehow I want to live in Duck Lodge too. …Because I'd see you?
+31	でも、{勘|かん}{違|ちが}いはしないで。[n]これは、あくまで{知的|ちてき}{好奇心|こうきしん}が{原因|げんいん}で……[p]	But don't get the wrong idea. This is purely intellectual curiosity…
+32	……ダメね。それでも{貴方|あなた}に{興味|きょうみ}が[n]あると{言|い}う{事|こと}を{否定|ひてい}できないわ。ふふふ。[p]	…It's no use. I can't deny I'm interested in you. Hehe.
+40	さて、どういったご{用件|ようけん}かしら？[p]	Now, what can I do for you?
+50	{感謝|かんしゃ}するわ。[p]	I appreciate it.
+60	……お{別|ゎか}れって{事|こと}ね。[n]データは{十分|じゅうぶん}に{取|と}れたから、{問題|もんだい}ないわ。[p]	…So this is goodbye. I have enough data, so it's fine.
+70	では、{失礼|しつれい}するわね。[p]	Well then, excuse me.
+80	{了解|りょうかい}。データはしっかり{収集|しゅうしゅう}させてもらうわよ。[p]	Understood. I'll be sure to collect plenty of data.
+90	おはよう。{今日|きょう}の{敵|てき}のデータなら[n]もう{私|ゎたし}の{頭|あたま}の{中|なか}で、{整理|せいり}{済|ず}みよ。[p]	Morning. I've already sorted today's enemy data in my head.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{⟨競⟩|ゎたり}ナツメをスカウトしました。[p]	You scouted Natsume Watari!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{⟨競⟩|ゎたり}ナツメとわかれた。[p]	Natsume Watari has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

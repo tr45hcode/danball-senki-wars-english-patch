@@ -1,0 +1,21 @@
+id	ja	en
+10	おう、[var:0]！[n]……どうした？　{幽励|ゆうれい}でも{見|み}たような{顔|かお}だな。[p]	Ho, [var:0]! …What's wrong? You look like you've seen a ghost.
+11	おっと、ＬＢＸ{慰励祭|いれいさい}の{恰好|かっこう}のままだったか！[n]スマン、{驚|おどろ}かせてしまったな。すぐに{着替|きが}える。[p]	Oh, I'm still in my LBX Memorial clothes! Sorry to startle you.
+20	ワシが{着|き}ていたあの{白装束|しろしょうぞく}の{事|こと}が{気|き}になる？[n]ああ、あれはＬＢＸ{慰励祭|いれいさい}のための{衣装|いしょう}だ。[p]	Curious about my white robes? They're for the LBX Memorial service.
+21	{使命|しめい}を{終|お}えたＬＢＸを{弔|とむら}い、その{思|おも}いを{受|う}け{止|と}め[n]{戦|たたか}いにのぞむ{際|さい}にも{着|き}る、{神聖|しんせい}なものなのだ。[p]	Sacred robes for honoring retired LBX, worn when I go into battle too.
+30	ワシの{背中|せなか}にある{竹刀|しない}が{気|き}になるのか？[n]こいつは、{生徒|せいと}との{対話|たいゎ}に{必要|ひつよう}なものだ。[p]	Curious about the bamboo sword on my back? I need it to talk with students.
+31	じつは、この{竹刀|しない}には{長短|ちょうたん}の２{種類|しゅるい}があってな。[n]{長|なが}い{方|ほう}をワシが{持|も}ち、{短|みじか}い{方|ほう}を{生徒|せいと}に{持|も}たせる。[p]	There's a long one and a short one. I hold the long, the student the short.
+32	そして、{剣|けん}を{交|まじ}える{事|こと}で{互|たが}いの{思|おも}いをぶつけ{合|あ}い[n]{生徒|せいと}の{心|こころ}の{内|うち}を{理解|りかい}するのだ！　わかったか？[p]	We cross swords, share our feelings, and I understand their heart! Got it?
+40	で、ワシに{何|なん}の{用|よう}だ？　[n]{相談|そうだん}だったら、{何|なん}でも{乗|の}るぞ！[p]	So, what do you need? I'll help with anything!
+50	ワシに{任|まか}せておけ！[p]	Leave it to me!
+60	{残念|ざんねん}だが、{仕方|しかた}がないな……。[n]もうお{前|まえ}にはワシの{助|たす}けは{必要|ひつよう}ないだろうしな！[p]	A shame, but it can't be helped… You don't need my help anymore!
+70	む、どうやら{時間|じかん}が{来|き}たようだ。[n]では、また{明日|あした}、{学校|がっこう}でな。[p]	Hm, looks like it's time. See you at school tomorrow.
+80	よーし、{今|いま}からワシもお{前|まえ}たちと{共|とも}に{戦|たたか}うぞ！[n]よろしく{頼|たの}む！！[p]	All right, now I'll fight alongside you all! I'm counting on you!!
+90	おはよう！　ん？　{声|こえ}が{小|ちい}さい！[n]もっと{腹|はら}から{声|こえ}を{出|だ}すんだ！　{腹|はら}から！！[p]	Good morning! Hm? Too quiet! Speak from your gut! From your gut!!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{猿田|さるた}{学|まなぶ}をスカウトしました。[p]	You scouted Manabu Saruta!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{猿田|さるた}{学|まなぶ}とわかれた。[p]	Manabu Saruta has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

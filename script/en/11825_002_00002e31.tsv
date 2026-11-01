@@ -1,0 +1,21 @@
+id	ja	en
+10	はじめまして！　{俺|おれ}は{松風|まつかぜ}テンマ！[n]{君|きみ}は[var:0]だね。よろしく！[p]	Hi! I'm Tenma Matsukaze! You're [var:0], right? Nice to meet you!
+11	{好|す}きなスポーツはサッカー！[n]みんなでやるのが{一番|いちばん}{楽|たの}しいんだ！[p]	My favorite sport is soccer! It's most fun when everyone plays together!
+20	うー、ＬＢＸって{思|おも}ったより{難|むずか}しいな……。[n]{操作|そうさ}してると、{体|からだ}の{方|ほう}が{先|さき}に{動|うご}いちゃうよ。[p]	Ugh, LBX are harder than I thought… My body moves before the controls do.
+21	でも、{大丈夫|だいじょうぶ}！　いっぱい{特訓|とっくん}して[n]すぐに{君|きみ}に{追|お}いついてみせるよ！[p]	But it's okay! I'll train a ton and catch up to you in no time!
+30	ほら、{俺|おれ}もだいぶＬＢＸ{上達|じょうたつ}したよ。[n]もう{君|きみ}にだって{負|ま}けないさ！[p]	See, I've gotten way better at LBX. I won't lose even to you!
+31	あ、そうだ。ＬＢＸを{教|おし}えてもらったお{礼|れい}に[n]{今度|こんど}は{俺|おれ}がサッカーを{教|おし}えてあげる！[p]	Oh yeah. To thank you for teaching me LBX, I'll teach you soccer!
+32	{必殺技|ひっさつゎざ}を{使|つか}えるようになるまで、がんばろう！[n]{大丈夫|だいじょうぶ}！　{俺|おれ}がついてるから！[p]	Let's work hard until you can use a special move! Don't worry! I've got you!
+40	え、なに？[n]{俺|おれ}に{何|なん}か{用|よう}があるの？[p]	Huh, what? Do you need me for something?
+50	これ、{俺|おれ}に！？[n]ありがとう！　{大切|たいせつ}にするよ！[p]	This is for me!? Thanks! I'll treasure it!
+60	ええっ！？　{俺|おれ}じゃ、{力不足|ちからぶそく}だった？[n]やっぱり、ＬＢＸには{向|む}いてないのかなぁ……。[p]	What!? Wasn't I good enough? Maybe I'm just not cut out for LBX…
+70	わ、もうこんな{時間|じかん}だ！[n]ごめん、サッカーの{練習|れんしゅう}があるんだ！　またね！[p]	Whoa, look at the time! Sorry, I've got soccer practice! See you!
+80	{俺|おれ}を{仲間|なかま}に？　もちろん、ＯＫだよ！[n]{一緒|いっしょ}にがんばろう、[var:0]！[p]	Me, on your team? Of course, OK! Let's do our best, [var:0]!
+90	おはよー、[var:0]！[n]さあ、{学校|がっこう}に{行|い}こう！[p]	Morning, [var:0]! Come on, let's go to school!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{松風|まつかぜ}テンマをスカウトしました。[p]	You scouted Tenma Matsukaze!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{松風|まつかぜ}テンマとわかれた。[p]	Tenma Matsukaze has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

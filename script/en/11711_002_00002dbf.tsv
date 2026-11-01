@@ -1,0 +1,21 @@
+id	ja	en
+10	よぉ、{俺|おれ}は{朝比奈|あさひな}コウタ。[n]ジェノックの{第|だい}３{小隊|しょうたい}でメカニックやってる。[p]	Yo, I'm Kota Asahina. I'm the mechanic in Jenock's 3rd Squad.
+11	{同盟|どうめい}{国|こく}{同士|どうし}なんだし、お{互|たが}い{顔|かお}は{知|し}ってるよな？[n]つーわけで、よろしく{頼|たの}むわ。[p]	We're allies, so you know my face, right? Anyway, nice to meet ya.
+20	{屋上|おくじょう}とか{校庭|こうてい}でさ[n]ボーっとしてる{時間|じかん}って、{⟨幸⟩|しあゎ}せだと{思|おも}ねぇか？[p]	Don't you think zoning out on the roof or in the schoolyard is pure bliss?
+21	{今|いま}からその{時間|じかん}を{楽|たの}しむつもりだからさ[n]{悪|ゎる}いけど、{１人|ひとり}にしてくんない？[p]	I'm about to enjoy some of that right now, so mind leaving me alone?
+30	{俺|おれ}は{使命|しめい}とか{責任|せきにん}とか、そういう{重圧|じゅうあつ}に[n]{押|お}し{潰|つぶ}されていく{奴|やつ}をたくさん{見|み}てきた。[p]	I've seen tons of people crushed by stuff like duty and responsibility.
+31	{無理|むり}を{続|つづ}けたって、いい{結果|けっか}なんか{出|で}ないぜ。[n]{肩|かた}の{力|ちから}を{抜|ぬ}くくらいが、ちょーどイイんだよ。[p]	Pushing yourself never gets good results. Taking it easy is just right.
+32	{息抜|いきぬ}きなら、いつでも{付|つ}き{合|あ}うぜ。[n]お{前|まえ}がロストするトコなんか{見|み}たくないしな。[p]	If you need a break, I'm always up for it. I don't wanna see you Lost.
+40	{俺|おれ}に{何|なに}か{用|よう}か？[p]	You need something?
+50	おっ、{助|たす}かるよ。[p]	Oh, that helps.
+60	へいへい。お{前|まえ}って{意外|いがい}と{薄情|はくじょう}なんだな。[n]……{信|しん}じた{俺|おれ}がバカだったって{事|こと}か。[p]	Yeah, yeah. You're colder than you look. …Guess I was dumb to trust you.
+70	じゃ、{俺|おれ}はもう{行|い}くな。[p]	Well, I'm off.
+80	{仲間|なかま}に{入|はい}れって？[n]ま、そこまで{言|い}うなら{入|はい}ってやってもいいよ。[p]	Join your team? Well, if you insist, I guess I could.
+90	……おはよう。[var:0]。[n]ほんと、お{前|まえ}は{朝|あさ}からテンション{高|たか}いよな。[p]	…Morning, [var:0]. Man, you're full of energy first thing.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{朝比奈|あさひな}コウタをスカウトしました。[p]	You scouted Kota Asahina!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{朝比奈|あさひな}コウタとわかれた。[p]	Kota Asahina has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

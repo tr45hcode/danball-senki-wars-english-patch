@@ -11,7 +11,9 @@ A prefix is the start of a script/raw file name: 52517, 525, 5390...
 
 show: collapses furigana to the kanji ({漢字|かんじ} -> 漢字), or to the
 reading when the kanji is an image-only guess (⟨字⟩). Speaker name tags (story
-scenes' 004 files) and debug lines are left out.
+scenes' 004 files) and debug lines are left out. Lines are keyed so they can
+be pasted back as shorthand: 52517:7 for the dialogue file, 06500.7:1000 for
+any other RMD index.
 
 reuse: speaker tags (004 files) come from script/speaker_names.tsv, keyed
 by reading (see that file); unknown tags are listed so they can be added.
@@ -105,7 +107,7 @@ def shorthand(stream):
 
 def limits(name, mid):
     """(px per line, lines, cell) the build will wrap this message to."""
-    box_width, box_lines = textfit.box(name)
+    box_width, box_lines = textfit.box(name, mid)
     cont, idx, eid = name.split('_')
     path = os.path.join(ROOT, 'extracted', 'cpk', cont, f'{idx}_RMD__{eid}.bin')
     if not os.path.exists(path):
@@ -121,7 +123,7 @@ def limits(name, mid):
     def gw(v):
         return textfit.char_width(textfit.GLOBAL_CHARS[v - 1], cell) if 1 <= v <= 297 else cell
     width, lines, _ = original_layout(rmd, offsets[mid], gw)
-    return (*textfit.limits(name, width, lines), cell)
+    return (*textfit.limits(name, width, lines, mid), cell)
 
 
 def show(prefixes):
@@ -130,9 +132,11 @@ def show(prefixes):
         if is_tags(name):
             continue
         done = english(name)
+        idx = int(name.split('_')[1])
+        ref = name[:5] if idx == 2 else f'{name[:5]}.{idx}'
         for mid, cols in rows(path).items():
             if mid not in done and not any(d in cols[0] for d in DEBUG):
-                print(f'{name[:5]}:{mid}\t{compact(cols[0])}')
+                print(f'{ref}:{mid}\t{compact(cols[0])}')
 
 
 def reuse(out, prefixes):

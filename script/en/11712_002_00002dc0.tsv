@@ -1,0 +1,21 @@
+id	ja	en
+10	ハァーイ、[var:0]。[n]{同盟|どうめい}{国|こく}{同士|どうし}、{仲良|なかよ}くしましょ。[p]	Hiii, [var:0]. We're allies, so let's be friends.
+11	……ところで、アスカ{様|さま}のサインなんだけどさ[n]アンタからタケルに{頼|たの}めない？　{弟|おとうと}なんでしょ？[p]	…Also, could you ask Takeru to get me Lady Asuka's autograph?
+20	{隊長|たいちょう}っていうのは、{自分|じぶん}だけじゃなくて[n]{他|ほか}のメンバーの{面倒|めんどう}もみないといけないのよ。[p]	A captain has to look after the other members, not just herself.
+21	つまり{隊長|たいちょう}であるアタシには、アンタの{話|はなし}を[n]ゆっくり{聞|き}いてるヒマなんか、ないって{事|こと}！[p]	In other words, as captain, I've got no time to sit and listen to you!
+30	アタシ、すごい{事|こと}に{気|き}づいちゃった！[n]アスカ{様|さま}の{好物|こうぶつ}はトマトジュース。つまり……[p]	I just realized something amazing! Lady Asuka loves tomato juice. So…
+31	あの{美|うつく}しさの{秘訣|ひけつ}はトマトジュースだったのよ！[n]よし、さっそく{飲|の}まなくちゃ！[p]	Tomato juice is the secret of her beauty! Right, I have to drink some now!
+32	これでまた、{憧|あこが}れのアスカ{様|さま}に{一歩|いっぽ}{近|ちか}づけるわ。[n]アンタ、サインもらっておくなら{今|いま}の{内|うち}よ？[p]	One step closer to Lady Asuka! Better get my autograph while you can.
+40	で、アタシに{何|なに}か{用|よう}かしら？[p]	So, what do you want with me?
+50	あら、{気|き}が{利|き}くじゃない。[p]	Oh my, how thoughtful.
+60	ちょっと、アンタ！　{本気|ほんき}で{言|い}ってるの？[n]そんなの、{絶対|ぜったい}{絶対|ぜったい}ぜーったい、{許|ゆる}さないわよ！[p]	Hey, you! Are you serious? I will never, ever, EVER forgive that!
+70	じゃあね、バァーイ！[p]	See ya, byeee!
+80	アンタの{仲間|なかま}に？[n]ま、いいか。ちょっと{面白|おもしろ}そうだしね。[p]	Join you? Well, why not. Could be fun.
+90	グッモーニーン！　[var:0]！[n]ほら、さっさと{行|い}くわよ！[p]	Good mooorning, [var:0]! Come on, let's go!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	キャサリン・ルースをスカウトしました。[p]	You scouted Catherine Ruth!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	キャサリン・ルースとわかれた。[p]	Catherine Ruth has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

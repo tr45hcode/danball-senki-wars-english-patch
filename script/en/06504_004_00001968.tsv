@@ -1,0 +1,33 @@
+id	ja	en
+1000	Ｃは『ランドルト{環|かん}』という{名前|なまえ}。[n]{視力|しりょく}{検査|けんさ}の{時|とき}、カンで{應|こた}えるのはやめよう。[p]	The C is called a "Landolt ring." No guessing during your eye test.
+1010	それに{乗|の}ると、ある{者|もの}はよろこび[n]また、ある{者|もの}は{後悔|こうかい}するという{非情|ひじょう}なマシン。[p]	A cruel machine that brings some people joy and others regret.
+1020	とても{清潔|せいけつ}に{保|たも}たれているベッド。[n]{休養|きゅうよう}する{人|ひと}のため、ここでサボるのは{控|ひか}えよう。[p]	A very clean bed. It's for those who need rest, so no slacking off here.
+1030	{棚|だな}の{中|なか}に、{様々|さまざま}な{薬|くすり}が{並|なら}んでいる。[n]{体調|たいちょう}がすぐれない{時|とき}は、お{世話|せゎ}になろう。[p]	Shelves of all kinds of medicine. Rely on them when you feel unwell.
+1040	{保健|ほけん}の{日暮先生|ひぐらしせんせい}が{使|つか}う{机|つくえ}。[n]{見|み}かけによらず、{意外|いがい}と{整理|せいり}{整頓|せいとん}されている。[p]	School nurse Ms. Higurashi's desk. Surprisingly tidy, despite appearances.
+1050	スリ{傷|きず}やキリ{傷|きず}に{対応|たいおう}。[n]{消毒|しょうどく}{液|えき}が{沁|し}みて{涙|なみだ}を{流|なが}すのは、お{約束|やくそく}。[p]	For scrapes and cuts. Crying when the disinfectant stings is a given.
+2000	やっと{目|め}が{覚|さ}めたか、[var:0]。[p]	You're finally awake, [var:0].
+2001	………。[p]	………
+2002	まだ、{本調子|ほんちょうし}じゃないみたいだな。[p]	Looks like you're not back to normal yet.
+2003	{今日|きょう}は{自室|じしつ}に{帰|かえ}ったら、ゆっくり{休|やす}め。[n]{体調|たいちょう}{管理|かんり}も{俺|おれ}たちにとっては{大事|だいじ}な{役目|やくめ}だぞ。[p]	Rest in your room today. Looking after our health is part of the job.
+2004	{今日|きょう}は{自室|じしつ}に{帰|かえ}ったら、ゆっくり{休|やす}め。[n]{体調|たいちょう}{管理|かんり}も{俺|おれ}たちにとっては{大事|だいじ}な{役目|やくめ}だぞ。[p]	Rest in your room today. Looking after our health is part of the job.
+2005	{削除|さくじょ}[p]	
+2006	ここは……、{保健室|ほけんしつ}？　えーと……[n]たしか{未|み}{確認|かくにん}{機|き}からムラクを{守|まも}ろうとして……[p]	The Infirmary…? Um… I was shielding Muraku from that unknown unit…
+2007	なんか{変|へん}な{感覚|かんかく}になったんだよな。[n]すっごく{感覚|かんかく}が{研|と}ぎ{澄|す}まされていってさ……。[p]	Then I got this weird feeling. Like my senses got super sharp…
+2008	………。[p]	………
+2009	え！？　[var:0]も[n]{同|おな}じように{感|かん}じたのか！[p]	Huh!? You felt the same thing, [var:0]!?
+2010	アレは、{一体|いったい}なんだったんだろう？[n]{不思議|ふしぎ}な{感覚|かんかく}だったよな……。[p]	What was that, anyway? Such a strange feeling…
+2011	{削除|さくじょ}[p]	
+2012	お、やっと{起|お}きたか。[n]どうして{保健室|ほけんしつ}で{寝|ね}ているのか{分|ゎ}かるか？[p]	Oh, finally up. Know why you're sleeping in the Infirmary?
+2013	{削除|さくじょ}[p]	
+2014	{削除|さくじょ}[p]	
+2015	お{前|まえ}たちは、バトルが{終了|しゅうりょう}した{途端|とたん}に[n]バッタリと{気絶|きぜつ}して{倒|たお}れたんだ。[p]	The moment the battle ended, you both collapsed and passed out.
+2016	{衰弱|すいじゃく}は{激|はげ}しいが、ただの{疲労|ひろう}だよ。[n]{念|ねん}のため、{今夜|こんや}は{自室|じしつ}でゆっくり{休|やす}め。[p]	You're very weak, but it's just fatigue. Rest in your room tonight, to be safe.
+50000	{薬|やく}ビンのかげに{何|なに}かが{隠|かく}れていた。[n][var:0]は[n]『オールリペアＳ』を[n]{手|て}に{入|い}れた！[p]	Something was hidden behind a medicine bottle![n][var:0] got All Repair S!
+50001	あとで、{編成|へんせい}メニューがオープンしたら[n]{確認|かくにん}しよう。[p]	Check it later, once the Formation menu opens.
+60000	[x14:0200]ＳＣ{払|はら}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{家|かね}が{足|た}りません。[p]	Not enough money.
+60002	⟨〇⟩⟨〇⟩をスカウトしました。[p]	You scouted a new teammate!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{本当|ほんとう}にわかれますか？[p]	Do you really want to part ways?
+60005	⟨〇⟩⟨〇⟩とわかれた。[p]	Your teammate has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]{別|ゎか}れないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

@@ -1,0 +1,21 @@
+id	ja	en
+10	{俺|おれ}はロシウス{連合|れんごう}の、{手越|てごし}ノボルだ。[n]お{前|まえ}は[x14:0000]{所属|しょぞく}か、よろしくな。[p]	I'm Noboru Tegoshi of the Rossius Union. You're with [x14:0000]? Hi.
+11	お{互|たが}い、{仲良|なかよ}くやっていこうじゃないか。[p]	Let's get along, shall we?
+20	お{前|まえ}はどんな{戦|たたか}い{方|かた}が{得意|とくい}なんだ？[n]{俺|おれ}は……、まだ{内緒|ないしょ}だ！　ハハハ！[p]	What's your fighting style? Mine's… a secret for now! Hahaha!
+21	じゃあな、{今度|こんど}は{戦場|せんじょう}で{会|あ}えるのを[n]{楽|たの}しみにしてるよ。[p]	Well, see you. Next time, I hope we meet on the battlefield.
+30	よう、[var:0]！　[n]{今日|きょう}もいい{面構|つらがま}えだな。{調子|ちょうし}はどうだ？[p]	Hey, [var:0]! Looking sharp again today. How're you doing?
+31	ロシウスには、お{前|まえ}に{興味|きょうみ}を{持|も}つ{生徒|せいと}も{多|おお}い。[n]{俺|おれ}{以外|いがい}の{生徒|せいと}にも、{声|こえ}をかけてみたらどうだ？[p]	Lots of Rossius kids are interested in you. Talk to some others too.
+32	お{前|まえ}みたいな{奴|やつ}だったら[n]みんな{喜|よろこ}んで{仲良|なかよ}くしてくれると{思|おも}うぞ。[p]	Someone like you, I bet they'd be glad to get along with.
+40	で、{何|なに}か{用|よう}か？[p]	So, need something?
+50	すまないな、ありがたくいただくよ。[p]	Sorry about this. I'll gladly take it.
+60	ロシウスに{戻|もど}れ、という{事|こと}か？[n]……そうか。また{必要|ひつよう}になったら{言|い}ってくれ。[p]	Back to Rossius, then? …I see. Tell me if you need me again.
+70	じゃあ、またな。[p]	Well, see you.
+80	よし！　{全力|ぜんりょく}でいかせてもらう。[p]	All right! I'll give it everything.
+90	[var:0]、おはよう！[n]{今日|きょう}は、どんな{作戦|さくせん}でいくんだ？　[p]	Morning, [var:0]! What's our strategy today?
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{手越|てごし}ノボルをスカウトしました。[p]	You scouted Noboru Tegoshi!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{手越|てごし}ノボルとわかれた。[p]	Noboru Tegoshi has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

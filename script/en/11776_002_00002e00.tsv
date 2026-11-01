@@ -1,0 +1,21 @@
+id	ja	en
+10	{君|きみ}、{名前|なまえ}を{聞|き}いてもいいかな？[n]ふーん、[var:0]ね！[p]	Can I ask your name? Hmm, [var:0], huh!
+11	{私|ゎたし}、{山茶花|さざんか}イスズ！　よろしく、よろしく！[p]	I'm Isuzu Sazanka! Nice to meet you, nice to meet you!
+20	{神威|かむい}{島|とう}ってさ、{本土|ほんど}と{違|ちが}って[n]{空|そら}と{海|うみ}がいっぱい{見|み}えるから、{気持|きも}ちいいよね！[p]	Unlike the mainland, you can see so much sky and sea here. It feels great!
+21	ただ、{塩風|しおかぜ}でちょっと{髪|かみ}と{服|ふく}が……[n]お{肌|はだ}にも、{良|よ}くはないかな。エヘヘ。[p]	But the salty wind is a bit hard on my hair and clothes… and my skin. Hehe.
+30	やあ、{待|ま}った？[n]{君|きみ}に{会|あ}えた{日|ひ}は{調子|ちょうし}がいいから、うれしいよ。[p]	Hey, been waiting? I'm on form on days I see you, so I'm happy.
+31	……って、{単純|たんじゅん}に{君|きみ}に{会|あ}いたいだけなんだけど[n]それは、みんなには{内緒|ないしょ}だからね！[p]	…Well, I just want to see you, but that's a secret from everyone!
+32	{内緒|ないしょ}なんだから[n]ホント{誰|だれ}にも{言|い}っちゃダメだよ。[p]	It's a secret, so you really can't tell anyone.
+40	よーし、{何|なん}でも{来|こ}いってんだ！[p]	All right, bring it on!
+50	わぁ、{助|たす}かるよ！　ありがとう！[p]	Wow, that helps! Thank you!
+60	{私|ゎたし}は、まだまだ{戦|たたか}えるんだけどなあ。[n]{考|かんが}え{直|なお}してくれないかな？[p]	I can still fight, you know. Won't you reconsider?
+70	じゃあ、またな！[p]	See ya!
+80	よーし！　{私|ゎたし}に{任|まか}せなさい！[n]どんなヤツもドンドン{倒|たお}すぞー！！[p]	All right! Leave it to me! I'll take down anyone and everyone!!
+90	おはよう！　{今朝|けさ}は{海辺|うみべ}も{気持|きも}ち{良|よ}かったよ。[n]{通学中|つうがくちゅう}に、{寄|よ}ってみてもいいかもね。[p]	Morning! The beach was lovely today. Stop by on your way to school.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{山茶花|さざんか}イスズをスカウトしました。[p]	You scouted Isuzu Sazanka!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{山茶花|さざんか}イスズとわかれた。[p]	Isuzu Sazanka has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

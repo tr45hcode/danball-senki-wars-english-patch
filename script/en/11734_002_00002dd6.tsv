@@ -1,0 +1,21 @@
+id	ja	en
+10	{君|きみ}は{確|たし}か、[x14:0000]の[n][var:0]だったわね。[p]	You're [var:0] of [x14:0000], aren't you?
+11	{私|ゎたし}の{名前|なまえ}は{二宮|にのみや}リン。フウとスイの{姉|あね}よ。[n]{妹|いもうと}たちから{君|きみ}の{話|はなし}は{聞|き}いているわ。[p]	I'm Rin Ninomiya, Fu and Sui's big sister. They've told me about you.
+20	{姉妹|しまい}とはいえ、{君|きみ}たち[x14:0000]と[n]{私|ゎたし}が{在籍|ざいせき}するアラビスタは{敵|てき}{国|こく}{同士|どうし}よ。[p]	We may be sisters, but your [x14:0000] and my Arabista are enemies.
+21	セカンドワールド{内|ない}で{会|あ}ったら……[n]その{時|とき}は{覚悟|かくご}してね。[p]	If we meet in the Second World… be ready.
+30	え？　{私|ゎたし}の{髪|かみ}がキレイって？[n]ふふ、ありがとう。[p]	Huh? My hair is pretty? Hehe, thank you.
+31	{髪|かみ}が{長|なが}いと、バトルの{邪魔|じゃま}になるし[n]{毎日|まいにち}の{手入|てい}れも{面倒|めんどう}くさいけど[p]	Long hair gets in the way in battle, and it's a pain to care for every day,
+32	[var:0]が{褒|ほ}めてくれるなら[n]{髪|かみ}のばしてて{良|よ}かったな。[p]	but if you like it, [var:0], I'm glad I grew it out.
+40	で、{何|なに}の{用|よう}かしら？[p]	So, what do you need?
+50	{助|たす}かるわ。[p]	That helps.
+60	{私|ゎたし}が{抜|ぬ}けて、{君|きみ}たちが{困|こま}らないのか[n]ちゃんとよく{考|かんが}えた？　ねぇ、{本当|ほんとう}にいいの？[p]	Did you really think about whether you'll manage without me? Are you sure?
+70	じゃあ、{私|ゎたし}はもう{行|い}くわね。[p]	Well, I'll get going.
+80	そうね、{妹|いもうと}たちの{戦|たたか}う{姿|すがた}も{見|み}てみたいし[n]{君|きみ}と{一緒|いっしょ}に{戦|たたか}うのも{悪|ゎる}くなさそうだわ。[p]	Well, I'd like to see my sisters fight, and fighting with you sounds nice.
+90	おはよう、[var:0]。[n]{私|ゎたし}もつい{早|はや}く{起|お}きちゃったわ。[p]	Morning, [var:0]. I woke up early too.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{二宮|にのみや}リンをスカウトしました。[p]	You scouted Rin Ninomiya!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{二宮|にのみや}リンとわかれた。[p]	Rin Ninomiya has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

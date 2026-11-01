@@ -1,0 +1,21 @@
+id	ja	en
+10	おっ、はじめまして……、かな？[n]あたし、{宝渦|ほううず}マリナ。ヨロシクねーん！[p]	Oh, nice to meet you… I think? I'm Marina Hozu. Nice to meetcha~!
+11	どっかで{会|あ}ってたら、ゴメンネ。[n]あたし、{顔|かお}{覚|おぼ}えるの{苦手|にがて}でさ！[p]	Sorry if we've met before. I'm bad with faces!
+20	あんたはどんなＬＢＸを{使|つか}ってるの？[n]{今度|こんど}、{見|み}せっこしようよ！[p]	What kind of LBX do you use? Let's show each other sometime!
+21	あたしも、なるべく{自慢|じまん}のパーツで[n]{揃|そろ}えておくからさ！[p]	I'll get my best parts together for it too!
+30	[var:0]～、{今日|きょう}も{元気|げんき}？[n]{今度|こんど}、{買|か}い{物|もの}にでも{一緒|いっしょ}に{行|い}こうよ！[p]	[var:0]~, doing well? Let's go shopping together sometime!
+31	パーツ、あたしが{見立|みた}ててあげてもいいよ！[n]どれが{似合|にあ}うか、{考|かんが}えがあるんだ。[p]	I could pick parts out for you! I've got ideas about what suits you.
+32	えっ、{自分|じぶん}で{選|えら}ぶのがいいって？[n]{付|つ}き{合|あ}い{悪|ゎる}いなぁ、もう！[p]	Huh, you'd rather choose yourself? You're no fun!
+40	ん？　まだ、あたしに{用|よう}があるの？[p]	Hm? You need something else from me?
+50	ありがとねーん！[p]	Thanks a bunch~!
+60	ええーっ、もう{終|お}わり？[n]これからが、いいところなんだよ！？[p]	Whaaat, it's over? It was just getting good!?
+70	あたし、まだ{整備|せいび}が{残|のこ}ってるんだ。[n]バイバイ！[p]	I've still got maintenance to do. Bye-bye!
+80	よろしくー！　{期待|きたい}してよね！[p]	Nice to work with ya! You can count on me!
+90	おっはよー！　{朝|あさ}ごはん{食|た}べてる？[n]{元気|げんき}{出|だ}さなきゃ{勝|か}てないよー。[p]	Mooorning! Eating breakfast? You can't win without energy!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{宝渦|ほううず}マリナをスカウトしました。[p]	You scouted Marina Hozu!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{宝渦|ほううず}マリナとわかれた。[p]	Marina Hozu has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

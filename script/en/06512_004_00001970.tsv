@@ -1,0 +1,15 @@
+id	ja	en
+1000	{色|いろ}とりどりの{端|はた}がヒラヒラと{風|かぜ}に{揺|ゆ}らいでいる。[n]じつは、{端|はた}の{組|く}み{合|あ}わせで{様々|さまざま}な{意味|いみ}を{持|も}つ。[p]	Colorful flags fluttering in the wind. Each combination has a meaning.
+1010	{船橋|せんきょう}とも{呼|よ}ばれる。{高|たか}い{場所|ばしょ}に{設|もう}けられており[n]ここでクルーたちが{船|ふね}を{操|あやつ}っている。[p]	Also called the wheelhouse. Set up high, it's where the crew steers the ship.
+1020	{船|ふね}に{外|そと}{付|づ}けされたクレーン。[n]これを{使|つか}って、{貨物|かもつ}の{受|う}け{⟨競⟩|ゎた}しを{行|おこな}う。[p]	A crane mounted on the ship, used to load and unload cargo.
+1030	{人|ひと}が{海|うみ}に{落|お}ちた{時|とき}に{救助|きゅうじょ}するための{浮|う}き{⟨輸⟩|ゎ}。[p]	A life ring for rescuing anyone who falls into the sea.
+1040	{緊急時|きんきゅうじ}に{使用|しよう}する{脱出用|だっしゅつよう}の{小型|こがた}ボート。[n]あまりお{世話|せゎ}にはなりたくない。[p]	A small boat for escaping in an emergency. Best not to need it.
+50000	ブリッジから{何|なに}かが{落|お}ちてきた。[n][var:0]は[n]『アースクエイク』の[n]データディスクを{手|て}に{入|い}れた！[p]	Something fell from the bridge![n][var:0] got the Earthquake data disc!
+50001	あとで、{編成|へんせい}メニューがオープンしたら[n]{確認|かくにん}しよう。[p]	Check it later, once the Formation menu opens.
+60000	[x14:0200]ＳＣ{払|はら}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{家|かね}が{足|た}りません。[p]	Not enough money.
+60002	⟨〇⟩⟨〇⟩をスカウトしました。[p]	You scouted a new teammate!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	⟨〇⟩⟨〇⟩とわかれた。[p]	Your teammate has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]{別|ゎか}れないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

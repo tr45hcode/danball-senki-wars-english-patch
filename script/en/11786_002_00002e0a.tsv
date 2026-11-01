@@ -1,0 +1,21 @@
+id	ja	en
+10	やぁ！　{僕|ぼく}は{百道|ももち}ツバサ！[n]{君|きみ}は[var:0]か！　よろしくな！[p]	Hi! I'm Tsubasa Momochi! You're [var:0]! Nice to meet ya!
+11	{今日|きょう}も、いい{天気|てんき}だな！[n]{外|そと}で{遊|あそ}ぶ{甲斐|かい}があるってもんだぜ。[p]	Great weather again today! Perfect for playing outside.
+20	やぁ！　{今日|きょう}もバトル{日和|びより}だぜ！[n]{神威島|かむいとう}はいつも、バトルに{溢|あふ}れてるからな。[p]	Hi! Perfect battle weather today! Kamui Island's always full of battles.
+21	{昨日|きのう}も{２人|ふたり}と、{戦|たたか}ったかな……[n]もちろん、{両方|りょうほう}とも{勝|か}ったよ！[p]	I fought two people yesterday… and won both, of course!
+30	あっ、[var:0]！[n]{今日|きょう}は{何|なに}して{遊|あそ}ぶんだ？[p]	Oh, [var:0]! What are we gonna play today?
+31	そういえば、ＬＢＸ{以外|いがい}で[n]{一緒|いっしょ}に{遊|あそ}んだ{事|こと}ってないよね……。[p]	Come to think of it, we've never played anything but LBX together…
+32	{何|なに}か{面白|おもしろ}い{事|こと}ができないか、{考|かんが}えてみようかな？[n]{君|きみ}となら、バトルじゃなくても{楽|たの}しそうだもん。[p]	Maybe I'll think of something fun. With you, even non-battles would be fun.
+40	それで、{僕|ぼく}に{何|なに}か{用|よう}かな？[p]	So, need something from me?
+50	これ、もらっていいの？[n]ありがとう！　うれしいよ！[p]	I can have this? Thanks! I'm so happy!
+60	……えっ？　どうして？[n]{僕|ぼく}、まだ{全然|ぜんぜん}{戦い|たたか}{足|た}りないんだけどなぁ。[p]	…Huh? Why? I haven't fought nearly enough yet.
+70	じゃあ、またな！[p]	See ya!
+80	やったーー！　{君|きみ}と{戦|たたか}うのは{楽|たの}しそうだから[n]すごく{楽|たの}しみにしてたんだ！　よろしくな！！[p]	Yaaay! Fighting with you sounds fun, I was really looking forward to it!
+90	おはよう！　[var:0]！[n]{昨日|きのう}は、よく{寝|ね}る{事|こと}ができた？[p]	Morning, [var:0]! Did you sleep well last night?
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{百道|ももち}ツバサをスカウトしました。[p]	You scouted Tsubasa Momochi!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{百道|ももち}ツバサとわかれた。[p]	Tsubasa Momochi has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

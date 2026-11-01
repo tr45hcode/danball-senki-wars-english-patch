@@ -1,0 +1,21 @@
+id	ja	en
+10	あなた、{誰|だれ}よ？　{私|ゎたし}の{名前|なまえ}を{聞|き}きたいなら[n]ちゃんと{名乗|なの}りなさいよ。[p]	Who are you? If you want my name, introduce yourself properly.
+11	[var:0]……、つまらない{名前|なまえ}。[n]{私|ゎたし}は{藤枝|ふじえだ}サユリ。{覚|おぼ}えてくれなくてもいいわ。[p]	[var:0]… boring name. I'm Sayuri Fujieda. Don't bother remembering it.
+20	あなたは{確|たし}か、[n]つまらない[var:0]だったわね。[p]	You're that boring [var:0], aren't you?
+21	な、なによ？　{名前|なまえ}{覚|おぼ}えてちゃいけないわけ？[n]たまたま{覚|おぼ}えていただけなんだから！[p]	Wh-what? Can't I remember your name? I just happened to, that's all!
+30	{何度|なんど}も{呼|よ}び{出|だ}すんじゃないわよ！[n]{少|すこ}しは{私|ゎたし}の{身|み}にもなってほしいわね。[p]	Stop calling me over and over! Think about how I feel for once.
+31	もうめんどくさいから、{上|うえ}にたのんで[n]あなたと{同|おな}じ{部屋|へや}にしてもらいたいわ。[p]	It's such a pain, I should ask to be put in the same room as you.
+32	……ハッ！[n]じょ、{冗談|じょうだん}よ。{冗談|じょうだん}なんだからね！[p]	…Ah! I-I'm joking. It's just a joke, okay!
+40	で、{何|なん}か{用|よう}かしら？[p]	So, what do you want?
+50	{誰|だれ}が、こんなの{欲|ほ}しいなんて{言|い}ったのよ？[n]フン。{仕方|しかた}ないから、もらっておいてあげるわ！[p]	Who said I wanted this? Hmph. Fine, I'll take it, since you insist!
+60	{何|なに}よ、{私|ゎたし}の{事|こと}が{嫌|きら}いになったんなら[n]{勝手|かって}に{外|はず}せばいいじゃない！[p]	What, if you hate me now, just drop me already!
+70	フン、もういいわ。[p]	Hmph, forget it.
+80	{別|べつ}にスカウトなんて、されたくなかったわ。[p]	It's not like I wanted to be scouted or anything.
+90	べ、{別|べつ}に、{起|お}こしてほしいなんて[n]{頼|たの}んでないんだからね！[p]	I-it's not like I asked you to wake me up!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{藤枝|ふじえだ}サユリをスカウトしました。[p]	You scouted Sayuri Fujieda!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{藤枝|ふじえだ}サユリとわかれた。[p]	Sayuri Fujieda has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

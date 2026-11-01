@@ -1,0 +1,21 @@
+id	ja	en
+10	ハロー。アイム　レオニード・モロゾフ。[n]ＬＢＸバトル、{大|だい}スキね。[p]	Hello. I am Leonid Morozov. LBX battle, I love it so much.
+11	ＬＢＸイズ　ファンタスティック！[p]	LBX is fantastic!
+20	ＬＢＸバトル、モットやりたいネ。[n]ミーとバトルしないデスカ？[p]	Me want more LBX battles. You battle with me?
+21	オーウ……、ユー　アフレイド？[n]バトルがコワいの？[p]	Ohhh… You afraid? Battle is scary?
+30	ハーイ！　マイ　ベスト フレンド！[n][var:0]！！[p]	Hiii! My best friend! [var:0]!!
+31	カムイ{島|とう}ハ、サイコーのプレイスね。[n]ビコーズ……[p]	Kamui Island is best place. Because…
+32	ユーに{会|あ}えたカラ！　フゥーーーーーー！！[p]	Because me met you! Wooooooo!!
+40	オーウ、{何|なん}デスカ？[p]	Ohhh, what is it?
+50	サンクス！　ナイスタイミングね！[p]	Thanks! Nice timing!
+60	リアリー？　{本当|ほんとう}デスカ？[p]	Really? Is true?
+70	シーユー。[p]	See you.
+80	イエス！　イエス！！　イエス！！！[p]	Yes! Yes!! YES!!!
+90	グッド モーニング。{今日|きょう}のブレックファースト[n]とってもデリシャスね。[p]	Good morning. Today's breakfast, very delicious.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	レオニード・モロゾフをスカウトしました。[p]	You scouted Leonid Morozov!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	レオニード・モロゾフとわかれた。[p]	Leonid Morozov has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

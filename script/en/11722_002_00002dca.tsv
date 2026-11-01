@@ -1,0 +1,21 @@
+id	ja	en
+10	ヒヒッ！　お{前|まえ}が、[var:0]？[n]{俺|おれ}はホワイトフォックスの{青菜|あおな}シンジな。[p]	Heh heh! You're [var:0]? I'm Shinji Aona of the White Fox.
+11	{特技|とくぎ}は{狙撃|そげき}ってことで、よろしく。ヒヒッ！[p]	Sniping's my specialty, so nice to meetcha. Heh heh!
+20	カンジのヤツ、{今日|きょう}もトレーニングだとよ。[n]よく{飽|あ}きもせずに{行|い}くよなぁ、ヒヒッ！[p]	Kanji's off training again today. How does he never get bored? Heh heh!
+21	アイツの{制服|せいふく}、{刷|す}り{切|き}れてボロボロなんだぜ。[n]みっともないよなぁ。[p]	His uniform's all worn to rags. How embarrassing.
+30	ヒヒッ！　{部屋|へや}の{隅|すみ}の{方|ほう}って{落|お}ち{着|つ}かないか？[n]{惑|まど}からは{景色|けしき}が{見|み}えるし、{壁|かべ}には{身|み}を{隠|かく}せる。[p]	Heh heh! Aren't corners calming? A window view, and a wall for cover.
+31	スナイパーの{本能|ほんのう}が、そうさせてるのかな。[n]ヒヒッ！[p]	Maybe it's my sniper instincts. Heh heh!
+32	まぁ、これからも{仲|なか}よくしてくれたら[n]{俺|おれ}は{嬉|うれ}しいぜ。チームでもよろしくな。[p]	Anyway, I'd be glad if we stayed friends. Same goes for the team.
+40	そんで、{何|なん}だよ？[p]	So, what?
+50	ヒヒッ！　ありがてぇ！[p]	Heh heh! Thanks a bunch!
+60	もう、{終|お}わりかよ……。[p]	It's over already…?
+70	ヒヒッ！[p]	Heh heh!
+80	さーて、ビシッと{狙|ねら}い{撃|う}ってやるよ……。[p]	Right, time to snipe 'em clean…
+90	けだるい{朝|あさ}だね……、{撃|う}ち{落|お}としてやりたいよ。[p]	What a sluggish morning… I'd like to shoot it down.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{青菜|あおな}シンジをスカウトしました。[p]	You scouted Shinji Aona!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{青菜|あおな}シンジとわかれた。[p]	Shinji Aona has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

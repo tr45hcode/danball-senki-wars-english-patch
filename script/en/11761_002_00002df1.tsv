@@ -1,0 +1,21 @@
+id	ja	en
+10	ロシウス連合{所属|しょぞく}、{寺島|てらしま}ライタであります！[n]ここで{会|あ}ったのも{何|なに}かの{縁|えん}、よろしく{頼|たの}む。[p]	Raita Terashima, Rossius Union, sir! Meeting here must be fate.
+11	[var:0]というのか。[n]{覚|おぼ}えておこう。[p]	[var:0], is it? I'll remember that.
+20	{戦争|せんそう}は、１{対|たい}１のケンカとは{違|ちが}う。[n]{事前|じぜん}の{情報|じょうほう}{収集|しゅうしゅう}が、{勝敗|しょうはい}を{大|おお}きく{左右|さゆう}する。[p]	War isn't a brawl. Gathering intel first decides who wins.
+21	……というわけで、{俺|おれ}の{情報|じょうほう}も{知|し}ってほしい。[n]よろしくな。[p]	…So I want you to have some intel on me, too. Good to know you.
+30	[var:0]、{生|い}き{残|のこ}れ！[n]{戦場|せんじょう}では{生|い}き{残|のこ}ることが{正義|せいぎ}だ！[p]	[var:0], survive! On the battlefield, survival is justice!
+31	{生|い}きてこそ{輝|かがや}くものが、{友情|ゆうじょう}！[n]それを{分|ゎ}かち{合|あ}える{友|とも}が{出来|でき}るとはな。[p]	Friendship shines only for the living! And I've found a friend to share it with.
+32	[var:0]……[n]これからも{頼|たの}むぞ、{相棒|あいぼう}！[p]	[var:0]… I'm counting on you, partner!
+40	ムッ、{次|つぎ}のミッションか？[p]	Hm, the next mission?
+50	しかと、{受|う}け{取|と}った！[p]	Received and acknowledged!
+60	{友|とも}よ、{俺|おれ}はお{前|まえ}を{信|しん}じてここまで{来|き}た。[n]{本当|ほんとう}にこれでいいのか？　{考|かんが}え{直|なお}してくれ。[p]	Friend, I trusted you to get this far. Are you sure? Please reconsider.
+70	さらばだ！[p]	Farewell!
+80	{現|げん}{時刻|じこく}をもって、{寺島|てらしま}ライタは[n][x14:0000]の{指揮下|しきか}に{入|はい}る！[p]	As of now, Raita Terashima is under the command of [x14:0000]!
+90	どうした、その{情|なさ}けない{顔|かお}は？[n]{戦場|せんじょう}の{朝|あさ}は{早|はや}いのだぞ！[p]	Why the sorry face? Mornings start early on the battlefield!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{寺島|てらしま}ライタをスカウトしました。[p]	You scouted Raita Terashima!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{寺島|てらしま}ライタとわかれた。[p]	Raita Terashima has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

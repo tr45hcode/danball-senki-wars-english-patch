@@ -1,0 +1,21 @@
+id	ja	en
+10	{俺|おれ}は、アンドレイ・グレゴリー！[n]お{前|まえ}がウワサの[var:0]か。[p]	I'm Andrei Gregory! So you're the [var:0] everyone talks about.
+11	なるほど、いい{目|め}をしているな。[n]お{前|まえ}とはいつか{戦場|せんじょう}で{会|あ}ってみたいものだ。[p]	I see, you have good eyes. I'd like to meet you on the battlefield someday.
+20	{周|まゎ}りは{俺|おれ}を『グレイビースト』と{呼|よ}ぶ。[n]いかなる{逆境|ぎゃっきょう}にも{耐|た}え、どんな{敵|てき}も{打|う}ち{砕|くだ}く……[p]	They call me the "Gray Beast." I endure any hardship, crush any foe…
+21	その{獣|けもの}のような{戦|たたか}い{方|かた}からな！[n]どうだ、お{前|まえ}も{今度|こんど}{戦場|せんじょう}で{試|ため}してみるか？[p]	It's for my beastly fighting style! Want to test it on the battlefield?
+30	やはり、{俺|おれ}が{見込|みこ}んだ{通|とお}りだった。[n][var:0]、お{前|まえ}は{大|たい}したヤツだ。[p]	Just as I thought. [var:0], you're really something.
+31	そして、{我|ゎれ}らがバイオレットデビルに[n]{世界|せかい}{連合|れんごう}の{司令官|しれいかん}となった{出雲|いずも}ハルキ……[p]	And our Violet Devil, and Haruki Izumo, commander of the World Alliance…
+32	{次|つぎ}の{時代|じだい}を{担|にな}う{逸材|いつざい}が{次々|つぎつぎ}と{育|そだ}ってきている。[n]{神威|かむい}{大門|だいもん}の{未来|みらい}は{明|あか}るいな！　ガッハッハ！！[p]	One new talent after another! Kamui Daimon's future is bright! Gwahaha!!
+40	それで、{俺|おれ}に{話|はなし}とは{何|なん}だ？[p]	So, what did you want to talk to me about?
+50	ガッハッハ！　ありがたくいただくぞ！[p]	Gwahaha! I'll gladly take it!
+60	おい、どういう{事|こと}だ？[n]このグレイビーストの{力|ちから}が{必要|ひつよう}ではないのか？[p]	Hey, what's this? You don't need the power of the Gray Beast?
+70	ふははは！　{邪魔|じゃま}したな。[p]	Fwahaha! Sorry to bother you.
+80	ふははは！　{中々|なかなか}、{見|み}る{目|め}があるではないか！[n]{気|き}に{入|い}った。このグレイビースト、{力|ちから}を{貸|か}すぞ！[p]	Fwahaha! You have a good eye! I like you. The Gray Beast is yours!
+90	ふははは！　{気持|きも}ちのいい{朝|あさ}ではないか！[n]{俺|おれ}のテーマ{曲|きょく}を{島|しま}{中|じゅう}に{響|ひび}かせたい{気分|きぶん}だ！[p]	Fwahaha! A fine morning! I want my theme song to ring across the island!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{家|かね}が{足|た}りません。[p]	Not enough money.
+60002	アンドレイ・グレゴリーをスカウトしました。[p]	You scouted Andrei Gregory!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	アンドレイ・グレゴリーとわかれた。[p]	Andrei Gregory has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

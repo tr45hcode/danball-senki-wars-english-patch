@@ -1,0 +1,21 @@
+id	ja	en
+10	[var:0]。[n]また、お{前|まえ}の{力|ちから}を{貸|か}して{欲|ほ}しい。[p]	[var:0]. I'd like to borrow your strength again.
+11	みんなお{前|まえ}の{力|ちから}を{必要|ひつよう}としているんだ。[n]これからもよろしく{頼|たの}む。[p]	Everyone needs you. I'm counting on you.
+20	セカンドワールド{建造|けんぞう}に{出資|しゅっし}していた{磯谷|いそがい}{財閥|ざいばつ}は[n]その{代表|だいひょう}として{俺|おれ}を{神威|かむい}{大門|だいもん}に{入学|にゅうがく}させた。[p]	The Isogai Group funded the Second World. I'm here as their representative.
+21	だが、{今回|こんかい}のような{事態|じたい}は{想定|そうてい}{外|がい}だったはず。[n]{今頃|いまごろ}、{磯谷|いそがい}{財閥|ざいばつ}は{大騒|おおさゎ}ぎしている{事|こと}だろうな。[p]	But they never expected anything like this. They must be in an uproar by now.
+30	まだ{誰|だれ}にも{話|はな}していない{事|こと}だが[n]お{前|まえ}には{言|い}っておこうと{思|おも}う。[p]	I haven't told anyone this yet, but I want you to know.
+31	この{一連|いちれん}の{騒|さゎ}ぎが{一|ひと}{段落|だんらく}したら[n]{俺|おれ}は、この{神威|かむい}{島|とう}から{出|で}るつもりだ。[p]	Once all this has settled down, I intend to leave Kamui Island.
+32	{今回|こんかい}の{事件|じけん}で、{己|おのれ}の{無力|むりょく}さと{無知|むち}さを{痛感|つうかん}し[n]{俺|おれ}なりに{世界|せかい}と{向|む}き{合|あ}ってみたくなったのだ。[p]	This incident showed me how powerless I am. I want to face the world my way.
+40	それで、{俺|おれ}に{話|はなし}というのは{何|なん}だ？[p]	So, what did you want to talk to me about?
+50	お{前|まえ}の{気持|きも}ち、たしかに{受|う}け{取|と}ったぞ。[p]	I accept your gesture.
+60	……お{前|まえ}が、よく{考|かんが}えて{出|だ}した{結論|けつろん}であれば[n]{俺|おれ}は{従|したが}うのみだ。[p]	…If that's what you decided after careful thought, then I'll respect it.
+70	{話|はなし}は{終|お}わりか？[n]では、{俺|おれ}はもう{行|い}く。[p]	Are we done? Then I'll be going.
+80	わかった。お{前|まえ}の{力|ちから}になろう。[n]これからよろしく{頼|たの}む。[p]	Very well. I'll lend you my strength. I'm counting on you.
+90	[var:0]か。{遅|おそ}かったな。[n]{行|い}くぞ。{早|はや}くしないと{遅刻|ちこく}する。[p]	[var:0]. You're late. Come on. If we don't hurry, we'll be late.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{磯谷|いそがい}ゲンドウをスカウトしました。[p]	You scouted Gendo Isogai!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{磯谷|いそがい}ゲンドウとわかれた。[p]	Gendo Isogai has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

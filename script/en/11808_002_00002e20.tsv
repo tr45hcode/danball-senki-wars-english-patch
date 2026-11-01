@@ -1,0 +1,21 @@
+id	ja	en
+10	ウーッス。{俺|おれ}は、{諸星|もろぼし}ナガレね。[p]	'Sup. I'm Nagare Moroboshi.
+11	{戦|たたか}いは{好|す}きじゃねぇんだわ。[n]専門はサポートだから、そこんとこヨロシク。[p]	I don't like fighting. I'm a support guy, so keep that in mind.
+20	なんだよ？　{今|いま}、{整備中|せいびちゅう}だったからさ[n]あんまし{邪魔|じゃま}しねーでくれる？[p]	What? I'm in the middle of maintenance, so don't bug me, okay?
+21	{整備|せいび}の{時間|じかん}ってのは、{俺|おれ}たちメカニックにとって[n]{神聖|しんせい}なモンなんだからさー。[p]	For us mechanics, maintenance time is sacred, y'know.
+30	{最近|さいきん}さー、{整備|せいび}すら{面倒|めんどう}になってきてよー。[n]{流石|さすが}に……、ちょっとマズイわな、これは。[p]	Lately even maintenance feels like a pain. That's… kinda bad, huh.
+31	お{前|まえ}は、どうやってやる{気|き}{出|だ}してる？[n]{秘訣|ひけつ}があったら、{教|おし}えてくんないかな。[p]	How do you get motivated? Got a secret? Tell me.
+32	お{前|まえ}が{言|い}う{事|こと}だったら、ちょっとは[n]{信用|しんよう}してもいいかなー、なんてな！[p]	If it's coming from you, maybe I could trust it a little. Just kidding!
+40	で、{俺|おれ}は{何|なん}で{呼|よ}ばれたんだっけ？[p]	So, why'd you call me again?
+50	あざーっす！[p]	Thanks a ton!
+60	まあ、しょうがねーか。[n]{元々|もともと}、{戦|たたか}いには{向|む}いてねーからな、{俺|おれ}は。[p]	Eh, can't be helped. I was never cut out for fighting anyway.
+70	おう、また{今度|こんど}な。[p]	Yeah, see ya.
+80	へへへ、{中々|なかなか}お{目|め}が{高|たか}いじゃないの。[n]じゃあ、よろしくお{願|ねが}いシャース。[p]	Heh heh, you've got a good eye. Well, nice to work with ya.
+90	ウィース。{徹夜|てつや}しちまってよォ。[n]お{日様|ひさま}が、えらく{黄色|きいろ}く{見|み}えるぜ～。[p]	'Sup. Pulled an all-nighter. The sun looks real yellow~.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{家|かね}が{足|た}りません。[p]	Not enough money.
+60002	{諸星|もろぼし}ナガレをスカウトしました。[p]	You scouted Nagare Moroboshi!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{諸星|もろぼし}ナガレとわかれた。[p]	Nagare Moroboshi has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

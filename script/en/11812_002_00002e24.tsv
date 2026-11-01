@@ -1,0 +1,21 @@
+id	ja	en
+10	あ、もしかして{君|きみ}が[var:0]？[n]{俺|おれ}は、{山野|やまの}バン。ジンは{俺|おれ}の{友人|ゆうじん}なんだ。[p]	Oh, are you [var:0]? I'm Ban Yamano. Jin's a friend of mine.
+11	{君|きみ}の{事|こと}は、ジンから{聞|き}いているよ。[n]{優秀|ゆうしゅう}なプレイヤーだって。{今度|こんど}バトルしようよ。[p]	Jin told me about you. Says you're a great player. Let's battle sometime.
+20	{神威|かむい}{大門|だいもん}{統合|とうごう}{学園|がくえん}か……。[n]まさか、ＬＢＸの{専門|せんもん}{校|こう}ができるなんて[p]	Kamui Daimon Academy… I bet even my dad never imagined
+21	{父|とう}さんも{予測|よそく}してなかっただろうな。[n]ＬＢＸの{可能性|かのうせい}は{広|ひろ}がるばかりだな。[p]	there'd be a school just for LBX. LBX's possibilities keep growing.
+30	えっ？　{今|いま}、{何|なに}をしているかって？[n]う～ん、{言|い}ってもいいけど、{少|すこ}し{照|て}れくさいな。[p]	Huh? What am I doing these days? I can tell you, but it's a little embarrassing.
+31	……じつは{俺|おれ}、ＬＢＸを{生|う}んだ{父|とう}さんみたいな[n]ＬＢＸ{研究者|けんきゅうしゃ}を{目指|めざ}しているんだ。[p]	…Actually, I want to be an LBX researcher, like my dad.
+32	{高校|こうこう}を{卒業|そつぎょう}したら、Ａ{国|こく}の{工科|こうか}{大学|だいがく}へ{進|すす}む{予定|よてい}。[n]ＬＢＸの{未来|みらい}を{見届|みとど}けるのが{俺|おれ}の{役目|やくめ}と{思|おも}って。[p]	After high school, I'll study at a tech university in Country A.
+40	それで、{俺|おれ}に{何|なに}か{用|よう}かな？[p]	So, need something from me?
+50	ありがとう！　{使|つか}わせてもらうよ！[p]	Thanks! I'll put it to use!
+60	そうか、{残念|ざんねん}だな。[n]せっかく{君|きみ}とは{息|いき}があってきたのに……。[p]	I see, that's too bad. We were just starting to click…
+70	おっと、{俺|おれ}はそろそろ{失礼|しつれい}するよ。[n]まだ{研究|けんきゅう}が{残|のこ}ってるからね。[p]	Whoops, I'd better get going. I've still got research to do.
+80	ＬＢＸの{先輩|せんぱい}として、{負|ま}けてられないな。[n]さあ、バトル{開始|かいし}だ！！[p]	As an LBX veteran, I can't fall behind. Let the battle begin!!
+90	おはよう。この{島|しま}は{自然|しぜん}がいっぱいでイイね。[n]おかげで、ぐっすり{眠|ねむ}れたよ。[p]	Morning. This island's full of nature. I slept like a log.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{山野|やまの}バンをスカウトしました。[p]	You scouted Ban Yamano!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{山野|やまの}バンとわかれた。[p]	Ban Yamano has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

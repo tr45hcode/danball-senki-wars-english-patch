@@ -1,0 +1,428 @@
+id	ja	en
+1000	{強化|きょうか}ガラスの{向|む}こうに[n]１０００{機|き}のコントロールポッドが{並|なら}んでいる。[p]	Beyond the reinforced glass, 1,000 Control Pods stand in rows.
+1010	{各国|かっこく}の{司令官|しれいかん}がここから{指揮|しき}や{作戦|さくせん}{説明|せつめい}を{行|おこな}う。[p]	Each nation's commander gives orders and briefings from here.
+1020	{各種|かくしゅ}{情報|じょうほう}にアクセスできる{総合|そうごう}{情報|じょうほう}{端末|たんまつ}。[n]{索敵|さくてき}や{情報|じょうほう}{分析|ぶんせき}などをする{際|さい}に{使用|しよう}する。[p]	A general info terminal. Used for scouting enemies and analyzing intel.
+1030	{味方|みかた}の{個別|こべつ}{状況|じょうきょう}や、{敵|てき}の{脅威|きょうい}{判定|はんてい}などの[n]{情報|じょうほう}を{表示|ひょうじ}するモニター。[p]	A monitor showing each ally's status, enemy threat levels and more.
+1040	ウォータイム{中|ちゅう}に{使用|しよう}する{通信|つうしん}{端末|たんまつ}。[n]{通信|つうしん}{内壅|ないよう}は{暗号化|あんごうか}されて{各小隊|かくしょうたい}に{伝|つた}わる。[p]	A comm terminal used in War Time. Messages reach each squad encrypted.
+1050	{床|ゆか}{上|じょう}の{巨大|きょだい}モニターに、{各小隊|かくしょうたい}を{記号|きごう}に[n]{置|お}き{換|か}えたアイコンが{表示|ひょうじ}されている。[p]	The giant floor monitor shows each squad as an icon.
+2001	{君|きみ}の{実力|じつりょく}は[n]この{作戦|さくせん}で{見極|みきゎ}めさせてもらう。[p]	I'll judge your skills in this operation.
+2002	{初|はつ}{出撃|しゅつげき}だからといって、{緊張|きんちょう}していないか？[p]	Nervous because it's your first sortie?
+2003	[var:0]とは[n]うまくやっていけそうだな。[p]	Looks like we'll get along fine with [var:0].
+2004	アンタ、{凄|すご}いな～。[p]	You're amazin'~.
+2005	{本日|ほんじつ}は、もう{解散|かいさん}だ。[p]	That's all for today. Dismissed.
+2006	よぉ！　カゲトラ！！　お{前|まえ}のトコの{新人|しんじん}[n]{元気|げんき}よさそうじゃねぇか。[p]	Yo! Kagetora!! Your new recruit looks lively!
+2007	{私|ゎたくし}たちに{何|なに}かご{用|よう}ですか？[p]	Do you need something from us?
+2008	オアシス８では{良|い}い{働|はたら}きをしてくれた。[p]	Good work at Oasis 8.
+2009	{形式上|けいしきじょう}、あたしが{司令官|しれいかん}として{登録|とうろく}されているが[n]{生憎|あいにく}、あたしはそんな{器|うつゎ}じゃない。[p]	Officially, I'm registered as commander, but I'm not cut out for it.
+2010	アカマ{砂漠|さばく}は、アラビスタ{攻略|こうりゃく}の{上|うえ}で[n]{絶対|ぜったい}に{避|さ}けては{通|とお}れない{要所|ようしょ}。[p]	The Akama Desert is a key point we can't avoid if we're taking on Arabista.
+2011	アカマ{砂漠|さばく}へ{向|む}かうんやったら[n]ＤＣエリアルのレッグパーツ……[p]	If you're headin' to the Akama Desert, DC Aerial leg parts…
+2012	おっ、{準備|じゅんび}できた？[n]これでも、{僕|ぼく}はＬＢＸプロプレイヤーの{弟|おとうと}でね[p]	Oh, ready? You know, I'm the little brother of an LBX pro,
+2013	{今回|こんかい}は{各|かく}{小隊|しょうたい}の{判断|はんだん}に{任|まか}せる。[n]{期待|きたい}しているぞ。[p]	This time, it's up to each squad. I'm counting on you.
+2014	[var:0]も{大分|だいぶ}[n]ウォータイムでの{戦|たたか}い{方|かた}が{板|いた}についてきたな。[p]	You've really gotten the hang of War Time, [var:0].
+2015	さあ、これからスワローで{祝勝会|しゅくしょうかい}や！[n]ぱぁーっと{行|い}こーや！[p]	Now, victory party at Swallow! Let's live it up!
+2016	{純喫茶|じゅんきっさ}スワローは[n]{商店街|しょうてんがい}にあるんだ。[p]	Cafe Swallow is in the Shopping District.
+2017	{部隊|ぶたい}として、まとまってきたようだな。[p]	Looks like we're coming together as a unit.
+2018	さて、ギンジロウが{待|ま}ちくたびれる{前|まえ}に[n]スワローに{向|む}かうとしようか。[p]	Well, let's head to Swallow before Ginjiro gets tired of waiting.
+2019	バトルしますか？[p]	Battle?
+2020	わかった。ゆっくり{準備|じゅんび}してくれて{良|い}いよ。[n]{僕|ぼく}は、ＬＢＸテクノロジーでも{読|よ}んでるからさ。[p]	Got it. Take your time getting ready. I'll be reading LBX Technology.
+2021	オトヒメのヤツ、{大分|だいぶ}まいってるな。[p]	Otohime's pretty worn out.
+2022	……よ、よろしくおねがい……する…わ。[p]	…N-nice to… work with you… I suppose.
+2023	{戦場|せんじょう}では、{突出|とっしゅつ}した{個人|こじん}の{能力|のうりょく}が[n]{戦況|せんきょう}を{変化|へんか}させるわけではない。[p]	On the battlefield, one standout individual doesn't change the tide.
+2024	{海道|かいどう}{先生|せんせい}の{指示|しじ}は{的確|てきかく}だな。[n]あとは、{君|きみ}たちの{頑張|がんば}り{次第|しだい}と{言|い}ったところか。[p]	Mr. Kaido's orders are spot on. The rest is up to you.
+2025	スカウトして{仲間|なかま}に{出来|でき}る{人数|にんずう}には{上限|じょうげん}があるが[n]ともに{戦|たたか}い{親密|しんみつ}{度|ど}を{上|あ}げる{事|こと}で[p]	Your team size has a limit, but fight together and raise affinity, and…
+2026	バイオレットデビルがいかに{強力|きょうりょく}だろうと[n]いつかは{越|こ}えなければいけない{壁|かべ}だ。[p]	However strong the Violet Devil is, he's a wall we must get past someday.
+2027	もっともっと、{強|つよ}くなって[n]バイオレットデビルなんか{俺|おれ}{様|さま}が{倒|たお}してやる！[p]	I'll get even stronger, and the great me'll take down that Violet Devil!
+2028	{学園|がくえん}{一|いち}のプレイヤーだからといって、{相手|あいて}を[n]ロストさせるような{戦|たたか}い{方|かた}は{関心|かんしん}しませんわ。[p]	Top player or not, I don't approve of fighting to make opponents Lost.
+2029	バイオレットデビルを{倒|たお}すには[n]{我々|ゎれゎれ}が{一丸|いちがん}となって{戦|たたか}う{必要|ひつよう}があるだろう。[p]	To beat the Violet Devil, we'll need to fight as one.
+2030	みんなが{無事|ぶじ}に{帰還|きかん}してくれて{何|なに}よりだ。[p]	I'm just glad everyone made it back safely.
+2031	[var:0]。[n]{悪|ゎる}いが、スズネについて{行|い}ってやってくれ。[p]	[var:0]. Sorry, but go after Suzune.
+2032	やれやれ、{相変|あいか}わらずスズネの{考|かんが}えは{甘|あま}いな。[n]これは、ウォータイム。{戦争|せんそう}なんだ。[p]	Good grief, Suzune's as naive as ever. This is War Time. It's war.
+2033	スズネは{自分|じぶん}がロストさせたプレイヤーが[n]{退学|たいがく}になる{事|こと}に{納得|なっとく}していないのだろう。[p]	Suzune can't accept that players she makes Lost get expelled.
+2034	{現実|げんじつ}{問題|もんだい}として、{敵|てき}であるアラビスタ{側|がゎ}には[n]クルセイドを{滅|ほろ}ぼせるほどの{人員|じんいん}と{物量|ぶつりょう}が{存在|そんざい}。[p]	Realistically, Arabista has the people and resources to wipe out Crusade.
+2035	アラビスタ{同盟|どうめい}は{生徒|せいと}の{数|かず}が[n]ロシウスに{次|つ}いで２{番目|ばんめ}に{多|おお}い{大国|たいこく}だ。[p]	The Arabista Alliance has the most students after Rossius.
+2036	{強力|きょうりょく}なアラビスタの{戦力|せんりょく}が[n]{増強|ぞうきょう}されてしまったか……。[p]	So Arabista's mighty forces got even stronger…
+2037	クルセイドの{約|やく}{半数|はんすう}をロストやなんて……。[p]	About half of Crusade made Lost…
+2038	{今回|こんかい}の{件|けん}で、アラビスタ{同盟|どうめい}{軍|ぐん}は[n]{今|いま}までよりもさらに{手強|てごゎ}くなりそうだね……。[p]	After this, the Arabista Alliance will be even tougher…
+2039	{削除|さくじょ}[p]	
+2040	{削除|さくじょ}[p]	
+2041	{今度|こんど}、{俺様|おれさま}と{腕試|うでため}しさせろよな！[p]	Let me test my skills against you sometime!
+2042	ああ、{考|かんが}えとくさ。[n]{今回|こんかい}の{作戦|さくせん}はよろしく{頼|たの}むよ。ギンジロウ。[p]	Yeah, I'll think about it. Count on you for this operation, Ginjiro.
+2043	ハハッ！　{誰|だれ}に{向|む}かってもの{言|い}ってんだ？[p]	Hah! Who d'you think you're talkin' to?
+2044	この{無敵|むてき}ギンジロウ{様|さま}が[n]ざっくりサッパリやっつけてやンよ。[p]	The invincible Ginjiro'll wipe 'em out clean.
+2045	お{前|まえ}らこそ、{遅|おく}れやがったら[n]{取|と}り{分|ぶん}なくなるからな。{覚悟|かくご}しとけよ。[p]	And if you guys are late, there'll be nothin' left for you. Remember that.
+2046	{無敵|むてき}ギンジロウ。[n]プレイヤーとしての{戦闘|せんとう}スキルだけでいえば[p]	Ginjiro Muteki. In pure combat skill as a player,
+2047	[x14:0000]{一|いち}のプレイヤーだ。[p]	he's the best in [x14:0000].
+2048	ウチらの{中|なか}でもＬＢＸバトルで[n]タイマンを{張|は}って[p]	There ain't many of us who can beat him
+2049	{勝|か}てるやつはそうおらんっちゅーねん……。[p]	one-on-one in an LBX battle…
+2050	スズネも、{目下|もっか}{連敗中|れんぱいちゅう}だったよね？[n]⟨Ω⟩⟨７⟩{戦|せん}⟨Ω⟩⟨７⟩{敗|はい}だっけ？[p]	Suzune's on a losing streak too, right? 97 fights, 97 losses?
+2051	⟨Ω⟩８{敗|はい}や……。[p]	98 losses…
+2052	ははは……。それだけ{頼|たよ}りになるって{事|こと}だよ。[p]	Hahaha… That just shows how reliable he is.
+2053	{貴方方|あなたがた}、{第|だい}１{小隊|しょうたい}に{手柄|てがら}を{差|さ}し{上|あ}げるのは[n]{少々⟨晩⟩|しょうしょうしゃく}ですが……。[p]	It's a tad galling to hand you 1st Squad the glory, but…
+2054	ジン{様|さま}の{為|ため}に[n]{今回|こんかい}はお{譲|ゆず}りして{差|さ}し{上|あ}げますわ。[p]	for Master Jin's sake, I shall yield this time.
+2055	{第|だい}３{小隊|しょうたい}は、{白小路|しろこうじ}オトヒメを{隊長|たいちょう}とした[n]{女|おんな}の{子|こ}だけのチームなんだ。[p]	3rd Squad is an all-girl team led by Otohime Shirokoji.
+2056	{姫|ひめ}は、ジンはんの{熱狂的|ねっきょうてき}なフリークやから[n]{気|き}をつけた{方|ほう}がええで。[p]	Princess is a die-hard Jin fanatic, so watch out.
+2057	{怒|おこ}らせるとごっつう{⟨怖⟩|こゎ}いからな。[p]	She's real scary when she's mad.
+2058	スズネ。{聞|き}こえていますわよ。[p]	Suzune. I can hear you.
+2059	[var:0]、{君|きみ}はなかなか[n]{興味深|きょうみぶか}いプレイヤーだな。[p]	[var:0], you're quite an interesting player.
+2060	これからもよろしく{頼|たの}む。[p]	I'm counting on you.
+2061	そこで、{実質的|じっしつてき}な{指揮|しき}は{海道|かいどう}{先生|せんせい}に{任|まか}せて[n]あたしはそのサポートに{徹|てっ}する{事|こと}にしている。[p]	So I leave the actual command to Mr. Kaido and stick to supporting him.
+2062	{海道|かいどう}{先生|せんせい}は、{君|きみ}たちと{年|とし}はさほど{変|か}わらないが[n]Ａ{国|こく}で{大学|だいがく}を{主席|しゅせき}で{卒業|そつぎょう}し[p]	Mr. Kaido isn't much older than you, but he graduated top in Country A
+2063	{臨時甲師|りんじこうし}としてこの{学園|がくえん}に{赴任|ふにん}されている。[n]スズネから{聞|き}いたと{思|おも}うが[p]	and was sent here as a temporary teacher. As I'm sure Suzune told you,
+2064	[x14:0000]の{関係者|かんけいしゃ}{以外|いがい}では[n]この{事|こと}は{口外無用|こうがいむよう}だ。[p]	don't tell anyone outside [x14:0000] about this.
+2065	{外|そと}では{海道|かいどう}ジン{先生|せんせい}の{事|こと}を[n]『ドルドキンス』と{呼称|こしょう}するように。[p]	Outside, refer to Mr. Jin Kaido as "Dordkins."
+2066	カゲトラ、しっかり{教育|きょういく}を{頼|たの}むぞ。[p]	Kagetora, I'm counting on you to teach them.
+2067	はい。{了解|りょうかい}しました。[p]	Yes. Understood.
+2068	そらそうやろ。ウォータイム{中|ちゅう}だけとはいえ[n]３{日間|かかん}も{同|おな}じ{場所|ばしょ}に{釘付|くぎづ}けや。[p]	'Course. Only in War Time, sure, but stuck in one place for three days?
+2069	ウチやったら、{気|き}が{狂|くる}いそうやわ。[p]	I'd go nuts.
+2070	そうだね。{急|いそ}いだ{方|ほう}が{良|よ}さそう。[n]プライドの{高|たか}いオトヒメがあの{様子|ようす}じゃあ[p]	Right. We should hurry. If proud Otohime is like that,
+2071	いつまで{我慢|がまん}できるか、わかったものじゃない。[p]	who knows how long she can hold out.
+2072	だが、{君|きみ}の{戦|たたか}いを{見|み}ていると[n]{何|なに}か{別|べつ}の{期待|きたい}をしてしまいそうになる。[p]	But watching you fight, I can't help hoping for something more.
+2073	{今回|こんかい}の{作戦|さくせん}は{過酷|かこく}なものになるだろう。[n][var:0]、{期待|きたい}しているよ。[p]	This operation will be grueling. [var:0], I'm counting on you.
+2074	{第|だい}３{小隊|しょうたい}を{助|たす}けてやってくれ。[p]	Go help 3rd Squad.
+2075	{気|き}を{引|ひ}き{締|し}めて、のぞんでくれ。[p]	Stay sharp out there.
+2076	ガチガチになりすぎると[n]{本来|ほんらい}の{力|ちから}の{半分|はんぶん}も{出|だ}せなくなる。{気|き}をつけろよ。[p]	Too stiff, and you won't show half your real strength. Careful.
+2077	これから{俺|おれ}は{報告書|ほうこくしょ}の{提出|ていしゅつ}がある。[n]{悪|ゎる}いが、{校門|こうもん}{前|まえ}で{待|ま}っていてくれ。[p]	I have a report to hand in. Sorry, wait for me at the school gate.
+2078	これからも{頼|たよ}りにさせてもらうで。[p]	I'll be countin' on you from here on.
+2079	ダック{荘|そう}までの{道|みち}のりは[n]カゲトラに{案内|あんない}してもらえ。[p]	Kagetora will show you the way to Duck Lodge.
+2080	{一方|いっぽう}、グレスト{山地|さんち}はさほど{重要|じゅうよう}{拠点|きょてん}ではないが[n]{確保|かくほ}すれば、ラボランクを{上|あ}げる{事|こと}ができる。[p]	The Grest Mountains aren't key, but taking them raises our Lab rank.
+2081	どちらに{進|すす}むかは[n]{悩|なや}ましいところだな。[p]	Which way to go is a tough call.
+2082	グレスト{山地|さんち}へ{向|む}かうんやったら[n]ＤＣオフェンサーのレッグパーツがオススメや！[p]	If you're headin' to the Grest Mountains, I recommend DC Offenser leg parts!
+2083	{小|ちい}さい{頃|ころ}は、{大好|だいす}きなトマトジュースを{賭|か}けて[n]いつもお{姉|ねえ}ちゃんとＬＢＸバトルしてたから[p]	As a kid, I always battled my sister with LBX, betting tomato juice,
+2084	ＬＢＸ{操作|そうさ}には、そこそこ{自信|じしん}があるんだ。[n]さあ、カスタマイズの{出来|でき}を{試|ため}してみようか？[p]	so I'm pretty confident at the controls. Shall we test your customizing?
+2085	{俺|おれ}も{負|ま}けてられないな。お{互|たが}いに{切磋|せっさ}{琢磨|たくま}して[n]この{小隊|しょうたい}を{最高|さいこう}のチームにしような！[p]	I can't fall behind either. Let's push each other and make this squad the best!
+2086	みんなでワイワイすれば[n]きっと{楽|たの}しいでー！[p]	If we all hang out together, it'll be a blast!
+2087	あそこのメニューは[n]どれもすっごく{美味|おい}しいんだよ。[p]	Everything on their menu is super tasty.
+2088	その{調子|ちょうし}で{頑張|がんば}れよ、[var:0]。[p]	Keep it up, [var:0].
+2089	{削除|さくじょ}[p]	
+2090	{削除|さくじょ}[p]	
+2091	{削除|さくじょ}[p]	
+2092	{削除|さくじょ}[p]	
+2093	{君|きみ}たちなら、きっと{大丈夫|だいじょうぶ}だと{信|しん}じているよ。[n]この{窮地|きゅうち}をうまく{乗|の}り{越|こ}えてみせてくれ。[p]	I believe you'll be fine. Show me you can get through this crisis.
+2094	{仲間|なかま}からデータディスクをもらえる{事|こと}がある。[n]{試|ため}してみるといい。[p]	Teammates sometimes give you data discs. Give it a try.
+2095	[var:0]、スズネ、タケル。[n]みんな、この{先|さき}もよろしく{頼|たの}む。[p]	[var:0], Suzune, Takeru. I'm counting on all of you from here on.
+2096	そんなん、{当|あ}たり{前|まえ}やん！[n]ウチに{任|まか}しとき！[p]	Obviously! Leave it to me!
+2097	{僕|ぼく}も{今|いま}まで{以上|いじょう}に[n]みんなの{力|ちから}になれるよう{頑張|がんば}るよ！[p]	I'll work harder than ever to help everyone too!
+2098	…………。[p]	…………
+2099	お{前|まえ}たちとならば、バイオレットデビル{相手|あいて}でも[n]{十分|じゅうぶん}に{⟨競⟩|ゎた}り{合|あ}えると{俺|おれ}は{信|しん}じている。[p]	With you all, I believe we can hold our own even against the Violet Devil.
+2100	{一緒|いっしょ}に{強|つよ}くなっていこう！[p]	Let's get stronger together!
+2101	こうなったら{修行|しゅぎょう}だ！[n]{地獄|じごく}の{特訓|とっくん}メニューを{組|く}んでやる！[p]	That settles it, training! I'll make a hellish training menu!
+2102	ジン{様|さま}の{騎士道|きしどう}{精神|せいしん}にあふれるバトルを{観戦|かんせん}し[n]{少|すこ}しは{勉強|べんきょう}された{方|ほう}がいいんじゃないかしら？[p]	Perhaps watch Master Jin's chivalrous battles and learn a thing or two?
+2103	……{僕|ぼく}、がんばる。[p]	…I'll, do my best.
+2104	これから{世話|せゎ}になるぜ[n][var:0]。[p]	I'll be in your care, [var:0].
+2105	うふふ。これからは{本当|ほんとう}の{意味|いみ}で[n]お{仲間|なかま}ってわけね。ヨロシクー。[p]	Ufufu. Now we're teammates for real. Nice to meetcha~.
+2106	{第|だい}⟨４⟩{小隊|しょうたい}{一同|いちどう}、{任務|にんむ}に{関|かん}してはベストを{尽|つ}くす。[n]よろしく{頼|たの}むぞ、[var:0]。[p]	4th Squad will do our best on any mission. I'm counting on you, [var:0].
+2107	あのバイオレットデビルを{相手|あいて}にして[n]{全員|ぜんいん}{帰還|きかん}できたのは{幸運|こううん}と{言|い}ってもいいからな。[p]	Everyone coming back from the Violet Devil is pure luck.
+2108	{俺|おれ}も{行|い}きたいのは{山々|やまやま}なんだが……[n]{色々|いろいろ}と{事後|じご}{処理|しょり}が{残|のこ}っているんでな。[p]	I'd love to go, but… I've got cleanup to take care of.
+2109	……ここが{隊長|たいちょう}の{辛|つら}いところだよ。[p]	…That's the hard part of being captain.
+2110	[var:0][n]スズネの{事|こと}、よろしく{頼|たの}む。[p]	[var:0], take care of Suzune for me.
+2111	{当然|とうぜん}ロストも{起|お}こりうるという{意識|いしき}で{戦|たたか}いに[n]{挑|いど}んでもらわねばいつか{仲間|なかま}にも{被害|ひがい}が{及|およ}ぶぞ。[p]	If she won't accept that Lost can happen, her comrades will get hurt.
+2112	{気持|きも}ちは{分|ゎ}かるが、{危|あぶ}なっかしいな。[n][var:0]、{様子|ようす}を{見|み}に{行|い}ってきてくれ。[p]	I understand how she feels, but it's risky. [var:0], go check on her.
+2113	さらには、クルセイドの{残存|ざんぞん}{分|ぶん}を{補充|ほじゅう}して[n]その{戦力|せんりょく}は{大幅|おおはば}に{強化|きょうか}されたものと{推測|すいそく}できる。[p]	And with Crusade's remnants absorbed, their forces must be much stronger.
+2114	だが、{堅固|けんご}な{壁|かべ}にも{弱点|じゃくてん}は{必|かなら}ず{存在|そんざい}する。[n]フッ、{諜報|ちょうほう}{斑|はん}の{腕|うで}の{見|み}せ{所|どころ}というわけだな。[p]	But even a sturdy wall has a weak point. Heh, time for intel to shine.
+2115	{彼|かれ}らが{得意|とくい}とする{物量|ぶつりょう}{作戦|さくせん}は{一見|いっけん}、{単純|たんじゅん}だが[n]かなり{効果的|こうかてき}な{戦|たたか}い{方|かた}と{言|い}える。[p]	Their numbers-heavy tactics look simple, but they're very effective.
+2116	こちらも{気|き}をつけて{挑|いど}まなければな。[p]	We'll have to be careful too.
+2117	アラビスタを{攻略|こうりゃく}するのは[n]さらに{壅易|ようい}じゃなくなったな。[p]	Taking Arabista just got even harder.
+2118	{俺|おれ}たちも、{今|いま}まで{以上|いじょう}に[n]{気|き}を{引|ひ}き{締|し}めていくとするか。[p]	We'd better tighten up more than ever too.
+2119	どうして、そんなひどい{事|こと}ができるん？[n]やっぱウチの{考|かんが}えが{甘|あま}いんやろか？[p]	How can they do somethin' so cruel? Am I just naive?
+2120	……ウチには、よう{分|ゎ}からんわ。[p]	…I just don't get it.
+2121	これはなかなか{難|むずか}しい{問題|もんだい}だ。[n]みんなの{知恵|ちえ}と{力|ちから}を{合|あ}わせないといけないね。[p]	This is a tough one. We'll need everyone's wits and strength.
+2122	セカンドワールド{最大|さいだい}の{規模|きぼ}を{誇|ほこ}るロシウス{連合|れんごう}[n]そして、バイオレットデビルこと{法条|ほうじょう}ムラク……[p]	The Rossius Union, the Second World's largest, and the Violet Devil…
+2123	{敵|てき}は{強大|きょうだい}だ。しかも、{問題|もんだい}はそれだけじゃない。[n]セカンドワールドの{真実|しんじつ}だって{解明|かいめい}できてない。[p]	The enemy is mighty. And we still don't know the Second World's truth.
+2124	だが、{焦|あせ}りは{禁物|きんもつ}だ。{地道|じみち}に{片|かた}づけていこう。[n]そうすれば、{必|かなら}ずや{道|みち}は{開|ひら}けるはずだ。[p]	But we mustn't rush. Let's deal with it step by step. Then a way will open.
+2125	どうしてシスイの{奴|やつ}は[n]あんないつも{通|どお}りでおられるんかな？[p]	How can Shisui act like nothin's different?
+2126	ウチら……[n]{戦争|せんそう}をやらされてるかもしれへんのに……。[p]	We might be gettin' made to fight a war…
+2127	あかん、あかん。[n]{愚痴|ぐち}を{言|い}うつもりはなかったんや。[p]	No, no. I didn't mean to complain.
+2128	{今|いま}、{言|い}ってた{事|こと}は{気|き}にせんといてな。[p]	Forget what I just said, 'kay?
+2129	セカンドワールドの{真実|しんじつ}も{気|き}になるけど……[n]これからの{相手|あいて}は、あのロシウス{連合|れんごう}だ。[p]	The Second World's truth bugs me too… but next up is the Rossius Union.
+2130	セカンドワールドの{調査|ちょうさ}を{続|つづ}けながら{戦|たたか}えるほど[n]ロシウスは{甘|あま}い{相手|あいて}じゃないはず……。[p]	Rossius isn't soft enough to fight while we investigate the Second World…
+2131	だからさ、{調査|ちょうさ}はジンさんに{任|まか}せて[n]{僕|ぼく}らはロシウス{攻略|こうりゃく}に{集中|しゅうちゅう}した{方|ほう}がいいと{思|おも}う。[p]	So let's leave the investigating to Jin and focus on Rossius.
+2132	どうやらバイオレットデビルから{聞|き}かされた{話|はなし}に[n]{動揺|どうよう}しているメンバーがいるようだ。[p]	Some members seem shaken by what the Violet Devil told them.
+2133	たとえそれが{真実|しんじつ}であっても[n]{私|ゎたし}たちは{任務|にんむ}を{遂行|すいこう}するだけだ。[p]	Even if it's true, we just carry out our missions.
+2134	そうしなければ[n]この{学園|がくえん}には{残|のこ}っていられないからな。[p]	Otherwise, we can't stay at this academy.
+2135	{皆|みな}、{法|ほう}{条|じょう}ムラクの{言葉|ことば}が[n]{気|き}がかりなようだな。[p]	Everyone seems worried about what Muraku Hojo said.
+2136	こちらでも、あらゆる{手|て}を{尽|つ}くして[n]{調査|ちょうさ}を{続|つづ}けていくつもりだ。[p]	We'll keep investigating on our end, by every means we have.
+2137	どのような{⟨修⟩|こた}えが{出|で}るかは{分|ゎ}からないが……[p]	I don't know what answer we'll find…
+2138	{我々|ゎれゎれ}はセカンドワールドで[n]{勝|か}ち{続|つづ}けなければならない。[p]	We must keep winning in the Second World.
+2139	だから{今|いま}は、{他|ほか}の{事|こと}にはとらわれず[n]ロシウス{連合|れんごう}との{戦|たたか}いに{集中|しゅうちゅう}してくれ。[p]	So for now, don't get distracted. Focus on the fight with the Rossius Union.
+2140	どうやら、スズネも{大分|だいぶ}{落|お}ち{着|つ}いたようだな。[p]	Looks like Suzune has calmed down quite a bit.
+2141	あはは、みんなには{心配|しんぱい}かけてしもーたな。[n]{我|ゎれ}ながら{恥|は}ずかしいわ。ゴメン、{堪忍|かんにん}して。[p]	Ahaha, I made everyone worry. How embarrassin'. Sorry, forgive me.
+2142	でも、ウチの{中|なか}ではもう{収|おさ}まりついとるから[n]{安心|あんしん}してくれてええで。[p]	But I've sorted it out inside, so don't you worry.
+2143	{本当|ほんとう}にスズネがいつも{通|どお}りに[n]なってくれて{良|よ}かったよ……。[p]	I'm so glad Suzune's back to her usual self…
+2144	ずっと{心配|しんぱい}してたんだからね？[p]	I was worried the whole time, you know?
+2145	いや～、スマンなぁ。[n]これからはバリバリ{働|はたら}くから、{堪忍|かんにん}してな。[p]	Sorry 'bout that~. I'll work my tail off from now on, so forgive me.
+2146	ふむ……、それならスズネにはこれから[n]{俺|おれ}と[var:0]の{倍|ばい}は{頑張|がんば}ってもらうか。[p]	Hmm… Then Suzune works twice as hard as [var:0] and me from now on.
+2147	え～！？　{何|なん}やそれー！？[n]そんなん、ただの{横暴|おうぼう}やーん！[p]	Whaaat!? What's that!? That's just tyranny!
+2148	{俺|おれ}たちに{心配|しんぱい}させた{罰|ばつ}だと{思|おも}えば[n]そのくらいは{安|やす}いもんだろう？[p]	Call it punishment for worrying us. Cheap price, right?
+2149	う、うう……、{分|ゎ}かったわ。[n]やったる！　ウチの{言葉|ことば}に{二言|にごん}はないで！[p]	Ugh… Fine. I'll do it! I never go back on my word!
+2150	うん。それでこそ、{僕|ぼく}たちのスズネだ。[n]やっと、いつもの{第|だい}１{小隊|しょうたい}に{戻|もど}ったね。[p]	Yeah. That's our Suzune. 1st Squad's finally back to normal.
+2151	そうだな。この{先|さき}の{戦|たたか}いも[n]{万全|ばんぜん}の{態勢|たいせい}でのぞめそうだな。[p]	Right. We can face the battles ahead fully prepared.
+2152	{僕|ぼく}の{話|はなし}がスズネさんの[n]お{役|やく}に{立|た}てたようで{何|なに}よりです。[p]	I'm glad my story was of some help to Suzune.
+2153	これからもセカンドワールドで{問題|もんだい}{解決|かいけつ}し[n]{戦争|せんそう}を{未然|みぜん}に{防|ふせ}げると{良|い}いですね。[p]	I hope we keep solving problems in the Second World and preventing wars.
+2154	やっぱり{大人|おとな}の{代|か}わりに{戦争|せんそう}やらされてるって[n]{感|かん}じる{人|ひと}はいるんだよな……。[p]	So some people really do feel they're fighting wars in place of the adults…
+2155	でも、{俺|おれ}たちがＬＢＸバトルをするだけで[n]{現実|げんじつ}の{争|あらそ}いは{減|へ}ってるんだろ？[p]	But just by having LBX battles, we cut down on real fighting, right?
+2156	しかも{世界|せかい}を{救|すく}った{英雄|えいゆう}の{１人|ひとり}[n]あの{海道|かいどう}ジンの{指揮|しき}で{戦|たたか}えるなんて……[p]	And we get to fight under Jin Kaido, one of the heroes who saved the world…
+2157	くぅ～、なんか{燃|も}えてきたぞ！[n]{俺|おれ}たちの{手|て}で{現実|げんじつ}の{戦争|せんそう}をゼロにしてやろうぜ！[p]	Man, I'm fired up! Let's bring real wars down to zero ourselves!
+2158	セカンドワールドの{真実|しんじつ}を[n]{今|いま}まで{君|きみ}たちに{伝|つた}えられずに{申|もう}し{⟨訳⟩|ゎけ}なかった。[p]	I'm sorry I couldn't tell you the truth about the Second World until now.
+2159	{我々|ゎれゎれ}の{戦|たたか}いは、{一国|いっこく}の{運命|うんめい}を{左右|さゆう}する。[p]	Our battles decide the fate of nations.
+2160	プレイヤーたちの{士気|しき}を{下|さ}げないためにも、[n]{慎重|しんちょう}にならざるをえなかった……。[p]	We had to be careful, so as not to hurt the players' morale…
+2161	{伝|つた}えるタイミングについても{悩|なや}んだが[n]やはり、とても{重|おも}い{問題|もんだい}となったようだな。[p]	I agonized over when to tell you, but it's clearly become a heavy issue.
+2162	あなたたちには、{代理|だいり}{戦争|せんそう}という[n]{重責|じゅうせき}を{与|あた}えてしまってるかもしれないけれど[p]	We may be putting the burden of a proxy war on you, but
+2163	ＥＲＰは{各国|かっこく}に{戦争|せんそう}を{行|おこな}わせない[n]{調停|ちょうてい}システムとして{機能|きのう}しているの。[p]	the ERP works as a mediation system that keeps nations from going to war.
+2164	つまり、セカンドワールドにおける{我々|ゎれゎれ}の{戦|たたか}いは[n]{間違|まちが}いなく、{世界|せかい}{平⟨和⟩|へいゎ}に{貢献|こうけん}しているのよ。[p]	So our battles in the Second World truly help keep world peace.
+2165	リクヤ{君|くん}たちとの{連携|れんけい}を{命|めい}じたのは[n]{君|きみ}たちが{適任|てきにん}だと{判断|はんだん}したからだ。[p]	I ordered you to work with Rikuya's team because you're the right fit.
+2166	{僕|ぼく}の{人選|じんせん}に{間違|まちが}いはないと{信|しん}じている。[n]{期待|きたい}しているぞ。[p]	I trust my choice. I'm counting on you.
+2167	ジェノックの{第|だい}３{小隊|しょうたい}と{連携|れんけい}か……。[p]	Working with Jenock's 3rd Squad, huh…
+2168	まだお{互|たが}いの{事|こと}を{知|し}り{合|あ}えていない{状態|じょうたい}で[n]{息|いき}を{合|あ}わせるのは{骨|ほね}が{折|お}れそうだな。[p]	Syncing up before we even know each other will be tough.
+2169	あちらの{隊長|たいちょう}とも１{度|ど}[n]しっかりと{話|はな}し{合|あ}う{必要|ひつよう}があるな。[p]	I'll need a proper talk with their captain.
+2170	さっきのリクヤの{態度|たいど}、アレ{何|なん}なん！？[n]{感|かん}じ{悪|ゎる}いわ～。[p]	What was with Rikuya's attitude just now!? So rude~.
+2171	アイツ、{絶対|ぜったい}{友|とも}だちおらんで。[n]{仲間|なかま}{殺|ごろ}しって{言|い}われても{仕方|しかた}ないわ。[p]	That guy's got no friends, I bet. No wonder they call him a comrade killer.
+2172	パラサイトキー……[n]そして、ロストエリアか……。[p]	The Parasite Keys… and the Lost Area…
+2173	セカンドワールドの[n]システムを{管理|かんり}してるっちゅー{事|こと}やけど……[p]	Apparently they manage the Second World's system, but…
+2174	{一体|いったい}、どういう{事|こと}なんやろな？[p]	what does that even mean?
+2175	さて……、な。[n]{俺|おれ}にも{良|よ}く{分|ゎ}からないが[p]	Who knows… I don't really get it either,
+2176	とにかく{雲|くも}をつかむような{話|はなし}だったな。[p]	but it sure was a vague story.
+2177	なんや、キナくさい{話|はなし}になってきたなぁー。[p]	This is startin' to smell fishy~.
+2178	おかしな{事|こと}にならなければいいんだが……。[p]	I hope nothing strange happens…
+2179	{第|だい}１{小隊|しょうたい}の{皆|みな}さん、リクヤ{隊長|たいちょう}の{警護|けいご}を[n]{引|ひ}き{受|う}けて{頂|いただ}いて、ありがとうございます。[p]	1st Squad, thank you for agreeing to guard Captain Rikuya.
+2180	あなた{方|がた}と{出会|であ}えなければ、ここまで{上手|うま}く{話|はなし}を[n]{運|はこ}べなかったかもしれません。{助|たす}かりました。[p]	Without meeting you, things might not have gone this well. Thank you.
+2181	{私|ゎたし}たちだけでなく、{皆|みな}さんと{協力|きょうりょく}できれば[n]リクヤさんを{守|まも}りきる{事|こと}ができると{思|おも}います。[p]	Working with all of you, not just us, I think we can keep Rikuya safe.
+2182	ご{迷惑|めいゎく}だとは{思|おも}いますが[n]どうかよろしくお{願|ねが}いします。[p]	I know it's a bother, but please, I'm counting on you.
+2183	お{父|とう}さんはロイ{君|くん}と{篠目|しのめ}さんに[n]どうしてパラサイトキーの{事|こと}を……。[p]	Why did Father tell Roy and Shinome about the Parasite Key…
+2184	{私|ゎたし}だけではもう{守|まも}りきれない……[n]そう{判断|はんだん}したという{事|こと}でしょうか？[p]	Did he decide I can't protect it alone anymore?
+2185	なるほど……。そういう{事|こと}か。[p]	I see… So that's it.
+2186	パラサイトキーは[n]{保有|ほゆう}しているＬＢＸが{破壊|はかい}されると[p]	When the LBX holding a Parasite Key is destroyed,
+2187	{他|ほか}のＬＢＸへと{転送|てんそう}される{性質|せいしつ}がある。[n]だから、バンデットはあんな{破壊|はかい}{活動|かつどう}を……。[p]	the key moves to another LBX. That's why the Bandits wreck everything…
+2188	これで{敵|てき}の{行動原理|こうどうげんり}はわかった。[n]あとは、{対策|たいさく}を{立|た}ててのぞむのみだ。[p]	Now we know what drives them. All that's left is to plan our response.
+2189	そうか！　やっと{分|ゎ}かったよ。[n]あのバンデットのコアボックスへの{攻撃|こうげき}は[p]	That's it! I finally get it. The Bandits attacked Core Boxes
+2190	パラサイトキーを{探|さが}すために[n]ＬＢＸの{内部|ないぶ}をスキャンしていたんだ！[p]	because they were scanning inside the LBX, looking for the Parasite Key!
+2191	アラビスタに{対|たい}して３{小隊|しょうたい}の{合同|ごうどう}{作戦|さくせん}……、か。[p]	A joint operation of three squads against Arabista, huh…
+2192	{他|ほか}の{小隊|しょうたい}と{一緒|いっしょ}に{行動|こうどう}だなんて……。[p]	Working alongside other squads…
+2193	{厳|きび}しい{戦|たたか}いだったが[n]{勝利|しょうり}をつかめて、{正直|しょうじき}ホッとしている。[p]	It was a hard fight, but honestly, I'm relieved we won.
+2194	オトヒメのヤツ、なかなか{芯|しん}が{強|つよ}いな。[n]よく３{日間|かかん}も{耐|た}えきったものだ。{見直|みなお}したよ。[p]	Otohime's tougher than she looks. Holding out three days… I'm impressed.
+2195	まさか、お{前|まえ}らと{一緒|いっしょ}にやる{事|こと}になるなんてな。[n]まっ、よろしく{頼|たの}むぜ！[p]	Never thought I'd be teaming up with you lot. Well, count me in!
+2196	削除[p]	
+2197	削除[p]	
+2198	あれ？　まだラボを{確認|かくにん}してないんだね。[p]	Huh? You haven't checked the Lab yet.
+2199	{第|だい}３{小隊|しょうたい}はアラビスタのエースである{白|はく}{牙|が}ムサシ[n]{指揮|しき}{下|か}にあるスナイパー{部隊|ぶたい}に{狙|ねら}われている。[p]	3rd Squad is targeted by snipers under Musashi Hakuga, Arabista's ace.
+2200	……まだ{頭|あたま}がボーッとしてるよ。[n]ホント、[var:0]がうらやましいぜ。[p]	…My head's still foggy. I'm so jealous of you, [var:0].
+2201	{背名|せな}アラタは{体力|たいりょく}の{回復|かいふく}に{努|つと}めてもらうが[n][var:0]は{問題|もんだい}{無|な}いようだな。[p]	Arata Sena needs to recover, but you seem fine, [var:0].
+2202	{精密|せいみつ}{検査|けんさ}の{結果|けっか}がそろそろ{届|とど}くはずだ。[p]	The detailed test results should arrive soon.
+2203	[var:0]は[n]{背名|せな}アラタと{違|ちが}って{元気|げんき}そうですね。[p]	Unlike Arata Sena, [var:0] seems well.
+2204	これだけ{高度|こうど}なＬＢＸの[n]{開発|かいはつ}に{参加|さんか}できるなんて{最高|さいこう}だね。[p]	Getting to help develop such an advanced LBX is the best.
+2205	スゴい！　スゴいよ！　[n]こんな{設計図|せっけいず}{見|み}た{事|こと}ない！[p]	Amazing! This is amazing! I've never seen blueprints like these!
+2206	{今後|こんご}の{目標|もくひょう}は{新型機|しんがたき}が{開発|かいはつ}{可能|かのう}となる[n]{基礎|きそ}ランク６までラボを{奪取|だっしゅ}する{事|こと}だ。[p]	Next, take Labs up to base rank 6, when the new unit can be built.
+2207	{新型機|しんがたき}は{今|いま}までのＬＢＸを{竜駕|りょうが}する[n]{強力|きょうりょく}な{機体|きたい}になる{事|こと}は{間違|まちが}いないわ。[p]	The new unit will surely surpass every LBX so far.
+2208	はやる{気持|きも}ちはわかるが、ここは{我慢|がまん}してくれ。[n]{協力|きょうりょく}してくれる{仲間|なかま}の{思|おも}いに{報|むく}いるためにも。[p]	I know you're eager, but please be patient. To honor the allies helping us.
+2209	[var:0]は[n]{新型機|しんがたき}が{完成|かんせい}するまで{待機|たいき}だね。[p]	[var:0], you're on standby until the new unit is done.
+2210	削除[p]	
+2211	ドットブラスライザーはやっぱりすごいよ！[p]	The Dot Blastrizer really is amazing!
+2212	ムラクが{俺|おれ}たちの{仲間|なかま}になってくれるなんて！[p]	Muraku's joining our side!
+2213	[var:0][n]{今|いま}まで{敵国|てきこく}として{相対|あいたい}する{事|こと}もあったが[p]	[var:0], we've faced each other as enemies before, but
+2214	ロシウスの{本拠地|ほんきょち}を{急襲|きゅうしゅう}するくらいだ。[n]{今|いま}までよりも{強力|きょうりょく}な{部隊|ぶたい}である{可能性|かのうせい}が{高|たか}い。[p]	they raided Rossius's home base. Likely the strongest unit yet.
+2215	{削除|さくじょ}[p]	
+2216	さすが、ムラクさん！　[n]ジェノックの{制服|せいふく}も{見事|みごと}に{着|き}こなしてるッス！[p]	That's Muraku! He wears the Jenock uniform perfectly!
+2217	{削除|さくじょ}[p]	
+2218	{削除|さくじょ}[p]	
+2219	{削除|さくじょ}[p]	
+2220	削除[p]	
+2221	ジーク・ギガンテスが{⟨業⟩|ゎな}だったとは……[n]すまないな、{完全|かんぜん}に{僕|ぼく}のミスだ。[p]	Sieg Gigantes was a trap… I'm sorry. It's entirely my mistake.
+2222	パラサイトキーの{所在|しょざい}が{知|し}られてしまった……。[p]	They've learned where the Parasite Key is…
+2223	あれほどの{大科|おおが}かりな{⟨業⟩|ゎな}を{張|は}るとは[n]エゼルダーム……、セレディ{先生|せんせい}は{恐|おそ}ろしいな。[p]	Setting such an elaborate trap… Ezeldarm… Mr. Seredi is frightening.
+2224	{私|ゎたし}たちは、{何|なん}のために{戦|たたか}っていたのでしょうか？[p]	What have we been fighting for?
+2225	そんな……、ウソだろ？[n]セレディの{言|い}ってた{事|こと}が{本当|ほんとう}なら……[p]	No way… That's a lie, right? If what Seredi said is true…
+2226	{黻部|あやべ}がセレディの{同志|どうし}で[n]ワールドセイバーなどという{組織|そしき}の{一員|いちいん}……。[p]	Ayabe is Seredi's comrade, a member of this "World Saver"…
+2227	そんな……[p]	No…
+2228	{世界|せかい}{連合|れんごう}を{結成|けっせい}するとは{言|い}ったものの[n]どうやって{他|ほか}の{国|くに}を{仲間|なかま}にすればいいんだろう？[p]	We said we'd form a World Alliance, but how do we win other nations over?
+2229	サクヤ{君|くん}。ひょっとして、この{設計図|せっけいず}は[n]ドットブラスライザーとの{合|がっ}た……[p]	Sakuya. Could these blueprints be for combining with the Dot Blastrizer…
+2230	{我々|ゎれゎれ}も{生徒|せいと}たちには[n]{信用|しんよう}されない{立場|たちば}になってしまいましたね。[p]	It seems the students no longer trust us either.
+2231	{世界|せかい}の{危機|きき}を{座|ざ}して{見|み}ていては、{武人|ぶじん}の{名折|なお}れ！[p]	To sit and watch the world in peril would shame a warrior!
+2232	{本当|ほんとう}に{世界|せかい}{連合|れんごう}を{結成|けっせい}しちゃうなんて[n]やるじゃん、お{前|まえ}ら！[p]	You actually formed a World Alliance? Not bad, you guys!
+2233	ここにいるメンバーは{愛|あい}すべき{学園|がくえん}を{守|まも}るために[n]{立|た}ちあがった{勇士|ゆうし}たちという{事|こと}だな。[p]	So everyone here is a hero who stood up to protect our beloved academy.
+2234	{削除|さくじょ}[p]	
+2235	{削除|さくじょ}[p]	
+2236	{削除|さくじょ}[p]	
+2237	{削除|さくじょ}[p]	
+2238	{削除|さくじょ}[p]	
+2239	{削除|さくじょ}[p]	
+2240	{削除|さくじょ}[p]	
+2241	この{戦|たたか}いの{後|あと}に[n]セカンドワールドがどうなるかはわからない。[p]	I don't know what will become of the Second World after this battle.
+2242	{美都先生|みとせんせい}がお{父|とう}さんを{助|たす}けたい{気持|きも}ちはわかる。[n]でも、いくらなんでも{危険|きけん}すぎる！[p]	I understand Ms. Mito wants to save her father. But it's far too dangerous!
+2243	{断|ことゎ}っておくが、{俺|おれ}がこの{任務|にんむ}を{志願|しがん}したのは[n]セレディへの{復讐心|ふくしゅうしん}からじゃない。[p]	Let me be clear: I didn't volunteer for this mission out of revenge on Seredi.
+2244	メインメニューにラボが[n]{追加|ついか}されてるから、ちょっと{見|み}てみてよ。[p]	The Lab's been added to the main menu, so take a look.
+2245	{削除|さくじょ}[p]	
+2246	たしかに{物量|ぶつりょう}{作戦|さくせん}がお{得意|とくい}なアラビスタに[n]{対抗|たいこう}するためには、{妥当|だとう}な{線|せん}かもしれないな。[p]	True, it might be the sensible way to counter Arabista's numbers.
+2247	それに、{俺|おれ}たちの{戦術|せんじゅつ}の{幅|はば}も{広|ひろ}がる。[n]さすがは、{名将|めいしょう}ドルドキンスだ。[p]	And it widens our tactics too. That's the great Dordkins for you.
+2248	……{今回|こんかい}の{戦|たたか}いを{考|かんが}えると[n]{仕方|しかた}のない{事|こと}とは{思|おも}えますが[p]	…Given this battle, I suppose it can't be helped, but
+2249	ジン{様|さま}に{実力|じつりょく}が{足|た}りないと[n]{言|い}われたようで、{結構|けっこう}{堪|こた}えますわね。[p]	it stings, as if Master Jin said I'm not strong enough.
+2250	{納得|なっとく}いかない{者|もの}もいるだろうが[n]リスクを{減|へ}らすためにも{僕|ぼく}の{指示|しじ}に{従|したが}ってくれ。[p]	Some of you may not agree, but follow my orders to reduce the risk.
+2251	だが、{相当|そうとう}{落|お}ち{込|こ}んでいるだろうから[n]{話|はなし}でも{聞|き}いてやってくれ。[p]	But she must be very down, so go and hear her out.
+2252	こうなったら、{俺|おれ}{様|さま}が{一番|いちばん}{敵|てき}を{倒|たお}して[n]このギンジロウ{様|さま}の{実力|じつりょく}を{見|み}せつけてやるぜ！[p]	That settles it. The great Ginjiro'll take down the most enemies!
+2253	ホワイトフォックスの{忍耐力|にんたいりょく}と{集中力|しゅうちゅうりょく}には[n]{第|だい}３{小隊|しょうたい}も{傷悴|しょうすい}しきっているだろうな。[p]	The White Fox's patience and focus must have worn 3rd Squad out.
+2254	{君|きみ}たちが{得|え}た{情報|じょうほう}が{真実|しんじつ}ならば[n]とてつもなく{大|おお}きなスケールの{話|はなし}になる。[p]	If your information is true, this is on an enormous scale.
+2255	……{簡単|かんたん}には{結論|けつろん}は{出|だ}せない。[n]ここは{海道|かいどう}{先生|せんせい}に{任|まか}せる{事|こと}としよう。[p]	…There's no quick conclusion. Let's leave this to Mr. Kaido.
+2256	{先|さき}ほどの{話|はなし}は、こちらで{調査|ちょうさ}をしよう。[p]	We'll look into what you told us.
+2257	{安心|あんしん}してくれ。[n]{君|きみ}たちの{気持|きも}ちは{十分|じゅうぶん}に{理解|りかい}しているつもりだ。[p]	Don't worry. I believe I understand how you feel.
+2258	ひとまず{今|いま}は{現実的|げんじつてき}な{脅威|きょうい}に{対処|たいしょ}してほしい。[p]	For now, deal with the threats in front of you.
+2259	{先生|せんせい}たちのあの{態度|たいど}……[n]{何|なに}かがあると{見|み}て{良|よ}さそうだな。[p]	The way the teachers acted… Something's definitely up.
+2260	それよりも{今|いま}はスズネの{方|ほう}が{心配|しんぱい}だ。[n]できるだけ{気|き}づかってやろう。[p]	More importantly, I'm worried about Suzune. Let's look out for her.
+2261	……{真|ま}{尋|ひろ}ちゃんやジンはんなら[n]{⟨修⟩|こた}えてくれると{思|おも}うてたんやけどな。[p]	…I thought Mahiro and Jin would give me a straight answer.
+2262	{何|なん}か{上手|うま}い{事|こと}はぐらかされたような{気|き}がするわ。[p]	Feels like they dodged it real smooth.
+2263	ウチ……、{何|なに}を{信|しん}じて{戦|たたか}えばいいんやろ？[p]	What… should I believe in when I fight?
+2264	この{機体|きたい}、すごく{複雑|ふくざつ}な{構造|こうぞう}をしていて[n]{開発|かいはつ}するには{時間|じかん}がかかりそうなんだ。[p]	This machine's structure is really complex. It'll take a while to develop.
+2265	{手作業|てさぎょう}でやらないといけないくらいの[n]{複雑|ふくざつ}な{構造|こうぞう}してるＬＢＸかあ～。[p]	An LBX so complex it has to be built by hand~.
+2266	{工程上|こうていじょう}、どうしても{手作業|てさぎょう}で{行|おこな}わないと[n]{調整|ちょうせい}できない{箇所|かしょ}があるんだ。[p]	Some parts can only be adjusted by hand, because of the process.
+2267	{俺|おれ}に{合|あ}わせて、ジェノックの{第|だい}１{小隊|しょうたい}も[n]{待機|たいき}する{事|こと}になったんだってさ。[p]	Jenock's 1st Squad is on standby too, to match me.
+2268	タケル{君|くん}の{技術|ぎじゅつ}とアイディアは[n]メカニックとして{良|い}い{勉強|べんきょう}になるよ。[p]	Takeru's skill and ideas are a great lesson for me as a mechanic.
+2269	{新型機|しんがたき}……、ね。[p]	A new unit… huh.
+2270	……{新型|しんがた}{機|き}か。[p]	…A new unit.
+2271	{学園長|がくえんちょう}の{指令|しれい}{通|どお}り[n]バンデットの{撃破|げきは}を{最|さい}{優先|ゆうせん}とする。[p]	As the headmistress ordered, defeating the Bandits is our top priority.
+2272	{⟨若⟩旦那様|ゎかだんなさま}、{迷惑|めいゎく}な{輩|やから}がセカンドワールドを[n]{⟨競⟩|ゎた}り{歩|ある}いているようでございます。[p]	Young master, it seems a troublesome lot is roaming the Second World.
+2273	⟨４⟩つの{拠点|きょてん}{全|すべ}てをバンデットから[n]よく{守|まも}りきってくれた。[p]	You defended all four bases from the Bandits. Well done.
+2274	よっしゃー！　バンデットを[n]ブチのめしてやったわ！[p]	All right! We trounced those Bandits!
+2275	ははは！　バンデットを[n]ボロ{雑巾|ぞうきん}みたいにひねりつぶしてやったぜ！[p]	Hahaha! I wrung those Bandits out like old rags!
+2276	{不敬|ふけい}の{輩|やから}であるバンデットを[n]{追|お}い{返|かえ}す{事|こと}に{成功|せいこう}しましたわね。[p]	We successfully drove off those insolent Bandits.
+2277	バイオレットデビルが{仲間|なかま}になるだって？[p]	The Violet Devil's joining us?
+2278	ハルキには、かつて{自分|じぶん}の{部下|ぶか}をムラクにより[n]ロストされた{苦|にが}い{過去|かこ}がある。[p]	Haruki has a bitter past: Muraku once made his subordinates Lost.
+2279	ローズシティがエゼルダーム{領土|りょうど}になってから[n]ジーク・ギガンテスに{呼|よ}び{名|な}が{変|か}わったのか。[p]	So after Rose City became Ezeldarm territory, it was renamed Sieg Gigantes.
+2280	エゼルダーム……！　{卑劣|ひれつ}なやり{口|くち}で[n]ワタルをロストさせた{借|か}り、{返|かえ}させてもらう！[p]	Ezeldarm…! I'll repay you for the dirty trick that made Wataru Lost!
+2281	{強大|きょうだい}な{破壊力|はかいりょく}を{持|も}つ{新兵器|しんへいき}など[n]エゼルダームに{作|つく}らせるわけにはいかない。[p]	We can't let Ezeldarm build a new weapon with such destructive power.
+2282	リクヤの{機体|きたい}を{集中的|しゅうちゅうてき}に{狙|ねら}ってきた{事|こと}から[n]エゼルダームはキーの{在処|ありか}に{気|き}づいたようだな。[p]	They focused on Rikuya's unit. Ezeldarm must know where the key is.
+2283	{僕|ぼく}と{美都|みと}{先生|せんせい}は{彼女|かのじょ}のお{父上|ちちうえ}を{探|さが}すため[n]{手|て}がかりを{求|もと}めて、この{神威|かむい}{島|とう}に{潜入|せんにゅう}していた。[p]	Ms. Mito and I came to Kamui Island searching for clues to her father.
+2284	[var:0]、いつの{間|ま}にかお{前|まえ}は[n]{俺|おれ}たちの{中|なか}で{大|おお}きな{存在|そんざい}になっていた。[p]	[var:0], before I knew it, you'd become a big part of our team.
+2285	おかしいですね……。[n]{先|さき}ほどから{風|ふう}{神|じん}{君|くん}の{姿|すがた}が{見当|みあ}たりません。[p]	That's odd… I haven't seen Kaito for a while now.
+2286	ラボの{使|つか}い{方|かた}はもう{大丈夫|だいじょうぶ}みたいだね。[p]	Looks like you've got the hang of the Lab now.
+2287	{遅|おそ}くならないうちにダック{荘|そう}に{帰|かえ}ろっか。[p]	Let's head back to Duck Lodge before it gets late.
+2288	アラタ！　[n]{私|ゎたし}に{掴|つか}まって！[p]	Arata! Hold on to me!
+2289	た、{助|たす}かったぜ、ユノ。[n]……、ありがとうな。[p]	Th-thanks, Yuno. …I owe you one.
+2290	えっ？　あっ、ううん、{気|き}にしないで。[n]ほ、ほらっ！　{病人|びょうにん}はさっさと{保健室|ほけんしつ}に{行|い}く！[p]	Huh? Oh, no, don't mention it. C-come on! Patients go straight to the Infirmary!
+2291	{俺|おれ}、{健康|けんこう}にだけは{自信|じしん}あったんだけどな～。[n]なんかちょっとショックだぜ……。[p]	I was sure I was healthy, if nothing else~. Kind of a shock…
+2292	{体調|たいちょう}に{不安|ふあん}があれば、{申|もう}し{出|で}てくれ。[n]{出撃|しゅつげき}するメンバーを{再構成|さいこうせい}するとしよう。[p]	If you're worried about your health, tell me. I'll reshuffle the sortie team.
+2293	ウォータイムが{終|お}わったら[n]{保健室|ほけんしつ}に{来|き}てくれ。[p]	Come to the Infirmary after War Time.
+2294	{疲労|ひろう}の{度合|どあ}いにずいぶんと{個人|こじん}{差|さ}があるみたい。[n]やはり、あの{能力|ちから}にはまだ{謎|なぞ}が{多|おお}いようね……。[p]	Fatigue varies a lot by person. That ability is still full of mysteries…
+2295	でも、ラボの{基礎|きそ}ランクを{少|すく}なくとも[n]６まで{上|あ}げないと{開発|かいはつ}をするのは{難|むずか}しいなあ。[p]	But unless the Lab's base rank reaches at least 6, development will be tough.
+2296	{現行|げんこう}の{全|ぜん}ＬＢＸのスペックを[n]{完全|かんぜん}に{超越|ちょうえつ}しているんだ！[p]	It completely surpasses the specs of every current LBX!
+2297	もしかしたらＬＢＸの{歴史|れきし}に[n]{新|あら}たな１ページを{刻|きざ}む{事|こと}になるかも！[p]	It might write a new page in LBX history!
+2298	ふふふ！　{燃|も}えてきたよ！[p]	Hehehe! I'm fired up!
+2299	{各|かく}ラボに{攻|せ}め{込|こ}んで、それを{制圧|せいあつ}{下|か}に{置|お}く。[n]{新型|しんがた}{機|き}{開発|かいはつ}のためだ。{迅速|じんそく}に{進|すす}めてくれ。[p]	Attack each Lab and take control. It's for the new unit. Move quickly.
+2300	{開発|かいはつ}するためにもラボランクを[n]{上|あ}げるように{拠点|きょてん}を{落|お}としていきましょう。[p]	Let's take bases to raise our Lab rank for the development.
+2301	{新型|しんがた}{機|き}ならばオーバーロードの{力|ちから}に{耐|た}えられる。[n]きっと、[var:0]の{力|ちから}になるはずだ。[p]	A new unit can withstand Overload. It'll surely help you, [var:0].
+2302	だから、{待|ま}ってて。このウォータイム{中|ちゅう}に{必|かなら}ず[n]{僕|ぼく}とサクヤ{君|くん}の{手|て}で{新型|しんがた}{機|き}を{完成|かんせい}させるからさ！[p]	So wait for it. Sakuya and I will finish the new unit during this War Time!
+2303	ヒーローは{遅|おく}れてやって{来|く}るってわけだ！[n]なんか{頼|たよ}りにされてるみたいでイイよな！[p]	The hero arrives fashionably late! Feels nice to be relied on!
+2304	よーし、アラビスタだろうがバンデットだろうが[n]どんな{相手|あいて}でもかかって{来|こ}いってんだ！[p]	All right, Arabista or Bandits, bring on anyone!
+2305	だから、{出来上|できあ}がるまで{期待|きたい}して{待|ま}ってて。[n]{必|かなら}ず{期待|きたい}{以上|いじょう}のＬＢＸを{作|つく}ってみせるからさ。[p]	So look forward to it. I'll build an LBX beyond your expectations.
+2306	なんだか、{俺|おれ}には{想像|そうぞう}もできない{程|ほど}[n]{高度|こうど}な{技術|ぎじゅつ}が{使|つか}われるんだろうな！[p]	It must use tech so advanced I can't even imagine it!
+2307	{俺|おれ}たちの{新型機|しんがたき}って、{超|ちょう}{強|つよ}そうだよな！[n]{話|はなし}を{聞|き}いているだけで、ワクワクしてきたぜ！！[p]	Our new unit sounds super strong! Just hearing about it gets me pumped!!
+2308	{明日|あす}のウォータイムから{早速|さっそく}{取|と}りかかるよ。[n]なるべく{急|いそ}いで{完成|かんせい}させないとね。[p]	I'll start in tomorrow's War Time. We have to finish it as fast as we can.
+2309	{基礎|きそ}{概念|がいねん}を{応用|おうよう}するだけで、[n]{他|ほか}の{機体|きたい}の{開発|かいはつ}プランも{簡単|かんたん}に{作|つく}れたんだ。[p]	Just applying the basic concept, I easily drew up plans for other units too.
+2310	いや～、{考|かんが}えてる{時|とき}はワクワクしっぱなしで[n]{思|おも}わず{徹夜|てつや}して{頑張|がんば}っちゃったよ。[p]	It was so exciting to think about, I pulled an all-nighter.
+2311	いつかタケル{君|くん}と{肩|かた}を{並|なら}べるような[n]メカニックになれるように、{僕|ぼく}も{頑張|がんば}るよ！[p]	I'll work hard so I can be a mechanic on par with Takeru someday!
+2312	ふふふ、ボクにも{新|あたら}しいＬＢＸが[n]{作|つく}られるかもしれないな。[p]	Heh heh, maybe they'll build a new LBX for me too.
+2313	お{望|のぞ}みでしたら、{私|ゎたくし}の{方|ほう}から{新型|しんがた}{機|き}を{⟨若⟩|ゎか}{旦那|だんな}{様|さま}へ[n]お{回|まゎ}しいただくよう、{手配|てはい}いたしますが？[p]	If you wish, I can arrange for the new unit to be sent to you, young master.
+2314	{必要|ひつよう}ない。{上|うえ}の{判断|はんだん}に{従|したが}うまでだ。[p]	Unnecessary. I'll follow the decision from above.
+2315	これは{失礼|しつれい}いたしました。[p]	My apologies.
+2316	{特例|とくれい}をいただいておりますゆえ[n]それを{使用|しよう}しては{如何|いかが}かと{思|おも}ったのですが……。[p]	We do have a special exemption, so I thought we might use it…
+2317	{構|かま}わん。お{前|まえ}の{気持|きも}ちだけ{受|う}け{取|と}っておく。[p]	It's fine. I appreciate the thought.
+2318	{各地|かくち}に{出現|しゅつげん}したバンデットを[n]{撃破|げきは}してくれ。{頼|たの}んだぞ。[p]	Defeat the Bandits that have appeared everywhere. I'm counting on you.
+2319	またバンデットが{現|あらゎ}れたのか……[n]{黻部|あやべ}、{奴|やつ}らの{狙|ねら}いについて{何|なに}か{情報|じょうほう}は？[p]	The Bandits again… Ayabe, any info on what they're after?
+2320	…………。[p]	…………
+2321	どうした、{黻部|あやべ}？[n]{急|きゅう}に{黙|だま}り{込|こ}むなんて、お{前|まえ}らしくないな。[p]	What is it, Ayabe? Going silent all of a sudden isn't like you.
+2322	………{失礼|しつれい}いたしました。[n]{少々|しょうしょう}、{考|かんが}え{事|ごと}をしておりました。[p]	………Forgive me. I was lost in thought.
+2323	{本当|ほんとう}に{大丈夫|だいじょうぶ}か？　{体調|たいちょう}が{悪|ゎる}いようなら[n]{休|やす}みを{取|と}っても{構|かま}わんのだぞ。[p]	Are you really all right? If you're unwell, you may take time off.
+2324	おっと、{⟨若⟩旦那|ゎかだんな}{様|さま}に{心配|しんぱい}されるほど[n]この{老体|ろうたい}、{朽|く}ちてはおりませぬぞ。[p]	Oh, this old body isn't so decrepit as to worry the young master.
+2325	フン、{減|へ}らず{口|ぐち}を{叩|たた}ける[n]{元気|げんき}があるなら{大丈夫|だいじょうぶ}だな。[p]	Hmph, if you can talk back like that, you're fine.
+2326	その{調子|ちょうし}で、またバンデットが{現|あらゎ}れた{際|さい}は[n]{撃破|げきは}していって{欲|ほ}しい。よろしく{頼|たの}む。[p]	Keep it up, and defeat any Bandits that show. I'm counting on you.
+2327	あんな{迷惑|めいゎく}なヤツら[n]いつでも、ウチの{手|て}で{返|かえ}り{討|う}ちにしてやるで！[p]	Those pests? I'll send 'em packin' anytime!
+2328	{俺|おれ}{様|さま}にかかれば、あんな{奴|やつ}ら[n]{赤子|あかご}も{同然|どうぜん}、{屁|へ}の{河童|かっぱ}だぜ！[p]	To the great me, those guys are babies! Easy as pie!
+2329	{次|つぎ}はバンデットを{全滅|ぜんめつ}させて[n]ジン{様|さま}から{個人的|こじんてき}なご{褒美|ほうび}をゲットですわ～！[p]	Next, I'll wipe out the Bandits and win a personal reward from Master Jin~!
+2330	[var:0]、もしもの{時|とき}に{備|そな}えて[n]ドットブラスライザーで{出撃|しゅつげき}してくれ。[p]	[var:0], sortie in the Dot Blastrizer, just in case.
+2331	この{戦|たたか}いには、どんな{事態|じたい}でも{対処|たいしょ}できるように[n]{万全|ばんぜん}の{態勢|たいせい}で{挑|いど}む{必要|ひつよう}がありそうだ。[p]	We'll need to be fully ready to handle anything in this battle.
+2332	あいつと{一緒|いっしょ}に{戦|たたか}えると{思|おも}うと[n]すっごくワクワクしてくるな！[p]	Fighting alongside him is gonna be so exciting!
+2333	よーし、{今日|きょう}はあいつらの{歓迎|かんげい}{会|かい}だ！[p]	All right, today's their welcome party!
+2334	これからは、{合同|ごうどう}{部隊|ぶたい}としてよろしく{頼|たの}む。[n]{俺|おれ}たちの{力|ちから}が{必要|ひつよう}な{時|とき}は、{声|こえ}をかけてくれ。[p]	From now on, we're a joint unit. When you need our strength, just say so.
+2335	フン、{今|いま}まで{敵|てき}だったヤツらと{仲良|なかよ}くだなんて[n]そう{簡単|かんたん}に{出来|でき}るわけないだろ。[p]	Hmph, getting chummy with people who were enemies isn't that easy.
+2336	アラタのヤツが{無神経|むしんけい}すぎるだけさ。[p]	Arata's just way too insensitive.
+2337	……そのような{事|こと}もございましたな。[p]	…Such things did happen.
+2338	だが、ハルキはそのムラクを{温|あたた}かく{迎|むか}え{入|い}れた。[n]あの{頃|ころ}より{人間的|にんげんてき}に{大|おお}きな{成長|せいちょう}をとげたようだ。[p]	But Haruki welcomed Muraku warmly. He's really grown since then.
+2339	{案外|あんがい}、ハルキには[n]{司令官|しれいかん}クラスの{適性|てきせい}があるのかもしれんな。[p]	Haruki may have what it takes to be a commander.
+2340	{周|まゎ}りの{拠点|きょてん}を{落|お}とさないと[n]ジーク・ギガンテスに{攻|せ}め{込|こ}む{前|まえ}に[p]	Unless we take the nearby bases, before we can attack Sieg Gigantes
+2341	こちらが{撃退|げきたい}される{恐|おそ}れがある。[n]{相手|あいて}の{戦力|せんりょく}{低下|ていか}を{狙|ねら}った{方|ほう}が{良|よ}さそうだな。[p]	they might drive us back. Better to aim at weakening their forces.
+2342	{完成|かんせい}{前|まえ}にジーク・ギガンテスを{奪還|だっかん}するぞ！[p]	We'll retake Sieg Gigantes before it's finished!
+2343	……そのようですな。[p]	…So it seems.
+2344	{黻部|あやべ}？　どうした？[n]{何|なに}か{気|き}がかりな{事|こと}でもあるのか。[p]	Ayabe? What's wrong? Something on your mind?
+2345	……いえ、どう{対処|たいしょ}すれば{宜|よろ}しいか[n]{思案|しあん}にくれておったところでございます。[p]	…No, I was merely pondering how best to respond.
+2346	たしかに、{由々|ゆゆ}しき{事態|じたい}だ。[n]だが、{全|まった}く{打|う}つ{手|て}が{無|な}いわけではない。[p]	It's certainly serious. But we're not completely out of options.
+2347	こうなれば、リクヤの{出撃|しゅつげき}を{控|ひか}えるよう[n]{司令官|しれいかん}に{進言|しんげん}した{方|ほう}がいいかもしれん。[p]	Maybe we should ask the commander to keep Rikuya out of sorties.
+2348	……{左様|さよう}でございますな、{⟨若⟩旦那様|ゎかだんなさま}。[p]	…Quite so, young master.
+2349	パラサイトキーについては{明日|あす}までに{対策|たいさく}を[n]{考|かんが}えておく。{今日|きょう}はゆっくり{休|やす}んでくれ。[p]	I'll plan for the Parasite Key by tomorrow. Rest well today.
+2350	これからエゼルダームは[n]{私|ゎたし}を{集中的|しゅうちゅうてき}に{狙|ねら}ってくるでしょうね。[p]	From now on, Ezeldarm will surely target me.
+2351	ですが、このキーは{父|ちち}から{託|たく}されし{使命|しめい}そのもの[n]その{誇|ほこ}りにかけて、{必|かなら}ず{守|まも}り{抜|ぬ}いてみせます！[p]	But this key is Father's mission for me. On my pride, I'll protect it!
+2352	{俺|おれ}たちには{想像|そうぞう}もつかない{作戦|さくせん}を[n]いくつも{張|は}り{巡|めぐ}らせているんだろう。[p]	They must have laid out many plans beyond our imagination.
+2353	この{先|さき}の{戦|たたか}いには[n]{決死|けっし}の{覚悟|かくご}で{挑|いど}む{必要|ひつよう}がありそうだな。[p]	We'll need to face the battles ahead ready to die trying.
+2354	{父|ちち}の{考|かんが}えも{今|いま}では{分|ゎ}からずじまい……[n]{運営|うんえい}{側|がゎ}の{人間|にんげん}は{信用|しんよう}できません。[p]	I no longer know what Father was thinking… I can't trust the management.
+2355	これから、{私|ゎたし}は[n]{一体|いったい}どうすれば{良|い}いのでしょうね……。[p]	What should I do from here…
+2356	セカンドワールドは、{美都|みと}{先生|せんせい}のお{父|とう}さんを[n]{犠牲|ぎせい}にして{成|な}り{立|た}ってたって{事|こと}だよな？[p]	So the Second World was built by sacrificing Ms. Mito's dad?
+2357	ちっくしょー！[n]どうして、そんなひどい{事|こと}ができるんだよ！？[p]	Damn it! How could anyone do something so cruel!?
+2358	そんなの{絶対|ぜったい}に{間違|まちが}ってる！[n]{絶対|ぜったい}に{間違|まちが}ってるぜ！！[p]	That's dead wrong! It's dead wrong!!
+2359	{今|いま}でも、{俺|おれ}にはどうしても{信|しん}じられん。[n]あいつは、{黻部|あやべ}は……[p]	I still can't believe it. Ayabe, he…
+2360	{俺|おれ}が{生|う}まれる{前|まえ}から{磯谷|いそがい}{家|け}の{執事|しつじ}として[n]{俺|おれ}の{世話|せゎ}{係|がかり}としての{役目|やくめ}を{全|まっと}うしてきたんだ。[p]	He's served the Isogai family since before I was born, and raised me.
+2361	この{前|まえ}の{黻部|あやべ}の{表情|ひょうじょう}はずっと{沈|しず}んだままだった。[n]あいつの{本心|ほんしん}はきっと{別|べつ}にあるに{違|ちが}いないんだ。[p]	Ayabe looked gloomy the other day. His true feelings must lie elsewhere.
+2362	{俺|おれ}はそれをあいつに{確|たし}かめなければならん。[n]……{俺|おれ}にはそれをすべき{理由|りゆう}と{責任|せきにん}がある。[p]	I must find out from him. …I have the reason and the duty to.
+2363	あのお{父|とう}さんが[n]ロストエリアで、セカンドワールドの{一部|いちぶ}に？[p]	Father… part of the Second World, in the Lost Area?
+2364	お{父|とう}さん……[n]{私|ゎたし}はどうしたらいいの？[p]	Father… What should I do?
+2365	ロストエリアに{手|て}がかりがあると{思|おも}っていたが[n]まさか{美都|みと}{博士|はかせ}ご{本人|ほんにん}がそこにいようとは……。[p]	I thought the Lost Area held clues, but Dr. Mito himself was there…
+2366	{⟨詳⟩|くゎ}しい{話|はなし}は、{美都|みと}{先生|せんせい}ご{本人|ほんにん}から{聞|き}いてくれ。[p]	For details, ask Ms. Mito herself.
+2367	まずはコンタクトを{取|と}り、{説得|せっとく}するのが{定石|じょうせき}だが[n]それだけでは{足|た}りないだろう。[p]	Normally you'd make contact and persuade them, but that's not enough.
+2368	え？　じゃあどうするつもりだよ？[p]	Huh? Then what are we gonna do?
+2369	これは{俺|おれ}の{推測|すいそく}に{過|す}ぎんが、{何|なん}らかの{形|かたち}で[n]{俺|おれ}たちが{本気|ほんき}かどうか{確|たし}かめてくるはずだ。[p]	This is only my guess, but they'll test whether we're serious somehow.
+2370	へ？　{一体|いったい}、どういう{事|こと}？[p]	Huh? What do you mean?
+2371	{俺|おれ}たちが{信用|しんよう}するに{足|た}る{実力|じつりょく}を{持|も}っているか……[n]それをＬＢＸバトルで{試|ため}してくる、という{事|こと}だ。[p]	Whether we're strong enough to trust… They'll test it in LBX battles.
+2372	なるほど！[n]{要|よう}するに、いつも{通|どお}り{勝|か}てばいいんだな？[p]	Got it! So basically, we just win like always?
+2373	まあ、{分|ゎ}かりやすく{言|い}うとそういう{事|こと}だ。[p]	Well, to put it simply, yes.
+2374	ちょっと{待|ま}って、タケル{君|くん}！[n]みんなには{完成|かんせい}させてから{伝|つた}えたいんだ。[p]	Wait, Takeru! I want to tell everyone once it's finished.
+2375	とにかく{今|いま}は、このドットブラスライザーに[n]{隠|かく}された{秘密|ひみつ}を{僕|ぼく}たちで{解|と}き{明|あ}かそうよ！[p]	For now, let's unlock the secret hidden in the Dot Blastrizer ourselves!
+2376	サプライズってわけだね？　わかったよ！[n]フフフ。みんなの{驚|おどろ}く{顔|かお}、{楽|たの}しみだな～。[p]	A surprise, huh? Got it! Hehehe. Can't wait to see their faces~.
+2377	……{仕方|しかた}ないわ。[n]それだけの{事|こと}を{私|ゎたし}はしてきたもの。[p]	…It can't be helped. I've done enough to deserve it.
+2378	……こちらはこちらで[n]{学園長|がくえんちょう}たちに{探|さぐ}りを{入|い}れていきましょう。[p]	…On our side, let's probe the headmistress and the others.
+2379	そうですね。{生徒|せいと}たちの{為|ため}にも[n]{僕|ぼく}たちは{別|べつ}のアプローチをかけなければ。[p]	Right. For the students' sake, we need a different approach.
+2380	アラビスタ{同盟|どうめい}は{全力|ぜんりょく}で{世界|せかい}{連合|れんごう}に{協力|きょうりょく}する！[n]{力|ちから}が{必要|ひつよう}なら{任|まか}せておけ！　[p]	Arabista backs the World Alliance fully! Need strength? Leave it to us!
+2381	まあ、{私|ゎたし}たちを{仲間|なかま}にするんだったら[n]これぐらいの{器量|きりょう}は{持|も}ってもらわないとな。[p]	Well, if you want us on your side, you'd better have that much grit.
+2382	とうとう{私|ゎたし}たちにも{活躍|かつやく}の{機会|きかい}が{訪|おとず}れたんだ。[n]{遠慮|えんりょ}せずに{声|こえ}をかけて{来|こ}いよ！[p]	Our chance to shine has finally come. Don't be shy, call on us!
+2383	ガッハッハッハ！　これだけの{精鋭|せいえい}を{集|あつ}めるとは[n]{総司令官|そうしれいかん}の{出雲|いずも}ハルキは{見上|みあ}げた{男|おとこ}じゃないか！[p]	Gwahahaha! So many elites! Supreme commander Haruki is quite the man!
+2384	{落|お}ちぶれたとはいえ、{我|ゎれ}らロシウス{連合|れんごう}[n]その{魂|たましい}までは{落|お}ちぶれておらん！[p]	We may have fallen, but the Rossius Union's soul has not!
+2385	{俺|おれ}たちの{力|ちから}、{世界|せかい}{連合|れんごう}で{存分|ぞんぶん}に{使|つか}ってくれ！[n]{今|いま}こそ、{生徒|せいと}たちの{手|て}に{学園|がくえん}を{取|と}り{戻|もど}す{時|とき}だ！[p]	Use our strength in the World Alliance! Time to take back the academy!
+2386	フッ、{自分|じぶん}の{小隊|しょうたい}{指揮|しき}にすら{手|て}を{焼|や}いていた[n]この{俺|おれ}が、まさか{総司令官|そうしれいかん}になるとはな……。[p]	Heh, I could barely lead my own squad, and now I'm supreme commander…
+2387	だが、{総司令官|そうしれいかん}を{任|まか}された{以上|いじょう}は{全力|ぜんりょく}を{尽|つ}くす！[n]{必|かなら}ずや{世界|せかい}{連合軍|れんごうぐん}に{勝利|しょうり}をもたらしてみせるぞ！[p]	But now that I'm in charge, I'll give it my all! I'll bring the World Alliance victory!
+2388	[var:0]、アラタ！[n]この{先|さき}の{激戦|げきせん}は、お{前|まえ}たちが{攻撃|こうげき}の{要|かなめ}になる。[p]	[var:0], Arata! In the battles ahead, you two are the core of our attack.
+2389	{今回|こんかい}、{堅苦|かたくる}しい{小言|こごと}は{何|なに}も{言|い}わん。[n]……とにかく{大暴|おおあば}れして{来|こ}い！[p]	No stiff lectures this time. …Just go wild!
+2390	うおー！　スゲー{人数|にんずう}が{集|あつ}まったな！[p]	Whoa! Look how many people came!
+2391	{各国|かっこく}のエースがあっちにも、そっちにもいるぜ！[n]くう～、なんか{熱|あつ}い{展開|てんかい}になってきたな！[p]	Every nation's aces are here and there! Man, this is getting hot!
+2392	こうなったら、みんなと{一緒|いっしょ}に[n]エゼルダームに{勝|か}とうぜ！　[var:0]！[p]	Now let's beat Ezeldarm with everyone! [var:0]!
+2393	もうお{前|まえ}がいない[x14:0000]とか[n]{考|かんが}えるのも{難|むずか}しいくらいだ。[p]	I can hardly imagine [x14:0000] without you anymore.
+2394	ははは、お{前|まえ}が{初日|しょにち}に[n]やってきた{時|とき}が{懐|なつ}かしいよ。[p]	Hahaha, I miss the day you first showed up.
+2395	[x14:0000]の{一員|いちいん}として[n]{必|かなら}ずセレディを{倒|たお}して{帰|かえ}ってこい。[p]	As one of [x14:0000], defeat Seredi and come back.
+2396	{俺|おれ}たちはお{前|まえ}が{戻|もど}ってくるのを{待|ま}ってるからな。[n]{頑張|がんば}ってこいよ、[var:0]。[p]	We'll be waiting for you to return. Go get 'em, [var:0].
+2397	こんな{状況下|じょうきょうか}ですし、{彼|かれ}の{身|み}に[n]{何|なに}か{起|お}きていなければ{良|い}いのですが……。[p]	Given the situation, I hope nothing has happened to him…
+2398	しかし、このままセレディが[n]アンダーバランスを{手|て}に{入|い}れてしまったら[p]	But if Seredi gets his hands[n]on the Under Balance,
+2399	{現実|げんじつ}{世界|せかい}は{終|お}わりのない{混乱|こんらん}に{包|つつ}まれる。[n]それだけは{阻止|そし}しなければならない。[p]	The real world would fall into endless chaos. We must stop that at all costs.
+2400	だが、{絶対|ぜったい}にロストはするな！[n]{生|い}き{残|のこ}れ！　それが{僕|ぼく}からの{最後|さいご}の{命令|めいれい}だ！[p]	But don't you dare get Lost! Survive! That's my final order!
+2401	{美都|みと}{先生|せんせい}と{先生|せんせい}のお{父|とう}さんを{助|たす}けるために[n]ロストエリアに{向|む}かうぞ！[p]	We're going to the Lost Area to save Ms. Mito and her father!
+2402	{俺|おれ}には{黻部|あやべ}の{代|か}わりに、この{戦|たたか}いの{行|ゆ}く{末|すえ}を[n]{見届|みとど}ける{義務|ぎむ}があるような{気|き}がしたからだ。[p]	Because I felt I had a duty to see this battle through in Ayabe's place.
+2403	なあ、あんたもそう{思|おも}うだろ？[n]いや、むしろ{思|おも}え！[p]	Hey, you think so too, right? No, you'd better!
+2404	………。[p]	………
+2405	そうだ、わかってるじゃないッスか。[n]ムラクさんは{最高|さいこう}に{素晴|すば}らしいプレイヤー。[p]	That's right, you get it. Muraku's the greatest player there is.
+2406	ムラクさんの{牙|きば}を{研|と}ぐ{役目|やくめ}は[n]{専属|せんぞく}メカニックである、この{木場|きば}カゲトのもの！[p]	Sharpening Muraku's fangs is the job of his personal mechanic, me, Kageto Kiba!
+2407	あんたもムラクさんには[n]{最大限|さいだいげん}の{敬意|けいい}を{払|はら}うように{注意|ちゅうい}しろよ。[p]	You make sure to show Muraku the utmost respect too.
+2408	{今回|こんかい}のウォータイムから[n]{背名|せな}アラタの{出撃|しゅつげき}を{許可|きょか}します。[p]	From this War Time, Arata Sena is cleared to sortie.
+2409	オーバーロードの{後遺症|こういしょう}も{残|のこ}っていないようだし[n]{今|いま}まで{休|やす}んでいた{分|ぶん}、{役|やく}に{立|た}ってもらわないと。[p]	No Overload aftereffects remain. He'll need to make up for the time off.
+2410	{今日|きょう}のウォータイムも{引|ひ}き{続|つづ}き[n]ラボの{奪取|だっしゅ}を{目的|もくてき}として{行動|こうどう}してくれ。[p]	In today's War Time, keep working on taking Labs.
+2411	ふぅ～、{待|ま}たせたな！[n]{背名|せな}アラタ、ウォータイムに{完全|かんぜん}{復帰|ふっき}だぜ！！[p]	Phew, sorry to keep you waiting! Arata Sena, fully back in War Time!!
+2412	{張|は}り{切|き}っていくから[n]{任|まか}せておいてくれよ、[var:0]！[p]	I'm gonna give it my all, so count on me, [var:0]!
+50000	{司令官|しれいかん}{席|せき}の{足元|あしもと}に{何|なに}かが{落|お}ちていた。[n][var:0]は[n]『サークルマインＳ』を[n]{手|て}に{入|い}れた！[p]	Something was lying at the foot of the commander's seat![n][var:0] got Circle Mine S!
+50001	あとで、{編成|へんせい}メニューがオープンしたら[n]{確認|かくにん}しよう。[p]	Check it later, once the Formation menu opens.
+60000	[x14:0200]ＳＣ{払|はら}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{家|かね}が{足|た}りません。[p]	Not enough money.
+60002	⟨〇⟩⟨〇⟩をスカウトしました。[p]	You scouted a new teammate!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	⟨〇⟩⟨〇⟩とわかれた。[p]	Your teammate has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]{別|ゎか}れないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

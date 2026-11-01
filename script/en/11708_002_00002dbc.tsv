@@ -1,0 +1,21 @@
+id	ja	en
+10	{改|あらた}めて{自己|じこ}{紹介|しょうかい}させていただきます。[n]{第|だい}３{小隊隊長|しょうたいたいちょう}、{東郷|とうごう}リクヤです。[p]	Allow me to introduce myself properly. I'm Rikuya Togo, captain of 3rd Squad.
+11	{宜|よろ}しくお{願|ねが}いします。[p]	I look forward to working with you.
+20	{私|ゎたし}と{話|はな}していていいんですか？[n]{私|ゎたし}が{何|なん}と{呼|よ}ばれているか、ご{存知|ぞんじ}のはず。[p]	Should you be talking to me? Surely you know what they call me.
+21	{仲間|なかま}{殺|ごろ}し……。{退学|たいがく}になりたくなければ[n]{私|ゎたし}に{話|はな}しかけない{方|ほう}が{賢明|けんめい}ですよ。[p]	The comrade killer… If you don't want to be expelled, don't talk to me.
+30	ＬＢＸは{私|ゎたし}が{小|ちい}さい{頃|ころ}に[n]{父|ちち}がプレゼントしてくれたんです。[p]	My father gave me an LBX when I was little.
+31	{昔|むかし}は{純粋|じゅんすい}にＬＢＸで{遊|あそ}ぶ{事|こと}ができました。[n]しかし、この{学園|がくえん}に{入|はい}ってからは……[p]	Back then I could simply enjoy it. But since I came to this academy…
+32	やめましょう、こんな{話|はなし}。でも、{不思議|ふしぎ}だ。[n]{君|きみ}といると、なぜかその{頃|ころ}の{事|こと}を{思|おも}い{出|だ}す……。[p]	Let's not talk about this. Still, it's strange. You remind me of those days…
+40	それで、{私|ゎたし}に{話|はなし}というのは？[p]	So, what did you want to talk to me about?
+50	これを{私|ゎたし}にですか？[n]ありがとうございます。{助|たす}かります。[p]	This is for me? Thank you. It's much appreciated.
+60	……これが、{多|おお}くの{仲間|なかま}を{見殺|みごろ}しにしてきた[n]『{仲間|なかま}{殺|ごろ}し』への{罰|ばつ}……。{仕方|しかた}ありませんね。[p]	…The price for a "comrade killer" who let his comrades die. So be it.
+70	では、{失礼|しつれい}します。[p]	Well then, excuse me.
+80	{私|ゎたし}を{仲間|なかま}に？　{君|きみ}も{物好|ものず}きな{人|ひと}ですね。[n]わかりました。{協力|きょうりょく}しましょう。[p]	Me, on your team? You're an odd one. Very well. I'll help you.
+90	おはようございます。[n]{何|なに}をしているんですか？　さっさと{行|い}きますよ。[p]	Good morning. What are you doing? Let's get going.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{東郷|とうごう}リクヤをスカウトしました。[p]	You scouted Rikuya Togo!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{東郷|とうごう}リクヤとわかれた。[p]	Rikuya Togo has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

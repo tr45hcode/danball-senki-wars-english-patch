@@ -1,0 +1,21 @@
+id	ja	en
+10	お{話|はなし}するのは{初|はじ}めてですよね？[n]{僕|ぼく}は、{天地|あまち}カナタです。どうぞよろしく。[p]	This is our first time talking, right? I'm Kanata Amachi. Nice to meet you.
+11	[x14:0000]って、どんな{仮想|かそう}{国|こく}ですか？[n]あんまり{話|はな}した{事|こと}がないから、{気|き}になります。[p]	What kind of virtual nation is [x14:0000]? I haven't talked with them much.
+20	こんにちは。{調子|ちょうし}はいかがですか？[p]	Hello. How are you doing?
+21	{僕|ぼく}は、まぁまぁといったところでしょうか。[n]お{互|たが}い{活躍|かつやく}できるよう{頑張|がんば}りましょうね。[p]	I'm doing all right, I suppose. Let's both do our best.
+30	やぁ、[var:0]！[n]{今日|きょう}も{神威島|かむいとう}はいい{天気|てんき}ですね。[p]	Hi, [var:0]! Kamui Island has great weather again today.
+31	{君|きみ}のような{友|とも}だちに{出会|であ}えたのは[n]とても{素晴|すば}らしい{事|こと}だって、{毎日|まいにち}{思|おも}うんです。[p]	Every day I think how wonderful it is that I met a friend like you.
+32	……なんて、{改|あらた}めて{言|い}うのも{変|へん}ですね。[n]{次|つぎ}のウォータイムも、よろしくお{願|ねが}いします！[p]	…It's odd to say it out loud. Let's do well in the next War Time too!
+40	え？　{僕|ぼく}に{何|なに}かご{用|よう}ですか？[p]	Huh? Did you need something?
+50	ありがとうございます！[p]	Thank you!
+60	{僕|ぼく}の{力|ちから}が{足|た}りませんでしたか？[n]まだまだ{頑張|がんば}れるのですが……。[p]	Wasn't I strong enough? I can still keep going…
+70	では、また{会|あ}いましょう。[p]	See you again.
+80	{君|きみ}の{力|ちから}になれて、うれしいです！[n]{全力|ぜんりょく}で{頑張|がんば}りますからね！[p]	I'm glad to help you! I'll give it everything!
+90	[var:0]、おはようございます。[n]{今日|きょう}も、{張|は}り{切|き}っていきましょう！[p]	Good morning, [var:0]. Let's give it our all today!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{天地|あまち}カナタをスカウトしました。[p]	You scouted Kanata Amachi!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{天地|あまち}カナタとわかれた。[p]	Kanata Amachi has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

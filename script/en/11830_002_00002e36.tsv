@@ -1,0 +1,21 @@
+id	ja	en
+10	フッ。なんだ、その{面|つら}は？[n]{幽励|ゆうれい}でも{見|み}たような{顔|かお}だな。[p]	Heh. What's with that face? You look like you've seen a ghost.
+11	フフフ、このエリック・ルーサー……[n]{地獄|じごく}の{底|そこ}からよみがえって{来|き}たぜ。[p]	Heh heh heh, Eric Luther is back… from the depths of hell.
+20	しばらく{見|み}ないうちに[n]この{島|しま}も{大分|だいぶ}、{状況|じょうきょう}が{変|か}わったらしいな。[p]	Looks like things on this island have changed a lot while I was gone.
+21	{敵|てき}の{敵|てき}は{味方|みかた}……とも{言|い}うしな[n]{力|ちから}を{貸|か}してやってもいいんだぜ？[p]	The enemy of my enemy is my friend… I might lend you a hand.
+30	まさか、{俺|おれ}がこの{島|しま}にいない{間|あいだ}に[n]{所属|しょぞく}していたロシウスが{縮小|しゅくしょう}されていたとはな。[p]	Who'd have thought Rossius shrank while I was off this island?
+31	そして、{世界|せかい}の{命運|めいうん}を{背負|せお}って{戦|たたか}うか……。[n]{世界|せかい}を{救|すく}うなんざガラじゃないが[p]	And now you carry the world's fate… Saving the world isn't my style,
+32	お{前|まえ}といると{退屈|たいくつ}しないで{済|す}みそうだ。[n]{面白|おもしろ}い！　{救|すく}ってやろうじゃないか、{世界|せかい}を！！[p]	but with you, I won't get bored. Interesting! Let's save the world, then!!
+40	で、{何|なん}の{話|はなし}だ？[p]	So, what is it?
+50	フン、わかってるじゃないか。[p]	Hmph, you get it.
+60	{戦場|せんじょう}では{言|い}い{⟨訳⟩|ゎけ}は{通用|つうよう}しない。[n]{結果|けっか}がすべてだ……。[p]	Excuses don't work on the battlefield. Results are everything…
+70	{俺|おれ}もヒマじゃないんでな。[n]じゃあ、またな。[p]	I'm not idle either. See you.
+80	フン、{俺|おれ}の{力|ちから}が{必要|ひつよう}というわけか。[n]いいだろう、{力|ちから}を{貸|か}してやるよ。[p]	Hmph, so you need my power. Fine, I'll lend it to you.
+90	もう{朝|あさ}か……。{本土|ほんど}と{違|ちが}って[n]{相変|あいか}わらず、この{島|しま}の{朝|あさ}は{早|はや}いな。[p]	Morning already… Unlike the mainland, mornings here still come early.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	エリック・ルーサーをスカウトしました。[p]	You scouted Eric Luther!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	エリック・ルーサーとわかれた。[p]	Eric Luther has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

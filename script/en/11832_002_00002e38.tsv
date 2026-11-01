@@ -1,0 +1,21 @@
+id	ja	en
+10	ひっさしぶり～、[var:0]。[n]あれ？　ボクの{事|こと}、{⟨麻⟩|ゎす}れちゃった？[p]	Lo~ng time no see, [var:0]. Huh? Did you forget me?
+11	デスワルズブラザーズの[n]アーノルド・ヒッキーだよ。ひどいなー。[p]	Arnold Hickey, of the Deathwalz Brothers. How mean.
+20	ボクら、デスワルズブラザーズって[n]{呼|よ}ばれているけどさ……[p]	They call us the Deathwalz Brothers, but…
+21	{本当|ほんとう}の{兄弟|きょうだい}じゃないからね。[n]そこんトコ、{勘違|かんちが}いしないで{欲|ほ}しいんだよね。[p]	we're not real brothers, okay? Don't get that wrong.
+30	へへー、{何|なん}か{知|し}らないけど[n]{神威|かむい}{大門|だいもん}に{戻|もど}って{来|こ}れちゃった。[p]	Heh heh, I don't know how, but I got to come back to Kamui Daimon.
+31	エリックと、ガーディも{戻|もど}ってきたから[n]デスワルズブラザーズ、{完全|かんぜん}{復活|ふっかつ}だー！[p]	Eric and Gardie came back too, so the Deathwalz Brothers are fully revived!
+32	よーし、どんどんいくよー！[p]	All right, let's gooo!
+40	で、ボクに{何|なん}の{用|よう}かな？[p]	So, what do you want with me?
+50	へへっ～、いっただき～！！[p]	Heh heh~, don't mind if I do~!!
+60	{別|べつ}にいいよ～だ。バーカ。[p]	Fine, whatever~. Dummy.
+70	じゃあ、バイバーイ。[p]	Well, bye-byeee.
+80	へへへ、しょうがないなー。[n]じゃあ、ボクが{一緒|いっしょ}に{遊|あそ}んであげるよ。[p]	Heh heh, guess I've got no choice. Then I'll play with you.
+90	おはよー。[p]	Mornin'.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	アーノルド・ヒッキーをスカウトしました。[p]	You scouted Arnold Hickey!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	アーノルド・ヒッキーとわかれた。[p]	Arnold Hickey has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

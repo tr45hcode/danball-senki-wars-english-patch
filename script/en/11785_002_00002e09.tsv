@@ -1,0 +1,21 @@
+id	ja	en
+10	お{前|まえ}、{見|み}ない{顔|かお}だな？　イイ{事|こと}{教|おし}えてやるぜ。[n]{俺|おれ}{様|さま}が{神威島|かむいとう}{最強|さいきょう}の{男|おとこ}、{龍田|たつた}コロマル{様|さま}だ！！[p]	New face? Listen up: I'm the island's strongest, the great Koromaru Tatsuta!!
+11	……あ？　さては{疑|うたが}ってやがんな？[n]いいだろう、いつか{俺|おれ}{様|さま}の{強|つよ}さ{見|み}せてやるぜ！[p]	…Huh? You don't believe me? Fine, someday I'll show you how strong I am!
+20	あれ……？　お{前|まえ}、{誰|だれ}だっけ？[n]そうだ、[var:0]だ！　{悪|ゎり}ぃ{悪|ゎり}ぃ。[p]	Huh…? Who are you again? Right, [var:0]! My bad, my bad.
+21	お{前|まえ}、{印象|いんしょう}が{薄|うす}いんだよ！[n]{強|つよ}さが{足|た}りてねーんじゃねえか？[p]	You don't leave much of an impression! Maybe you're not strong enough?
+30	やい、[var:0]！　ちょっといいか？[p]	Hey, [var:0]! Got a sec?
+31	{確|たし}かにお{前|まえ}の{強|つよ}さは{認|みと}めてやったけど[n]{俺|おれ}{様|さま}が{神威島|かむいとう}{最強|さいきょう}なのは{変|か}わらないからな！[p]	Sure, I admit you're strong, but I'm still the strongest on Kamui Island!
+32	そこんとこ、{⟨麻⟩|ゎす}れるなよ？[n]{俺|おれ}{様|さま}とお{前|まえ}の{大事|だいじ}な{約束|やくそく}だからな！[p]	Don't forget it, got it? That's our important promise!
+40	おっと、{何|なに}か{用|よう}があるんだったな。[n]{聞|き}いてやるから、{話|はな}せよ。[p]	Oh yeah, you needed something. I'll listen, so talk.
+50	{俺|おれ}{様|さま}に{差|さ}し{入|い}れとは、{気|き}が{利|き}くじゃねえか。[n]イイ{心|こころ}がけだと{思|おも}うぜ。[p]	A treat for the great me? Thoughtful. Nice attitude.
+60	{俺|おれ}{様|さま}を{外|はず}すとは、いい{度胸|どきょう}してるじゃねえか。[n]{後悔|こうかい}したって{知|し}らねえぜ！？[p]	Dropping the great me? You've got nerve. Don't come crying later!
+70	じゃあな。[p]	Later.
+80	{勝|か}ちたいなら、{俺|おれ}{様|さま}を{選|えら}ぶのは{当然|とうぜん}だよな！[n]たっぷり{暴|あば}れてやるぜ！[p]	If you wanna win, of course you pick me! I'm gonna go wild!
+90	よっ、[var:0]。[n]{今日|きょう}のウォータイム、{暴|あば}れまくろうぜ！[p]	Yo, [var:0]. Let's go wild in War Time today!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{龍田|たつた}コロマルをスカウトしました。[p]	You scouted Koromaru Tatsuta!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{龍田|たつた}コロマルとわかれた。[p]	Koromaru Tatsuta has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

@@ -1,0 +1,21 @@
+id	ja	en
+10	{私|ゎたし}は、{仙道|せんどう}キヨカ。[n]ジェノック{第|だい}４{小隊|しょうたい}の、メカニック……。[p]	I'm Kiyoka Sendo. Jenock 4th Squad's… mechanic.
+11	『{運命の⟨輸⟩|ニゔモポテヅ゙モケフム}』のカード。[n]{君|きみ}との{出会|であ}いは{運命|うんめい}……。よろしく。[p]	The Wheel of Fortune card. Meeting you was fate… Nice to meet you.
+20	『{戦車|ケビペ゚コジ}』の{正|せい}{位置|いち}……、『{勝利|しょうり}ある{前進|ぜんしん}』。[n]{今|いま}は、{前|まえ}に{向|む}かって{突|つ}き{進|すす}む{時|とき}。[p]	The Chariot, upright… "Victorious advance." Time to push forward.
+21	{私|ゎたし}と{話|はな}しているヒマがあるのなら[n]もっと{自分|じぶん}の{腕|うで}を{磨|みが}いたら？[p]	If you have time to talk to me, why not hone your skills instead?
+30	{私|ゎたし}がＬＢＸを{始|はじ}めたのはお{兄|にい}ちゃんの{影響|えいきょう}だけど[n]メカニックになる{道|みち}を{選|えら}んだのは……[p]	I started LBX because of my big brother, but I chose to be a mechanic…
+31	カスタマイズ{次第|しだい}で{性能|せいのう}が{大|おお}きく{変化|へんか}する[n]ＬＢＸの{構造|こうぞう}そのものに{興味|きょうみ}を{引|ひ}かれたから。[p]	because LBX themselves fascinate me. Customizing can change them so much.
+32	メカニックの{手|て}で、ＬＢＸはどんどん{進化|しんか}する。[n]{君|きみ}の{機体|きたい}も、いつか{改良|かいりょう}してあげる。[p]	Mechanics make LBX evolve. Someday I'll upgrade your unit too.
+40	……{何|なに}の{用|よう}？[p]	…What do you want?
+50	{助|たす}かるわ。[p]	That helps.
+60	『{死神|シォ}』のカード、{決別|けつべつ}。[n]……これが{永遠|えいえん}の{別|ゎか}れにならないといいわね。[p]	The Death card. Parting. …Let's hope it isn't forever.
+70	さよなら。[p]	Goodbye.
+80	『{星|ォクモ}』の{正|せい}{位置|いち}……、『{未来|みらい}の{可能|かのう}{性|せい}』。[n]いいわ、{手伝|てつだ}ってあげる。[p]	The Star, upright… "Future potential." Fine, I'll help you.
+90	おはよ。[n]{早|はや}くしないと{遅|おく}れるわよ。[p]	Morning. Hurry up or we'll be late.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{仙道|せんどう}キヨカをスカウトしました。[p]	You scouted Kiyoka Sendo!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{仙道|せんどう}キヨカとわかれた。[p]	Kiyoka Sendo has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

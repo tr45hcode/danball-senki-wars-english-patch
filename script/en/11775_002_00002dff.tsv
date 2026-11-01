@@ -1,0 +1,21 @@
+id	ja	en
+10	ワタシ、イ・ウニャン、デス。[n]アナタ、[var:0]ネ。ワカッタ。[p]	I am Lee Eun-yang. You are [var:0]. Okay, understood.
+11	ワタシ、ロシウスで……[n]アナタ、[x14:0000]。コレモワカッタ。[p]	Me in Rossius… You in [x14:0000]. This also understood.
+20	{海|うみ}の{風|かぜ}、{気持|きも}ちイイデスネ～。[p]	Sea wind feels so nice~.
+21	ワタシの{国|くに}の{海|うみ}もキレイよ。[n]でも、{寒|さむ}いから、{誰|だれ}も{泳|およ}がないネ。[p]	Sea in my country is pretty too. But is cold, so nobody swims.
+30	[var:0]、コンニチハ！[n]いつも、イロイロ、アリガトウ！[p]	Hello, [var:0]! Always, many things, thank you!
+31	モット、アナタとお{話|はなし}シテミタイ……。[n]アナタの{国|くに}の{言葉|ことば}、ワタシに{教|おし}えてクダサイ！[p]	Me want to talk with you more… Teach me your country's language!
+32	ワタシの{国|くに}の{言葉|ことば}、アナタに{教|おし}えるもイイネ。[n]どっちにする？[p]	Me teach you my country's language is good too. Which one?
+40	それでは、ゴ{用|よう}をドウゾ！[p]	Then, please, your business!
+50	アリガト、{大事|だいじ}に{使|つか}いマス！[p]	Thank you, me use it with care!
+60	アリガトゴザイマシタ。[n]またお{願|ねが}いシマス。[p]	Thank you very much. Please again sometime.
+70	ワカリマシタ。また{呼|よ}んでクダサイ。[p]	Understood. Please call me again.
+80	ヨロシクお{願|ねが}いシマス！[p]	Nice to work with you!
+90	オハヨゴザイマス。[n]{今日|きょう}も、ヨロシクお{願|ねが}いシマス！[p]	Good morning. Today also, nice to work with you!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	イ・ウニャンをスカウトしました。[p]	You scouted Lee Eun-yang!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	イ・ウニャンとわかれた。[p]	Lee Eun-yang has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

@@ -1,0 +1,21 @@
+id	ja	en
+10	{私|ゎたくし}、{蜩野|ちょうの}シキと{申|もう}します。[n]どうぞ、よろしくお{願|ねが}いしますよ。[p]	I am Shiki Chono. A pleasure, I'm sure.
+11	あなたは、[var:0]さんですね。[n]なるほど……。[p]	You must be [var:0]. I see…
+20	{最近|さいきん}、{満足|まんぞく}のいく{相手|あいて}と{戦|たたか}っていないのです。[n]{皆|みな}さん{弱|よゎ}すぎて、{話|はなし}にならないのですよ。[p]	I haven't had a satisfying opponent lately. Everyone's far too weak.
+21	{貴方|あなた}ならば……、いや、やめておきましょう。[n]いきなり{失望|しつぼう}したくはありませんからね。[p]	You might… no, let's not. I'd rather not be disappointed so soon.
+30	{私|ゎたくし}には{及|およ}ばないようですが[n]{貴方|あなた}もなかなかお{強|つよ}い……。[p]	You're not quite at my level, but you're rather strong…
+31	ですが、{何故|なぜ}それを{誇|ほこ}ろうとしないのですか？[n]{強|つよ}き{者|もの}に{許|ゆる}された、{当然|とうぜん}の{権利|けんり}ですよ。[p]	So why don't you take pride in it? It's the natural right of the strong.
+32	{謙虚|けんきょ}さも、{強|つよ}さの{内|うち}だと？[n]やれやれ、{頭|あたま}の{固|かた}い{方|かた}だ……。[p]	Modesty is part of strength, you say? My, how stubborn you are…
+40	おや、どうかなさいましたか？[p]	Oh, is something the matter?
+50	これは、{感謝|かんしゃ}に{値|あたい}しますね。[p]	Now this deserves my thanks.
+60	そうですか……。{貴方|あなた}がそれでいいのなら[n]{良|よ}しとしておきましょう。[p]	I see… If that's fine with you, then so be it.
+70	では、ごきげんよう。[p]	Well then, good day.
+80	どうやら{私|ゎたくし}の{出番|でばん}のようですね。[n]{期待|きたい}してくださって{結構|けっこう}ですよ。[p]	It seems my turn has come. You may expect great things.
+90	おはようございます。よく{眠|ねむ}れましたか？[p]	Good morning. Did you sleep well?
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{蜩野|ちょうの}シキをスカウトしました。[p]	You scouted Shiki Chono!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{蜩野|ちょうの}シキとわかれた。[p]	Shiki Chono has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

@@ -1,0 +1,21 @@
+id	ja	en
+10	オレの{名前|なまえ}は、{天野|あまの}ケータ！[n]さくらニュータウンって{所|ところ}から{来|き}たんだ。[p]	My name's Keita Amano! I'm from a place called Sakura New Town.
+11	よろしくね！[p]	Nice to meet you!
+20	へぇ～、ＬＢＸって{面白|おもしろ}そうだね！[n]オレにも{教|おし}えてよ！　ＬＢＸの{動|うご}かし{方|かた}！！[p]	Whoa~, LBX look like fun! Teach me too! How to control LBX!!
+21	えい！　それっ！　[n]……{結構|けっこう}、{難|むずか}しいんだね。でも、{楽|たの}しいや！[p]	Hup! There! …It's pretty hard. But it's fun!
+30	ねぇ、{見|み}てよ！[n]オレもだいぶＬＢＸ{操作|そうさ}が{上達|じょうたつ}しただろ？[p]	Hey, look! I've gotten way better at controlling LBX, right?
+31	あ～、オレのともだちにも{見|み}せてやりたいな～。[n]あっ、そうだ！　{良|い}い{事|こと}{思|おも}いついた！[p]	Aww, I wish I could show my friends~. Oh, I know! I've got a great idea!
+32	{今度|こんど}は[var:0]がさくらニュータウンに[n]{来|き}てよ！　オレのともだち、{紹介|しょうかい}するからさ！[p]	Next time, you come to Sakura New Town! I'll introduce my friends!
+40	それで、オレに{何|なに}か{用|よう}なの？[p]	So, need something from me?
+50	ありがとう！[p]	Thanks!
+60	えぇー、どうしてさ？[p]	Whaaat, why?
+70	じゃあ、またね！[p]	See ya!
+80	よーし、{負|ま}けないぞ！[n]{妖怪|ようかい}メダル、セットオン！[p]	All right, I won't lose! Yo-kai Medal, set on!
+90	おはよう！　[n]{今日|きょう}は{島|しま}{中|じゅう}を{回|まゎ}るって{決|き}めてるんだ！[p]	Morning! Today I've decided to go all over the island!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{天野|あまの}ケータをスカウトしました。[p]	You scouted Keita Amano!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{天野|あまの}ケータとわかれた。[p]	Keita Amano has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

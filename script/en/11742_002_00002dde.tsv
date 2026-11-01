@@ -1,0 +1,21 @@
+id	ja	en
+10	あたしは、バネッサ・ガラ。[n]ジェノック{第|だい}６{小隊|しょうたい}の{所属|しょぞく}になった。[p]	I'm Vanessa Gala. I've been assigned to Jenock 6th Squad.
+11	これから、よろしくな。[p]	Let's get along.
+20	あたし、ダック{荘|そう}に{引|ひ}っ{越|こ}してきて[n]{今|いま}はアカネと{同室|どうしつ}なんだけどさ……[p]	I moved into Duck Lodge, and now I room with Akane…
+21	アカネが、クソ{真面目|まじめ}{過|す}ぎて{少|すこ}し{疲|つか}れるよ。[n]まあ、イイ{子|こ}なんだけどさ。[p]	She's so dead serious it wears me out a bit. She's a good kid, though.
+30	なぁ、ＬＢＸバトルもいいけどさ[n]たまには、{息抜|いきぬ}きもしたくないか？[p]	Hey, LBX battles are great, but don't you ever want a break?
+31	{例|たと}えば、{海水浴|かいすいよく}とかどうだ？[n]みんな{水着|みずぎ}に{着替|きが}えて、{思|おも}いっきり{遊|あそ}ぶんだ！[p]	Like a day at the beach! Everyone in swimsuits, having a blast!
+32	せっかく{神威|かむい}{島|とう}は{海|うみ}に{囲|かこ}まれているんだ。[n]{活用|かつよう}しないと{損|そん}だと{思|おも}うけどな。[p]	Kamui Island's surrounded by sea. It'd be a waste not to use it.
+40	で、あたしに{何|なん}の{用|よう}だ？[p]	So, what do you want with me?
+50	おっ、{助|たす}かるぜ！[p]	Oh, that helps!
+60	やっぱり、お{前|まえ}にとってあたしは{少|すこ}しばかり[n]{荷|に}が{重|おも}すぎたみたいだね。まあ、{仕方|しかた}ないさ。[p]	Guess I was a bit too much for you to handle. Oh well.
+70	じゃあ、またな。[p]	See ya.
+80	あたしは、{結構|けっこう}なじゃじゃ{馬|うま}だよ。[n]お{手並|てな}み{拝見|はいけん}といこうじゃないか。[p]	I'm quite the wild horse, you know. Let's see how you handle me.
+90	おはよう！　まったくあのアカネと{同室|どうしつ}だと[n]{早起|はやお}きには{苦労|くろう}しないね。{便利|べんり}なもんだ。[p]	Morning! Rooming with Akane, getting up early's never a problem. Handy.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	バネッサ・ガラをスカウトしました。[p]	You scouted Vanessa Gala!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	バネッサ・ガラとわかれた。[p]	Vanessa Gala has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

@@ -1,0 +1,21 @@
+id	ja	en
+10	お！　お{前|まえ}が[var:0]だな。[n]{話|はなし}には{聞|き}いてたぜ。いいプレイヤーだってな。[p]	Oh! You're [var:0]. I've heard about you. A good player, they say.
+11	{俺|おれ}は{郷田|ごうだ}ハンゾウ。プロのＬＢＸプレイヤーだ。[n]いつか、お{前|まえ}とも{手合|てあゎ}せしたいもんだな！[p]	I'm Hanzo Goda. Pro LBX player. I'd like a match with you someday!
+20	{神威|かむい}{大門|だいもん}……、ＬＢＸの{専門|せんもん}{校|こう}か。[n]まったく、ＬＢＸの{可能性|かのうせい}は{広|ひろ}がるばかりだな。[p]	Kamui Daimon… an LBX school. LBX's possibilities just keep growing.
+21	まさか、プロとして{生活|せいかつ}できるなんて{思|おも}っても[n]みなかったぜ。ホント、{大|たい}したもんだぜ！[p]	Never thought I could make a living as a pro. Pretty amazing, huh!
+30	よお！　[var:0]！[n]{良|い}い{所|ところ}にきたな！[p]	Yo! [var:0]! Good timing!
+31	{聞|き}いたぜ？　お{前|まえ}の{副担任|ふくたんにん}はジンだってな。[n]へへっ、{先生|せんせい}たぁ、ヤツも{偉|えら}くなったもんだ。[p]	So Jin's your assistant homeroom teacher? Heh, he's come up in life.
+32	{今度|こんど}あいつも{連|つ}れてこいよ。３{人|にん}で{話|はな}そうぜ。[n]それにバトルもやろうじゃねえか！[p]	Bring him by sometime. The three of us can talk. And battle, too!
+40	あ、{俺|おれ}に{用|よう}でもあんのか？[n]いいぜ。なんでも{言|い}ってみな。[p]	Oh, you need something? Sure. Say anything.
+50	おっ、{気|き}が{利|き}くじゃねえか。[n]サンキューな！[p]	Oh, how thoughtful. Thanks!
+60	マジかよ！　もう{俺|おれ}は{必要|ひつよう}ないってか！？[n]ぜってぇ{後悔|こうかい}するから、{考|かんが}え{直|なお}せって！[p]	Seriously! You don't need me!? You'll regret it. Think again!
+70	おっと、もうこんな{時間|じかん}か。[n]{悪|ゎる}いな。ライバルたちが{俺|おれ}を{待|ま}ってるんでな！[p]	Whoa, look at the time. Sorry. My rivals are waiting for me!
+80	{俺|おれ}を{仲間|なかま}にだとお！？　いい{度胸|どきょう}してやがるぜ。[n]……{気|き}に{入|い}った！　よろしくたのむわ！[p]	Me, on your team!? You've got guts. …I like it! Count me in!
+90	よっ。これから{学校|がっこう}か？[n]サボりなんかしねえで、ちゃんと{行|い}ってこいよ！[p]	Yo. Off to school? Don't skip, go properly!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{郷田|ごうだ}ハンゾウをスカウトしました。[p]	You scouted Hanzo Goda!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{郷田|ごうだ}ハンゾウとわかれた。[p]	Hanzo Goda has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

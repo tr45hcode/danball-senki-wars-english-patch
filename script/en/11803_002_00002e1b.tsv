@@ -1,0 +1,21 @@
+id	ja	en
+10	グレンシュテイム{所属|しょぞく}、{石垣|いしがき}ヨウスケだ。[n]よろしく{頼|たの}む。[p]	Yosuke Ishigaki of Glenstheim. A pleasure.
+11	{君|きみ}は、[var:0]というのか。[n]……{意志|いし}の{強|つよ}そうな{目|め}をしているな。[p]	So you're [var:0]. …You have strong-willed eyes.
+20	{⟨暮⟩一徹|とどろきいってつ}……。それが{我々|ゎれゎれ}グレンシュテイムの[n]{司令官|しれいかん}の{名|な}だ。{優秀|ゆうしゅう}なのだが、{無口|むくち}な{方|かた}でな。[p]	Ittetsu Todoroki, Glenstheim's commander. Excellent, but quiet.
+21	{私|ゎたし}も{無口|むくち}なものだから、ウォータイム{以外|いがい}の{場|ば}で[n]あの{人|ひと}とどう{過|す}ごせばいいか、{困|こま}っているんだ。[p]	I'm quiet too, so outside War Time I don't know how to act around him.
+30	[var:0]。{聞|き}いて{欲|ほ}しい{事|こと}がある。[n]{例|れい}の{⟨暮⟩|とどろき}{司令|しれい}について、だ。[p]	[var:0]. I want you to hear something. About Commander Todoroki.
+31	{相変|あいか}わらず、{司令|しれい}は{無口|むくち}なんだが、ほんの{少|すこ}し[n]{話|はな}しかけてくれるようになったんだ。[p]	He's as quiet as ever, but he's started talking to me, just a little.
+32	{君|きみ}を{見習|みなら}って{話|はな}しかけてきたおかげだ。[n]フフフ、ありがとう。こういうのも{悪|ゎる}くないな。[p]	It's because I followed your lead and spoke up. Heh, thanks. Not bad at all.
+40	それで、{話|はなし}というのは{何|なに}かな？[p]	So, what did you want to talk about?
+50	すまないな、これがあると{助|たす}かる。[p]	Sorry. This really helps.
+60	そうか。{機合|きかい}があったら、また{声|こえ}をかけてくれ。[p]	I see. If you get the chance, call on me again.
+70	そろそろと{演習|えんしゅう}の{時間|じかん}なのでな。[n]これで{失礼|しつれい}する。[p]	It's almost time for drills. Excuse me.
+80	これからは{仲間|なかま}というわけだ。よろしく{頼|たの}む。[p]	So we're comrades now. I'm counting on you.
+90	おはよう、{準備|じゅんび}は{出来|でき}ているか？[p]	Morning. Are you ready?
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{家|かね}が{足|た}りません。[p]	Not enough money.
+60002	{石垣|いしがき}ヨウスケをスカウトしました。[p]	You scouted Yosuke Ishigaki!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{石垣|いしがき}ヨウスケとわかれた。[p]	Yosuke Ishigaki has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

@@ -1,0 +1,21 @@
+id	ja	en
+10	お{話中|はなしちゅう}のところ、{失礼|しつれい}する！[n]{自分|じぶん}は、{白|はく}{牙|が}ムサシ！！[p]	Pardon the interruption! I am Musashi Hakuga!!
+11	アラビスタ{第|だい}１９{小隊|しょうたい}の{隊長|たいちょう}だ。[n]{君|きみ}の{活躍|かつやく}には{感服|かんぷく}している。これからも{精進|しょうじん}を！[p]	Captain of Arabista 19th Squad. Your exploits impress me. Keep at it!
+20	{自分|じぶん}たちアラビスタ{第|だい}１９{小隊|しょうたい}の{事|こと}は[n]{別名|べつめい}『ホワイトフォックス』とも{呼|よ}ばれる。[p]	We of Arabista 19th Squad are also known as the "White Fox."
+21	{正確|せいかく}{無比|むひ}な{狙撃|そげき}で{獲物|えもの}を{確実|かくじつ}に{仕都|しと}める……[n]その{手腕|しゅゎん}を{評価|ひょうか}して、だそうだ。{光栄|こうえい}だな。[p]	For our deadly precise sniping, they say. An honor.
+30	かつて{我|ゎ}が{小隊|しょうたい}には、{⟨笹⟩⟨川⟩|ささかゎ}ハヤテという[n]エース・スナイパーがいた。[p]	Our squad once had an ace sniper named Hayate Sasakawa.
+31	{本当|ほんとう}に{優秀|ゆうしゅう}なスナイパーだったが[n]そんな{彼|かれ}もある{時|とき}、１{対|たい}１の{狙撃|そげき}{対決|たいけつ}に{敗|やぶ}れ……[p]	He was truly excellent, but one day he lost a one-on-one sniper duel…
+32	セカンドワールドから{姿|すがた}を{消|け}した……。[n]まったく{戦争|せんそう}とは{非情|ひじょう}なものだな。[p]	and vanished from the Second World… War is merciless indeed.
+40	この{後|あと}、トレーニングがあるのでな[n]{用件|ようけん}は{手短|てみじか}に{頼|たの}む。[p]	I have training after this, so please keep it brief.
+50	{感謝|かんしゃ}する！[p]	My thanks!
+60	そうか。すべては{自分|じぶん}の{力|ちから}{不足|ぶそく}ゆえ……。[n]{自分|じぶん}を{鍛|きた}え{直|なお}すため、これからも{精進|しょうじん}あるのみ！[p]	I see. It's all down to my own weakness… I must train harder still!
+70	では、{失礼|しつれい}する！[p]	Then excuse me!
+80	{自分|じぶん}を{君|きみ}たちの{仲間|なかま}に？　[n]{光栄|こうえい}だ！　ぜひ{一緒|いっしょ}に{戦|たたか}わせてくれ！[p]	Me, join your team? An honor! Please let me fight with you!
+90	おはよう！　トレーニングには{最高|さいこう}の{朝|あさ}だな。[n]どうだ、{君|きみ}も{一緒|いっしょ}に{走|はし}ってみないか？[p]	Good morning! Perfect weather for training. Care to go for a run with me?
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{白牙|はくが}ムサシをスカウトしました。[p]	You scouted Musashi Hakuga!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{白牙|はくが}ムサシとわかれた。[p]	Musashi Hakuga has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

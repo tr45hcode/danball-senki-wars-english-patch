@@ -1,0 +1,21 @@
+id	ja	en
+10	[var:0]？ データにない{名前|なまえ}だな。[n]{俺|おれ}は、{千葉|ちば}モトヤ。お{前|まえ}の{名前|なまえ}、{記録|きろく}しとくよ。[p]	[var:0]? Not a name in my data. I'm Motoya Chiba. I'll log your name.
+11	これから、どんなデータがとれるのか？[n]それは、あとのお{楽|たの}しみってわけだ。[p]	What kind of data will I get from you? That's something to look forward to.
+20	{次|つぎ}の{戦場|せんじょう}で{誰|だれ}が{相手|あいて}になるかは{分|ゎ}からない。[n]{日頃|ひごろ}から、データ{収集|しゅうしゅう}はしておかないとな。[p]	You never know who you'll face next. You have to collect data every day.
+21	データは{多|おお}ければ、{多|おお}いほど{信頼性|しんらいせい}が{上|あ}がる。[n]だから、データ{収集|しゅうしゅう}に{終|お}わりはないのさ。[p]	The more data, the more reliable it is. So collecting never ends.
+30	{本当|ほんとう}に、お{前|まえ}って{変|か}わったヤツだな。[n]よくこれまで{生|い}き{残|のこ}ってこれたものだ。[p]	You really are a strange one. Amazing you've survived this long.
+31	{自分|じぶん}が{活躍|かつやく}するだけでなく[n]{仲間|なかま}の{事|こと}も{気|き}づかって……。[p]	You don't just shine yourself, you look out for your teammates too…
+32	もしかしたら、お{前|まえ}みたいなヤツこそが[n]{理想的|りそうてき}な{指揮官|しきかん}になるのかもしれないな。[p]	Maybe someone like you is what makes an ideal commander.
+40	それで、{俺|おれ}に{何|なに}か{用|よう}なのか？[p]	So, need something from me?
+50	{助|たす}かるよ。これでいいデータが{取|と}れる。[n]ありがたく{頂|いただ}こう。[p]	That helps. I'll get good data with this. Much obliged.
+60	こういう{事態|じたい}も、シミュレーション{済|ず}みだ。[n]{遠慮|えんりょ}なく{外|はず}してくれて{構|かま}わない。[p]	I already simulated this scenario. Feel free to drop me.
+70	まだ、データ{収集|しゅうしゅう}が{残|のこ}っているんでな。[n]{失礼|しつれい}するぞ。[p]	I still have data to collect. Excuse me.
+80	{俺|おれ}なんかを{指名|しめい}するとは、お{前|まえ}も{変|か}わってるな。[n]まあ、よろしく{頼|たの}む。[p]	You picked me? You're strange too. Well, I'm counting on you.
+90	おはよう。{今日|きょう}のウォータイムの[n]シミュレーションはバッチリだ。{必|かなら}ず、{勝|か}とう。[p]	Morning. My War Time simulation for today is perfect. Let's win.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{千葉|ちば}モトヤをスカウトしました。[p]	You scouted Motoya Chiba!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{千葉|ちば}モトヤとわかれた。[p]	Motoya Chiba has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

@@ -1,0 +1,21 @@
+id	ja	en
+10	{俺|おれ}の{名|な}を{知|し}りたいだと？[n]フッ、{俺|おれ}は{国枝|くにえだ}ユキヒコ。{歴戦|れきせん}の{漂流|ひょうりゅう}{者|しゃ}さ。[p]	You want my name? Heh, I'm Yukihiko Kunieda. A battle-hardened drifter.
+11	お{前|まえ}も{名乗|なの}れ。[var:0]か……。[n]フッ、{覚|おぼ}えておこう。[p]	Now give me yours. [var:0]… Heh, I'll remember it.
+20	セカンドワールド……。[n]あれは、まさに{世界|せかい}の{縮図|しゅくず}だとは{思|おも}わないか？[p]	The Second World… Don't you think it's the world in miniature?
+21	{勝利|しょうり}に{酔|よ}いしれる{者|もの}、{敗北|はいぼく}にむせび{泣|な}く{者|もの}。[n]それぞれが{一様|いちよう}に{揃|そろ}うから{面白|おもしろ}い。[p]	Some drunk on victory, some sobbing in defeat. That's what makes it fun.
+30	{来|き}たな……、[var:0]よ。[n]お{前|まえ}に、{話|はな}しておきたい{事|こと}がある。[p]	You've come… [var:0]. There's something I want to tell you.
+31	{俺|おれ}たちが、このまま{修羅|しゅら}の{道|みち}を{歩|あゆ}めば[n]いつか{必|かなら}ず、{心|こころ}に{傷|きず}を{負|お}う{時|とき}がやってくる。[p]	If we keep walking this path of carnage, one day our hearts will be scarred.
+32	その{時|とき}は、{俺|おれ}が{必|かなら}ずお{前|まえ}の{力|ちから}になろう。[n]{時|とき}が{来|き}たら、いつでも{声|こえ}をかけろ。[p]	When that day comes, I'll be there for you. Call on me anytime.
+40	で、{何|なに}{用|よう}だ？[p]	So, what is it?
+50	フッ、{礼|れい}を{言|い}うぞ。[p]	Heh, my thanks.
+60	それが、お{前|まえ}の{判断|はんだん}なのだな？[n]……{甘|あま}んじて{受|う}け{入|い}れよう。[p]	Is that your decision? …Then I'll accept it.
+70	フッ、さらばだ。[p]	Heh, farewell.
+80	{承知|しょうち}した。さぁ、{戦場|せんじょう}を{共|とも}に{歩|あゆ}もう。[p]	Understood. Come, let us walk the battlefield together.
+90	{漆黒|しっこく}の{闇|やみ}は{終|お}わりを{告|つ}げ、すべての{生命|せいめい}の[n]{源|みなもと}たる{光|ひかり}が{地上|ちじょう}に{降|ふ}り{注|そそ}ぐ……。つまり、{朝|あさ}だ。[p]	The pitch-black darkness ends, and the light of life pours down… It's morning.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{国枝|くにえだ}ユキヒコをスカウトしました。[p]	You scouted Yukihiko Kunieda!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{国枝|くにえだ}ユキヒコとわかれた。[p]	Yukihiko Kunieda has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

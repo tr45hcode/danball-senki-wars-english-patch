@@ -1,0 +1,21 @@
+id	ja	en
+10	よっ！　[var:0]！[n]お{前|まえ}がいてくれたら、{百人|ひゃくにん}{力|りき}だぜ！[p]	Hey! [var:0]! With you on our side, we can't lose!
+11	これからは、もっと{力|ちから}を{合|あ}わせて[n]ピンチを{乗|の}り{切|き}っていこうぜ！[p]	From now on, let's team up even more and get through any tight spot!
+20	そういえばさ、{何|なん}で{俺|おれ}たちは[n]オーバーロードが{使|つか}えるんだろうな？[p]	Hey, I've been wondering. Why can we use Overload, anyway?
+21	……う～ん、ダメだ。やっぱ{分|ゎ}かんねーや。[n]オーバーロードになる{前|まえ}に{頭|あたま}から{煙|けむり}が{出|で}そうだ。[p]	…Hmm, nope. No idea. My head's gonna start smoking before I hit Overload.
+30	うーん、まだこの{島|しま}に{来|き}て{短|みじか}いけど[n]ここには、いろんな{思|おも}い{出|で}があるなー。[p]	I haven't been here long, but this island's already full of memories.
+31	{大変|たいへん}な{事|こと}もあったけど、{不思議|ふしぎ}と{楽|たの}しい{事|こと}の{方|ほう}が[n]{多|おお}かった{気|き}がする。たぶん、お{前|まえ}のお{陰|かげ}だよ！[p]	Some stuff was tough, but somehow it was mostly fun. Probably thanks to you!
+32	なぁ、[var:0]。もし{良|よ}かったらさ[n]いつか{俺|おれ}と{一緒|いっしょ}に{度|たび}しないか？　……なんてな！[p]	Hey, [var:0]. Wanna go traveling with me someday? …Just kidding!
+40	ん、どうした？[n]{俺|おれ}に{何|なに}か{用|よう}か？[p]	Hm, what's up? You need me for something?
+50	おっ、サンキュー！[n]やっぱ{持|も}つべきものは{友|とも}だちだな！[p]	Oh, thanks! Friends really are the best!
+60	えっ！　ウソだよな？[n]{自分|じぶん}から{誘|さそ}っておいて、それはなしだろー！？[p]	Huh! You're kidding, right? You asked me in, and now this!? No fair!
+70	あ、やばい！　サクヤに{呼|よ}ばれてるんだった！[n]{俺|おれ}もう{行|い}かないと！　じゃ、またな！[p]	Oh crap! Sakuya wanted to see me! I gotta go! See ya!
+80	いいぜ！　{一緒|いっしょ}に{転入|てんにゅう}してきたお{前|まえ}の{頼|たの}みだ。[n]{俺|おれ}たちのチームワークを{見|み}せてやろうぜ！[p]	Sure! We transferred in together, so count me in! Let's show our teamwork!
+90	[var:0]ー！　{悪|ゎる}い、{待|ま}たせたな！[n]ほら、さっさと{行|い}こうぜ！[p]	[var:0]! Sorry, did I keep you waiting? C'mon, let's get going!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{背名|せな}アラタをスカウトしました。[p]	You scouted Arata Sena!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{背名|せな}アラタとわかれた。[p]	Arata Sena has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

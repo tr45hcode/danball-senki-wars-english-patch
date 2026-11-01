@@ -1,0 +1,21 @@
+id	ja	en
+10	……{吹野|ふきの}タダシだ。[n]ジェノックの{第|だい}５{小隊|しょうたい}に{所属|しょぞく}している。[p]	…Tadashi Fukino. I'm in Jenock's 5th Squad.
+11	よろしく……。[p]	Nice to meet you…
+20	[var:0]か。[n]……どうしたんだ？[p]	[var:0]. …What's up?
+21	……{俺|おれ}はどうかって？[n]いや、{俺|おれ}からは{特|とく}に{話|はな}す{事|こと}ないけど……。[p]	…What about me? No, I don't really have anything to talk about…
+30	お{前|まえ}って、{敵|てき}をロストさせた{事|こと}あるか？[n]……{俺|おれ}は{昔|むかし}、{友人|ゆうじん}をロストさせた{事|こと}がある。[p]	Have you ever made an enemy Lost? …I once did it to a friend.
+31	それが{原因|げんいん}で{一度|いちど}はライフルを{捨|す}てたが[n]{仲間|なかま}たちのおかげで、{吹|ふ}っ{切|き}る{事|こと}ができた。[p]	That made me give up my rifle once, but my friends helped me move on.
+32	もしお{前|まえ}が{同|おな}じ{理由|りゆう}で{悩|なや}む{事|こと}があれば[n]{少|すこ}しは{相談|そうだん}に{乗|の}れると{思|おも}う。{覚|おぼ}えておいてくれ。[p]	If you ever struggle with the same thing, I can lend an ear. Remember that.
+40	で、{何|なに}か{用|よう}か？[p]	So, need something?
+50	ありがとう。{助|たす}かる。[p]	Thanks. That helps.
+60	お{前|まえ}の{判断|はんだん}に{従|したが}おう。[n]……{残念|ざんねん}だがな。[p]	I'll go along with your decision. …Too bad, though.
+70	……またな。[p]	…See you.
+80	……わかった。{協力|きょうりょく}しよう。[n]これからよろしくな。[p]	…All right. I'll help. Let's work together.
+90	[var:0]か。おはよう。[n]{低血圧|ていけつあつ}？　{俺|おれ}はいつもこんな{感|かん}じだけど……。[p]	[var:0]. Morning. Low blood pressure? I'm always like this…
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{吹野|ふきの}タダシをスカウトしました。[p]	You scouted Tadashi Fukino!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{吹野|ふきの}タダシとわかれた。[p]	Tadashi Fukino has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

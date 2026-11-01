@@ -1,0 +1,21 @@
+id	ja	en
+10	……あぁん？　ナニ{見|み}てやがんだ。[n]{俺|おれ}{様|さま}がフィリップ・ブルーノだと{知|し}っての{事|こと}か？[p]	…Huh? What're you lookin' at? You know who I am? Philip Bruno!
+11	まったく{近頃|ちかごろ}は、{礼儀|れいぎ}を{知|し}らねェヤツが[n]{多|おお}くて{困|こま}ったもんだぜ。[p]	Kids these days got no manners. It's a real problem.
+20	あんまり、チョロチョロするんじゃねぇ。[n]{目|め}ざわりなんだよ！[p]	Quit scurryin' around. You're an eyesore!
+21	{俺|おれ}{様|さま}は、{考|かんが}えるより{先|さき}に{手|て}が{出|で}ちまうからな。[n]あんまり{怒|おこ}らせるような{事|こと}、すんなよ。[p]	I hit first and think later. So don't go makin' me mad.
+30	おう、[var:0]か。[n]{相変|あいか}わらず{根性|こんじょう}が{剃|す}わってんな。[p]	Oh, [var:0]. Got guts as usual.
+31	この{俺|おれ}{様|さま}と{堂々|どうどう}と{話|はな}せる{奴|やつ}なんざ[n]ほとんどいねぇからな。[p]	Hardly anybody's got the nerve to talk to me straight.
+32	……おい、{褒|ほ}めてやってんだ。[n]{素直|すなお}に{喜|よろこ}んだらどうだ？[p]	…Hey, I'm complimentin' you. How 'bout lookin' happy about it?
+40	それで、{俺|おれ}{様|さま}に{何|なに}か{用|よう}か？[p]	So, what d'you want with me?
+50	これで、{俺|おれ}{様|さま}の{機嫌|きげん}をとろうってのか？[n]へへへ。わかってるじゃねぇか、お{前|まえ}。[p]	Tryin' to butter me up with this? Heheh. You get it, kid.
+60	……{何|なん}だと？[n]お{前|まえ}、{自分|じぶん}が{何|なに}{言|い}ってるのか、わかってんのか？[p]	…What? You got any idea what you're sayin'?
+70	あばよ。[p]	Later.
+80	ガッハッハ、{大暴|おおあば}れしてやんぜ！[p]	Gahaha, I'm gonna go wild!
+90	{朝|あさ}の{俺|おれ}{様|さま}は、{機嫌|きげん}が{悪|ゎる}いんだ。[n]ケガしたくねぇなら、{話|はな}しかけるな。[p]	I'm in a bad mood in the mornin'. Don't talk to me if you don't wanna get hurt.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{家|かね}が{足|た}りません。[p]	Not enough money.
+60002	フィリップ・ブルーノをスカウトしました。[p]	You scouted Philip Bruno!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	フィリップ・ブルーノとわかれた。[p]	Philip Bruno has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

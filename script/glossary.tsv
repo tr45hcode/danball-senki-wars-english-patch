@@ -140,3 +140,31 @@ LBX		LBX
 工場地帯 / 火山地帯		Works / Volcano	place suffixes (short for buffer safety)
 〜とバトルだ！		VS ~!	battle lists
 空中空母ドル・ガルーダ		Dol Garuda	the flying carrier, in names and lists
+# Character conversations (11xxx), added 2026-11-01			
+イワン・クロスキー		Ivan Croskey	Rossius commander ("Commander Croskey")
+メリッサ・ポートマン		Melissa Portman	Porton commander ("Ms. Portman")
+ピーター・アイスマン		Peter Iceman	Crusade commander
+轟 一徹	とどろき いってつ	Ittetsu Todoroki	Glenstheim commander ("Commander Todoroki")
+野見 信三	のみ しんぞう	Shinzo Nomi	Londonia commander
+武田 シルビア / マックス・ポッター		Silvia Takeda / Max Potter	health & PE / technology teachers
+ジョージ・ブルーダー / エマ・グリーンウェイ / ベンジャミン・ブラウン		George Bruder / Emma Greenway / Benjamin Brown	world history / English / chemistry teachers
+グレンシュテイム		Glenstheim	nation
+スワン荘	すわんそう	Swan Lodge	Rossius dormitory
+グレイビースト		Gray Beast	Andrei Gregory's nickname
+ファイアースウィーツ		Fire Sweets	Country A's LBX test unit (Jessica)
+タイニーオービット		Tiny Orbit	LBX maker (Kirito)
+Ｌテク / ＬＢＸテクノロジー		L-Tech / LBX Technology	LBX mechanics magazine
+ＷＴＳＤ		WTSD	War Time trauma, "close to PTSD"
+猿田塾 / ＬＢＸ塚 / ＬＢＸ慰霊祭		Saruta School / LBX Mound / LBX Memorial	
+仲間殺し	なかまごろし	comrade killer	Rikuya's nickname
+先輩 (as a form of address)		(dropped, or the name)	Meme, Wataru: no "senpai"
+# Map examine text (065xx) and Special Function descriptions, added 2026-11-01			
+しらべる対象の名前 (065xx 007/008)		short labels, max ~168 px	object names shown as the name tag over examine text
+時計塔 / 時計台		Clock Tower / Yard Clock	the yard clock hides the way into the Second World
+Ｄキューブ		D-Cube	reinforced cardboard box for LBX battles
+プリペイドカード		prepaid card	found items, e.g. "a prepaid card worth 1,000 SC"
+学園正門警備員 / ワールドセイバー兵士		Gate Guard / World Saver	map tags
+駄菓子屋のおばちゃん		Candy Shop Lady	
+純喫茶	じゅんきっさ	pure cafe	a cafe without alcohol (the master explains it)
+のけぞらない / カメラ汚れ		no flinching / dirty camera	Special Function effects
+武器腕不可		No weapon arms	Special Function restriction

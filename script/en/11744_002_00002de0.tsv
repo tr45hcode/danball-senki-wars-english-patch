@@ -1,0 +1,21 @@
+id	ja	en
+10	……{木場|きば}カゲト。[p]	…Kageto Kiba.
+11	…………。[n]これ{以上|いじょう}は、まだ{話|はな}したくない。[p]	………I don't feel like saying any more yet.
+20	{放|ほう}っておいてくれ。[n]{俺|おれ}にだって、メカニックのプライドがある。[p]	Leave me alone. I've got my pride as a mechanic.
+21	ジェノックの{連中|れんちゅう}に、このまま{負|ま}けてられるか！[n]{絶対|ぜったい}、あいつらより{強|つよ}いＬＢＸを{作|つく}ってやる！[p]	I won't keep losing to the Jenock lot! I'll build an LBX stronger than theirs!
+30	{俺|おれ}がＬＢＸを{始|はじ}めた{理由|りゆう}？[n]{簡単|かんたん}だよ。{好|す}きな{子|こ}と{仲良|なかよ}くなりたかったんだ。[p]	Why I started LBX? Simple. I wanted to get close to a girl I liked.
+31	{小学校|しょうがっこう}の{時|とき}、{俺|おれ}は{好|す}きな{子|こ}と{話|はな}したくて[n]{彼女|かのじょ}が{好|す}きなＬＢＸについて{猛勉強|もうべんきょう}したんだ。[p]	In grade school, I studied her favorite LBX like crazy just to talk to her.
+32	{結局|けっきょく}、{彼女|かのじょ}はそれからすぐに{転校|てんこう}しちゃって[n]{俺|おれ}にはＬＢＸだけが{残|のこ}ったけどな。{意外|いがい}かな？[p]	Then she transferred away, and all I had left was LBX. Surprised?
+40	で、{何|なん}の{用|よう}？[p]	So, what?
+50	えぇ？　いいの！？[p]	Huh? Really!?
+60	{必要|ひつよう}なくなったら、{切|き}り{捨|す}てる。[n]やっぱり、あんたはそっち{⟨側⟩|がゎ}の{人間|にんげん}なんだな。[p]	Cut people loose when they're useless. So you're one of those people.
+70	ムラクさんのＬＢＸ{整備|せいび}が{残|のこ}ってるんだ。[n]{俺|おれ}はもう{帰|かえ}るからな。[p]	I've still got Muraku's LBX to service. I'm heading back.
+80	あんただったら、{力|ちから}になっていいかも。[n]これから、よろしくお{願|ねが}いするッス！[p]	For you, I might lend a hand. I'm in your care from now on!
+90	……フフフ。{整備|せいび}は{万全|ばんぜん}。[n]{今日|きょう}のウォータイムが{楽|たの}しみ……。[p]	…Heh heh. Maintenance is perfect. Can't wait for War Time today…
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{木場|きば}カゲトをスカウトしました。[p]	You scouted Kageto Kiba!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{木場|きば}カゲトとわかれた。[p]	Kageto Kiba has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

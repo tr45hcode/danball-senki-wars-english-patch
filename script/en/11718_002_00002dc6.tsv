@@ -1,0 +1,21 @@
+id	ja	en
+10	{私|ゎたし}は{⟨笹⟩⟨川⟩|ささかゎ}ノゾミ。[n]{所属|しょぞく}は、ジェノック{第|だい}５{小隊|しょうたい}よ。[p]	I'm Nozomi Sasakawa, from Jenock 5th Squad.
+11	あなたのウワサはよく{耳|みみ}にするわ。[n]{同盟|どうめい}{国|こく}{同士|どうし}、よろしくお{願|ねが}いね！[p]	I hear about you a lot. We're allies, so let's get along!
+20	この{間|あいだ}、{捨|す}て{猫|ねこ}を{拾|ひろ}ったの。[n]{小隊|しょうたい}のみんなと{裏庭|うらにゎ}でこっそり{世話|せゎ}してたんだ。[p]	I found a stray cat recently. Our squad secretly looked after it out back.
+21	カイトが{一番|いちばん}{可愛|かゎい}がってたんだけど[n]{何故|なぜ}かタダシによくなついていたのよね。[p]	Kaito doted on it the most, but for some reason it took to Tadashi.
+30	じつはね、{私|ゎたし}にはハヤテっていう{兄貴|あにき}がいるの。[n]{射撃|しゃげき}が{得意|とくい}でうちのタダシとはライバルだった。[p]	Actually, I have a big brother, Hayate. A great shot, and Tadashi's rival.
+31	でも、アラビスタと{交戦|こうせん}したある{日|ひ}[n]{敵|てき}だった{兄貴|あにき}はタダシにロストされてしまった。[p]	But one day, against Arabista, Tadashi made my brother Lost.
+32	その{時|とき}、{私|ゎたし}たちは{戦場|せんじょう}の{厳|きび}しさを{思|おも}い{知|し}った。[n]あなたも{十分|じゅうぶん}に{気|き}を{付|つ}けてちょうだい。[p]	That's when we learned how harsh the battlefield is. You be careful too.
+40	それで、{私|ゎたし}に{何|なに}か{用|よう}かしら？[p]	So, what can I do for you?
+50	ありがとう！[p]	Thank you!
+60	……そう、いいわ。あなたがそのつもりなら[n]{私|ゎたし}にだって{考|かんが}えがあるんだから。[p]	…Fine. If that's how you want it, I have ideas of my own.
+70	じゃあ、またね！[p]	See you!
+80	え、{一緒|いっしょ}に{戦|たたか}わないかって？　いいわよ！[n]なんだか{楽|たの}しそうだしね！[p]	Huh, fight together? Sure! Sounds like fun!
+90	おはよう！　[var:0]。[n]ほらほら、のんびりしてないで{早|はや}く{行|い}きましょ。[p]	Morning, [var:0]! Come on, no dawdling, let's go.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{⟨笹⟩⟨川⟩|ささかゎ}ノゾミをスカウトしました。[p]	You scouted Nozomi Sasakawa!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{⟨笹⟩⟨川⟩|ささかゎ}ノゾミとわかれた。[p]	Nozomi Sasakawa has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

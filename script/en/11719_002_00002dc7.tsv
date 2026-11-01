@@ -1,0 +1,21 @@
+id	ja	en
+10	よ！　{俺|おれ}は{嵐山|あらしやま}ブンタってんだ。[n]お{前|まえ}は[var:0]だろ？　{知|し}ってるよ。[p]	Yo! The name's Bunta Arashiyama. You're [var:0], right? I know you.
+11	なんたって{俺|おれ}は、ジェノック{第|だい}５{小隊|しょうたい}の[n]メカニックだからな！　よろしく{頼|たの}むぜ。[p]	After all, I'm Jenock 5th Squad's mechanic! Nice to meet ya.
+20	ＬＢＸのメンテや{調整|ちょうせい}をしてたら[n]いつの{間|ま}にか、{朝|あさ}になってやがった。[p]	I was tuning LBX, and before I knew it, it was morning.
+21	だから、{今|いま}すんごく{眠|ねむ}てーのよ。[n]{用事|ようじ}があるなら、{手短|てみじか}に{頼|たの}むな。[p]	So I'm super sleepy right now. If you need something, make it quick.
+30	こう{見|み}えて、{俺|おれ}は{結構|けっこう}{野菜|やさい}を{食|た}べる。[n]……{何|なに}、{驚|おどろ}いた{顔|かお}してんだよ？[p]	Believe it or not, I eat a lot of veggies. …What's with the surprised face?
+31	{神|かむ}{威|い}{島|とう}に{来|く}る{前|まえ}は{料理|りょうり}も{結構|けっこう}してたんだぜ。[n]ちなみに、{得意|とくい}{料理|りょうり}は{肉|にく}じゃがだ。[p]	I cooked a lot before I came to Kamui Island. My specialty's nikujaga.
+32	{成長期|せいちょうき}なんだから、お{前|まえ}もちゃんと[n]{栄養|えいよう}バランスを{考|かんが}えて、{飯|めし}{食|く}わないと{駄目|だめ}だぞ。[p]	You're still growing, so eat a balanced diet, got it?
+40	んで、{俺|おれ}に{何|なに}か{用|よう}か？[p]	So, need something?
+50	ありがとな！　{助|たす}かるよ。[p]	Thanks! That helps.
+60	おいおい、{冗談|じょうだん}にしちゃ{笑|ゎら}えねーぞ！[n]{本気|ほんき}ぃ？　{余計|よけい}に{笑|ゎら}えねぇよ……。[p]	Hey, hey, that's not funny! You're serious? That's even less funny…
+70	んじゃ、またな。[p]	Later, then.
+80	いいぜ！　{任|まか}せとけよ！[n]しっかりカスタマイズしてやるからな！[p]	Sure! Leave it to me! I'll customize you up good!
+90	よっ、おはよう。[var:0]。[n]ふぁ～、まだ{眠|ねむ}いぜ。[p]	Yo, morning, [var:0]. Yawn… I'm still sleepy.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{嵐山|あらしやま}ブンタをスカウトしました。[p]	You scouted Bunta Arashiyama!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{嵐山|あらしやま}ブンタとわかれた。[p]	Bunta Arashiyama has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

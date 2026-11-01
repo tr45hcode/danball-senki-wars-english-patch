@@ -1,0 +1,21 @@
+id	ja	en
+10	{誰|だれ}でぇ、お{前|まえ}は？　{俺|おれ}の{名前|なまえ}は、{伊達|だて}トウゴ。[n]ロストしたくなかったら、{覚|おぼ}えておくんだな。[p]	Who're you? I'm Togo Date. Remember that if you don't wanna get Lost.
+11	ウォータイム{中|ちゅう}は、{俺|おれ}に{近|ちか}づかない{方|ほう}が[n]{身|み}のためだからよ。[p]	In War Time, you'd better keep away from me for your own good.
+20	{近頃|ちかごろ}のウォータイムは{退屈|たいくつ}で{困|こま}っちまうぜ。[n]どいつもこいつも{腰抜|こしぬ}けばっかりだ。[p]	War Time's been so boring lately. Nothin' but cowards everywhere.
+21	お{前|まえ}だったら、どうする？[n]{俺|おれ}と{戦|たたか}うのか？　{逃|に}げるのか？　へへっ。[p]	What about you? Gonna fight me? Or run? Heh heh.
+30	[var:0]！[n]まったくお{前|まえ}といると、{退屈|たいくつ}しないで{済|す}むぜ！[p]	[var:0]! Man, with you around, I never get bored!
+31	ホント、お{前|まえ}のウォータイム{中|ちゅう}の{暴|あば}れっぷりは[n]{俺|おれ}とタメを{張|は}れるレベルだぜ。[p]	The way you go wild in War Time is on par with me, no joke.
+32	{俺|おれ}も{負|ま}けてらんねえ！[n]{今日|きょう}もいっぱい{暴|あば}れるぜ！[p]	I can't lose to that! I'm gonna go wild again today!
+40	で、{話|はなし}って{何|なん}だよ？[p]	So, what d'you wanna talk about?
+50	へっ、ありがとよ！[p]	Heh, thanks!
+60	ア～ン！？　{俺|おれ}の{実力|じつりょく}に{不満|ふまん}があるってのか？[p]	Huh!? You got a problem with my skills?
+70	そんじゃあな。[p]	Later, then.
+80	フン、{血|ち}がたぎってきやがった！[n]よーし、{暴|あば}れるぜ！！[p]	Hmph, my blood's boilin'! All right, let's go wild!!
+90	よぉ、[var:0]。[n]{今日|きょう}のウォータイム、{腕|うで}が{鳴|な}るな。[p]	Yo, [var:0]. I'm itchin' for War Time today.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{伊達|だて}トウゴをスカウトしました。[p]	You scouted Togo Date!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{伊達|だて}トウゴとわかれた。[p]	Togo Date has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

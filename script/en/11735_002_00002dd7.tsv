@@ -1,0 +1,21 @@
+id	ja	en
+10	おっ！　{興味深|きょうみぶか}いＬＢＸだな、{見|み}てもいいか？[n]{俺|おれ}はオズウェル・フランクリン。メカニックさ。[p]	Oh! Interesting LBX, mind if I look? I'm Oswell Franklin. Mechanic.
+11	{今度|こんど}、{俺|おれ}のもじっくりと{見|み}てくれ。[n]いつでも{構|かま}わんぜ。{例|たと}えば、バトル{中|ちゅう}でもな！[p]	Take a good look at mine sometime. Anytime's fine. Even mid-battle!
+20	{戦争|せんそう}は{戦場|せんじょう}だけで{起|お}きているわけじゃない。[n]{整備|せいび}の{場|ば}でも{戦|たたか}いは{起|お}きているのさ。[p]	War isn't just fought on the battlefield. It's fought in the workshop too.
+21	{機体|きたい}と{格闘|かくとう}するぐらい{入念|にゅうねん}な{整備|せいび}があってこそ[n]{機体|きたい}は、{戦場|せんじょう}で{真価|しんか}を{発揮|はっき}するんだ。[p]	Only careful maintenance, like wrestling the unit, lets it shine in combat.
+30	おぉ、[var:0]か。[n]{今日|きょう}の{俺|おれ}のＬＢＸはバッチリだ。[p]	Oh, [var:0]. My LBX is in perfect shape today.
+31	お{前|まえ}のＬＢＸも、よく{整備|せいび}されてるな！[n]{優|やさ}しさって、そういうところに{出|で}るもんだぜ。[p]	Your LBX is well-maintained too! That's where kindness shows.
+32	モノに{優|やさ}しく{出来|でき}ない{奴|やつ}が[n]{人間|にんげん}に{優|やさ}しくなれるはずはないんだ。[p]	Someone who can't be kind to things can't be kind to people.
+40	ところで、{何|なに}か{用|よう}かな？[p]	By the way, need something?
+50	おかげで、{開発|かいはつ}が{軌道|きどう}に{乗|の}りそうだ。[n]ありがとう、{恩|おん}に{着|き}るよ。[p]	Thanks to you, my project's back on track. I owe you one.
+60	そうかい……、それじゃあ{整備|せいび}の{方|ほう}に{戻|もど}るよ。[p]	I see… Then I'll get back to maintenance.
+70	じゃあ、またな！[p]	See you!
+80	わかった、{作戦|さくせん}が{始|はじ}まったら{指示|しじ}を{頼|たの}む。[p]	Got it. Give me orders once the operation starts.
+90	{今日|きょう}は{機体|きたい}の{調子|ちょうし}がいいんだ。[n]{戦場|せんじょう}でも{期待|きたい}しておいてくれ。[p]	My unit's in great shape today. Expect big things on the battlefield.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	オズウェル・フランクリンをスカウトしました。[p]	You scouted Oswell Franklin!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	オズウェル・フランクリンとわかれた。[p]	Oswell Franklin has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

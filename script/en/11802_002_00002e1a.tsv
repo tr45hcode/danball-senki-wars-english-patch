@@ -1,0 +1,21 @@
+id	ja	en
+10	{私|ゎたくし}、{門倉|かどくら}アンナと{申|もう}します。[n]グレンシュテイムに{所属|しょぞく}しておりますの。[p]	My name is Anna Kadokura. I belong to Glenstheim.
+11	あなたや[x14:0000]とも[n]{良|よ}い{関係|かんけい}を{続|つづ}けていきたいものですわ。[p]	I do hope to keep up good relations with you and [x14:0000].
+20	あら、{奇遇|きぐう}ですわね。ちょうどあなたと[n]お{話|はな}ししたいと{思|おも}っていたところですの。[p]	Oh my, what a coincidence. I was just hoping to talk with you.
+21	あなたは、どんなお{話|はなし}をしてくださるのかしら？[n]{楽|たの}しみですわ～。[p]	What will you talk to me about, I wonder? How exciting~.
+30	{歩|ある}き{疲|つか}れてしまった{時|とき}は、{純喫茶|じゅんきっさ}スワローで[n]{休憩|きゅうけい}をするようにしていますの。[p]	When I'm tired of walking, I make a point of resting at Cafe Swallow.
+31	{今度|こんど}は、あなたもご{一緒|いっしょ}にどうですの？[n]{２人|ふたり}でお{散歩|さんぽ}とか、とっても{楽|たの}しそう。[p]	Won't you join me next time? A stroll for two sounds lovely.
+32	……{何|なに}を{照|て}れてらっしゃるんですか？[n]では、またの{機会|きかい}にしましょうか。[p]	…Why are you blushing? Then let's save it for another time.
+40	フフフ、{何|なに}かご{用|よう}でしょうか？[p]	Hehe, can I help you?
+50	あら、よろしいのですか？[n]フフフ、ありがたく{頂戴|ちょうだい}しますわ。[p]	Oh my, are you sure? Hehe, I'll gladly accept.
+60	あら、もうよろしいのですか？[n]もう{少|すこ}しの{間|あいだ}、ご{一緒|いっしょ}したかったですのに……。[p]	Oh my, finished already? I wanted to stay together a little longer…
+70	それでは、ごきげんよう。[p]	Well then, good day.
+80	では、お{手柔|てやゎ}らかにお{願|ねが}い{致|いた}します。[p]	Then please go easy on me.
+90	あら、おはようございます。[n]{朝|あさ}にお{会|あ}いするのは{珍|めずら}しいですわね。[p]	Oh, good morning. It's rare to see you in the morning.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{門倉|かどくら}アンナをスカウトしました。[p]	You scouted Anna Kadokura!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{門倉|かどくら}アンナとわかれた。[p]	Anna Kadokura has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

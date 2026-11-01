@@ -1,0 +1,21 @@
+id	ja	en
+10	どれどれ……、あんたは[x14:0000]の[n][var:0]だな。{知|し}ってるよ。[p]	Let's see… You're [var:0] of [x14:0000]. I know you.
+11	{俺|おれ}、ジョン・ハイアット。ホワイトフォックス[n]での{担当|たんとう}はメカニックで、{趣味|しゅみ}は{人間|にんげん}{観察|かんさつ}だ。[p]	I'm John Hyatt. Mechanic for the White Fox. My hobby's people-watching.
+20	{人間|にんげん}{観察|かんさつ}の{醍醐味|だいごみ}は、{観察|かんさつ}{相手|あいて}が{食事|しょくじ}する{時|とき}だ。[n]どうしてかって？　{教|おし}えてやるよ。[p]	The best part of people-watching is mealtime. Why? I'll tell you.
+21	{食|しょく}の{好|この}みや{食|た}べる{順番|じゅんばん}、そして{礼儀|れいぎ}{作法|さほう}に[n]その{人物|じんぶつ}の{人間性|にんげんせい}がモロに{出|で}るからさ。[p]	Tastes, eating order and table manners show a person's true nature.
+30	あんたって、{友達|ともだち}スゲー{多|おお}いのな。[n]{観察|かんさつ}してると、{色|いろ}んなやつらが{現|あらゎ}れる。[p]	You've got tons of friends, huh? All kinds of people show up around you.
+31	もしかして、{神威島|かむいとう}はあんたを{中心|ちゅうしん}に[n]{回|まゎ}っているんじゃねーかって{思|おも}うほどだ。[p]	I almost wonder if Kamui Island revolves around you.
+32	まったく、あんたみたいな{人間|にんげん}は{初|はじ}めてだよ。[n]これだから{人間|にんげん}{観察|かんさつ}はやめられないぜ！[p]	Never met anyone like you. That's why I can't quit people-watching!
+40	{何|なに}か{用|よう}かい？[p]	Need something?
+50	{助|たす}かるよ、サンキューな。[p]	That helps, thanks.
+60	{観察|かんさつ}タイム{終了|しゅうりょう}……、ってわけね。[p]	Observation time's over, huh…
+70	ほんじゃ、お{疲|つか}れさん。[p]	Well then, take it easy.
+80	これから、{観察|かんさつ}タイム{開始|かいし}だな。[n]あんたの{事|こと}、{色々|いろいろ}{見|み}させてもらうぜ？[p]	Observation time begins. I'll be watching you closely, okay?
+90	どれどれ……、{朝|あさ}のあんたを{観察|かんさつ}しに{来|き}たぞ。[p]	Let's see… I came to observe the morning you.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{家|かね}が{足|た}りません。[p]	Not enough money.
+60002	ジョン・ハイアットをスカウトしました。[p]	You scouted John Hyatt!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	ジョン・ハイアットとわかれた。[p]	John Hyatt has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

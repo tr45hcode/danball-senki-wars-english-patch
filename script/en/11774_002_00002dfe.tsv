@@ -1,0 +1,21 @@
+id	ja	en
+10	あっ、[var:0]{先輩|せんぱい}！[n]{私|ゎたし}、{愛原|あいはら}メメって{言|い}います。[p]	Oh, it's [var:0]! I'm Meme Aihara.
+11	{見|み}ての{通|とお}り１{年生|ねんせい}で～す！　{知|し}らない{事|こと}が{多|おお}くて[n]{色々|いろいろ}{聞|き}いちゃうかもですが、ヨロシクです！[p]	I'm a first-year, as you can see! I'll ask lots of questions, so be nice!
+20	ダック{荘|そう}って、{私|ゎたし}たちのスワン{荘|そう}と{違|ちが}って[n]とってもアットホームですね。[p]	Duck Lodge is so homey compared to our Swan Lodge.
+21	いいな～。メメも[n]アットホームな{仲間|なかま}に{入|い}れてほしいです！[p]	Lucky~. Meme wants to be part of a homey group too!
+30	{私|ゎたし}は、{先輩|せんぱい}についていくって[n]もう{決|き}めちゃったんですから！[p]	I've already decided I'm following you!
+31	{神威島|かむいとう}の{端|はし}から{端|はし}まで[n]どこまでも{追|お}いかけちゃいます！[p]	I'll chase you from one end of Kamui Island to the other!
+32	{逃|に}げたってムダですよ～。[p]	Running away is pointless~.
+40	{先輩|せんぱい}、どうしました？[p]	What's up, [var:0]?
+50	きゃっ！　{先輩|せんぱい}から、もらっちゃった！[p]	Eek! I got a present from you!
+60	{先輩|せんぱい}、{寂|さび}しい{事|こと}{言|い}わないでくださいよぉ。[p]	Don't say such lonely things, [var:0]!
+70	それじゃあ、{先輩|せんぱい}！[n]サヨナラです！[p]	Well then, bye-bye!
+80	やったー、{先輩|せんぱい}と{一緒|いっしょ}ですぅ！[p]	Yay, I'm with you!
+90	{先輩|せんぱい}！　オハヨーです！[n]{朝|あさ}から{一緒|いっしょ}で、とってもうれしいですぅ。[p]	Mooorning! I'm so happy to be with you first thing!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{家|かね}が{足|た}りません。[p]	Not enough money.
+60002	{愛原|あいはら}メメをスカウトしました。[p]	You scouted Meme Aihara!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{愛原|あいはら}メメとわかれた。[p]	Meme Aihara has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

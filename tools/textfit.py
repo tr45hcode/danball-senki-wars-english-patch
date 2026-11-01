@@ -57,20 +57,36 @@ BOXES = {
     '53125_002_0000cf85': (319, 1),
     '53352_002_0000d068': (319, 1),
     '53368_002_0000d078': (319, 1),
+    # Special Function descriptions (33300-33519, two copies): one line each,
+    # Japanese max 280 px. Kept within that until seen in-game.
+    '06525_005_0000197d': (280, 1),
+    '06526_003_0000197e': (280, 1),
 }
 
 
-def box(name):
+# Single messages of the system text (01000_098, and its 10 px copy 01000_100)
+# shown in a box of their own: message id -> (px per line, lines).
+SYSTEM_TEXT_FILES = ('01000_098_000203e8', '01000_100_000303e8')
+MESSAGE_BOXES = {
+    # Map examine hint, in the bottom screen's header bar like 01000_095.
+    # Wrapped onto two lines, only the second line showed.
+    17922: (280, 1),
+}
+
+
+def box(name, mid=None):
     """(px per line, lines) of the box a file's messages are shown in."""
+    if name in SYSTEM_TEXT_FILES and mid in MESSAGE_BOXES:
+        return MESSAGE_BOXES[mid]
     return BOXES.get(name, (DIALOGUE_WIDTH, DIALOGUE_LINES))
 
 
-def limits(name, width, lines):
+def limits(name, width, lines, mid=None):
     """Wrap limits for a message whose Japanese was width px x lines. A box
-    listed in BOXES is used as is; otherwise the dialogue box, widened to fit
-    the Japanese (system messages can have three lines)."""
-    if name in BOXES:
-        return BOXES[name]
+    listed in BOXES or MESSAGE_BOXES is used as is; otherwise the dialogue
+    box, widened to fit the Japanese (system messages can have three lines)."""
+    if name in BOXES or (name in SYSTEM_TEXT_FILES and mid in MESSAGE_BOXES):
+        return box(name, mid)
     return max(DIALOGUE_WIDTH, width), max(DIALOGUE_LINES, lines)
 
 
@@ -137,7 +153,10 @@ def wrap(text, max_width=DIALOGUE_WIDTH, max_lines=DIALOGUE_LINES, cell=14):
     for page in body.split('[p]'):
         lines_out = []
         for hard_line in page.split('[n]'):
-            words = hard_line.split(' ')
+            # leading spaces stay on the first word (fragments joined to a name)
+            lead = len(hard_line) - len(hard_line.lstrip(' '))
+            words = hard_line[lead:].split(' ')
+            words[0] = hard_line[:lead] + words[0]
             line = ''
             for word in words:
                 cand = f'{line} {word}' if line else word

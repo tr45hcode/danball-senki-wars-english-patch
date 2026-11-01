@@ -1,0 +1,21 @@
+id	ja	en
+10	ど、どうも……、{僕|ぼく}、{涼宮|すずみや}タツキ。[n]ＬＢＸいじりが{好|す}きなんだ。[p]	H-hi… I'm Tatsuki Suzumiya. I like tinkering with LBX.
+11	はぁ……、{出撃|しゅつげき}したくないなぁ。[p]	Sigh… I don't want to sortie.
+20	{明日|あした}も{出撃|しゅつげき}かぁ……、{嫌|いや}だなぁ。[n]{出撃|しゅつげき}なんて、なくなっちゃえばいいのに。[p]	Another sortie tomorrow… I hate it. I wish sorties would just go away.
+21	{週末|しゅうまつ}の{休|やす}みが、ただ１つの{生|い}き{甲斐|がい}だよ。[n]１{日|にち}{中|じゅう}、ＬＢＸをいじっていられるからね。[p]	Weekends are all I live for. I can tinker with LBX all day.
+30	[var:0]……[n]じつは、{相談|そうだん}があるんだ。[p]	[var:0]… Actually, I need to ask you something.
+31	{君|きみ}のＬＢＸ、{整備|せいび}してあげるからさ[n]{僕|ぼく}の{代|か}わりに{出撃|しゅつげき}してくれな……、ダメ？[p]	I'll service your LBX, so could you sortie in my place…? No?
+32	じゃあさ、せめて{一緒|いっしょ}に{出撃|しゅつげき}してよ。[n]それなら、まだ{頑張|がんば}れそうだから……。[p]	Then at least sortie with me. Then maybe I can keep going…
+40	それで、{僕|ぼく}にどんな{用|よう}なの？[p]	So, what do you need me for?
+50	あ、ありがとう。これ……、もらっていいの？[p]	Th-thanks. Can I… really have this?
+60	ホッ、もう{戦|たたか}わなくて{済|す}むんだね……。[p]	Phew, so I don't have to fight anymore…
+70	はぁ……。じゃあね。[p]	Sigh… See you.
+80	{君|きみ}の{誘|さそ}いなら、しょうがないか……。[n]でも、あんまり{期待|きたい}とかしないでね？[p]	If you're asking, I guess I can't say no… But don't expect much, okay?
+90	[var:0]、おはよう。{朝|あさ}だね……。[n]ずっと{夜|よる}だったら、{整備|せいび}し{続|つづ}けるのにな～。[p]	Morning, [var:0]… If it were always night, I could keep tinkering.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{涼宮|すずみや}タツキをスカウトしました。[p]	You scouted Tatsuki Suzumiya!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{涼宮|すずみや}タツキとわかれた。[p]	Tatsuki Suzumiya has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

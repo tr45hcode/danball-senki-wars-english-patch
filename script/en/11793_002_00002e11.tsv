@@ -1,0 +1,21 @@
+id	ja	en
+10	{私|ゎたし}は、ポルトンの{沖田|おきた}ヒナコ。[n]……ん？　お{前|まえ}、{今|いま}もしかして{笑|ゎら}ってなかった？[p]	I'm Hinako Okita of Porton. …Hm? Were you just laughing?
+11	{言|い}っとくけど、ポルトンを{弱小|じゃくしょう}{国|こく}だとか{笑|ゎら}ったら[n]この{私|ゎたし}が{黙|だま}っちゃいねーからな！　{覚|おぼ}えとけ！！[p]	If you laugh at Porton for being tiny, I won't let it slide! Got it!!
+20	{私|ゎたし}たちが{所属|しょぞく}するポルトンってさ[n]{弱小|じゃくしょう}{国|こく}って、よくバカにされるけど……[p]	Our Porton gets made fun of for being a tiny nation, but…
+21	むしろ、{弱小|じゃくしょう}{国|こく}だからこそできる{事|こと}もあるのさ。[n]なんたって、{失|うしな}うものがないからな。[p]	there's stuff only a tiny nation can do. After all, we've got nothing to lose.
+30	{郷田君|ごうだくん}って{良|い}いよな～。[n]{超|ちょう}カッコイーし、ストイックで……[p]	Goda's so great~. Super cool, and stoic…
+31	{戦|たたか}い{方|かた}もまっすぐで[n]プロとしても、{男|おとこ}としても{完壁|かんぺき}だろ！[p]	He fights straight up too. Perfect as a pro and as a guy!
+32	はぁ～、{今|いま}の{私|ゎたし}には[n]{郷田君|ごうだくん}だけが{心|こころ}の{支|ささ}えだよ……。[p]	Sigh~. Right now, Goda's the only thing keeping me going…
+40	んで、{私|ゎたし}に{何|なに}か{用|よう}？[p]	So, need something?
+50	サンキュー！　{燃|も}えてきたぜ！！[p]	Thanks! I'm fired up!!
+60	ええ～、{何|なん}だよソレ！？[n]{私|ゎたし}は{暴|あば}れ{足|た}りないんだ。{考|かんが}え{直|なお}してくれよ！[p]	Whaaat, what's that about!? I haven't cut loose enough. Rethink it!
+70	じゃあ、またな！[p]	See ya!
+80	とうとう、{私|ゎたし}たちにも{活躍|かつやく}の{機会|きかい}が！[n]よっしゃ～、{大暴|おおあば}れしてやる！！[p]	Our chance to shine, finally! All right, let's go wild!!
+90	オッス！　{今日|きょう}もいい{天気|てんき}だな！[n]{学校|がっこう}まで{競争|きょうそう}しようぜ、{競争|きょうそう}！！[p]	Osu! Great weather again! Race you to school, c'mon!!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{沖田|おきた}ヒナコをスカウトしました。[p]	You scouted Hinako Okita!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{沖田|おきた}ヒナコとわかれた。[p]	Hinako Okita has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

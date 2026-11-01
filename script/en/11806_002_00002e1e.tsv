@@ -1,0 +1,21 @@
+id	ja	en
+10	ロンドニア{所属|しょぞく}！　[n]アンディ・ロックハートだ！[p]	Of Londonia! Andy Lockhart!
+11	お{前|まえ}は[var:0]だな！[n][x14:0000]の{有名人|ゆうめいじん}だろ？[p]	You're [var:0]! The famous one from [x14:0000], right?
+20	{戦場|せんじょう}では、{事前|じぜん}の{情報|じょうほう}{収集|しゅうしゅう}が[n]その{後|ご}の{命運|めいうん}を{分|ゎ}けると{言|い}っても{過言|かごん}ではない。[p]	On the battlefield, the intel you gather first decides your fate.
+21	お{前|まえ}も{確認|かくにん}は{怠|おこた}るなよ！[n]{後|あと}になってからでは{遅|おそ}いからな。[p]	Don't skimp on checking things! By the time you need it, it's too late.
+30	[var:0]！[n]お{前|まえ}が{呼|よ}んでくれるのを{待|ま}っていたぞ！[p]	[var:0]! I've been waiting for you to call me!
+31	これまでの{戦|たたか}いを{通|とお}して、{僕|ぼく}はお{前|まえ}に[n]{未来|みらい}への{希望|きぼう}を{感|かん}じた。[p]	Through all our battles, I've seen hope for the future in you.
+32	{僕|ぼく}は{決|き}めたんだ。この{希望|きぼう}を{守|まも}るためならば[n]{僕|ぼく}は{喜|よろこ}んでお{前|まえ}の{盾|たて}になるってね。[p]	I've decided. To protect that hope, I'll gladly be your shield.
+40	では、{用件|ようけん}を{聞|き}こう。[p]	Now, let me hear your business.
+50	ありがたい！[p]	Much appreciated!
+60	{了解|りょうかい}。{僕|ぼく}は{君|きみ}に{賭|か}けていたんだけどな……。[p]	Roger. And I'd bet everything on you…
+70	では、{僕|ぼく}はこれで{失礼|しつれい}するよ。[p]	Well, I'll take my leave.
+80	{了解|りょうかい}！　{僕|ぼく}の{運命|うんめい}、{君|きみ}に{託|たく}す！[p]	Roger! I entrust my fate to you!
+90	おはよう！　その{様子|ようす}だと[n]{体調|たいちょう}{管理|かんり}は{万全|ばんぜん}のようだな。[p]	Morning! Looks like you're in top condition.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	アンディ・ロックハートをスカウトしました。[p]	You scouted Andy Lockhart!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	アンディ・ロックハートとわかれた。[p]	Andy Lockhart has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

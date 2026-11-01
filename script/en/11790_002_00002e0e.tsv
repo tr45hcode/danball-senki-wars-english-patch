@@ -1,0 +1,21 @@
+id	ja	en
+10	ヒャハハ！　お{前|まえ}、{誰|だれ}だよ？[n]この{辺|へん}で、{俺|おれ}{様|さま}を{知|し}らねえ{奴|やつ}はいねーぜ。[p]	Hyahaha! Who're you? Nobody around here doesn't know me.
+11	{俺|おれ}{様|さま}は、{百合丘|ゆりがおか}ヒビキ{様|さま}だ。{覚|おぼ}えとけ！[n]それにしても、{面白|おもしろ}い{顔|かお}してんな、お{前|まえ}！[p]	I'm the great Hibiki Yurigaoka. Remember it! Man, what a funny face!
+20	あいかわらず、{面白|おもしろ}い{顔|かお}してんな、お{前|まえ}！[n]{一度|いちど}{見|み}たら、もう{⟨麻⟩|ゎす}れねぇぜ！[p]	Still got that funny face! Once you see it, you never forget it!
+21	あーワリィ、{何|なん}て{名前|なまえ}だったっけ？[n]{名前|なまえ}{覚|おぼ}えんの{苦手|にがて}でよー。　[p]	Oh, sorry, what was your name again? I'm bad with names.
+30	ヒャハハハ！　{今日|きょう}も{面白|おもしろ}い{顔|かお}だな。[n]{俺|おれ}も{真似|まね}してみっか。 ……って{無理|むり}だし！[p]	Hyahahaha! Funny face again today. Lemme try it… Nope, can't!
+31	お{前|まえ}はよ、{中身|なかみ}の{方|ほう}も{相当|そうとう}、{面白|おもしろ}いぜ！[n]{飽|あ}きねえんだよな、これが！[p]	You're pretty funny on the inside too! Never gets old!
+32	たまには、{俺|おれ}からも{笑|ゎら}わせねえと[n]{申|もう}し{⟨訳⟩|ゎけ}ねえくらいだぜ。[p]	I feel like I owe you a laugh or two myself.
+40	ヒャハハ！　{俺|おれ}{様|さま}に{何|なん}の{用|よう}だ？[p]	Hyahaha! What d'you want with the great me?
+50	ヒャッハー！　いただきだぜ！[p]	Hyahhaa! Don't mind if I do!
+60	{俺|おれ}{様|さま}をハブるってのか？[n]ちょっと{笑|ゎら}えねぇ{冗談|じょうだん}だな。[p]	You're leaving me out? That's not a funny joke.
+70	じゃ、まったな～！[p]	See ya~!
+80	ヨロシクお{願|ねが}いしゃーす！[p]	Looking forward to it!
+90	プッ！　お{前|まえ}、{朝|あさ}からもそんな{顔|かお}なんだな。[n]{笑|ゎら}いが{止|と}まんねえ！　ヒャーハッハッ！[p]	Pfft! Same face in the morning, too. I can't stop laughing! Hyahahaha!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{百合丘|ゆりがおか}ヒビキをスカウトしました。[p]	You scouted Hibiki Yurigaoka!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{百合丘|ゆりがおか}ヒビキとわかれた。[p]	Hibiki Yurigaoka has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

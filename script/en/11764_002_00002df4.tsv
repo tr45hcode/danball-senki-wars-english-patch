@@ -1,0 +1,21 @@
+id	ja	en
+10	こんにちは、アタシは{染野|そめの}ステラ！[n]バトルとメカが{大好|だいす}きなの！[p]	Hi, I'm Stella Someno! I love battles and mechs!
+11	あとは、バトルの{妄想|もうそう}ね……、ウフフッ！[n]あら、ごめんなさい。もう{妄想|もうそう}しちゃってた！[p]	And daydreaming about battles… Hehe! Oops, sorry. I'm already daydreaming!
+20	アタシ、ＬＢＸをいじりながら[n]{妄想|もうそう}バトルしている{時|とき}が、{最高|さいこう}の{⟨幸⟩|しあゎ}せなの！[p]	Tinkering with LBX while daydreaming up battles is pure bliss!
+21	ここで、あの{技|ゎざ}を{出|だ}して、ズバッ！　ドバッ！[n]……って{考|かんが}え{出|だ}すと、もう{止|と}まらないの。[p]	I pull off that move here, and slash! Boom! …Once I start, I can't stop.
+30	{１人|ひとり}の{妄想|もうそう}バトルもいいけど、キミと{２人|ふたり}で[n]{妄想|もうそう}し{合|あ}うのもいいよねぇ。[p]	Daydream battles alone are fun, but daydreaming with you is nice too.
+31	{次|つぎ}は、どんな{技|ゎざ}にする？[n]どこに{当|あ}てるの！？　ネェ、ネェ！[p]	What move next? Where will it hit!? Come on, come on!
+32	……あんまり{黙|だま}りこんでたら[n]アタシが{妄想|もうそう}を{現実|げんじつ}にしちゃうよ？　ウフフ。[p]	…If you stay quiet too long, I'll make my daydream real. Hehe.
+40	ウフフ、{何|なに}かなぁ？[p]	Hehe, what is it?
+50	わっ！　{妄想|もうそう}かと{思|おも}ったら{現実|げんじつ}なの？[p]	Whoa! I thought it was a daydream, but it's real?
+60	あれ、もう{終|お}わりなの？[n]これって、{妄想|もうそう}かしら？　それとも、{現実|げんじつ}？[p]	Huh, it's over? Is this a daydream? Or is it real?
+70	じゃあ、またね～。[p]	See ya~.
+80	これって、{妄想|もうそう}じゃないよね？[n]キャー、うれしい！！[p]	This isn't a daydream, right? Eek, I'm so happy!!
+90	おはよ～う。{夢|ゆめ}の{中|なか}でバトルを{妄想|もうそう}しちゃった。[n]もちろん、{全勝|ぜんしょう}だけどね！[p]	Mooorning. I daydreamed battles in my dreams. Won every one, of course!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{染野|そめの}ステラをスカウトしました。[p]	You scouted Stella Someno!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{染野|そめの}ステラとわかれた。[p]	Stella Someno has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

@@ -1,0 +1,21 @@
+id	ja	en
+10	まぁ、お{初|はつ}にお{目|め}にかかります。[n]{私|ゎたくし}は、{千島|ちしま}クルミと{申|もう}します。[p]	Oh my, a pleasure to meet you. My name is Kurumi Chishima.
+11	[var:0]さんと、おっしゃるのね。[n]{宜|よろ}しくお{願|ねが}い{致|いた}します。[p]	You must be [var:0]. I look forward to knowing you.
+20	{神威|かむい}{島|とう}での{生活|せいかつ}にも{慣|な}れてきましたが[n]ここでの{暮|く}らしは、{本当|ほんとう}に{勉強|べんきょう}になりますわ。[p]	I'm used to life on Kamui Island now, and living here truly teaches me a lot.
+21	{本土|ほんど}での{便利|べんり}な{生活|せいかつ}とは{程遠|ほどとお}いけれど[n]その{代|か}わり、{本当|ほんとう}の{豊|ゆた}かさを{感|かん}じられますから。[p]	It's far from the convenience of the mainland, but I feel true richness here.
+30	{私|ゎたくし}たちは{完壁|かんぺき}ではありません。[n]{時|とき}には{失敗|しっぱい}する{事|こと}も{多々|たた}あります。[p]	We aren't perfect. We fail often enough.
+31	ですが、{私|ゎたくし}たちは{１人|ひとり}ではありません。[n]{失敗|しっぱい}しそうであれば、{仲間|なかま}がそれを{止|と}め……[p]	But we aren't alone. When we're about to fail, our friends stop us…
+32	{失敗|しっぱい}した{後|あと}でも、{仲間|なかま}がフォローしてくれます。[n]『{仲間|なかま}』は、この{島|しま}で{見|み}つけた{最高|さいこう}の{宝|たから}ですわ。[p]	and after we fail, they back us up. Friends are the treasure I found here.
+40	それで、どういった{御用件|ごようけん}かしら？[p]	So, what can I do for you?
+50	{感謝|かんしゃ}{致|いた}しますわ！[p]	I'm most grateful!
+60	{原因|げんいん}は、{私|ゎたくし}の{力不足|ちからぶそく}という{事|こと}でしょうか？[n]まったく、{残念|ざんねん}ですわ……。[p]	Is it because I wasn't good enough? How truly disappointing…
+70	では、ごきげんよう。[p]	Well then, good day.
+80	お{声|こえ}{掛|が}けいただいて、{光栄|こうえい}です。[n]ご{期待|きたい}に{添|そ}えるよう、ベストを{尽|つ}くしますわ。[p]	I'm honored you asked. I'll do my best to meet your expectations.
+90	おはようございます。[n]{気持|きも}ちのいい{朝|あさ}ですわね。[p]	Good morning. What a lovely morning it is.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{千島|ちしま}クルミをスカウトしました。[p]	You scouted Kurumi Chishima!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{千島|ちしま}クルミとわかれた。[p]	Kurumi Chishima has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

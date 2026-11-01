@@ -1,0 +1,21 @@
+id	ja	en
+1	どんなカスタマイズしてるのか{見|み}せてください！[n]さぁ、バトル{開始|かいし}だ！[p]	Show me how you've customized! Let the battle begin!
+2	オッス！　{遊|あそ}びに{来|き}たぜ。[n]あいさつがわりに、まずはバトルといこうぜ！[p]	Osu! I came to hang out. Let's start with a battle, as a hello!
+3	お{前|まえ}の{戦|たたか}い{方|かた}を{参考|さんこう}にしてみたいんだ。[n]{少|すこ}しだけ{付|つ}き{合|あ}ってくれないか？[p]	I want to learn from how you fight. Mind sparring with me a bit?
+4	ここ、{自分|じぶん}の{部屋|へや}より{落|お}ち{着|つ}くんだよね～。[n]で、{何|なに}する？　バトルでもする？[p]	It's more relaxing here than my own room~. So, what now? A battle?
+5	{次|つぎ}の{戦|たたか}いに{備|そな}えて、{実践的|じっせんてき}な{訓練|くんれん}がしたい。[n]{君|きみ}の{力|ちから}を{貸|か}してくれないか？[p]	I want some hands-on training for the next fight. Will you help me?
+6	フフン、{今日|きょう}のオレは{一味|ひとあじ}ちがうぜ。[n]どうだ、{試|ため}してみるか？[p]	Heh, I'm a cut above today. Wanna test me?
+7	{来|き}ちゃった……。[n]……ねぇ、ボクとバトルしない？[p]	I came over… …Hey, wanna battle me?
+8	すべては、{日頃|ひごろ}の{鍛錬|たんれん}がモノをいう……。[n]さあ、お{前|まえ}の{力|ちから}を{見|み}せてみろ！[p]	It all comes down to daily training… Now, show me your strength!
+9	{素敵|すてき}なお{部屋|へや}ですね！　でも、{緊張|きんちょう}します……。[n]{一旦|いったん}、バトルで{緊張|きんちょう}をほぐしてもいいですか？[p]	What a lovely room! But I'm nervous… Could we battle to calm my nerves?
+10	ねぇ、お{願|ねが}いがあるんだけど[n]{少|すこ}しだけバトルに{付|つ}き{合|あ}ってもらえないかしら？[p]	Hey, can I ask a favor? Would you battle with me for a little while?
+11	ハァーイ、{今日|きょう}は{何|なに}して{遊|あそ}ぶ？[n]……って{聞|き}くまでもないか。{当然|とうぜん}、バトルよね！[p]	Hiii, what are we playing today? …As if I need to ask. A battle, of course!
+12	{私|ゎたし}、{他人|たにん}の{部屋|へや}とか{慣|な}れてなくて……[n]……ひとまず、バトルしない？[p]	I'm not used to other people's rooms… …Want to battle, for now?
+13	あなたとお{手合|てあ}わせ{願|ねが}えるなんて{感激|かんげき}ですわ。[n]では、{始|はじ}めましょうか？[p]	What a thrill to have a match with you. Shall we begin?
+14	じつは{練習|れんしゅう}{相手|あいて}を{探|さが}しててさ[n]バトルに{付|つ}き{合|あ}ってほしいんだけど、どうかな？[p]	Actually, I'm looking for a sparring partner. Would you battle with me?
+15	ふ～ん、ここがあんたの{部屋|へや}なんだー。[n]で、これから{何|なに}する？[p]	Hmm, so this is your room. So, what do we do now?
+16	わーい、{遊|あそ}びに{来|き}たよー！　[n]ねぇねぇ、{何|なに}して{遊|あそ}ぶ？[p]	Yay, I came to play! Hey, hey, what should we play?
+17	[x14:0600][p]	[x14:0600]
+18	[x14:0600]さんは[n]{帰|かえ}っていきました。[p]	[x14:0600] went home.
+19	[x14:0600]さんと[n]お{別|ゎか}れしますか？[p]	Say goodbye to [x14:0600]?
+20	[x14:0600]さんと[n]バトルしますか？[p]	Battle [x14:0600]?

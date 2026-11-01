@@ -45,8 +45,10 @@ def load_translations():
                 cols = line.rstrip('\n').split('\t')
                 if n == 0 and cols[0] == 'id':
                     continue
+                # spaces at either end are kept: fragments the game joins to
+                # a name (" obtained!", " learned ") need them
                 if len(cols) >= 3 and cols[-1].strip():
-                    rows[int(cols[0])] = cols[-1].strip()
+                    rows[int(cols[0])] = cols[-1]
         if rows:
             out[name] = rows
     # 01000_100 is the 10 px copy of the system text, message for message
@@ -99,13 +101,13 @@ def message_text(name, label, mid, rmd, off, translations, opts, report):
                   f'Page 2 of {label}: the quick brown fox jumps over the lazy dog!')
         else:
             en = label
-    en, bad = textfit.normalize(en.rstrip())
+    en, bad = textfit.normalize(en)
     if bad:
         report.append(f'{name}:{mid}: unsupported characters {"".join(sorted(bad))} (dropped)')
         en = ''.join(c for c in en if c not in bad)
     while en.endswith('[p]'):
         en = en[:-3]
-    en, warnings = textfit.wrap(en, *textfit.limits(name, width, lines), cell)
+    en, warnings = textfit.wrap(en, *textfit.limits(name, width, lines, mid), cell)
     for w in warnings:
         report.append(f'{name}:{mid}: {w}')
     if not dialogue and textfit.measure(en.split('[n]')[0], cell) > max(width, 1) * 1.5 and width:

@@ -1,0 +1,21 @@
+id	ja	en
+10	あなたが、[var:0]さんですか。[n]{私|ゎたし}は、{高崎|たかさき}ケンタロウと{申|もう}します。[p]	So you're [var:0]. My name is Kentaro Takasaki.
+11	{近頃|ちかごろ}、あなたの{⟨申⟩|うゎさ}はよく{耳|みみ}にしますよ。[n]１{度|ど}お{手合|てあ}わせ{願|ねが}いたいと{思|おも}っていた{所|ところ}です。[p]	I hear about you often lately. I've wanted a match with you.
+20	{私|ゎたし}の{所属|しょぞく}{国|こく}、グレンシュテイムは[n]セカンドワールド{最高|さいこう}の{技術|ぎじゅつ}{力|りょく}を{誇|ほこ}ります。[p]	My nation, Glenstheim, boasts the best technology in the Second World.
+21	そのため、それを{狙|ねら}ってくる{敵国|てきこく}も{多|おお}い。[n]まあ、{挑|いど}んでくる{者|もの}は{蹴散|けち}らすだけですがね。[p]	So many enemies target it. Well, I simply scatter any who challenge us.
+30	{日々|ひび}{刳|く}り{返|かえ}されるウォータイム……[n]それで、{体調|たいちょう}を{崩|くず}す{生徒|せいと}も{少|すく}なくありません。[p]	War Time, day after day… More than a few students fall ill from it.
+31	その{中|なか}には、ＷＴＳＤといった[n]{心|こころ}の{傷|きず}を{負|お}う{者|もの}もいると{聞|き}きます。[p]	I hear some even suffer emotional scars, like WTSD.
+32	[var:0]、あなたは{大丈夫|だいじょうぶ}ですか？[n]{私|ゎたし}で{良|よ}ければ、いつでもご{相談|そうだん}に{乗|の}りますので。[p]	Are you all right, [var:0]? If I can help, talk to me anytime.
+40	では、{本題|ほんだい}に{入|はい}りましょうか。[p]	Now, let's get to the point.
+50	ありがとうございます。{頂|いただ}いておきましょう。[p]	Thank you. I'll accept it.
+60	{残念|ざんねん}ですね。あなたの{背中|せなか}をお{守|まも}りするのは[n]この{私|ゎたし}の{役目|やくめ}だと{思|おも}っていたのですがね……。[p]	A shame. I thought guarding your back was my job…
+70	そうですか。[n]では、{失礼|しつれい}させていただきます。[p]	I see. Then I'll take my leave.
+80	あなたの{背中|せなか}は{私|ゎたし}が{守|まも}ります。[p]	I'll guard your back.
+90	おはようございます。じつに{⟨爽⟩|さゎ}やかな{朝|あさ}ですね。[p]	Good morning. A truly refreshing morning.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{家|かね}が{足|た}りません。[p]	Not enough money.
+60002	{高崎|たかさき}ケンタロウをスカウトしました。[p]	You scouted Kentaro Takasaki!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{高崎|たかさき}ケンタロウとわかれた。[p]	Kentaro Takasaki has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

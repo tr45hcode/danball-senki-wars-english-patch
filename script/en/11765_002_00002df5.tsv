@@ -1,0 +1,21 @@
+id	ja	en
+10	{私|ゎたし}は、ロラン・ブハーリンといいます。[n]{所属|しょぞく}は、ロシウス{連合|れんごう}です。[p]	I am Roland Bukharin, of the Rossius Union.
+11	その{制服|せいふく}の{色|いろ}からして[n][x14:0000]の{方|かた}のようですね。[p]	Judging by the color of your uniform, you must be from [x14:0000].
+20	ここに{小隊|しょうたい}を{配置|はいち}した{場合|ばあい}のリスクは……[n]ふーむ、では{逆|ぎゃく}にこちらでは……[p]	The risk of placing a squad here is… Hmm, then conversely, here…
+21	{今|いま}は、{次|つぎ}の{戦闘|せんとう}に{向|む}けて{作戦|さくせん}を{考案中|こうあんちゅう}です。[n]お{話|はなし}は、{後|あと}にしていただけませんか？[p]	I'm planning tactics for the next battle. Could we talk later?
+30	{最近|さいきん}、{成功|せいこう}した{作戦|さくせん}の{話|はなし}があるのですが[n]{聞|き}いていただけませんか？[p]	I have a story about a recently successful plan. Will you hear it?
+31	{実|じつ}は{君|きみ}と{仲良|なかよ}くなるための{作戦|さくせん}を[n]{密|ひそ}かに{立|た}てていたのですよ……[p]	In fact, I had secretly devised a plan to become friends with you…
+32	{全|まった}く、{私|ゎたし}らしくもないことです。[n]しかし、この{作戦|さくせん}を{実行|じっこう}してみて{良|よ}かったです。[p]	Not like me at all. But I'm glad I carried it out.
+40	それでは、ご{用件|ようけん}をうかがいましょう。[p]	Now, let me hear what you need.
+50	これがあれば、{作戦|さくせん}も{順調|じゅんちょう}に{進|すす}みます。[n]{感謝|かんしゃ}します。[p]	With this, my plans will go smoothly. I'm grateful.
+60	{私|ゎたし}との{契約|けいやく}は、これで{終|お}わりという{事|こと}ですか。[n]{思|おも}ったよりも、{短|みじか}かったですね。[p]	So our contract ends here. Shorter than I expected.
+70	では、{私|ゎたし}は{先|さき}に{失礼|しつれい}させていただきます。[n]お{疲|つか}れ{様|さま}でした。[p]	Then I'll take my leave first. Good work today.
+80	{君|きみ}との{連携|れんけい}が、どんな{花|はな}を{咲|さ}かせるか？[n]じつに{楽|たの}しみですよ。[p]	What flowers will our teamwork bloom into? I truly look forward to it.
+90	{戦闘|せんとう}とは、{戦|たたか}う{前|まえ}からすでに{始|はじ}まっています。[n]どうか{抜|ぬ}かりのないよう、お{願|ねが}いしますよ。[p]	Battle begins before the fighting does. Please don't let your guard down.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	ロラン・ブハーリンをスカウトしました。[p]	You scouted Roland Bukharin!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	ロラン・ブハーリンとわかれた。[p]	Roland Bukharin has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

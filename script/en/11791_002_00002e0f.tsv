@@ -1,0 +1,21 @@
+id	ja	en
+10	こんにちはー、{熊田|くまだ}カッペイですー。[n]よろしくお{願|ねが}いしますー。[p]	Hellooo, I'm Kappei Kumada. Nice to meet youuu.
+11	{趣味|しゅみ}は、おいしいお{茶|ちゃ}を{飲|の}む{事|こと}ですー。[n]{今度|こんど}、{一緒|いっしょ}にいかがですかー？[p]	My hobby is drinking good tea. Want to have some together sometime?
+20	{今日|きょう}もイイ{天気|てんき}だねー。[n]こんな{日|ひ}は、お{茶|ちゃ}が{美味|おい}しいなー。[p]	Nice weather again todaaay. Tea tastes great on days like this.
+21	{惑|まど}の{外|そと}の{青空|あおぞら}を、お{茶|ちゃ}に{撃|うつ}して{飲|の}むとね[n]お{茶|ちゃ}とお{空|そら}で、２{度|ど}{美味|おい}しいんだよー。[p]	Reflect the blue sky in your tea, and you get tea and sky. Twice as tasty.
+30	お{茶|ちゃ}もいいけど、お{風呂|ふろ}も{好|す}きだなぁ。[n]でも、お{風呂|ふろ}は{飲|の}めないしなぁ……。[p]	Tea's nice, but I like baths too. But you can't drink a bath…
+31	あっ、[var:0]。{君|きみ}はどっちが{好|す}き？[n]{飲|の}めるお{風呂|ふろ}と、{入|はい}れるお{茶|ちゃ}なんだけど……。[p]	Oh, [var:0]. Which do you like? A bath you can drink, or tea you can soak in…
+32	そんなの{考|かんが}えた{事|こと}もないって？[n]ウソだー。{僕|ぼく}なんかしょっちゅう{考|かんが}えてるよ？[p]	You've never thought about it? No way. I think about it all the time.
+40	それで、{僕|ぼく}に{何|なに}か{用|よう}ですかー？[p]	So, did you need meee?
+50	わあー。プレゼントだねー。[n]うれしいなー。[p]	Ooh. A present. I'm so happyyy.
+60	{僕|ぼく}はお{休|やす}みってわけですかー。[n]それじゃあ、お{風呂|ふろ}にでも{入|はい}ってこようかなー。[p]	So I get a break? Then maybe I'll go take a baaath.
+70	また{今度|こんど}ー。[p]	See you next tiiime.
+80	ふうー。よろしくー。[p]	Phew. Nice to work with youuu.
+90	やぁ、おはよー。[n]{歯磨|はみが}きしすぎて、{遅|おそ}くなっちゃったよー。[p]	Hey, morniiing. I brushed my teeth too long and ran late.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{熊田|くまだ}カッペイをスカウトしました。[p]	You scouted Kappei Kumada!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{熊田|くまだ}カッペイとわかれた。[p]	Kappei Kumada has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

@@ -1,0 +1,21 @@
+id	ja	en
+10	ビンゴ！　やっと{見|み}つけたぜ！！[n]お{前|まえ}が[var:0]だな？[p]	Bingo! Found you at last!! You're [var:0], right?
+11	{俺|おれ}は、{青島|あおしま}カズヤ！[n]ジンのダチさ。よろしくな！[p]	I'm Kazuya Aoshima! Jin's buddy. Nice to meet ya!
+20	{神威|かむい}{大門|だいもん}{統合|とうごう}{学園|がくえん}への{入学|にゅうがく}{資格|しかく}は[n]ＬＢＸ{公式|こうしき}{大会|たいかい}での３{回|かい}{以上|いじょう}の{優勝|ゆうしょう}……[p]	To get into Kamui Daimon, you need 3+ official LBX tournament wins…
+21	うへぇ～。{昔|むかし}の{俺|おれ}じゃあ、まず{無理|むり}だな。[n]{大|たい}したもんだぜ、お{前|まえ}らは。[p]	Yikes~. The old me wouldn't have stood a chance. You guys are something.
+30	え、{俺|おれ}は{今|いま}{何|なに}をしているかって？[n]{普通|ふつう}に{高校|こうこう}{生活|せいかつ}をエンジョイしてるけど……[p]	Huh, what am I up to now? Just enjoying normal high school life, but…
+31	それは、あくまで{昼|ひる}の{顔|かお}。{夜|よる}の{顔|かお}は……[n]{探偵|たんてい}！　ＬＢＸ{犯罪|はんざい}を{専門|せんもん}に{扱|あつか}う{街|まち}の{掃除人|そうじにん}さ。[p]	That's my day face. By night… I'm a detective, cleaning up LBX crime!
+32	……と{言|い}っても、まだ{修行中|しゅぎょうちゅう}の{身|み}だけどな。[n]{⟨ハ⟩神|やがみ}さんって{人|ひと}を{師匠|ししょう}に、{何|なん}とかやってるよ。[p]	…Well, I'm still training. I'm getting by with Mr. Yagami as my mentor.
+40	で、{俺|おれ}に{話|はなし}って{何|なん}だ？[p]	So, what d'you wanna talk about?
+50	{助|たす}かったぜ。ちょうど{金欠|きんけつ}だったんだ。[n]ありがとうな。[p]	You saved me. I was just broke. Thanks.
+60	{仲間|なかま}を{切|き}り{捨|す}てる{奴|やつ}はいつか{自分|じぶん}も{捨|す}てられる。[n]……らしいぜ？　{⟨ハ⟩神|やがみ}さんの{受|う}け{売|う}りだけどな。[p]	Cut your friends loose and you'll get cut loose too. …Mr. Yagami's line.
+70	ワリィ、{俺|おれ}そろそろ{仕事|しごと}の{時間|じかん}だわ。[n]つーわけで、また{今度|こんど}な！[p]	Sorry, it's almost time for work. So, see ya next time!
+80	{待|ま}ってたぜ、この{時|とき}を！！[n]{青島|あおしま}カズヤ、ミッションスタートだぜ！！[p]	I've been waiting for this!! Kazuya Aoshima, mission start!!
+90	オーッス！　お{前|まえ}らＬＢＸ{塚|づか}に{現|あらゎ}れる{幽励|ゆうれい}って[n]{知|し}ってるか？　こりゃあ、{事件|じけん}の{匂|にお}いがするぜ！[p]	Osu! Heard about the ghost at the LBX Mound? Smells like a case to me!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{青島|あおしま}カズヤをスカウトしました。[p]	You scouted Kazuya Aoshima!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{青島|あおしま}カズヤとわかれた。[p]	Kazuya Aoshima has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

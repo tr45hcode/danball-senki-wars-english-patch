@@ -1,0 +1,20 @@
+id	ja	en
+10	お{前|まえ}、{武器|ぶき}にはこだわってるか？[n]{武器|ぶき}の{事|こと}なら、この{能登|のと}テルヨシに{聞|き}いてくれ。[p]	Picky about weapons? For anything weapons, ask me, Teruyoshi Noto.
+11	{武器|ぶき}があってこそ、ＬＢＸは{輝|かがや}くんだ。[n]{俺|おれ}に{語|かた}らせたら、１{日|にち}じゃ{終|お}わらないぜ～。[p]	Weapons are what make LBX shine. Let me talk, and it'll take more than a day~.
+20	{武器|ぶき}の{歴史|れきし}は、{戦争|せんそう}の{歴史|れきし}[n]ひいては、{人類|じんるい}の{歴史|れきし}って{事|こと}になる。[p]	The history of weapons is the history of war, and so the history of humankind.
+21	{武器|ぶき}の{可能性|かのうせい}を{広|ひろ}げる{事|こと}は[n]{人類|じんるい}の{可能性|かのうせい}を{広|ひろ}げる{事|こと}につながる。{深|ふか}いよな！[p]	Expand what weapons can do, and you expand humanity. Deep, huh!
+30	{攻撃|こうげき}は{最大|さいだい}の{防御|ぼうぎょ}って{言|い}うだろ？[n]お{前|まえ}は{武器|ぶき}でどんな{大切|たいせつ}なものを{守|まも}るんだ？[p]	Offense is the best defense, right? What precious thing will you protect?
+31	{友達|ともだち}？　{家族|かぞく}？　もっと{大切|たいせつ}な{人|ひと}？[n]{俺|おれ}だったら……、ナイショかな。[p]	Friends? Family? Someone even more precious? Me…? That's a secret.
+40	で、どうしたの？[p]	So, what's up?
+50	そうだよ、コレコレ。{早速|さっそく}、{使|つか}わせてもらうよ。[p]	Yes, this is the stuff. I'll put it to use right away.
+60	また{新|あたら}しい{武器|ぶき}を{試|ため}したかったのに[n]そりゃないぜー！[p]	I wanted to try out another new weapon! That's not fair!
+70	まったねー。[p]	See ya~.
+80	{待|ま}ってました！[n]さーて、どの{武器|ぶき}を{持|も}っていくか{迷|まよ}うなあ。[p]	Finally! Now, which weapons to bring… so hard to choose.
+90	おはようっす！[n]{今日|きょう}も、エキサイティングな{武器|ぶき}を{作|つく}るぞー！[p]	Mornin'! Gonna build some exciting weapons today too!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{能登|のと}テルヨシをスカウトしました。[p]	You scouted Teruyoshi Noto!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{能登|のと}テルヨシとわかれた。[p]	Teruyoshi Noto has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

@@ -1,0 +1,579 @@
+id	ja	en
+1	[x14:0000][p]	[x14:0000]
+2	ジャネロ{渓谷|けいこく}[p]	Janero Valley
+3	オアシス日[p]	Oasis 8
+4	ニーズシティ[p]	Needs City
+5	グレスト{山地|さんち}[p]	Grest Mountains
+6	アカマ{砂漠|さばく}[p]	Akama Desert
+7	ゼルガスの{森|もり}[p]	Zelgas Forest
+8	ニコルド{草原|そうげん}[p]	Nicold Plains
+9	エンカ{古代遺跡|こだいいせき}[p]	Enka Ancient Ruins
+10	ラバンズ{山岳|さんがく}[p]	Rabans Peaks
+11	ゴールドバレー{基地|きち}[p]	Gold Valley Base
+12	グランデの{港|みなと}[p]	Port Grande
+13	コールフォレスト[p]	Coal Forest
+14	ブノレス{渓谷|けいこく}[p]	Bunores Valley
+15	バダビア{砂原|すなはら}[p]	Badabia Sands
+16	サンフォレスト[p]	Sun Forest
+17	ブルリア{洞窟|どうくつ}[p]	Bruria Cave
+18	グレートリンク{湖|こ}[p]	Great Link Lake
+19	ピエールシティ[p]	Pierre City
+20	サディアナ{草原|そうげん}[p]	Sadiana Plains
+21	ゴディナ{熱帯雨林|ねったいうりん}[p]	Godina Rainforest
+22	ハバナン{港|こう}[p]	Habanan Port
+23	アットシティ[p]	At City
+24	ヨークス{荒野|こうや}[p]	Yorks Wasteland
+25	グライスの{森|もり}[p]	Grice Forest
+26	リバーエンドブリッジ[p]	Riverend Bridge
+27	シルバ{城塞|じょうさい}[p]	Silva Fortress
+28	ダンバック{砂漠|さばく}{基地|きち}[p]	Danback Base
+29	アラビスタ[p]	Arabista
+30	ワ・ブル{雪原|せつげん}[p]	Wa-Bull Snowfield
+31	ビッグメガフロート[p]	Big Megafloat
+32	レイリッシュ{氷原|ひょうげん}[p]	Raylish Icefield
+33	ロングサン{峡谷|きょうこく}[p]	Longsun Canyon
+34	メンディ{工場地帯|こうじょうちたい}[p]	Mendy Works
+35	デューンシティ[p]	Dune City
+36	ユリバ{峡谷|きょうこく}[p]	Yuriba Canyon
+37	フェンレス{雪原|せつげん}[p]	Fenless Snowfield
+38	ヤーバン{湖|こ}[p]	Lake Yarban
+39	ハーフムーン{氷原|ひょうげん}[p]	Half Moon Icefield
+40	ドルフィン{洞窟|どうくつ}[p]	Dolphin Cave
+41	ステンズ{雪原|せつげん}[p]	Stens Snowfield
+42	ラブラド{港|こう}{区|く}[p]	Labrad Harbor
+43	ザルード{凍土|とうど}[p]	Zarud Tundra
+44	クルセイド[p]	Crusade
+45	アクアメガフロート[p]	Aqua Megafloat
+46	ティアーズ{洞窟|どうくつ}[p]	Tears Cave
+47	ポルトン[p]	Porton
+48	デッドロック{岬|みさき}[p]	Cape Deadlock
+49	テイキョウ{工場地帯|こうじょうちたい}[p]	Teikyo Works
+50	ゴウラン{山岳|さんがく}[p]	Goran Peaks
+51	ベイキョウ{城塞|じょうさい}[p]	Beikyo Fortress
+52	ジェノック[p]	Jenock
+53	ケアン{基地|きち}[p]	Cairn Base
+54	ユリネシア{海峡|かいきょう}[p]	Yurinesia Strait
+55	カレイド{川|がゎ}[p]	Kaleid River
+56	マグオーク{火山地帯|かざんちたい}[p]	Magoak Volcano
+57	セラスト{熱帯雨林|ねったいうりん}[p]	Celast Rainforest
+58	エルダーシティ[p]	Elder City
+59	ラリンガシティ[p]	Laringa City
+60	ワルド{峡谷|きょうこく}[p]	Wald Canyon
+61	ケインズ{工場地帯|こうじょうちたい}[p]	Keynes Works
+62	ヤショウの{森|もり}[p]	Yasho Forest
+63	グアムス{草原|そうげん}[p]	Guams Plains
+64	ドルネシア{熱帯雨林|ねったいうりん}[p]	Dolnesia Jungle
+65	クランビュー{港|こう}[p]	Clanview Port
+66	イーストエンドブリッジ[p]	Eastend Bridge
+67	ブラックウィンドキャンプ[p]	Blackwind Camp
+68	ガラッサ{砂原|すなはら}[p]	Garassa Sands
+69	バリスト{山地|さんち}[p]	Ballist Mountains
+70	ゴルト{岬|みさき}[p]	Cape Gort
+71	モンドジブ{基地|きち}[p]	Mondjib Base
+72	タンデムの{港|みなと}[p]	Port Tandem
+73	ヴィジャーナ{古代遺跡|こだいいせき}[p]	Vijana Ruins
+74	ジャコルカ{工場地帯|こうじょうちたい}[p]	Jakolka Works
+75	バンクールの{森|もり}[p]	Bancourt Forest
+76	ハバノア{草原|そうげん}[p]	Habanoa Plains
+77	オアシス日[p]	Oasis 3
+78	ギガントの{壁|かべ}[p]	Gigant Wall
+79	ランバッド{基地|きち}[p]	Ranbad Base
+80	グリーンバース{湖|こ}[p]	Greenbirth Lake
+81	エンジェルピース[p]	Angel Piece
+82	ペトロフ{工場地帯|こうじょうちたい}[p]	Petrov Works
+83	イオナ{凍土|とうど}[p]	Iona Tundra
+84	キースアイ{雪原|せつげん}[p]	Keitheye Snowfield
+85	ツンゼル{氷原|ひょうげん}[p]	Tunzel Icefield
+86	ノーレンヴィ{港|こう}{区|く}[p]	Norenvi Harbor
+87	ハンシスク{雪原|せつげん}[p]	Hansisk Snowfield
+88	ギランの{密林|みつりん}[p]	Gilan Jungle
+89	ギルバトル{峡谷|きょうこく}[p]	Gilbattle Canyon
+90	ナラトコ{砂原|すなはら}[p]	Naratko Sands
+91	ガブル{荒野|こうや}[p]	Gabble Wasteland
+92	エンプルテン{火山地帯|かざんちたい}[p]	Emprten Volcano
+93	カラチネブリッジ[p]	Karachine Bridge
+94	クルエッジメガフロート[p]	Cruedge Megafloat
+95	ブレイブ{氷原|ひょうげん}[p]	Brave Icefield
+96	ローズシティ[p]	Rose City
+97	ミゼルダ{砂漠|さばく}[p]	Mizelda Desert
+98	シンニコス{凍土|とうど}[p]	Shinnicos Tundra
+99	モルクス{坑道|こうどう}[p]	Morkus Mine
+100	ノースパークブリッジ[p]	Northpark Bridge
+101	ネスラ{砂漠|さばく}[p]	Nesla Desert
+102	セルス{湖|こ}[p]	Lake Serus
+103	ドルバットデザート[p]	Dolbat Desert
+104	サナルシティ[p]	Sanal City
+105	ボツギガ{砂漠|さばく}[p]	Botsugiga Desert
+106	ディスロイ{港|こう}[p]	Disloy Port
+107	マデン{島|とう}[p]	Maden Island
+108	タルタニア{港|こう}[p]	Port Tartania
+109	アクアベル{海峡|かいきょう}[p]	Aquabell Strait
+110	バンタナフォレスト[p]	Bantana Forest
+111	エトロニアの{港|みなと}[p]	Port Etronia
+112	ギノア{城塞|じょうさい}[p]	Ginoa Fortress
+113	リベイラ{砂漠|さばく}[p]	Ribeira Desert
+114	ブライム{渓谷|けいこく}[p]	Braim Valley
+115	カルム{火山地帯|かざんちたい}[p]	Calm Volcano
+116	レンバル{山地|さんち}[p]	Lenbal Mountains
+117	マナガン{熱帯雨林|ねったいうりん}[p]	Managan Rainforest
+118	ダンウェッジ{坑道|こうどう}[p]	Dunwedge Mine
+119	ルアンダル{河川|かせん}[p]	Luandal River
+120	ルード{古代遺跡|こだいいせき}[p]	Rude Ancient Ruins
+121	ムスバン{熱帯雨林|ねったいうりん}[p]	Musban Rainforest
+122	スーダント{渓谷|けいこく}[p]	Sudant Valley
+123	カイドロ{峡谷|きょうこく}[p]	Kaidoro Canyon
+124	ラミアデザート[p]	Lamia Desert
+125	ベガ{砂漠|さばく}[p]	Vega Desert
+126	ゴルゴン{山地|さんち}[p]	Gorgon Mountains
+127	ミッドロブの{森|もり}[p]	Midrob Forest
+128	アベンジェ{砂漠|さばく}{基地|きち}[p]	Avenge Desert Base
+129	サーベル{峡谷|きょうこく}[p]	Saber Canyon
+130	グランドフォレスト[p]	Grand Forest
+131	ヴェンタス{基地|きち}[p]	Ventus Base
+132	カダルデザート[p]	Kadal Desert
+133	ボルボット{火山地帯|かざんちたい}[p]	Bolbot Volcano
+134	ブランカの{壁|かべ}[p]	Blanca Wall
+135	チェニス{工場地帯|こうじょうちたい}[p]	Chenis Works
+136	ビルニッシュ{雪原|せつげん}[p]	Bilnish Snowfield
+137	モルドノシティ[p]	Mordono City
+138	ナポリア{古代遺跡|こだいいせき}[p]	Napolia Ruins
+139	ヴィラーハ{城塞|じょうさい}[p]	Villach Fortress
+140	グレンシュテイム[p]	Glenstheim
+141	ヨルドリング{湖|こ}[p]	Lake Yordling
+142	ケネイス{港|こう}{区|く}[p]	Keneis Harbor
+143	アイスバール{氷原|ひょうげん}[p]	Icebar Icefield
+144	サンシャイン{洞窟|どうくつ}[p]	Sunshine Cave
+145	シトルド{中枢|ちゅうすう}{区|く}[p]	Citold Central
+146	パルマスの{港|みなと}[p]	Port Palmas
+147	ウッドエン{草原|そうげん}[p]	Wooden Plains
+148	ボルドーマ{工場地帯|こうじょうちたい}[p]	Bordoma Works
+149	ロンドニア[p]	Londonia
+150	ダンブル{城塞|じょうさい}[p]	Dumble Fortress
+151	コールロンド{要塞|ようさい}[p]	Colerond Fort
+152	デスフォレスト[p]	Death Forest
+153	エゼルダーム[p]	Ezeldarm
+154	{空中空母|くうちゅうくうぼ}ドル・ガルーダ[p]	Dol Garuda
+155	ロシウス[p]	Rossius
+156	エンカ{古代遺跡|こだいいせき}[p]	Enka Ancient Ruins
+157	ロストエリア[p]	Lost Area
+158	ジーク・ギガンテス[p]	Sieg Gigantes
+159	ロストエリア{入口|いりぐち}[p]	Lost Area Entrance
+160	フェンレス{雪原|せつげん}[p]	Fenless Snowfield
+161	エンジェルピース[p]	Angel Piece
+162	オアシス日[p]	Oasis 3
+163	ギガントの{壁|かべ}[p]	Gigant Wall
+164	エルダーシティ[p]	Elder City
+165	イーストエンドブリッジ[p]	Eastend Bridge
+166	ブラックウィンドキャンプ[p]	Blackwind Camp
+167	タンデムの{港|みなと}[p]	Port Tandem
+168	ハンシスク{雪原|せつげん}[p]	Hansisk Snowfield
+169	ギルバトル{峡谷|きょうこく}[p]	Gilbattle Canyon
+170	ナラトコ{砂原|すなはら}[p]	Naratko Sands
+171	ブレイブ{氷原|ひょうげん}[p]	Brave Icefield
+172	ミゼルダ{砂漠|さばく}[p]	Mizelda Desert
+173	シンニコス{凍土|とうど}[p]	Shinnicos Tundra
+174	モルクス{坑道|こうどう}[p]	Morkus Mine
+175	ノースパークブリッジ[p]	Northpark Bridge
+1001	[x14:0000]{本拠地|ほんきょち}で{演習|えんしゅう}だ。[n]{弱点|じゃくてん}{属性|ぞくせい}を{見視|みきゎ}めて{戦|たたか}うんだ。[p]	A drill at [x14:0000]'s home base.[n]Find their weak attributes and fight.
+1002	[x14:0000]{本拠地|ほんきょち}で{演習|えんしゅう}だ。[n]{弱点|じゃくてん}{属性|ぞくせい}を{見視|みきゎ}めて{戦|たたか}うんだ。[p]	A drill at [x14:0000]'s home base.[n]Find their weak attributes and fight.
+1003	{制圧|せいあつ}されたオアシス日を{奪還|だっかん}する。[n]カゲトラ、スズネと{連携|れんけい}し、{敵|てき}を{迎撃|げいげき}してくれ。[p]	Retake the captured Oasis 8.[n]Work with Kagetora and Suzune.
+1004	{第|だい}Ι{小隊|しょうたい}の{目的|もくてき}はフラッグの{制圧|せいあつ}だ。[n]{強敵|きょうてき}との{交戦|こうせん}は、{小隊|しょうたい}で{連携|れんけい}し{行|おこな}ってくれ。[p]	1st Squad's goal is the Flag.[n]Fight strong foes as a squad.
+1005	{斬|ざん}{撃|げき}が{弱点|じゃくてん}の{敵|てき}が{比較的|ひかくてき}{多|おお}いようだ。[n]{斬属性|ざんぞくせい}の{武器|ゖ゗ネム}で{戦況|せんきょう}を{有利|ゆうり}に{進|すす}めていこう。[p]	Many foes here are weak to Slash.[n]Slash weapons will give you the edge.
+1006	{貫属性|かんぞくせい}の{武器|ゖ゗ネム}が{有効|ゆうこう}だな。[n]{余裕|よゆう}があればトレジャーを{取得|しゅとく}しよう。[p]	Pierce weapons work well.[n]Grab the treasure if you can.
+1007	{斬|ざん}、{貫属性|かんぞくせい}が{有効|ゆうこう}だな。{強敵|きょうてき}もいるらしい。[n]{君|きみ}なら{心配|しんぱい}いらないだろうが、{判断|はんだん}は{任|まか}せよう。[p]	Slash and Pierce work. Strong foes too.[n]You'll be fine, but it's your call.
+1008	{強敵|きょうてき}がいるようだ。{交戦|こうせん}は{避|さ}けては{通|とお}れないぞ。[n]この{拠点|きょてん}の{強敵|きょうてき}には{衝属性|しょうぞくせい}が{有効|ゆうこう}だ。[p]	There's a strong foe you can't avoid.[n]Impact works on it.
+1009	{第|だい}⊇{小隊|しょうたい}もこのエリアに{向|む}かっているようだな…[n]{斬属性|ざんぞくせい}が{有効|ゆうこう}だ。{装備|そうび}を{整|ととの}え{出撃|しゅつげき}してくれ。[p]	2nd Squad is heading here too…[n]Slash works. Gear up and go.
+1010	{斬|ざん}、{貫属性|かんぞくせい}が{有効|ゆうこう}のようだ。[n]{強敵|きょうてき}もいるようだ、{気|き}をつけてくれ。[p]	Slash and Pierce seem to work.[n]There's a strong foe too. Be careful.
+1011	{斬|ざん}、{衝属性|しょうぞくせい}が{弱点|じゃくてん}の{敵|てき}{小隊|しょうたい}が{多|おお}いようだ。[n]{配備|はいび}されている{砲台|ほうだい}に{注意|ちゅうい}し、{進行|しんこう}してくれ。[p]	Many squads are weak to Slash/Impact.[n]Watch for the turrets as you advance.
+1012	{第|だい}日{小隊|しょうたい}の{救出|きゅうしゅつ}へ{向|むか}ってもらう。[n]{敵|てき}{小隊|しょうたい}を{避|さ}ける{場合|ばあい}は、{海側|うみがゎ}から{進行|しんこう}するんだ。[p]	Go rescue 3rd Squad. To avoid[n]enemy squads, approach from the sea.
+1013	{斬|ざん}、{貫|かん}{属性|ぞくせい}が{有効|ゆうこう}だ。[n]{森|もり}{側|がゎ}の{警備|けいび}が{薄|うす}い…、{買|ゎな}である{可能性|かのうせい}が{高|たか}いな。[p]	Slash and Pierce work. The forest side[n]is lightly guarded… likely a trap.
+1014	{貫|かん}、{衝属性|しょうぞくせい}の{武器|ゖ゗ネム}が{有効|ゆうこう}だ。{砲台|ほうだい}があるな。[n]{注意|ちゅうい}してフラッグまで{進|すす}め。[p]	Pierce and Impact work. Turrets ahead.[n]Advance to the Flag with care.
+1015	{市街戦|しがいせん}では{衝属性|しょうぞくせい}が{有効|ゆうこう}だ。[n]{敵|てき}の{警備|けいび}を{抜|ぬ}けてフラッグを{占領|せんりょう}してくれ。[p]	Impact works in city fighting.[n]Slip past the guards and take the Flag.
+1016	{敵|てき}の{数|かず}は{少|すく}なく、{貫|かん}{属性|ぞくせい}が{有効|ゆうこう}だ。[n]{基地|きち}の{扉|とびら}はゲートスイッチで{開|あ}けられるぞ。[p]	Few foes, and Pierce works. The gate[n]opens with the gate switch.
+1017	{衝|しょう}、{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。ラボは{使|つか}っているか？[n]{様々|さまざま}な{武器|ゖ゗ネム}やＬＢＸのパーツが{作成|さくせい}できるぞ。[p]	Impact and Bolt work. Using the Lab?[n]It builds all sorts of weapons and parts.
+1018	{斬|ざん}、{火属性|ひぞくせい}が{有効|ゆうこう}だ。{水地形|みずちけい}が{得意|とくい}な{機体|きたい}ならば[n]{海|うみ}での{移動|いどう}が{速|はや}くなるぞ。[p]	Slash and Fire work. Machines good on[n]water terrain move faster at sea.
+1019	{貫|かん}、{水属性|みずぞくせい}の{武器|ゖ゗ネム}が{有効|ゆうこう}だ。{水属性|みずぞくせい}の{武器|ゖ゗ネム}ならば[n]{最短|さいたん}ルートで{攻|せ}め{入|い}る{際|さい}に{有利|ゆうり}だぞ。[p]	Pierce and Water work. Water weapons[n]help on the shortest route.
+1020	{敵|てき}の{弱点|じゃくてん}を{突|つ}けない{場合|ばあい}も、{直接対決|ちょくせつたいけつ}へ[n]{持|も}ち{込|こ}むことで{勝機|しょうき}が{見|み}えるはずだ。[p]	Even if you can't hit a weakness,[n]a head-on Action Battle can win it.
+1021	{斬|ざん}、{衝属性|しょうぞくせい}の{武器|ゖ゗ネム}が{有効|ゆうこう}だ。{地形|ちけい}に{合|あ}わせた[n]{機体|きたい}ならば{戦況|せんきょう}を{有利|ゆうり}に{導|みちび}くことができる。[p]	Slash and Impact work. Machines suited[n]to the terrain will give you the edge.
+1022	{小型|こがた}{砲台|ほうだい}がΙ{基|き}あるが{君|きみ}なら{問題|もんだい}ないだろう。[n]{敵|てき}には{斬|ざん}、{貫属性|かんぞくせい}の{武器|ゖ゗ネム}が{有効|ゆうこう}だ。[p]	One small turret, no problem for you.[n]Slash and Pierce work on the enemy.
+1023	ここでは{衝|しょう}、{水|みず}{属性|ぞくせい}が{有効|ゆうこう}だ。[n]{市街地|しがいち}の{小型|こがた}{砲台|ほうだい}に{気|き}をつけてくれ。[p]	Impact and Water work here.[n]Watch the small turrets in town.
+1024	{貫|かん}、{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。{岩山|いゎやま}には[n]スナイパーが{配備|はいび}されているようだ。[p]	Pierce and Light work. Snipers[n]are posted on the rocky hills.
+1025	{斬|ざん}、{貫|かん}{属性|ぞくせい}が{有効|ゆうこう}なようだ。[n]{君|きみ}ならば{問題|もんだい}ないだろうが、{油断|ゆだん}はするな。[p]	Slash and Pierce seem to work.[n]You'll be fine, but don't get careless.
+1026	{斬|ざん}、{衝属性|しょうぞくせい}が{有効|ゆうこう}なようだ。[n]{橋|はし}を{越|こ}えた{先|さき}に{砲台|ほうだい}が{設置|せっち}されているようだな。[p]	Slash and Impact seem to work.[n]There are turrets past the bridge.
+1027	{貫|かん}、{火|ひ}{属性|ぞくせい}が{有効|ゆうこう}だ。ルート{上|じょう}の{砲台|ほうだい}が[n]{厄介|やっかい}だが、{君|きみ}ならば{問題|もんだい}ないだろう。[p]	Pierce and Fire work. Route turrets[n]are a pain, but you can handle them.
+1028	{衝|しょう}、{水|みず}{属性|ぞくせい}が{有効|ゆうこう}だ。{余裕|よゆう}があれば{砲台|ほうだい}を[n]{破壊|はかい}し、トレジャーも{取得|しゅとく}するといい。[p]	Impact and Water work. If you can,[n]wreck turrets and grab the treasure.
+1029	{水属性|みずぞくせい}が{有効|ゆうこう}だが、それ{以外|いがい}が{弱点|じゃくてん}の{敵|てき}も{多|おお}い。[n]アイテムを{補充|ほじゅう}し、{長期戦|ちょうきせん}に{備|そな}えてくれ。[p]	Water works, but many foes have other[n]weaknesses. Stock up for a long fight.
+1030	{衝|しょう}、{火属性|ひぞくせい}が{有効|ゆうこう}なようだ。[n]スナイパーもいる。{十分注意|じゅうぶんちゅうい}してくれ。[p]	Impact and Fire seem to work.[n]There are snipers. Be very careful.
+1031	{雷属性|かみなりぞくせい}が{有効|ゆうこう}なようだ。{砲台|ほうだい}はΙ{基|き}のみ。[n]{水地形|みずちけい}が{得意|とくい}な{機体|きたい}であれば{有利|ゆうり}に{進|すす}めるぞ。[p]	Bolt works. Only one turret. Machines[n]good on water terrain have the edge.
+1032	{斬|ざん}、{貫|かん}、{衝属性|しょうぞくせい}が{有効|ゆうこう}だな。[n]{君|きみ}の{腕|うで}なら{任務|にんむ}{達成|たっせい}は{困難|こんなん}ではないだろう。[p]	Slash, Pierce and Impact work.[n]With your skill, this won't be hard.
+1033	{斬|ざん}、{衝属性|しょうぞくせい}が{有効|ゆうこう}だ。[n]フラッグは{守備隊|しゅびたい}が{警備|けいび}しているらしい。[p]	Slash and Impact work.[n]A garrison guards the Flag.
+1034	{貫|かん}、{水|みず}{属性|ぞくせい}が{有効|ゆうこう}だ。[n]{砲台|ほうだい}の{攻撃|こうげき}に{注意|ちゅうい}し、フラッグを{占領|せんりょう}してくれ。[p]	Pierce and Water work.[n]Watch the turrets and take the Flag.
+1035	{衝|しょう}、{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。{砲台|ほうだい}はΙ{基|き}あるな。[n]{進行|しんこう}ルートによっては{戦闘|せんとう}が{回避|かいひ}できそうだな。[p]	Impact and Light work. One turret.[n]Your route might let you skip fights.
+1036	{斬|ざん}、{水属性|みずぞくせい}が{有効|ゆうこう}だ。{砲台|ほうだい}を{先|さき}に{破壊|はかい}すれば[n]フラッグの{占領|せんりょう}がスムーズにできるだろう。[p]	Slash and Water work. Destroy the[n]turret first and the Flag comes easy.
+1037	{貫|かん}、{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。{警備|けいび}が{少|すく}ないようだが[n]{敵|てき}の{増援|ぞうえん}も{想定|そうてい}される。{油断|ゆだん}は{禁物|きんもつ}だ。[p]	Pierce and Light work. Light guard,[n]but expect reinforcements. Stay sharp.
+1038	{衝|しょう}、{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。{強敵|きょうてき}と{砲台|ほうだい}があるな。[n]{余裕|よゆう}があれば{強敵|きょうてき}を{撃破|げきは}してくれ。[p]	Impact and Bolt work. A strong foe and[n]turrets. Beat the strong foe if you can.
+1039	スナイパー{部隊|ぶたい}がいるな。{射程|しゃてい}と{攻撃力|こうげきりょく}はあるが[n]{次|じ}{弾|だん}の{装填|そうてん}に{時間|じかん}がかかる…そこが{狙|ねら}い{目|め}だ。[p]	Snipers here. Range and power, but[n]slow to reload… that's your opening.
+1040	{光属性|ひかりぞくせい}が{有効|ゆうこう}なようだ。{数|かず}は{少|すく}ないが{砲台|ほうだい}も[n]あるようだ。{入|い}り{組|く}んだ{地形|ちけい}だ、{用心|ようじん}してくれ。[p]	Light seems to work. A few turrets.[n]The terrain is tangled. Be careful.
+1041	{貫|かん}、{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。[n]フラッグの{周囲|しゅうい}には{強敵|きょうてき}もいるようだ。[p]	Pierce and Bolt work.[n]Strong foes guard the Flag.
+1042	{斬|ざん}、{水属性|みずぞくせい}が{有効|ゆうこう}なようだ。この{布陣|ふじん}…[n]いや、{気|き}のせいだろう。{十分|じゅうぶん}{気|き}をつけてくれ。[p]	Slash and Water seem to work. Hmm…[n]No, never mind. Just be careful.
+1043	{斬|ざん}、{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。[n]フラッグは{厳重|げんじゅう}に{警備|けいび}されているようだ。[p]	Slash and Light work.[n]The Flag is heavily guarded.
+1044	{火|ひ}{属性|ぞくせい}が{有効|ゆうこう}だ。{警備|けいび}を{倒|たお}し、スイッチで{扉|とびら}を[n]{開|あ}けて{侵入|しんにゅう}だ。{旧|きゅう}クルセイドの{敵|てき}{機体|きたい}も{注意|ちゅうい}だ。[p]	Fire works. Beat the guards and use[n]the door switch. Beware ex-Crusade.
+1045	{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。{水地形|みずちけい}のＬＢＸならば{海|うみ}での[n]{交戦|こうせん}も{問題|もんだい}ないだろう。{上陸時|じょうりくじ}、{砲台|ほうだい}に{注意|ちゅうい}だ。[p]	Bolt works. Water-terrain LBX can fight[n]at sea. Watch the turrets as you land.
+1046	{火|ひ}{属性|ぞくせい}が{有効|ゆうこう}だ。[n]{砲台|ほうだい}が{設置|せっち}されているとの{情報|じょうほう}がある。[p]	Fire works.[n]Turrets are reportedly in place.
+1047	{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。{水中|すいちゅう}の{機雷|きらい}、それに{加|くゎ}え{砲台|ほうだい}[n]{何|なに}よりエースプレイヤー、{沖田|おきた}ヒナコに{注意|ちゅうい}だ。[p]	Bolt works. Sea mines, turrets, and[n]the ace Hinako Okita. Watch out.
+1048	{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。{機雷|きらい}が{設置|せっち}されているようだ。[n]ダメージを{受|う}けぬように{避|さ}けて{進行|しんこう}してくれ。[p]	Bolt works. There are sea mines.[n]Avoid them as you advance.
+1049	ジェノックとの{合同|ごうどう}{演習|えんしゅう}だ。{水|みず}{属性|ぞくせい}が{有効|ゆうこう}だな。[n]{多数|たすう}の{砲台|ほうだい}が{設置|せっち}されているようだ。[p]	A joint drill with Jenock. Water works.[n]Lots of turrets are in place.
+1050	ジェノックとの{合同|ごうどう}{演習|えんしゅう}だ。{光属性|ひかりぞくせい}が{有効|ゆうこう}だな。[n]{演習|えんしゅう}とはいえ{気|き}は{抜|ぬ}かずに{行|おこな}ってくれ。[p]	A joint drill with Jenock. Light works.[n]It's a drill, but stay focused.
+1051	ジェノックとの{合同|ごうどう}{演習|えんしゅう}だ。[n]{衝|しょう}、{水属性|みずぞくせい}が{有効|ゆうこう}だ。{砲台|ほうだい}もあるようだな。[p]	A joint drill with Jenock.[n]Impact and Water work. Turrets too.
+1052	ジェノックとの{合同|ごうどう}{演習|えんしゅう}だ。{衝属性|しょうぞくせい}が{有効|ゆうこう}だな。[n]{互|たが}いに{競|きそ}いあうことで、{親睦|しんぼく}も{深|ふか}まるだろう。[p]	A joint drill with Jenock. Impact works.[n]Competing will bring you closer.
+1053	{火属性|ひぞくせい}が{視|きゎ}めて{有効|ゆうこう}だ。[n]{機雷|きらい}に{気|き}を{配|くば}ってフラッグ{占領|せんりょう}を{目指|めざ}してくれ。[p]	Fire works extremely well.[n]Mind the sea mines and go for the Flag.
+1054	{雷属性|かみなりぞくせい}が{視|きゎ}めて{有効|ゆうこう}だ。[n]{地形|ちけい}のほとんどが{海|うみ}のようだな。[p]	Bolt works extremely well.[n]The terrain is nearly all sea.
+1055	{光属性|ひかりぞくせい}の{武器|ゖ゗ネム}が{有効|ゆうこう}だ。[n]スナイパーに{注意|ちゅうい}して{殲滅|せんめつ}してくれ。[p]	Light weapons work.[n]Watch for snipers and wipe them out.
+1056	{水属性|みずぞくせい}が{有効|ゆうこう}だ。{溶岩|ようがん}では[n]ダメージを{受|う}けるので{注意|ちゅうい}が{必要|ひつよう}だ。[p]	Water works. Lava does damage,[n]so be careful.
+1057	{衝|しょう}、{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。[n]{先|さき}に{砲台|ほうだい}を{撃破|げきは}することを{推賞|すいしょう}する。[p]	Impact and Bolt work.[n]Take out the turrets first.
+1058	ジェノックとの{合同演習|ごうどうえんしゅう}だ。{光属性|ひかりぞくせい}が{有効|ゆうこう}だな。[n]{市街|しがい}の{砲台|ほうだい}、{山岳|さんがく}の{多数|たすう}の{地雷|じらい}に{要注意|ようちゅうい}だ。[p]	A joint drill with Jenock. Light works.[n]Watch the city turrets and hill mines.
+1059	{火属性|ひぞくせい}が{有効|ゆうこう}だ。[n]{地雷|じらい}や{機雷|きらい}に{気|き}をつけて{進軍|しんぐん}してくれ。[p]	Fire works.[n]Watch for land and sea mines.
+1060	{火属性|ひぞくせい}が{有効|ゆうこう}だ。{川|かゎ}を{流|ゎた}る{際|さい}、{砲台|ほうだい}に{注意|ちゅうい}だ。[n]{伏兵|ふくへい}がいるかもしれない。{気|き}をつけてくれ。[p]	Fire works. Mind the turrets at the river.[n]There may be an ambush. Be careful.
+1061	{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。{砲台|ほうだい}が{設置|せっち}されているな。[n]{現場|げんば}での{判断|はんだん}は{君|きみ}に{任|まか}せるとしよう。[p]	Bolt works. Turrets are in place.[n]I'll leave the field calls to you.
+1062	{火|ひ}、{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。{森|もり}の{中|なか}に{潜|ひそ}んでいるぞ。[n]{警戒|けいかい}して{任務|にんむ}にあたってくれ。[p]	Fire and Bolt work. They're hiding in[n]the forest. Stay alert.
+1063	{水属性|みずぞくせい}が{有効|ゆうこう}だ。{砲台|ほうだい}の{設置|せっち}を{確認|かくにん}した。[n]{砲台|ほうだい}を{破壊|はかい}することで{有利|ゆうり}に{進行|しんこう}できるぞ。[p]	Water works. Turrets confirmed.[n]Destroy them to gain the advantage.
+1064	ここでは{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。[n]{強敵|きょうてき}との{戦闘|せんとう}は{必須事項|ひっすじこう}だ。{宜|よろ}しく{頼|たの}む。[p]	Light works here. You must fight[n]the strong foe. I'm counting on you.
+1065	{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。{機雷|きらい}と{大型砲台|おおがたほうだい}の{設置|せっち}、さらに[n]{未確認|みかくにん}{機体|きたい}の{噂|うゎさ}もある。{慎重|しんちょう}に{挑|いど}んでくれ。[p]	Bolt works. Sea mines, a big turret, and[n]rumors of unknown units. Go carefully.
+1066	ジェノックとの{合同演習|ごうどうえんしゅう}だ。{橋|はし}の{上|うえ}は{狭|せま}いので[n]{注意|ちゅうい}が{必要|ひつよう}だ。{比較的|ひかくてき}、{衝属性|しょうぞくせい}が{有効|ゆうこう}のようだ。[p]	A joint drill with Jenock. The bridge is[n]narrow. Impact works fairly well.
+1067	ジェノックとの{合同|ごうどう}{演習|えんしゅう}だ。{敵|てき}の{弱点|じゃくてん}はまばらの[n]ようだな。{抜|ぬ}け{道|みち}を{使|つか}って{有利|ゆうり}に{進|すす}めるんだ。[p]	Joint drill with Jenock. Weak spots vary.[n]Use the back routes to get ahead.
+1068	{水属性|みずぞくせい}が{有効|ゆうこう}だ。{平地|へいち}には{多数|たすう}の{砲台|ほうだい}がある。[n]{判断|はんだん}は{君|きみ}に{委|ゆだ}ねよう。[p]	Water works. Many turrets on the flats.[n]I'll leave the call to you.
+1069	{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。{二手|ふたて}に{分|ゎ}かれているから[n]いつも{以上|いじょう}に{慎重|しんちょう}に{進|すす}むんだ。[p]	Light works. They're split in two,[n]so go even more carefully than usual.
+1070	{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。{大半|たいはん}は{海|うみ}での{戦闘|せんとう}になる。[n]{海|うみ}と{相性|あいしょう}のいい{機体|きたい}を{選|えら}ぶことを{推賞|すいしょう}する。[p]	Light works. Most fighting is at sea.[n]Pick machines that suit the sea.
+1071	レーザーに{注意|ちゅうい}しながら、{火属性|ひぞくせい}で{攻|せ}めてくれ。[n]{増援|ぞうえん}にも{警戒|けいかい}が{必要|ひつよう}だ。[p]	Watch the lasers and attack with Fire.[n]Look out for reinforcements too.
+1072	ジェノックとの{合同演習|ごうどうえんしゅう}だ。{雷属性|かみなりぞくせい}が{有効|ゆうこう}だな。[n]{大型砲台|おおがたほうだい}に{注意|ちゅうい}して、フラッグを{占領|せんりょう}してくれ。[p]	A joint drill with Jenock. Bolt works.[n]Mind the big turrets and take the Flag.
+1073	{貫|かん}、{衝属性|しょうぞくせい}が{有効|ゆうこう}だ。[n]{砲台|ほうだい}の{射程|しゃてい}に{入|はい}らないように{注意|ちゅうい}してくれ。[p]	Pierce and Impact work.[n]Stay out of the turrets' range.
+1074	{水|みず}{属性|ぞくせい}が{有効|ゆうこう}だ。{多数|たすう}の{敵|てき}を{確認|かくにん}している。[n]{無理|むり}な{進行|しんこう}はせず、Ι{小隊|しょうたい}づつ{撃破|げきは}してくれ。[p]	Water works. Many enemies confirmed.[n]Don't force it. Take squads one by one.
+1075	{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。[n]{増援|ぞうえん}がいる{可能性|かのうせい}もあるな。[p]	Light works.[n]There may be reinforcements.
+1076	{中央突破|ちゅうおうとっぱ}しようとすると{砲台|ほうだい}が{待|ま}ち{構|かま}えている。[n]{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。[p]	Turrets wait if you charge the middle.[n]Light works.
+1077	ジェノックとの{合同演習|ごうどうえんしゅう}だ。{水属性|みずぞくせい}が{有効|ゆうこう}だ。[n]うまくいけば{敵|てき}との{交戦|こうせん}を{避|さ}けられるハズだ。[p]	A joint drill with Jenock. Water works.[n]Play it right and you can avoid fights.
+1078	ジェノックとの{合同演習|ごうどうえんしゅう}だ。{斬属性|ざんぞくせい}が{有利|ゆうり}に[n]{思|おも}えるが、{増援|ぞうえん}があるとの{情報|じょうほう}もある。[p]	Joint drill with Jenock. Slash looks good,[n]but reinforcements are rumored.
+1079	{衝属性|しょうぞくせい}が{有効|ゆうこう}だ。{多数|たすう}の{大型砲台|おおがたほうだい}を{確認|かくにん}した。[n]{高台|たかだい}から{進行|しんこう}することを{推賞|すいしょう}する。[p]	Impact works. Many big turrets.[n]Advance from the high ground.
+1080	{貫属性|かんぞくせい}が{有効|ゆうこう}のようだ。{砲台|ほうだい}や{機雷|きらい}があるとは[n]いえ、{敵|てき}の{数|かず}が{少|すく}ない。{増援|ぞうえん}の{可能性|かのうせい}があるな。[p]	Pierce works. Turrets and mines, but[n]few foes. Reinforcements likely.
+1081	ジェノックとの{合同演習|ごうどうえんしゅう}だ。{斬|ざん}、{貫属性|かんぞくせい}が{有効|ゆうこう}の[n]ようだ。{進行|しんこう}ルートは{君|きみ}に{任|まか}せよう。[p]	Joint drill with Jenock. Slash and[n]Pierce work. Pick your own route.
+1082	{砲台|ほうだい}が{設置|せっち}されているようだが…フム。[n]{先|さき}に{砲台|ほうだい}を{撃破|げきは}することを{推賞|すいしょう}する。[p]	Turrets are in place… Hmm.[n]Take out the turrets first.
+1083	{火属性|ひぞくせい}が{有効|ゆうこう}だ。⊇{本|ほん}の{橋|はし}は{砲台|ほうだい}と{地雷|じらい}で[n]{守|まも}られている。この{布陣|ふじん}…{増援|ぞうえん}が{予測|よそく}されるな。[p]	Fire works. Turrets and mines guard[n]both bridges. Expect reinforcements.
+1084	{火属性|ひぞくせい}が{有効|ゆうこう}だ。[n]{砲台|ほうだい}に{注意|ちゅうい}してくれ。{君|きみ}ならば{問題|もんだい}ないだろう。[p]	Fire works. Watch the turrets.[n]You'll be fine.
+1085	ここでは{火属性|ひぞくせい}が{有効|ゆうこう}だろう。[n]{余裕|よゆう}があればトレジャーを{回収|かいしゅう}してくれ。[p]	Fire should work here.[n]Grab the treasure if you can.
+1086	{斬|ざん}、{衝属性|しょうぞくせい}が{有効|ゆうこう}に{見|み}える…が、この{布陣|ふじん}…[n]{増援|ぞうえん}の{可能性|かのうせい}を{考慮|こうりょ}した{方|ほう}がいいだろうな。[p]	Slash and Impact look good… but this[n]setup suggests reinforcements.
+1087	{火属性|ひぞくせい}が{有効|ゆうこう}だ。スナイパーがいるようだ。[n]{直接対決|ちょくせつたいけつ}に{持|も}ち{込|こ}めば{問題|もんだい}ないだろう。[p]	Fire works. There are snipers.[n]Close in for an Action Battle.
+1088	{恐|おそ}らくムラク{小隊|しょうたい}が{配備|はいび}されているだろう。[n]バンデットの{介入|かいにゅう}も{心|こころ}に{留|とど}めておいてくれ。[p]	Muraku's squad is likely here.[n]Keep the Bandits in mind too.
+1089	バンデットの{大型|おおがた}ＬＢＸか…？かなりの{強|つよ}さを[n]{持|も}っているだろう。{油断|ゆだん}はするな。[p]	A big Bandit LBX…? It must be[n]very strong. Don't let your guard down.
+1090	グルゼオンか…。あの{機体|きたい}は{厄介|やっかい}だ。[n]どう{戦|たたか}うか…、{判断|はんだん}は{君|きみ}にまかせる。[p]	The Gurzeon… That machine is trouble.[n]How to fight it is up to you.
+1091	{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。{機雷|きらい}とレーザー{砲台|ほうだい}に[n]{気|き}をつけてフラッグを{占拠|せんきょ}してくれ。[p]	Bolt works. Watch the sea mines and[n]laser turrets, and take the Flag.
+1092	{潜入任務|せんにゅうにんむ}になる。Ι{小隊|しょうたい}のみでターゲットを[n]{撃破|げきは}して{欲|ほ}しい。{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。[p]	Infiltration mission. Take out the target[n]with one squad. Light works.
+1093	{斬|ざん}、{水属性|みずぞくせい}が{有効|ゆうこう}だ。{買|ゎな}の{可能性|かのうせい}が{高|たか}い。[n]{増援|ぞうえん}が{予想|よそう}されるので{気|き}をつけてくれ。[p]	Slash and Water work. Likely a trap.[n]Expect reinforcements.
+1094	{水属性|みずぞくせい}が{有効|ゆうこう}だ。{大型|おおがた}のＬＢＸ{反応|はんのう}があったよう[n]だ。{準備|じゅんび}は{万端|ばんたん}にして{任務|にんむ}にあたってくれ。[p]	Water works. A big LBX was detected.[n]Be fully prepared.
+1095	{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。{橋|はし}の{先|さき}に{砲台|ほうだい}があるようだ。[n]{橋|はし}を{切|き}り{抜|ぬ}けても{油断|ゆだん}は{出来|でき}ないぞ。[p]	Bolt works. Turrets past the bridge.[n]Stay alert even after you cross.
+1096	{火属性|ひぞくせい}が{有効|ゆうこう}だ。{海|うみ}には{機雷|きらい}が{設置|せっち}されている[n]ようだ。{進行|しんこう}する{際|さい}は{十分|じゅうぶん}に{注意|ちゅうい}してくれ。[p]	Fire works. There are sea mines.[n]Advance very carefully.
+1097	{火属性|ひぞくせい}が{有効|ゆうこう}だ。{敵|てき}、{砲台|ほうだい}、{地雷|じらい}が{点在|てんざい}して[n]{乱戦|らんせん}になる{可能性|かのうせい}がある。{十分|じゅうぶん}に{注意|ちゅうい}してくれ。[p]	Fire works. Foes, turrets and mines[n]everywhere. It could get messy.
+1098	{火属性|ひぞくせい}が{有効|ゆうこう}なようだ。ローズシティは{複雑|ふくざつ}な[n]{地形|ちけい}をしている。ミニマップでの{確認|かくにん}を{怠|おこた}るな。[p]	Fire works. Rose City is a maze.[n]Keep checking the minimap.
+1099	{水属性|みずぞくせい}が{有効|ゆうこう}だ。{砲台|ほうだい}が{設置|せっち}されている。[n]{注意|ちゅうい}して{進行|しんこう}してくれ。[p]	Water works. Turrets are in place.[n]Advance with care.
+1100	{火属性|ひぞくせい}が{有効|ゆうこう}だ。トレジャーを{取|と}りに{行|い}くならば[n]レーザー{砲台|ほうだい}や{地雷|じらい}に{注意|ちゅうい}してくれ。[p]	Fire works. If you go for the treasure,[n]watch the laser turrets and mines.
+1101	{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。{抜|ぬ}け{道|みち}を{使|つか}い[n]{挾撃|きょうげき}してフラッグを{占領|せんりょう}してくれ。[p]	Light works. Use the back route[n]to flank them and take the Flag.
+1102	{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。[n]{橋|はし}の{上|うえ}には{地雷|じらい}があるようだぞ。[p]	Light works.[n]There are mines on the bridge.
+1103	{敵|てき}の{警備|けいび}が{薄|うす}いな。{斬属性|ざんぞくせい}が{有効|ゆうこう}に{思|おも}えるが[n]{買|ゎな}の{可能性|かのうせい}を{考慮|こうりょ}して{慎重|しんちょう}に{行動|こうどう}してくれ。[p]	Light guard. Slash seems good, but[n]it may be a trap. Move carefully.
+1104	{水|みず}、{雷属性|かみなりぞくせい}の{武器|ゖ゗ネム}が{有効|ゆうこう}だ。[n]{恐|おそ}らく{増援|ぞうえん}もあるだろう。{油断|ゆだん}は{禁物|きんもつ}だな。[p]	Water and Bolt weapons work.[n]Reinforcements likely. Stay sharp.
+1105	この{布陣|ふじん}…こちらの{動|うご}きが{読|よ}まれている？[n]{有効|ゆうこう}な{衝属性|しょうぞくせい}の{武器|ゖ゗ネム}で{任務|にんむ}に{当|あ}たってくれ。[p]	This setup… do they know our moves?[n]Go in with Impact weapons.
+1106	{貫|かん}{属性|ぞくせい}が{有効|ゆうこう}だ。[n]ラージドロイドの{破壊|はかい}を{優先|ゆうせん}してくれ。[p]	Pierce works.[n]Destroy the Large Droid first.
+1107	{水|みず}{属性|ぞくせい}が{有効|ゆうこう}だ。{小型|こがた}{砲台|ほうだい}と{地雷|じらい}を{確認|かくにん}。[n]さらに{増援|ぞうえん}の{可能性|かのうせい}もあるようだ。{手強|てごゎ}いな。[p]	Water works. Small turrets and mines,[n]maybe reinforcements. A tough one.
+1108	{火属性|ひぞくせい}が{有効|ゆうこう}だ。レーザー{砲台|ほうだい}４{基|き}を{確認|かくにん}。[n]{上陸|じょうりく}して{破壊|はかい}か、やり{過|す}ごすかは{君|きみ}に{任|まか}せる。[p]	Fire works. Four laser turrets. Land and[n]wreck them, or slip past. Your call.
+1109	{遂|つい}にここまで{来|き}たな。{敵|てき}の{攻撃|こうげき}も{激|はげ}しくなるが[n]{諦|あきら}めずに{活路|かつろ}を{見出|みいだ}すんだ。[p]	We've finally come this far. They'll hit[n]hard, but don't give up. Find a way.
+1110	{水|みず}{属性|ぞくせい}が{有効|ゆうこう}だ。[n]レーザー{砲台|ほうだい}と{増援|ぞうえん}に{注意|ちゅうい}してくれ。[p]	Water works. Watch the laser[n]turrets and reinforcements.
+1111	{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。{広|ひろ}い{海域|かいいき}に{多数|たすう}の{機雷|きらい}を{確認|かくにん}。[n]{敵|てき}との{交戦|こうせん}で{機雷|きらい}に{接触|せっしょく}しないよう{注意|ちゅうい}だ。[p]	Bolt works. Many sea mines out there.[n]Don't hit one while fighting.
+1112	{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ…が、{増援|ぞうえん}の{可能性|かのうせい}が{否|いな}めない。[n]あらゆる{事態|じたい}を{想定|そうてい}して{任務|にんむ}にあたってくれ。[p]	Bolt works… but backup is likely.[n]Be ready for anything.
+1113	ここでは{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。[n]レーザー{砲台|ほうだい}に{注意|ちゅうい}してルートを{決|き}めてくれ。[p]	Light works here.[n]Plan your route around the lasers.
+1114	{水|みず}{属性|ぞくせい}が{有効|ゆうこう}だ。{増援|ぞうえん}の{可能性|かのうせい}があるな。[n]{砲台|ほうだい}に{注意|ちゅうい}しつつ、{増援|ぞうえん}も{警戒|けいかい}してくれ。[p]	Water works. Reinforcements likely.[n]Watch the turrets and the backup.
+1115	{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。{橋|はし}の{上|うえ}のレーザー{砲台|ほうだい}、{橋|はし}を[n]{流|ゎた}った{先|さき}の{地雷|じらい}に{気|き}をつけてくれ。[p]	Bolt works. Mind the laser turrets on[n]the bridge and the mines past it.
+1116	{光属性|ひかりぞくせい}が{有効|ゆうこう}だな。レーザー{砲台|ほうだい}、{地雷|じらい}もあるが[n]{進行|しんこう}ルート{次第|しだい}で{戦闘|せんとう}{回数|かいすう}は{減|へ}らせるだろう。[p]	Light works. Lasers and mines, but the[n]right route means fewer fights.
+1117	{水|みず}{属性|ぞくせい}が{有効|ゆうこう}だ。{溶岩|ようがん}ではダメージを{受|う}けるから[n]{注意|ちゅうい}するんだ。[p]	Water works. Lava does damage,[n]so be careful.
+1118	{貫|かん}、{衝|しょう}、{火|ひ}、{水|みず}が{弱点|じゃくてん}の{敵|てき}が{配備|はいび}されているな。[n]{恐|おそ}らく{増援|ぞうえん}もあるだろう。{慎重|しんちょう}に{進行|しんこう}してくれ。[p]	Foes weak to Pierce/Impact/Fire/Water.[n]Reinforcements likely. Go carefully.
+1119	{火属性|ひぞくせい}が{有効|ゆうこう}だ。[n]{多|おお}くの{敵|てき}に{囲|かこ}まれないように{行動|こうどう}してくれ。[p]	Fire works.[n]Don't get surrounded.
+1120	{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。{狭|せま}い{通路|つうろ}に{配置|はいち}された{地雷|じらい}に[n]{注意|ちゅうい}しつつ{抜|ぬ}け{道|みち}を{活用|かつよう}して{各個撃破|かっこげきは}してくれ。[p]	Light works. Mind the mines in the[n]alleys. Use back routes, pick them off.
+1121	{貫|かん}{属性|ぞくせい}が{有効|ゆうこう}だ。{川|かゎ}の{中|なか}の{機雷|きらい}やレーザー{砲台|ほうだい}に[n]{注意|ちゅうい}して{川|かゎ}を{流|ゎた}りフラッグを{占領|せんりょう}してくれ。[p]	Pierce works. Mind the river's mines[n]and lasers as you cross for the Flag.
+1122	{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。{進路|しんろ}{上|じょう}に{設置|せっち}された{多数|たすう}の[n]{小型|こがた}{砲台|ほうだい}に{細心|さいしん}の{注意|ちゅうい}を{払|はら}ってくれ。[p]	Light works. Many small turrets[n]line the path. Be very careful.
+1123	{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。{迂闊|うかつ}に{進行|しんこう}すると[n]{痛|いた}い{目|め}にあいそうだ。{迂回|うかい}することを{推賞|すいしょう}する。[p]	Bolt works. Charge in carelessly and[n]you'll get hurt. Take a detour.
+1124	{衝|しょう}{属性|ぞくせい}が{有効|ゆうこう}だ。{進行|しんこう}ルートによっては[n]{敵|てき}との{交戦|こうせん}をかなり{回避|かいひ}できそうだな。[p]	Impact works. The right route[n]avoids most of the fighting.
+1125	{水|みず}{属性|ぞくせい}が{有効|ゆうこう}だが、{敵|てき}の{数|かず}からみて{増援|ぞうえん}が[n]{予想|よそう}される。スナイパー、{強敵|きょうてき}に{要注意|ようちゅうい}だ。[p]	Water works, but expect backup.[n]Beware snipers and strong foes.
+1126	{斬|ざん}{属性|ぞくせい}が{有効|ゆうこう}だ。{密集|みっしゅう}したレーザー{砲台|ほうだい}を[n]いかに{回避|かいひ}するかがカギだ。[p]	Slash works. The key is dodging[n]the clustered laser turrets.
+1127	アンドレイ・グレゴリーが{何処|どこ}かにいるハズだ。[n]{機|き}を{伺|うかが}っているのだろう。{十分|じゅうぶん}{注意|ちゅうい}してくれ。[p]	Andrei Gregory is around somewhere,[n]biding his time. Be very careful.
+1128	{水|みず}{属性|ぞくせい}が{有効|ゆうこう}だ。[n]スナイパーは{先|さき}に{撃破|げきは}しておくべきだろう。[p]	Water works.[n]Take out the snipers first.
+1129	{強敵|きょうてき}が{点在|てんざい}している。[n]{少々危映|しょうしょうきけん}だが、Ι{小隊|しょうたい}で{遂行|すいこう}してくれ。[p]	Strong foes are scattered around.[n]It's risky, but use one squad.
+1130	{水|みず}{属性|ぞくせい}が{有効|ゆうこう}だ。まずは{一気|いっき}にレーザー{砲台|ほうだい}を[n]{破壊|はかい}して{安全域|あんぜんいき}を{確保|かくほ}すると{良|よ}いだろう。[p]	Water works. Wreck the laser turrets[n]fast to secure a safe zone.
+1131	{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。{高台|たかだい}にラージドロイドの{反応|はんのう}を[n]{確認|かくにん}した。{慎重|しんちょう}に{任務|にんむ}を{遂行|すいこう}してくれ。[p]	Light works. A Large Droid was spotted[n]on the high ground. Go carefully.
+1132	レーザー{砲台|ほうだい}に{注意|ちゅうい}だ。[n]{水属性|みずぞくせい}で{挑|いど}むのが{正解|せいかい}だろう。[p]	Watch the laser turrets.[n]Water is the way to go.
+1133	{水属性|みずぞくせい}が{有効|ゆうこう}だ。{高台|たかだい}ルートが{一番|いちばん}{安全|あんぜん}と[n]{思|おも}われるが、{判断|はんだん}は{君|きみ}に{任|まか}せよう。[p]	Water works. The high route looks[n]safest, but it's your call.
+1134	{敵|てき}は{多|おお}くないようだが、ラージドロイドがいる[n]との{情報|じょうほう}がある。{言|い}うまでもなく、{要注意|ようちゅうい}だな。[p]	Not many foes, but there's word of a[n]Large Droid. Obviously, be careful.
+1135	{多数|たすう}の{砲台|ほうだい}が{厄介|やっかい}だな。{水属性|みずぞくせい}が{有効|ゆうこう}に{機能|きのう}[n]するだろう。{溶岩|ようがん}からのダメージも{忘|ゎす}れるな。[p]	All those turrets are a pain. Water[n]should work. And mind the lava.
+1136	{衝属性|しょうぞくせい}が{有効|ゆうこう}だ。まるで{要塞|ようさい}だな。[n]スナイパーはアクションバトルが{有効|ゆうこう}だ。[p]	Impact works. It's like a fortress.[n]Action Battles work on snipers.
+1137	{衝属性|しょうぞくせい}が{有効|ゆうこう}だ。アクションバトルに[n]{持|も}ち{込|こ}むことを{推賞|すいしょう}する。[p]	Impact works.[n]Force Action Battles.
+1138	{一見|いっけん}すると{火|ひ}、{光属性|ひかりぞくせい}が{有効|ゆうこう}だが…[n]この{布陣|ふじん}は{買|ゎな}だろうな…。{油断|ゆだん}はできないぞ。[p]	Fire and Light look good… but this[n]setup must be a trap. Stay sharp.
+1139	{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。{砲台|ほうだい}…レーザータイプだな。[n]{射程|しゃてい}に{入|はい}らないように{気|き}をつけて{進行|しんこう}してくれ。[p]	Bolt works. The turrets are lasers.[n]Stay out of their range.
+1140	ラージドロイドの{目撃情報|もくげきじょうほう}が{入|はい}った。[n]ラージドロイドが{相手|あいて}だ、{準備|じゅんび}は{万全|ばんぜん}に{頼|たの}む。[p]	A Large Droid was sighted.[n]Prepare thoroughly for it.
+1141	{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。{橋|はし}を{流|ゎた}るのは{少々危映|しょうしょうきけん}だな。[n]{迂回|うかい}ルートを{推賞|すいしょう}する。[p]	Light works. Crossing the bridge is[n]risky. Take the detour.
+1142	{火属性|ひぞくせい}が{有効|ゆうこう}だ。エースプレイヤーの[n]{高崎|たかさき}ケンタロウがいる。{十分注意|じゅうぶんちゅうい}してくれ。[p]	Fire works. The ace Kentaro Takasaki[n]is here. Be very careful.
+1143	{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。{海|うみ}での{移動|いどう}が{多|おお}くなる。[n]{水地形|みずちけい}が{得意|とくい}な{機体|きたい}で{編成|へんせい}してくれ。[p]	Bolt works. Much of it is at sea.[n]Bring machines good on water terrain.
+1144	{湾岸|ゎんがん}に{多数|たすう}のレーザー{砲台|ほうだい}の{設置|せっち}を{確認|かくにん}した。[n]{火|ひ}、{光属性|ひかりぞくせい}の{機体|きたい}で{編成|へんせい}してくれ。[p]	Many laser turrets line the bay.[n]Bring Fire and Light machines.
+1145	{火属性|ひぞくせい}が{有効|ゆうこう}だ。{進行|しんこう}ルートによっては[n]{戦闘|せんとう}を{回避|かいひ}できそうだな。[p]	Fire works. The right route[n]may avoid the fighting.
+1146	{水属性|みずぞくせい}での{攻撃|こうげき}が{視|きゎ}めて{有効|ゆうこう}だ。[n]{増援|ぞうえん}が{予想|よそう}される。{油断|ゆだん}はするな。[p]	Water attacks work extremely well.[n]Expect reinforcements. Stay sharp.
+1147	{火|ひ}、{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。うかつに{進|すす}むと{砲台|ほうだい}の[n]{餌食|えじき}だ。{一気|いっき}に{砲台|ほうだい}を{破壊|はかい}すべきだろう。[p]	Fire and Bolt work. Rush in and the[n]turrets get you. Wreck them fast.
+1148	{雷属性|かみなりぞくせい}が{有効|ゆうこう}だ。レーザータイプの{砲台|ほうだい}だな。[n]レーザーはダメージが{大|おお}きい。{注意|ちゅうい}してくれ。[p]	Bolt works. Laser-type turrets.[n]Lasers hit hard. Be careful.
+1149	{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。{地雷|じらい}と{多数|たすう}のレーザー{砲台|ほうだい}が[n]{設置|せっち}されているらしい。{増援|ぞうえん}にも{注意|ちゅうい}だ。[p]	Light works. Mines and many laser[n]turrets. Watch for reinforcements.
+1150	{火属性|ひぞくせい}が{視|きゎ}めて{有効|ゆうこう}だ。どちらのルートから[n]{攻|せ}めるかは、{状況|じょうきょう}によって{判断|はんだん}してくれ。[p]	Fire works extremely well. Choose[n]your route as the situation demands.
+1151	エースプレイヤーの{石川|いしかゎ}タケヒロがいるだろう。[n]{全弱点|ぜんじゃくてん}に{対応|たいおう}できる{編成|へんせい}がいいだろう。[p]	Ace Takehiro Ishikawa will be there.[n]Bring a lineup for every weakness.
+1152	{斬|ざん}、{水属性|みずぞくせい}が{有効|ゆうこう}なようだが、レーザー{砲台|ほうだい}が[n]{厄介|やっかい}だ。{増援|ぞうえん}にも{注意|ちゅうい}しろ。[p]	Slash and Water seem to work, but the[n]lasers are trouble. Watch for backup.
+1153	{火|ひ}{属性|ぞくせい}が{有効|ゆうこう}だ。{警備|けいび}を{倒|たお}し、スイッチで{扉|とびら}を[n]{開|あ}けて{侵入|しんにゅう}だ。{旧|きゅう}クルセイドの{敵|てき}{機体|きたい}も{注意|ちゅうい}だ。[p]	Fire works. Beat the guards and use[n]the door switch. Beware ex-Crusade.
+1154	{恐|おそ}らくムラク{小隊|しょうたい}が{配備|はいび}されているだろう。[n]バンデットの{介入|かいにゅう}も{心|こころ}に{留|とど}めておいてくれ。[p]	Muraku's squad is likely here.[n]Keep the Bandits in mind too.
+1155	かなり{複雑|ふくざつ}な{構造|こうぞう}をしている。[n]{光属性|ひかりぞくせい}で{攻撃|こうげき}するのが{有利|ゆうり}だ。[p]	The layout is very complex.[n]Light attacks have the edge.
+1156	{火属性|ひぞくせい}を{中心|ちゅうしん}に{攻|せ}めるんだ。[n]どちらかの{砲台|ほうだい}を{先|さき}に{破壊|はかい}するのも{手|て}だ。[p]	Attack mainly with Fire. Taking out[n]one turret first is an option.
+1157	ここでは{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。{二手|ふたて}に{分|ゎ}かれて[n]{効率|こうりつ}よくフラッグを{占領|せんりょう}するんだ。[p]	Light works here. Split up[n]and take the Flags efficiently.
+1158	ジェノック{第|だい}Ι{小隊|しょうたい}と{君|きみ}には{待機|たいき}してもらう。[n]{新型機|しんがたき}が{完成|かんせい}するまで{我慢|がまん}してくれ。[p]	You and Jenock's 1st Squad stand by.[n]Hang on until the new model is done.
+1159	ここでは{雷属性|かみなりぞくせい}での{攻撃|こうげき}が{有利|ゆうり}だ。[n]{火|ひ}{属性|ぞくせい}があれば、さらに{有利|ゆうり}に{立|た}てるだろう。[p]	Bolt attacks have the edge here.[n]With Fire too, even better.
+1160	{火|ひ}{属性|ぞくせい}が{有効|ゆうこう}だ。{激戦|げきせん}が{予想|よそう}される。[n]{回復|かいふく}アイテムの{補充|ほじゅう}を{忘|ゎす}れるな。[p]	Fire works. Expect a fierce battle.[n]Don't forget to restock healing items.
+1161	ここでは{火属性|ひぞくせい}が{有利|ゆうり}だ。[n]{橋|はし}の{上|うえ}の{砲台|ほうだい}が{厄介|やっかい}だ。[p]	Fire has the edge here.[n]The bridge turrets are a pain.
+1162	{火属性|ひぞくせい}{中心|ちゅうしん}の{編成|へんせい}で{挑|いど}むんだ。[n]{砲台|ほうだい}にも{注意|ちゅうい}しろ。[p]	Go with a Fire-heavy lineup.[n]Watch the turrets too.
+1163	{光属性|ひかりぞくせい}を{中心|ちゅうしん}とした{編成|へんせい}で{挑|いど}むんだ。[n]フラッグをΙつずつ{占領|せんりょう}していけ。[p]	Go with a Light-heavy lineup.[n]Take the Flags one at a time.
+1164	{水属性|みずぞくせい}{中心|ちゅうしん}の{編成|へんせい}で{挑|いど}むんだ。[n]{余裕|よゆう}があればトレジャーも{回収|かいしゅう}してくれ。[p]	Go with a Water-heavy lineup.[n]Grab the treasure if you can.
+1165	もう{君|きみ}たちに{言|い}うことは{何|なに}もない。[n]{必|かなら}ず{生|い}きて{帰|かえ}ってくるんだ。[p]	There's nothing left for me to tell you.[n]Just come back alive.
+1166	[x14:0000]で{防衛戦|ぼうえいせん}だ。[n]バンデットを{撃破|げきは}してくれ。[p]	Defend [x14:0000].[n]Destroy the Bandits.
+1167	エルダーシティで{防衛戦|ぼうえいせん}だ。[n]バンデットを{撃破|げきは}してくれ。[p]	Defend Elder City.[n]Destroy the Bandits.
+1168	ギガントの{壁|かべ}で{防衛戦|ぼうえいせん}だ。[n]バンデットを{撃破|げきは}してくれ。[p]	Defend the Gigant Wall.[n]Destroy the Bandits.
+1169	エンジェルピースで{防衛戦|ぼうえいせん}だ。[n]バンデットを{撃破|げきは}してくれ。[p]	Defend Angel Piece.[n]Destroy the Bandits.
+1170	ゴールドバレー{基地|きち}で{防衛戦|ぼうえいせん}だ。[n]{敵|てき}はデスワルズブラザーズだ。[p]	Defend Gold Valley Base.[n]The enemy is the Deathwalz Brothers.
+1171	{斬|ざん}、{光属性|ひかりぞくせい}が{有効|ゆうこう}だ。{扉|とびら}で{進行|しんこう}を{妨害|ぼうがい}している。[n]{扉|とびら}の{近|ちか}くにあるスイッチを{探|さが}すんだ。[p]	Slash and Light work. Doors block[n]the way. Find the nearby switches.
+1172	{火属性|ひぞくせい}{中心|ちゅうしん}の{編成|へんせい}で{挑|いど}むんだ。[n]{砲台|ほうだい}にも{注意|ちゅうい}しろ。[p]	Go with a Fire-heavy lineup.[n]Watch the turrets too.
+1173	この{作戦|さくせん}の{要|かなめ}は{君|きみ}とアラタ{君|くん}だ。[n]{必|かなら}ず{無事|ぶじ}に{戻|もど}って{来|く}るんだ。[p]	You and Arata are the key to this.[n]Come back safely, no matter what.
+2001	アラビスタ{同盟|どうめい}{領|りょう}『オアシス日』を{奪還|だっかん}せよ。[p]	Retake the Arabista Alliance's Oasis 8.
+2002	アラビスタ{同盟|どうめい}{領|りょう}『ニーズシティ』を{制圧|せいあつ}せよ。[p]	Take Arabista's Needs City.
+2003	アラビスタ{同盟|どうめい}{領|りょう}『グレスト{山地|さんち}』『アカマ{砂漠|さばく}』を{制圧|せいあつ}せよ。[p]	Take Arabista's Grest Mountains and Akama Desert.
+2004	アラビスタ{同盟領|どうめいりょう}『エンカ{古代遺跡|こだいいせき}』を{制圧|せいあつ}せよ。[p]	Take Arabista's Enka Ancient Ruins.
+2005	『グランデの{港|みなと}』にいる{第|だい}日{小隊|しょうたい}を{救出|きゅうしゅつ}せよ。[p]	Rescue 3rd Squad at Port Grande.
+2006	アラビスタ{同盟|どうめい}{領|りょう}『サディアナ{草原|そうげん}』へ{進攻|しんこう}せよ。[p]	Advance into Arabista's Sadiana Plains.
+2007	[x14:0000]の{領地|りょうち}を{拡大|かくだい}せよ。[p]	Expand [x14:0000]'s territory.
+2008	アラビスタ{同盟|どうめい}{領|りょう}『ゴールドバレー{基地|きち}』を{制圧|せいあつ}せよ。[p]	Take Arabista's Gold Valley Base.
+2009	[x14:0000]の{領地|りょうち}を{拡大|かくだい}せよ。[p]	Expand [x14:0000]'s territory.
+2010	アラビスタ{同盟領重要拠点|どうめいりょうじゅうようきょてん}『フェンレス{雪原|せつげん}』を{攻略|こうりゃく}せよ。[p]	Take Arabista's key base, the Fenless Snowfield.
+2011	アラビスタ{同盟領重要拠点|どうめいりょうじゅうようきょてん}『グレートリンク{湖|こ}』『リバーエンドブリッジ』を{攻略|こうりゃく}せよ。[p]	Take Arabista's key bases Great Link Lake and Riverend Bridge.
+2012	ロシウス{連合|れんごう}の{急襲|きゅうしゅう}！『ゴールドバレー{基地|きち}』を{防衛|ぼうえい}せよ！[p]	Rossius attack! Defend Gold Valley Base!
+2013	アラビスタ{同盟領重要拠点|どうめいりょうじゅうようきょてん}『グレートリンク{湖|こ}』『リバーエンドブリッジ』を{攻略|こうりゃく}せよ。[p]	Take Arabista's key bases Great Link Lake and Riverend Bridge.
+2014	[x14:0000]の{領地|りょうち}を{拡大|かくだい}せよ。[p]	Expand [x14:0000]'s territory.
+2015	ロシウス連合領『グリーンバース{湖|こ}』を{制圧|せいあつ}せよ。[p]	Take Rossius's Greenbirth Lake.
+2016	[x14:0000]の{領地|りょうち}を{拡大|かくだい}せよ。[p]	Expand [x14:0000]'s territory.
+2017	『ゴールドバレー{基地|きち}』から『ラリンガシティ』までを{制圧|せいあつ}し、{補給路|ほきゅうろ}を{確保|かくほ}せよ。[p]	Take Gold Valley Base to Laringa City and secure a supply line.
+2018	ロシウス{連合領|れんごうりょう}『デスフォレスト』を{攻略|こうりゃく}せよ。[p]	Take Rossius's Death Forest.
+2019	[x14:0000]の{領地|りょうち}を{拡大|かくだい}せよ。[p]	Expand [x14:0000]'s territory.
+2020	{新型機|しんがたき}{開発|かいはつ}のため、LBX｝{基礎|きそ}〕のラボがある{拠点|きょてん}を{攻略|こうりゃく}せよ。[p]	For the new model, take bases with Basic LBX Labs.
+2021	『エンカ{古代遺跡|こだいいせき}』の{哨戒|しょうかい}{任務|にんむ}に{当|あ}たれ。[p]	Patrol the Enka Ancient Ruins.
+2022	[x14:0000]の{領地|りょうち}を{拡大|かくだい}せよ。[p]	Expand [x14:0000]'s territory.
+2023	バンデットの{襲撃|しゅうげき}！{拠点|きょてん}を{防衛|ぼうえい}せよ！[p]	Bandit raid! Defend the base!
+2024	[x14:0000]の{領地|りょうち}を{拡大|かくだい}せよ。[p]	Expand [x14:0000]'s territory.
+2025	ロシウス{連合|れんごう}{本拠地|ほんきょち}『ローズシティ』に{出現|しゅつげん}したバンデットを{撃破|げきは}せよ！[p]	Destroy the Bandits at Rose City, Rossius's home base!
+2026	[x14:0000]の{領地|りょうち}を{拡大|かくだい}せよ。[p]	Expand [x14:0000]'s territory.
+2027	エゼルダーム{領|りょう}『ジーク・ギガンテス』の{周辺拠点|しゅうへんきょてん}を{制圧|せいあつ}せよ。[p]	Take the bases around Ezeldarm's Sieg Gigantes.
+2028	エゼルダーム{領|りょう}『ジーク・ギガンテス』を{陥落|かんらく}させ、{新兵器|しんへいき}{開発|かいはつ}を{阻止|そし}せよ。[p]	Take Sieg Gigantes and stop the new weapon.
+2029	[x14:0000]の{領地|りょうち}を{拡大|かくだい}せよ。[p]	Expand [x14:0000]'s territory.
+2030	{今日|きょう}は{様子|ようす}を{見|み}てウォータイムを{終|お}わらせよ。[p]	Watch and wait, and end today's War Time.
+2031	エゼルダームに{対抗|たいこう}する{世界連合結成|せかいれんごうけっせい}のため、{各|かく}{仮想|かそう}{国|こく}の{本拠地|ほんきょち}へ{向|む}かえ。[p]	Visit every nation's home base to form a World Alliance.
+2032	[x14:0000]の{領地|りょうち}を{拡大|かくだい}せよ。[p]	Expand [x14:0000]'s territory.
+2033	{空中空母|くうちゅうくうぼ}『ドル・ガルーダ』を{撃破|げきは}せよ！[p]	Destroy the flying carrier Dol Garuda!
+2034	[x14:0000]の{領地|りょうち}を{拡大|かくだい}せよ。[p]	Expand [x14:0000]'s territory.
+2035	『ロストエリア{入口|いりぐち}』へ{向|む}かい、セレディの{陰謀|いんぼう}を{阻止|そし}せよ！[p]	Go to the Lost Area Entrance and stop Seredi's plot!
+2036	『ロストエリア　ターミナル{区画|くかく}』へ{向|む}かい、{最後|さいご}の{戦|たたか}いに{挑|いど}め！[p]	Go to the Lost Area Terminal Block for the final battle!
+3001	アナウンス[p]	Announcement
+4001	この{拠点|きょてん}への{侵攻|しんこう}はまだ{許可|きょか}できない。[p]	You can't advance on this base yet.
+4002	{目的地|もくてきち}が{違|ちが}うぞ。オアシス日に{向|む}かうんだ。[p]	Wrong way. Head for Oasis 8.
+5001	{侵攻|しんこう}{作戦|さくせん}[p]	Invasion
+5002	{防衛戦|ぼうえいせん}[p]	Defense
+5003	{攻略作戦|こうりゃくさくせん}[p]	Assault
+5004	{演習戦|えんしゅうせん}[p]	Drill
+6001	{終了時間|しゅうりょうじかん}となりました。[n]{本日|ほんじつ}のウォータイム、{終了|しゅうりょう}します。[p]	Time is up.[n]Today's War Time is over.
+7001	{情報|じょうほう}[p]	Info
+7002	フリー[n]バトル[p]	Free[n]Battle
+8001	ロストエリア{入口|いりぐち}[p]	Lost Area Entrance
+8002	ロストエリア　ターミナル{区画|くかく}[p]	Lost Area Terminal Block
+8003	？？？？？？？？？？[p]	??????????
+9001	ついに、セレディとの{最終|さいしゅう}{決戦|けっせん}だ！[n]{万全|ばんぜん}の{準備|じゅんび}をして{戦|たたか}おう。[n]ターミナル{区画|くかく}へ{向|む}かいますか？[p]	The final battle with Seredi![n]Prepare thoroughly.[n]Head to the Terminal Block?
+10001	ハーネス[p]	Harness
+10002	ジャネロ{渓谷|けいこく}[p]	Janero Valley
+10003	オアシス日{奪還作戦|だっかんさくせん}[p]	Retake Oasis 8
+10004	ニーズシティ{攻略作戦|こうりゃくさくせん}[p]	Take Needs City
+10005	グレスト{山地攻略作戦|さんちこうりゃくさくせん}[p]	Take Grest Mountains
+10006	アカマ{砂漠攻略作戦|さばくこうりゃくさくせん}[p]	Take Akama Desert
+10007	ゼルガスの{森攻略作戦|もりこうりゃくさくせん}[p]	Take Zelgas Forest
+10008	ニコルド{草原攻略作戦|そうげんこうりゃくさくせん}[p]	Take Nicold Plains
+10009	エンカ{古代遺跡攻略作戦|こだいいせきこうりゃくさくせん}[p]	Take Enka Ancient Ruins
+10010	ラバンズ{山岳攻略作戦|さんがくこうりゃくさくせん}[p]	Take Rabans Peaks
+10011	ゴールドバレー{基地攻略作戦|きちこうりゃくさくせん}[p]	Take Gold Valley Base
+10012	{第|だい}日{小隊救出作戦|しょうたいきゅうしゅつさくせん}[p]	Rescue 3rd Squad
+10013	コールフォレスト{攻略作戦|こうりゃくさくせん}[p]	Take Coal Forest
+10014	ブノレス{渓谷攻略作戦|けいこくこうりゃくさくせん}[p]	Take Bunores Valley
+10015	バダビア{砂原攻略作戦|すなはらこうりゃくさくせん}[p]	Take Badabia Sands
+10016	サンフォレスト{攻略作戦|こうりゃくさくせん}[p]	Take Sun Forest
+10017	ブルリア{洞窟攻略作戦|どうくつこうりゃくさくせん}[p]	Take Bruria Cave
+10018	グレートリンク{湖攻略作戦|ここうりゃくさくせん}[p]	Take Great Link Lake
+10019	ピエールシティ{攻略作戦|こうりゃくさくせん}[p]	Take Pierre City
+10020	サディアナ{草原攻略作戦|そうげんこうりゃくさくせん}[p]	Take Sadiana Plains
+10021	ゴディナ{熱帯雨林攻略作戦|ねったいうりんこうりゃくさくせん}[p]	Take Godina Rainforest
+10022	ハバナン{港攻略作戦|こうこうりゃくさくせん}[p]	Take Habanan Port
+10023	アットシティ{攻略作戦|こうりゃくさくせん}[p]	Take At City
+10024	ヨークス{荒野攻略作戦|こうやこうりゃくさくせん}[p]	Take Yorks Wasteland
+10025	グライスの{森攻略作戦|もりこうりゃくさくせん}[p]	Take Grice Forest
+10026	リバーエンドブリッジ{攻略作戦|こうりゃくさくせん}[p]	Take Riverend Bridge
+10027	シルバ{城塞攻略作戦|じょうさいこうりゃくさくせん}[p]	Take Silva Fortress
+10028	ダンバック{砂漠|さばく}{基地|きち}{攻略作戦|こうりゃくさくせん}[p]	Take Danback Desert Base
+10029	アラビスタ{世界連合作戦|せかいれんごうさくせん}[p]	Ally with Arabista
+10030	ワ・ブル{雪原攻略作戦|せつげんこうりゃくさくせん}[p]	Take Wa-Bull Snowfield
+10031	ビッグメガフロート{攻略作戦|こうりゃくさくせん}[p]	Take Big Megafloat
+10032	レイリッシュ{氷原攻略作戦|ひょうげんこうりゃくさくせん}[p]	Take Raylish Icefield
+10033	ロングサン{峡谷攻略作戦|きょうこくこうりゃくさくせん}[p]	Take Longsun Canyon
+10034	メンディ{工場地帯攻略作戦|こうじょうちたいこうりゃくさくせん}[p]	Take Mendy Works
+10035	デューンシティ{攻略作戦|こうりゃくさくせん}[p]	Take Dune City
+10036	ユリバ{峡谷攻略作戦|きょうこくこうりゃくさくせん}[p]	Take Yuriba Canyon
+10037	フェンレス{雪原攻略作戦|せつげんこうりゃくさくせん}[p]	Take Fenless Snowfield
+10038	ヤーバン{湖攻略作戦|ここうりゃくさくせん}[p]	Take Lake Yarban
+10039	ハーフムーン{氷原攻略作戦|ひょうげんこうりゃくさくせん}[p]	Take Half Moon Icefield
+10040	ドルフィン{洞窟攻略作戦|どうくつこうりゃくさくせん}[p]	Take Dolphin Cave
+10041	ステンズ{雪原攻略作戦|せつげんこうりゃくさくせん}[p]	Take Stens Snowfield
+10042	ラブラド{港区攻略作戦|こうくこうりゃくさくせん}[p]	Take Labrad Harbor
+10043	ザルード{凍土攻略作戦|とうどこうりゃくさくせん}[p]	Take Zarud Tundra
+10044	コールロンド{要塞攻略作戦|ようさいこうりゃくさくせん}[p]	Take Colerond Stronghold
+10045	アクアメガフロート{攻略作戦|こうりゃくさくせん}[p]	Take Aqua Megafloat
+10046	ティアーズ{洞窟攻略作戦|どうくつこうりゃくさくせん}[p]	Take Tears Cave
+10047	ポルトン{世界連合作戦|せかいれんごうさくせん}[p]	Ally with Porton
+10048	デッドロック{岬攻略作戦|みさきこうりゃくさくせん}[p]	Take Cape Deadlock
+10049	テイキョウ{工場地帯演習戦|こうじょうちたいえんしゅうせん}[p]	Teikyo Works Drill
+10050	ゴウラン{山岳演習戦|さんがくえんしゅうせん}[p]	Goran Peaks Drill
+10051	ベイキョウ{城塞演習戦|じょうさいえんしゅうせん}[p]	Beikyo Fortress Drill
+10052	ジェノック{本拠地演習戦|ほんきょちえんしゅうせん}[p]	Jenock Base Drill
+10053	ケアン{基地攻略作戦|きちこうりゃくさくせん}[p]	Take Cairn Base
+10054	ユリネシア{海峡攻略作戦|かいきょうこうりゃくさくせん}[p]	Take Yurinesia Strait
+10055	カレイド{川攻略作戦|がゎこうりゃくさくせん}[p]	Take Kaleid River
+10056	マグオーク{火山地帯攻略作戦|かざんちたいこうりゃくさくせん}[p]	Take Magoak Volcano
+10057	セラスト{熱帯雨林攻略作戦|ねったいうりんこうりゃくさくせん}[p]	Take Celast Rainforest
+10058	エルダーシティ{演習戦|えんしゅうせん}[p]	Elder City Drill
+10059	ラリンガシティ{攻略作戦|こうりゃくさくせん}[p]	Take Laringa City
+10060	ワルド{峡谷攻略作戦|きょうこくこうりゃくさくせん}[p]	Take Wald Canyon
+10061	ケインズ{工場地帯攻略作戦|こうじょうちたいこうりゃくさくせん}[p]	Take Keynes Works
+10062	ヤショウの{森攻略作戦|もりこうりゃくさくせん}[p]	Take Yasho Forest
+10063	グアムス{草原攻略作戦|そうげんこうりゃくさくせん}[p]	Take Guams Plains
+10064	ドルネシア{熱帯雨林攻略作戦|ねったいうりんこうりゃくさくせん}[p]	Take Dolnesia Rainforest
+10065	クランビュー{港攻略作戦|こうこうりゃくさくせん}[p]	Take Clanview Port
+10066	イーストエンドブリッジ{演習戦|えんしゅうせん}[p]	Eastend Bridge Drill
+10067	ブラックウィンドキャンプ{演習戦|えんしゅうせん}[p]	Blackwind Camp Drill
+10068	ガラッサ{砂原攻略作戦|すなはらこうりゃくさくせん}[p]	Take Garassa Sands
+10069	バリスト{山地攻略作戦|さんちこうりゃくさくせん}[p]	Take Ballist Mountains
+10070	ゴルト{岬攻略作戦|みさきこうりゃくさくせん}[p]	Take Cape Gort
+10071	モンドジブ{基地攻略作戦|きちこうりゃくさくせん}[p]	Take Mondjib Base
+10072	タンデムの{港演習戦|みなとえんしゅうせん}[p]	Port Tandem Drill
+10073	ヴィジャーナ{古代遺跡攻略作戦|こだいいせきこうりゃくさくせん}[p]	Take Vijana Ancient Ruins
+10074	ジャコルカ{工場地帯攻略作戦|こうじょうちたいこうりゃくさくせん}[p]	Take Jakolka Works
+10075	バンクールの{森攻略作戦|もりこうりゃくさくせん}[p]	Take Bancourt Forest
+10076	ハバノア{草原攻略作戦|そうげんこうりゃくさくせん}[p]	Take Habanoa Plains
+10077	オアシス日{演習戦|えんしゅうせん}[p]	Oasis 3 Drill
+10078	ギガントの{壁演習戦|かべえんしゅうせん}[p]	Gigant Wall Drill
+10079	ランバッド{基地攻略作戦|きちこうりゃくさくせん}[p]	Take Ranbad Base
+10080	グリーンバース{湖攻略作戦|ここうりゃくさくせん}[p]	Take Greenbirth Lake
+10081	エンジェルピース{演習戦|えんしゅうせん}[p]	Angel Piece Drill
+10082	ペトロフ{工場地帯攻略作戦|こうじょうちたいこうりゃくさくせん}[p]	Take Petrov Works
+10083	イオナ{凍土攻略作戦|とうどこうりゃくさくせん}[p]	Take Iona Tundra
+10084	キースアイ{雪原攻略作戦|せつげんこうりゃくさくせん}[p]	Take Keith Eye Snowfield
+10085	ツンゼル{氷原攻略作戦|ひょうげんこうりゃくさくせん}[p]	Take Tunzel Icefield
+10086	ノーレンヴィ{港区攻略作戦|こうくこうりゃくさくせん}[p]	Take Norenvi Harbor
+10087	ハンシスク{雪原攻略作戦|せつげんこうりゃくさくせん}[p]	Take Hansisk Snowfield
+10088	ギランの{密林|みつりん}[p]	Gilan Jungle
+10089	ギルバトル{峡谷攻略作戦|きょうこくこうりゃくさくせん}[p]	Take Gilbattle Canyon
+10090	ナラトコ{砂原攻略作戦|すなはらこうりゃくさくせん}[p]	Take Naratko Sands
+10091	ガブル{荒野攻略作戦|こうやこうりゃくさくせん}[p]	Take Gabble Wasteland
+10092	エンプルテン{火山地帯攻略作戦|かざんちたいこうりゃくさくせん}[p]	Take Emprten Volcano
+10093	カラチネブリッジ{攻略作戦|こうりゃくさくせん}[p]	Take Karachine Bridge
+10094	クルエッジメガフロート{攻略作戦|こうりゃくさくせん}[p]	Take Cruedge Megafloat
+10095	ブレイブ{氷原攻略作戦|ひょうげんこうりゃくさくせん}[p]	Take Brave Icefield
+10096	ローズシティ{救援作戦|きゅうえんさくせん}[p]	Relieve Rose City
+10097	ミゼルダ{砂漠攻略作戦|さばくこうりゃくさくせん}[p]	Take Mizelda Desert
+10098	シンニコス{凍土攻略作戦|とうどこうりゃくさくせん}[p]	Take Shinnicos Tundra
+10099	モルクス{坑道攻略作戦|こうどうこうりゃくさくせん}[p]	Take Morkus Mine
+10100	ノースパークブリッジ{攻略作戦|こうりゃくさくせん}[p]	Take Northpark Bridge
+10101	ネスラ{砂漠攻略作戦|さばくこうりゃくさくせん}[p]	Take Nesla Desert
+10102	セルス{湖攻略作戦|ここうりゃくさくせん}[p]	Take Lake Serus
+10103	ドルバットデザート{攻略作戦|こうりゃくさくせん}[p]	Take Dolbat Desert
+10104	サナルシティ{攻略作戦|こうりゃくさくせん}[p]	Take Sanal City
+10105	ボツギガ{砂漠攻略作戦|さばくこうりゃくさくせん}[p]	Take Botsugiga Desert
+10106	ディスロイ{港攻略作戦|こうこうりゃくさくせん}[p]	Take Disloy Port
+10107	マデン{島|とう}[p]	Maden Island
+10108	タルタニア{港攻略作戦|こうこうりゃくさくせん}[p]	Take Port Tartania
+10109	アクアベル{海峡攻略作戦|かいきょうこうりゃくさくせん}[p]	Take Aquabell Strait
+10110	バンタナフォレスト{攻略作戦|こうりゃくさくせん}[p]	Take Bantana Forest
+10111	エトロニアの{港攻略作戦|みなとこうりゃくさくせん}[p]	Take Port Etronia
+10112	ギノア{城塞攻略作戦|じょうさいこうりゃくさくせん}[p]	Take Ginoa Fortress
+10113	リベイラ{砂漠攻略作戦|さばくこうりゃくさくせん}[p]	Take Ribeira Desert
+10114	ブライム{渓谷攻略作戦|けいこくこうりゃくさくせん}[p]	Take Braim Valley
+10115	カルム{火山地帯攻略作戦|かざんちたいこうりゃくさくせん}[p]	Take Calm Volcano
+10116	レンバル{山地攻略作戦|さんちこうりゃくさくせん}[p]	Take Lenbal Mountains
+10117	マナガン{熱帯雨林攻略作戦|ねったいうりんこうりゃくさくせん}[p]	Take Managan Rainforest
+10118	ダンウェッジ{坑道攻略作戦|こうどうこうりゃくさくせん}[p]	Take Dunwedge Mine
+10119	ルアンダル{河川攻略作戦|かせんこうりゃくさくせん}[p]	Take Luandal River
+10120	ルード{古代遺跡攻略作戦|こだいいせきこうりゃくさくせん}[p]	Take Rude Ancient Ruins
+10121	ムスバン{熱帯雨林攻略作戦|ねったいうりんこうりゃくさくせん}[p]	Take Musban Rainforest
+10122	スーダント{渓谷攻略作戦|けいこくこうりゃくさくせん}[p]	Take Sudant Valley
+10123	カイドロ{峡谷攻略作戦|きょうこくこうりゃくさくせん}[p]	Take Kaidoro Canyon
+10124	ラミアデザート{攻略作戦|こうりゃくさくせん}[p]	Take Lamia Desert
+10125	ベガ{砂漠|さばく}[p]	Vega Desert
+10126	ゴルゴン{山地攻略作戦|さんちこうりゃくさくせん}[p]	Take Gorgon Mountains
+10127	ミッドロブの{森攻略作戦|もりこうりゃくさくせん}[p]	Take Midrob Forest
+10128	アベンジェ{砂漠基地攻略作戦|さばくきちこうりゃくさくせん}[p]	Take Avenge Desert Base
+10129	サーベル{峡谷攻略作戦|きょうこくこうりゃくさくせん}[p]	Take Saber Canyon
+10130	グランドフォレスト{攻略作戦|こうりゃくさくせん}[p]	Take Grand Forest
+10131	ヴェンタス{基地攻略作戦|きちこうりゃくさくせん}[p]	Take Ventus Base
+10132	カダルデザート{攻略作戦|こうりゃくさくせん}[p]	Take Kadal Desert
+10133	ボルボット{火山地帯攻略作戦|かざんちたいこうりゃくさくせん}[p]	Take Bolbot Volcano
+10134	ブランカの{壁攻略作戦|かべこうりゃくさくせん}[p]	Take Blanca Wall
+10135	チェニス{工場地帯攻略作戦|こうじょうちたいこうりゃくさくせん}[p]	Take Chenis Works
+10136	ビルニッシュ{雪原攻略作戦|せつげんこうりゃくさくせん}[p]	Take Bilnish Snowfield
+10137	モルドノシティ{攻略作戦|こうりゃくさくせん}[p]	Take Mordono City
+10138	ナポリア{古代遺跡攻略作戦|こだいいせきこうりゃくさくせん}[p]	Take Napolia Ancient Ruins
+10139	ヴィラーハ{城塞攻略作戦|じょうさいこうりゃくさくせん}[p]	Take Villach Fortress
+10140	グレンシュテイム{世界連合作戦|せかいれんごうさくせん}[p]	Ally with Glenstheim
+10141	ヨルドリング{湖攻略作戦|ここうりゃくさくせん}[p]	Take Lake Yordling
+10142	ケネイス{港区攻略作戦|こうくこうりゃくさくせん}[p]	Take Keneis Harbor
+10143	アイスバール{氷原攻略作戦|ひょうげんこうりゃくさくせん}[p]	Take Icebar Icefield
+10144	サンシャイン{洞窟攻略作戦|どうくつこうりゃくさくせん}[p]	Take Sunshine Cave
+10145	シトルド{中枢区攻略作戦|ちゅうすうくこうりゃくさくせん}[p]	Take Citold Central District
+10146	パルマスの{港攻略作戦|みなとこうりゃくさくせん}[p]	Take Port Palmas
+10147	ウッドエン{草原攻略作戦|そうげんこうりゃくさくせん}[p]	Take Wooden Plains
+10148	ボルドーマ{工場地帯攻略作戦|こうじょうちたいこうりゃくさくせん}[p]	Take Bordoma Works
+10149	ロンドニア{世界連合作戦|せかいれんごうさくせん}[p]	Ally with Londonia
+10150	ダンブル{城塞攻略作戦|じょうさいこうりゃくさくせん}[p]	Take Dumble Fortress
+10151	コールロンド{要塞攻略作戦|ようさいこうりゃくさくせん}[p]	Take Colerond Stronghold
+10152	デスフォレスト{攻略作戦|こうりゃくさくせん}[p]	Take Death Forest
+10153	エゼルダーム[p]	Ezeldarm
+10154	{空中空母|くうちゅうくうぼ}ドル・ガルーダ{突入作戦|とつにゅうさくせん}[p]	Storm Dol Garuda
+10155	ロシウス{世界連合作戦|せかいれんごうさくせん}[p]	Ally with Rossius
+10156	エンカ{古代遺跡哨戒任務|こだいいせきしょうかいにんむ}[p]	Patrol Enka Ancient Ruins
+10157	ロストエリア{突入作戦|とつにゅうさくせん}[p]	Storm Lost Area
+10158	ジーク・ギガンテス{突入作戦|とつにゅうさくせん}[p]	Storm Sieg Gigantes
+10159	ロストエリア{入口|いりぐち}[p]	Lost Area Entrance
+10160	フェンレス{雪原攻略作戦|せつげんこうりゃくさくせん}[p]	Take Fenless Snowfield
+10161	エンジェルピース{演習戦|えんしゅうせん}[p]	Angel Piece Drill
+10162	オアシス日{演習戦|えんしゅうせん}[p]	Oasis 3 Drill
+10163	ギガントの{壁|かべ}{演習戦|えんしゅうせん}[p]	Gigant Wall Drill
+10164	エルダーシティ{演習戦|えんしゅうせん}[p]	Elder City Drill
+10165	イーストエンドブリッジ{演習戦|えんしゅうせん}[p]	Eastend Bridge Drill
+10166	ブラックウィンドキャンプ{演習戦|えんしゅうせん}[p]	Blackwind Camp Drill
+10167	タンデムの{港演習戦|みなとえんしゅうせん}[p]	Port Tandem Drill
+10168	ハンシスク{雪原攻略作戦|せつげんこうりゃくさくせん}[p]	Take Hansisk Snowfield
+10169	ギルバトル{峡谷攻略作戦|きょうこくこうりゃくさくせん}[p]	Take Gilbattle Canyon
+10170	ナラトコ{砂原攻略作戦|すなはらこうりゃくさくせん}[p]	Take Naratko Sands
+10171	ブレイブ{氷原攻略作戦|ひょうげんこうりゃくさくせん}[p]	Take Brave Icefield
+10172	ミゼルダ{砂漠攻略作戦|さばくこうりゃくさくせん}[p]	Take Mizelda Desert
+10173	シンニコス{凍土攻略作戦|とうどこうりゃくさくせん}[p]	Take Shinnicos Tundra
+10174	モルクス{坑道攻略作戦|こうどうこうりゃくさくせん}[p]	Take Morkus Mine
+10175	ノースパークブリッジ{攻略作戦|こうりゃくさくせん}[p]	Take Northpark Bridge
+10176	ゴールドバレー{基地防衛戦|きちぼうえいせん}[p]	Defend Gold Valley Base
+10177	[x14:0000]{防衛|ぼうえい}{戦|せん}[p]	Defend [x14:0000]
+10178	エルダーシティ{防衛|ぼうえい}{戦|せん}[p]	Defend Elder City
+10179	ギガントの{壁防衛戦|かべぼうえいせん}[p]	Defend Gigant Wall
+10180	エンジェルピース{防衛|ぼうえい}{戦|せん}[p]	Defend Angel Piece

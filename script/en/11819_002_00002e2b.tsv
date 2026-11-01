@@ -1,0 +1,21 @@
+id	ja	en
+10	やあ、{君|きみ}が[var:0]かい？[n]ハッ、{当|あ}たりみたいだね。[p]	Hey, are you [var:0]? Hah, looks like I guessed right.
+11	{俺|おれ}は、{風摩|かざま}キリト。[n]{通|とお}りすがりのＬＢＸテストプレイヤーさ。[p]	I'm Kirito Kazama. Just a passing LBX test player.
+20	{今|いま}の{俺|おれ}は、タイニーオービット{社|しゃ}{専属|せんぞく}の[n]テストプレイヤー。{社長|しゃちょう}にこき{使|つか}われる{毎日|まいにち}さ。[p]	I'm Tiny Orbit's test player now. The president works me to the bone.
+21	{海道|かいどう}ジンたちとは、４{年前|ねんまえ}に{色々|いろいろ}あってね[n]それ{以来|いらい}の{付|つ}き{合|あ}いなのさ。[p]	A lot happened with Jin Kaido and the others four years ago.
+30	{神威|かむい}{大門|だいもん}{統合|とうごう}{学園|がくえん}……、ＬＢＸの{専門|せんもん}{校|こう}か。[n]すごい{時代|じだい}になったもんだな。[p]	Kamui Daimon Academy… an LBX school. What an age we live in.
+31	{今|いま}やＬＢＸは、{深海|しんかい}、{宇宙|うちゅう}と{活躍|かつやく}の{場|ば}を[n]{広|ひろ}げるばかり。{専門|せんもん}{校|こう}ができてもおかしくない。[p]	LBX are reaching the deep sea and space. An LBX school makes sense.
+32	{俺|おれ}も{君|きみ}たちぐらいの{時|とき}に、{神威|かむい}{大門|だいもん}があれば[n]{迷|まよ}わず{入学|にゅうがく}していたかもしれないな……。[p]	If Kamui Daimon had existed back then, I might've enrolled myself…
+40	{俺|おれ}の{話|はなし}は{以上|いじょう}だ。[n]{次|つぎ}は、{君|きみ}の{話|はなし}を{聞|き}こうか？[p]	That's all from me. Shall I hear what you have to say next?
+50	{君|きみ}、いい{買|か}い{物|もの}をしたね。[p]	You made a good purchase.
+60	{別|べつ}に{構|かま}いやしないさ。[n]{君|きみ}の{好|す}きなようにすればいい。[p]	I don't mind. Do as you like.
+70	じゃあ、{俺|おれ}はこれで{失礼|しつれい}するよ。[p]	Well, I'll be going now.
+80	フッ、{期待|きたい}には{応|こた}えてみせるよ。[p]	Heh, I'll live up to your expectations.
+90	やあ。まったくこの{島|しま}は{不便|ふべん}だねェ。{本土|ほんど}から[n]パーツを{取|と}り{寄|よ}せるだけで{五日|いつか}もかかるとはね。[p]	Hey. This island's a pain. Five days to get parts from the mainland.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{家|かね}が{足|た}りません。[p]	Not enough money.
+60002	{風摩|かざま}キリトをスカウトしました。[p]	You scouted Kirito Kazama!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{風摩|かざま}キリトとわかれた。[p]	Kirito Kazama has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

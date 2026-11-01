@@ -1,0 +1,21 @@
+id	ja	en
+10	{俺|おれ}は{井吹|いぶき}ムネマサ。[n]お{前|まえ}が、[var:0]か。[p]	I'm Munemasa Ibuki. So you're [var:0].
+11	{背|せ}が{高|たか}いって？　ああ、サッカーを{始|はじ}める{前|まえ}は[n]バスケットボールの{選手|せんしゅ}だったんでな。[p]	Tall? Yeah, before soccer I was a basketball player.
+20	ＬＢＸの{操作|そうさ}を{教|おし}えてやる、だと？[n]{断|ことゎ}る。{俺|おれ}は{人|ひと}に{指図|さしず}されるのが{大嫌|だいきら}いなんでな。[p]	You'll teach me to control LBX? No. I hate being told what to do.
+21	{俺|おれ}には{俺|おれ}のやり{方|かた}があるんだ。[n]{余計|よけい}な{口出|くちだ}しするな。[p]	I've got my own way of doing things. Don't butt in.
+30	フン。{俺|おれ}が{本気|ほんき}を{出|だ}せば[n]ＬＢＸだろうがサッカーだろうが、{朝飯|あさめし}{前|まえ}だ。[p]	Hmph. If I get serious, LBX or soccer, it's a piece of cake.
+31	{信|しん}じられないなら、{見|み}せてやる。[n]その{代|か}わり、{次|つぎ}のバトルで{必|かなら}ず{俺|おれ}を{出|だ}せよ。[p]	If you don't believe me, I'll show you. But put me in the next battle.
+32	そして、{俺|おれ}の{前|まえ}に{立|た}つんじゃない。[n]こいつは{忠告|ちゅうこく}だ。わかったな？[p]	And don't stand in front of me. That's a warning. Got it?
+40	それで、{俺|おれ}に{何|なん}の{用|よう}だ？[p]	So, what do you want with me?
+50	いいね。{受|う}け{取|と}ってやるよ。[p]	Nice. I'll take it.
+60	フン、{俺|おれ}に{指図|さしず}するな。[p]	Hmph, don't tell me what to do.
+70	じゃあ、またな。[p]	See you.
+80	フン、{今日|きょう}のところは{従|したが}ってやるよ。[p]	Hmph, I'll go along with it today.
+90	フン、{学校|がっこう}か。めんどくだな。[p]	Hmph, school. What a pain.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{井吹|いぶき}ムネマサをスカウトしました。[p]	You scouted Munemasa Ibuki!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{井吹|いぶき}ムネマサとわかれた。[p]	Munemasa Ibuki has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

@@ -1,0 +1,21 @@
+id	ja	en
+10	うおっす！　{俺|おれ}はホワイトフォックスの[n]{赤星|あかぼし}カンジだ、よろしく{頼|たの}むぜ。[p]	Yo! I'm Kanji Akaboshi of the White Fox. Good to meet ya!
+11	{青菜|あおな}シンジって{奴|やつ}と{合|あ}わせて、{赤|あか}{青|あお}コンビ！[n]……なんつってな！[p]	With that Shinji Aona guy, we're the Red-Blue Combo! …Just kiddin'!
+20	お{前|まえ}も、{時間|じかん}があるなら{身体|からだ}を[n]{動|うご}かした{方|ほう}がいいぞ！　どりゃ！　うりゃ！[p]	If you've got time, you should get moving too! Hup! Hyah!
+21	うりゃ……、あっ！　ズボンのケツが[n]{破|やぶ}けちまったぜ！　ま、いいか。[p]	Hyah… Oh! I ripped the seat of my pants! Eh, whatever.
+30	よぉ、[var:0]！[n]{一緒|いっしょ}にサッカーでもするか？[p]	Yo, [var:0]! Wanna play some soccer?
+31	でも、{２人|ふたり}じゃ{試合|しあい}はできねえなぁ。[n]シンジでも{呼|よ}んで……、{来|く}るわけねーか。[p]	Two's not enough for a match. Call Shinji… Nah, he'd never come.
+32	やっぱり{俺|おれ}らがやるのは、ＬＢＸバトルだよな！[p]	Guess LBX battles are our thing after all!
+40	で、どうしたんだ？[p]	So, what's up?
+50	おう、ありがとうよ！[p]	Hey, thanks!
+60	もっと{暴|あば}れたかったんだが、しょうがねぇ。[n]そんじゃあ、ホワイトフォックスに{戻|もど}るぜ！[p]	I wanted to cut loose more, but oh well. Back to the White Fox!
+70	またな！[p]	Later!
+80	おう！　よろしく{頼|たの}むぜ！[p]	Yeah! Count on me!
+90	{良|い}い{朝|あさ}だな！　{力|ちから}がみなぎってくるぜ！[p]	Great morning! I'm bursting with energy!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{赤星|あかぼし}カンジをスカウトしました。[p]	You scouted Kanji Akaboshi!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{赤星|あかぼし}カンジとわかれた。[p]	Kanji Akaboshi has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

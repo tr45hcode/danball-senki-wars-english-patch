@@ -1,0 +1,21 @@
+id	ja	en
+10	{俺|おれ}の{名|な}は、{薬師寺|やくしじ}ホクト。 お{前|まえ}は？[n]……そうか。[var:0]っていうのか。[p]	My name is Hokuto Yakushiji. And you? …I see. [var:0], is it?
+11	{不思議|ふしぎ}だな、なぜか{初|はじ}めて{会|あ}った{気|き}がしないよ。[p]	Strange. It doesn't feel like we've just met.
+20	{俺|おれ}の{所属|しょぞく}{国|こく}、グレンシュテイムは[n]セカンドワールド{最高|さいこう}の{科学|かがく}{技術|ぎじゅつ}が{自慢|じまん}だ。[p]	My nation, Glenstheim, has the best technology in the Second World.
+21	{優|すぐ}れた{技術|ぎじゅつ}は、{美|うつく}しさを{⟨併⟩|あゎ}せ{持|も}つものだ。[n]{日本刀|にほんとう}などが、いい{例|れい}だな。[p]	Great technology is beautiful too. A Japanese sword is a fine example.
+30	{純喫茶|じゅんきっさ}スワローの{紅茶|こうちゃ}を{飲|の}んだ{事|こと}があるかい？[n]あれは、じつに{上品|じょうひん}な{香|かお}りがするね。[p]	Ever had the tea at Cafe Swallow? It has a truly refined aroma.
+31	パフェも{悪|ゎる}くないけど、{俺|おれ}には{甘|あま}くてね。[n]ちょっとほろ{苦|にが}いくらいが{丁度|ちょうど}いいのさ。[p]	The parfaits aren't bad, but too sweet for me. A little bitter suits me best.
+32	お{前|まえ}との{関係|かんけい}も、{甘|あま}すぎず{苦|にが}すぎず[n]いい{感|かん}じでやってけたら、{嬉|うれ}しいね。[p]	I'd be glad if we got along like that too. Not too sweet, not too bitter.
+40	おや、{俺|おれ}に{何|なに}か{用|よう}かい？[p]	Oh, need something from me?
+50	プレゼント？　{俺|おれ}にかい？[n]それは、どうもありがとう。[p]	A present? For me? Thank you very much.
+60	{俺|おれ}を{使|つか}わないつもりかい？[n]{勿体|もったい}ない{事|こと}をするものだね。[p]	You're not going to use me? What a waste.
+70	{有意義|ゆういぎ}な{時間|じかん}だった。また{呼|よ}んでくれ。[p]	That was time well spent. Call me again.
+80	{俺|おれ}の{実力|じつりょく}が{必要|ひつよう}なんだね？[n]いいだろう、{協力|きょうりょく}するよ！[p]	You need my skills? Very well, I'll help!
+90	おはよう、[var:0]。[n]{今日|きょう}の{相手|あいて}も、きっちり{倒|たお}してやるよ。[p]	Morning, [var:0]. I'll take down today's opponents properly too.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{薬師寺|やくしじ}ホクトをスカウトしました。[p]	You scouted Hokuto Yakushiji!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{薬師寺|やくしじ}ホクトとわかれた。[p]	Hokuto Yakushiji has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

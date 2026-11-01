@@ -1,0 +1,21 @@
+id	ja	en
+10	{戦|たたか}いに{荒|すさ}む{神威島|かむいとう}に{射|さ}す、{美|うつく}しき{光|ひかり}……[n]{一重|ひとえ}ライトとは、{私|ゎたし}のことだ！[p]	A beautiful light shining on war-torn Kamui Island… I am Raito Hitoe!
+11	あまりの、{眩|まぶ}しさに{驚|おどろ}いたかな？[n]{初|はじ}めてなら、まぁ{無理|むり}もない。{早|はや}く{慣|な}れたまえ。[p]	Dazzled by my brilliance? Natural the first time. Get used to it.
+20	この{世|よ}は{美|うつく}しさが{全|すべ}てだよ。[n]{強|つよ}くなりたいなら、{私|ゎたし}の{美|うつく}しさを{見習|みなら}うんだね。[p]	Beauty is everything in this world. If you want strength, learn from my beauty.
+21	{神威島|かむいとう}の{中|なか}で、{最|もっと}も{美|うつく}しいのは[n]{明|あき}らかに、この{私|ゎたし}だからね。[p]	The most beautiful thing on Kamui Island is clearly me, after all.
+30	[var:0]ではないか。[n]{今日|きょう}の{私|ゎたし}も{美|うつく}しいかな？[p]	Why, it's [var:0]. Am I beautiful today?
+31	フフフ、{美|び}は１{日|にち}にして{成|な}らず。[n]{毎日|まいにち}、お{前|まえ}に{称|たた}えられるのも{美|び}の{秘訣|ひけつ}なのだよ。[p]	Heh heh, beauty isn't made in a day. Your daily praise is my secret.
+32	{友情|ゆうじょう}も{同|おな}じだ。この{美|うつく}しさを{教|おし}えてくれたのは[n][var:0]、お{前|まえ}だ。{感謝|かんしゃ}している。[p]	Friendship is the same. You taught me its beauty, [var:0]. I'm grateful.
+40	さて、{私|ゎたし}もヒマではないのでね。[n]{用件|ようけん}ならば、{美|うつく}しく{頼|たの}む。[p]	Now, I'm not idle either. If you need something, ask beautifully.
+50	なかなかに{美|うつく}しい{贈|おく}り{物|もの}だね。{気|き}に{入|い}ったよ。[p]	Quite a beautiful gift. I like it.
+60	どうしたというのだ？[n]お{前|まえ}らしからぬ、{判断|はんだん}だな。{美|うつく}しくない。[p]	What's this? An unlike-you decision. Not beautiful.
+70	フッ、{去|さ}り{際|ぎゎ}こそ{美|うつく}しくしたいのでな。[n]これで{失礼|しつれい}する。[p]	Heh, I want my exit to be beautiful. I'll take my leave.
+80	さあ、{美|うつく}しいショーの{始|はじ}まりだよ！[p]	Now, let the beautiful show begin!
+90	おはよう、[var:0]。[n]{何気|なにげ}ない{朝|あさ}も、{私|ゎたし}が{居|い}れば{美|うつく}しいだろう？[p]	Morning, [var:0]. Even an ordinary morning is beautiful with me in it, no?
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{一重|ひとえ}ライトをスカウトしました。[p]	You scouted Raito Hitoe!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{一重|ひとえ}ライトとわかれた。[p]	Raito Hitoe has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

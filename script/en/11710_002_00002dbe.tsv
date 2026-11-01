@@ -1,0 +1,21 @@
+id	ja	en
+10	あ、[var:0]さん。[n]お{疲|つか}れ{様|さま}です。{篠目|しのめ}アカネです。[p]	Oh, [var:0]. Good work today. It's Akane Shinome.
+11	これからも{私|ゎたし}たちジェノック{第|だい}３{小隊|しょうたい}も{含|ふく}め[n]よろしくお{願|ねが}いしますね！[p]	Please keep looking out for us in Jenock 3rd Squad too!
+20	{私|ゎたし}の{任務|にんむ}はパラサイトキーの{警護|けいご}でした。[n]{残念|ざんねん}ながら、{任務|にんむ}は{失敗|しっぱい}してしまいましたが……[p]	My mission was guarding the Parasite Key. Sadly, I failed…
+21	{今度|こんど}は{隊長|たいちょう}やクラスのみんなを{守|まも}るために[n]{戦|たたか}いたいと{思|おも}います。[p]	This time, I want to fight to protect the captain and the class.
+30	{体|からだ}を{動|うご}かすのって、{楽|たの}しいですよね！[n]{私|ゎたし}は{幼|おさな}いころから{柔道|じゅうどう}を{習|なら}っているのですが[p]	Moving your body is fun, isn't it? I've done judo since I was little.
+31	{最近|さいきん}、{体|からだ}がなまってしまって……。[n]{良|よ}かったら、{一緒|いっしょ}に{練習|れんしゅう}しませんか？[p]	But lately I've gotten rusty… Would you like to practice with me?
+32	{隊長|たいちょう}とロイには{断|ことゎ}られてしまったんです。[n]{私|ゎたし}、{一生懸命|いっしょうけんめい}{教|おし}えますので、ぜひ！[p]	The captain and Roy turned me down. I'll teach you my very best, so please!
+40	それで、{私|ゎたし}に{何|なに}かご{用|よう}でしょうか？[p]	So, is there something I can do for you?
+50	ありがとうございます！[p]	Thank you very much!
+60	そんなっ！　{私|ゎたし}では{役|やく}に{立|た}ちませんでしたか？[n]……くやしいです。[p]	No! Was I no use to you? …That's so frustrating.
+70	では、{失礼|しつれい}します！[p]	Well, excuse me!
+80	はい。{協力|きょうりょく}して{戦|たたか}うんですね？[n]わかりました。あなたの{事|こと}は{私|ゎたし}が{守|まも}ります！[p]	Yes. We'll fight together, right? Understood. I'll protect you!
+90	おはようございます！[n]さぁ、{張|は}り{切|き}って{登校|とうこう}しましょう！[p]	Good morning! Let's head to school full of energy!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{篠目|しのめ}アカネをスカウトしました。[p]	You scouted Akane Shinome!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{篠目|しのめ}アカネとわかれた。[p]	Akane Shinome has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

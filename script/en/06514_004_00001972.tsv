@@ -1,0 +1,18 @@
+id	ja	en
+1000	{大|おお}きなグラップルがついたショベルカー。[n]{大量|たいりょう}の{廃棄|はいき}ＬＢＸを{整理|せいり}する{際|さい}に{使用|しよう}される。[p]	An excavator with a big grapple, used to sort huge piles of scrapped LBX.
+1010	ウォータイムで{使命|しめい}を{終|お}えたＬＢＸを[n]{供養|くよう}する{目的|もくてき}で{建|た}てられた{石碑|せきひ}。[p]	A monument built to honor LBX that served in War Time.
+1011	ウワサでは、この{石碑|せきひ}の{前|まえ}にＬＢＸの{亡励|ぼうれい}が{現|あらゎ}れ[n]{夜|よ}な{夜|よ}なうめき{声|ごえ}をあげているという……。[p]	Rumor says an LBX ghost appears before it, moaning night after night…
+1020	{使命|しめい}を{終|お}えたＬＢＸは{定期的|ていきてき}に{本土|ほんど}へ{送|おく}られ[n]リサイクルへと{回|まゎ}される。[p]	Retired LBX are regularly shipped to the mainland for recycling.
+1030	{使命|しめい}を{終|お}えたＬＢＸが{静|しず}かに{眠|ねむ}っている……。[p]	Retired LBX lie quietly at rest…
+1040	{今回|こんかい}の{猿田|さるた}{塾|じゅく}はここまでとする。{互|たが}いに{礼|れい}！[n]これからも{修練|しゅうれん}を{怠|おこた}るなよ。[p]	That's all for today. Bow to each other! Keep up your training.
+50000	コンテナの{中|なか}で{何|なに}か{光|ひか}るものを{見|み}つけた。[n][var:0]は[n]『ハイパーエネルギー{弾|ヌバ}』の[n]データディスクを{手|て}に{入|い}れた！[p]	Something shiny inside the container![n][var:0] got the Hyper Energy Shot data disc!
+50001	あとで、{編成|へんせい}メニューがオープンしたら[n]{確認|かくにん}しよう。[p]	Check it later, once the Formation menu opens.
+50010	コンテナの{中|なか}で{何|なに}か{光|ひか}るものを{見|み}つけた。[n][var:0]は[n]『グレネードＳ』を[n]{手|て}に{入|い}れた！[p]	Something shiny inside the container![n][var:0] got Grenade S!
+50011	あとで、{編成|へんせい}メニューがオープンしたら[n]{確認|かくにん}しよう。[p]	Check it later, once the Formation menu opens.
+60000	[x14:0200]ＳＣ{払|はら}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	⟨〇⟩⟨〇⟩をスカウトしました。[p]	You scouted a new teammate!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	⟨〇⟩⟨〇⟩とわかれた。[p]	Your teammate has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]{別|ゎか}れないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

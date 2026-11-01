@@ -1,0 +1,21 @@
+id	ja	en
+10	あんた、{見|み}ない{顔|かお}ね。{最初|さいしょ}の{挨拶|あいさつ}くらい[n]ちゃんとしておかないと、{後|あと}がコワイわよ……。[p]	Haven't seen you before. If you don't greet people properly, you'll regret it…
+11	{私|ゎたし}は、{九井|ここのい}コマチよ。[n]まぁ、せいぜい{私|ゎたし}を{楽|たの}しませなさい。[p]	I'm Komachi Kokonoi. Well, try your best to entertain me.
+20	ふーん、ちゃんと{挨拶|あいさつ}はしてるみたいね。[n]でも、{私|ゎたし}には１{回|かい}でいいわ。ウザいから。[p]	Hmm, so you do say hello. But once is enough for me. You're annoying.
+21	……{何|なに}よ？　{話|はなし}はもう{終|お}わりよ。[p]	…What? This conversation is over.
+30	あんたも{案外|あんがい}、しぶといわね。[n]てっきり、すぐ{退学|たいがく}になると{思|おも}ってたのに。[p]	You're tougher than you look. I was sure you'd get expelled right away.
+31	まあ、{私|ゎたし}が{力|ちから}を{貸|か}してやってるんだから[n]{当然|とうぜん}といえば、{当然|とうぜん}だけどね。[p]	Well, I'm lending you my strength, so it's only natural.
+32	{感謝|かんしゃ}なさい。この{私|ゎたし}が{仲間|なかま}になってあげている[n]この{奇跡|きせき}にね。[p]	Be grateful. For the miracle of having me on your side.
+40	フン、{何|なん}の{用|よう}よ？[p]	Hmph, what do you want?
+50	こんな{物|もの}で、{機嫌|きげん}を{取|と}ろうってワケ？[p]	Trying to win me over with this?
+60	どうせ{私|ゎたし}が{邪魔|じゃま}なんでしょ？[n]フン。あんたは、そういうヤツなのよ。[p]	You think I'm in the way, right? Hmph. That's just how you are.
+70	グフフッ。また{遊|あそ}んであげる。[p]	Gufufu. I'll play with you again.
+80	まあ、いいわ。{力|ちから}を{貸|か}してやろうじゃない。[p]	Fine. I'll lend you my strength.
+90	あら、おはよう。{今朝|けさ}はあんたが[n]{敵|てき}にやられる{夢|ゆめ}を{見|み}たわ。{予知夢|よちむ}かもね？[p]	Oh, morning. I dreamed an enemy took you down. Maybe it was a premonition?
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{九井|ここのい}コマチをスカウトしました。[p]	You scouted Komachi Kokonoi!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{九井|ここのい}コマチとわかれた。[p]	Komachi Kokonoi has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

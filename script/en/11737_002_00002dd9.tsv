@@ -1,0 +1,21 @@
+id	ja	en
+10	なんだぁ？　{随分|ずいぶん}と、{気安|きやす}く{話|はな}しかけてきたな。[n]お{前|まえ}、{俺|おれ}{様|さま}が{誰|だれ}かわかってんのか？[p]	Huh? Pretty casual, talkin' to me like that. You know who I am?
+11	あの{雨水|うすい}マモル{様|さま}だぞ！　{雨水|うすい}マ・モ・ル！ [n]{知|し}らないなら{覚|おぼ}えとけ！[p]	The great Mamoru Usui! Ma-mo-ru U-su-i! Remember it!
+20	おっ？　{俺|おれ}{様|さま}の{迫力|はくりょく}にビビってるのか？　[n]{可愛|かゎい}いトコあるじゃねぇか！ ヒャハハ！[p]	Oh? Scared of my presence? That's kinda cute! Hyahaha!
+21	{何|なに}……、{迫力|はくりょく}なんてまるで{感|かん}じないだと？[n]つ、{強|つよ}がりは、その{辺|へん}にしておくんだな！[p]	What… You don't feel any presence at all? Q-quit actin' tough!
+30	どうした？　やっと、お{前|まえ}も[n]この{俺|おれ}{様|さま}の{真|しん}の{強|つよ}さに{気|き}づいたのか？[p]	What's up? Finally noticed my true strength?
+31	……わかってるさ、{俺|おれ}{様|さま}は{別|べつ}に{特別|とくべつ}じゃねえ。[n]{弱|よゎ}い{自分|じぶん}を{認|みと}めたくなくて、{強|つよ}がってるだけだ。[p]	…I know I'm nothin' special. I act tough 'cause I can't admit I'm weak.
+32	……ってオイ、{優|やさ}しいフォローはどうした！？[n]ここでフォローすんのが{友達|ともだち}の{役目|やくめ}だろうが！[p]	…Hey, where's the nice pep talk!? That's what friends are for!
+40	んで、{俺|おれ}{様|さま}に{何|なん}の{用|よう}よ？[p]	So, what d'you want with the great me?
+50	ま、マジで！？　マジでもらっていいの！？[p]	S-seriously!? I can seriously have this!?
+60	お、{俺|おれ}{様|さま}はまだ{実力|じつりょく}を{出|だ}し{切|き}ってねーぜ。[n]ほ、{本当|ほんとう}にいいのか？　{後悔|こうかい}するぜ？[p]	I-I haven't shown my real power yet. Y-you sure? You'll regret it.
+70	もう{終|お}わりか？　じゃあ、あばよ！[p]	Done? Then later!
+80	……へっへっへ、そうだよな！[n]やっぱり{俺|おれ}{様|さま}がいねえと{始|はじ}まらねえよなあ！[p]	…Heh heh heh, that's right! Nothin' starts without the great me!
+90	へっ、この{俺|おれ}{様|さま}が{直々|じきじき}に{来|き}てやったぜ！[n]ありがたく{思|おも}うんだな。[p]	Heh, the great me came in person! Be grateful.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{家|かね}が{足|た}りません。[p]	Not enough money.
+60002	{雨水|うすい}マモルをスカウトしました。[p]	You scouted Mamoru Usui!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{雨水|うすい}マモルとわかれた。[p]	Mamoru Usui has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

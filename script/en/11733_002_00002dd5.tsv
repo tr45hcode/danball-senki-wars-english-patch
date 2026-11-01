@@ -1,0 +1,21 @@
+id	ja	en
+10	ワタシの{名前|なまえ}ハ、エスティー・ベル！[n]アラビスタ{同盟|どうめい}デ、{頑張|がんば}ッテマース！[p]	My name is Estee Bell! Me work hard in Arabista Alliance!
+11	アナタも[x14:0000]で{頑張|がんば}ッテル！[n]イイコトネー！[p]	You work hard in [x14:0000]! Is good thing!
+20	アナタは、[var:0]サンネ！[n]{覚|おぼ}えておきマース！[p]	You are [var:0]! Me remember!
+21	トモダチの{名前|なまえ}に、ニホンゴ……[n]オボエル{事|こと}、タクサンでパニックよ！[p]	Friends' names, Japanese… So much to remember, me panic!
+30	ワタシ、アナタとトモダチになって[n]とってもハッピー！　そう{思|おも}いマース！[p]	Me become your friend, so very happy! This is what me think!
+31	ハッピーだと、{毎日|まいにち}{毎日|まいにち}がスマイルね！[n]ウレシイの！[p]	When happy, every day is smiles! So glad!
+32	ウレシイからハッピー！[n]ハッピーだからウレシイ！　{止|と}まらないネ！[p]	Glad so happy! Happy so glad! Me cannot stop!
+40	{次|つぎ}は、アナタがお{話|はなし}する{番|ばん}デスヨ～！[p]	Next is your turn to talk, okaaay!
+50	ワオ！　アリガトウ！　{嬉|うれ}しいデース。[p]	Wow! Thank you! Me so glad!
+60	ちょっと、{寂|さび}しいデース……。[p]	Me little bit lonely…
+70	じゃあ、また{今度|こんど}デース。[p]	Then, see you next time!
+80	{嬉|うれ}しい！　{頑張|がんば}りマース！[p]	So glad! Me do my best!
+90	グッモーニング！[n]{今日|きょう}も{頑張|がんば}りマショウ！[p]	Good morning! Let's do our best today!
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	エスティー・ベルをスカウトしました。[p]	You scouted Estee Bell!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	エスティー・ベルとわかれた。[p]	Estee Bell has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

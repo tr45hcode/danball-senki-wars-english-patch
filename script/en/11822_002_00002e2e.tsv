@@ -1,0 +1,21 @@
+id	ja	en
+10	やあ、キミは[var:0]だね。[n]ボクは{神谷|かみや}コウスケ。ＬＢＸプロプレイヤーさ。[p]	Hi, you're [var:0]. I'm Kosuke Kamiya. LBX pro player.
+11	キミがここに{来|く}る{事|こと}は、わかっていたさ。[n]このボクに{見通|みとお}せないものはないからね。[p]	I knew you'd come here. Nothing escapes my sight.
+20	{勝利|しょうり}にどん{欲|よく}なプレイヤーは{美|うつく}しくない。[n]キミもそう{思|おも}わないかい？[p]	Players who are greedy for victory aren't beautiful. Don't you agree?
+21	ＬＢＸのバトルは、{第一|だいいち}に{美|うつく}しくあるべきだ。[n]{勝|か}ち{負|ま}けなんてものは、{二|に}の{次|つぎ}だよ。[p]	An LBX battle should be beautiful first. Winning or losing comes second.
+30	{究極|きゅうきょく}の{美|び}とは、{何|なに}か？[n]キミにはその{問|と}いの{應|こた}えが{理解|りかい}できそうだね。[p]	What is ultimate beauty? You seem able to understand the answer.
+31	{極|きゎ}まった{美|うつく}しさは{言葉|ことば}に{表|あらゎ}す{事|こと}ができない。[n]それが、{世界|せかい}のルールだから。[p]	Perfect beauty can't be put into words. That's the rule of the world.
+32	キミならば{理解|りかい}できるはずだ。[n]{神|かみ}とボクとに{選|えら}ばれた{君|きみ}ならばね。[p]	You should understand. You were chosen by God and by me.
+40	ボクに{用|よう}があるみたいだね？[n]{言|い}ってみるといい。[p]	Looks like you need me? Go ahead and say it.
+50	フッ……。[n]やはり、ボクは{神|かみ}に{愛|あい}されている。[p]	Heh… I truly am beloved by God.
+60	{世界|せかい}のルールに{逆|さか}らうというのかい？[n]{残念|ざんねん}だな。{美|うつく}しくないよ、それは。[p]	You'd defy the rule of the world? Shame. That isn't beautiful.
+70	じゃあ、ボクは{行|い}くよ。[n]{大丈夫|だいじょうぶ}さ。きっとまた{会|あ}える。[p]	Well, I'm off. Don't worry. We'll surely meet again.
+80	ボクの{力|ちから}が{必要|ひつよう}というわけだ。[n]{良|い}いだろう。{共|とも}に{美|び}を{追求|ついきゅう}しようじゃないか。[p]	So you need my power. Very well. Let us pursue beauty together.
+90	……おはよう、[var:0]。[n]{学校|がっこう}？　フッ、ご{苦労|くろう}な{事|こと}だな。[p]	…Morning, [var:0]. School? Heh, how diligent of you.
+60000	[x14:0200]{ＳＣ|ェホダモゟボエコジ}{払|タベ}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	{神谷|かみや}コウスケをスカウトしました。[p]	You scouted Kosuke Kamiya!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	{神谷|かみや}コウスケとわかれた。[p]	Kosuke Kamiya has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]わかれないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.

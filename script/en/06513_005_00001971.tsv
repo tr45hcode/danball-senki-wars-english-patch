@@ -1,0 +1,32 @@
+id	ja	en
+1000	{神威|かむい}{大門|だいもん}{統合|とうごう}{学園|がくえん}。[n]{山|やま}の{上|うえ}にそびえる{校舎|こうしゃ}が{港|みなと}からも{見|み}える。[p]	Kamui Daimon Academy. The school on the hill is visible from the port.
+1010	{島|しま}に{運|はこ}ばれる{貨物|かもつ}{運搬用|うんぱんよう}のクレーン。[n]{重|おも}いものも{軽々|かるがる}と{持|も}ち{上|あ}げる。[p]	A crane for unloading the island's cargo. It lifts heavy loads with ease.
+1020	レトロな{雰囲気|ふんいき}を{感|かん}じさせるレンガ{造|づく}りの{倉庫|そうこ}。[p]	A retro brick warehouse.
+1030	{地面|じめん}から{突|つ}き{出|だ}した{杭|くい}。[n]{係留|けいりゅう}ロープで{船|ふね}が{流|なが}されないようにしている。[p]	Posts sticking up from the ground. Mooring ropes keep ships from drifting.
+1040	{船|ふね}や{水上|すいじょう}{構造物|こうぞうぶつ}を{運|はこ}ぶ{船|ふね}。[n]{小|ちい}さいが{大|おお}きな{船|ふね}をも{引|ひ}っ{張|ぱ}る{力持|ちからも}ち。[p]	A boat that tows ships. Small, but strong enough to pull big ones.
+1050	{神威|かむい}{島|とう}の{周|まゎ}りを{囲|かこ}む、きれいな{海|うみ}。[n]おだやかで、{海面|かいめん}はキラキラと{輝|かがや}いている。[p]	The beautiful sea around Kamui Island, calm and sparkling.
+2001	{星原|ほしはら}……。やっぱり{聞|き}き{覚|おぼ}えがあるんだよな。[n]う～ん、どこで{聞|き}いたんだっけ？[p]	Hoshihara… I'm sure I've heard that name. Hmm, where was it?
+2002	……なあ、[var:0]。[n]ウォータイムって、{何|なん}やろな？[p]	…Hey, [var:0]. What is War Time, anyway?
+2003	スズネ、ショックを{受|う}けてるみたいだね。[p]	Suzune seems shaken.
+2004	……おっと、ごめん、ごめん！[n]とにかく{商店街|しょうてんがい}に{行|い}こうぜ！[p]	…Whoops, sorry, sorry! Anyway, let's go to the Shopping District!
+2005	[var:0]。[n]{下|した}{画面|がめん}から{商店街|しょうてんがい}を{選|えら}ぶんだ。[p]	[var:0], choose the Shopping District on the bottom screen.
+2006	そこを{抜|ぬ}ければ[n]きっと、{神威大門|かむいだいもん}{統合学園|とうごうがくえん}は{目|め}の{前|まえ}だぜ！[p]	Get through there, and Kamui Daimon Academy should be right ahead!
+2007	あいつらはウォータイムは{遊|あそ}びじゃないって[n]{言|い}っとったけど。ウチは、ウチはな……[p]	They said War Time ain't a game. But me, I just…
+2008	{戦争|せんそう}なんかやのーて[n]ただ、ＬＢＸバトルを{楽|たの}しみたいだけなんや。[p]	I don't want a war. I just wanna enjoy LBX battles.
+2009	これって、おかしい{事|こと}なんかな？[n]ウチが{間違|まちご}うとるんやろか？[p]	Is that so weird? Am I the one who's wrong?
+2010	{大丈夫|だいじょうぶ}。スズネは{間違|まちが}ってない。[n]{少|すく}なくとも{僕|ぼく}たちはそう{思|おも}ってるよ。[p]	It's okay. You're not wrong, Suzune. At least, we don't think so.
+2011	…………。[p]	…………
+2012	さよか……、{２人|ふたり}ともおおきにな。[p]	I see… Thanks, you two.
+2013	[var:0][n]{優|やさ}しく{声|こえ}を{掛|か}けてみようよ。[p]	[var:0], let's talk to her gently.
+2014	きっと、{一緒|いっしょ}に{転入|てんにゅう}する{予定|よてい}の{１人|ひとり}だ。[n]{話|はな}しかけてみようぜ。[p]	That must be another transfer student. Let's talk to them.
+2015	{下画面|したがめん}の『しらべる』アイコンを{選|えら}んで[n]あいつを{選択|せんたく}するんだ。[p]	Tap the Examine icon on the bottom screen and select that person.
+50000	{倉庫|そうこ}の{近|ちか}くで{何|なに}か{光|ひか}るものを{見|み}つけた。[n][var:0]は[n]２０００ＳＣ{分|ぶん}のプリペイドカードを[n]{手|て}に{入|い}れた！[p]	Something shiny near the warehouse![n][var:0] got a prepaid card worth 2,000 SC!
+50010	{巨大|きょだい}な{船|ふね}のかげに{何|なに}かが{隠|かく}れていた。[n][var:0]は[n]『デッドブラスト』の[n]データディスクを{手|て}に{入|い}れた！[p]	Something was hidden in a big ship's shadow![n][var:0] got the Dead Blast data disc!
+50011	あとで、{編成|へんせい}メニューがオープンしたら[n]{確認|かくにん}しよう。[p]	Check it later, once the Formation menu opens.
+60000	[x14:0200]ＳＣ{払|はら}ってスカウトしますか？[p]	Scout for [x14:0200] SC?
+60001	お{金|かね}が{足|た}りません。[p]	Not enough money.
+60002	⟨〇⟩⟨〇⟩をスカウトしました。[p]	You scouted a new teammate!
+60003	この{仲間|なかま}とわかれますか？[p]	Part ways with this teammate?
+60004	{一度|いちど}わかれると{現在|げんざい}のレベル・スキル[n]アーマーフレーム{熟練度|じゅくれんど}などが[n]すべてリセットされます。[n]{本当|ほんとう}にわかれますか？[n][p]	If you part ways, their current level,[n]skills, Armor Frame Mastery and more[n]will all be reset.[n]Do you really want to part ways?
+60005	⟨〇⟩⟨〇⟩とわかれた。[p]	Your teammate has left the team.
+60006	{仲間|なかま}がいっぱいです。[n]{別|ゎか}れないとスカウトできません。[p]	Your team is full. You can't scout[n]without letting someone go.
