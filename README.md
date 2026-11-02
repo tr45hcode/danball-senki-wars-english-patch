@@ -26,7 +26,7 @@ python3 tools/xlate.py check < lines.txt      # fix BAD lines, repeat
 python3 tools/xlate.py batch b.tsv < lines.txt && python3 tools/fill_translations.py b.tsv
 ```
 
-`show` lists untranslated lines with the furigana collapsed. `check` and `batch` read shorthand like `52600:4 English` (or `52600.4:1 Tag` for a name tag file); `check` wraps each line exactly the way the build will and prints its width in pixels, and `batch` turns the lines into a file `fill_translations.py` can merge. There's also `reuse out.tsv 526`, which fills speaker tags from `script/speaker_names.tsv` and copies exact repeats of lines that are already translated. Read what it copies before merging, because a short reply like "Yes, sir." only fits when the person being answered is someone you'd call sir.
+`show` lists untranslated lines with the furigana collapsed, keyed the same way the other commands read them, so you can paste its output back with English in place of the Japanese. `check` and `batch` read shorthand like `52600:4 English` (or `52600.4:1 Tag` for a name tag file); `check` wraps each line exactly the way the build will and prints its width in pixels, and `batch` turns the lines into a file `fill_translations.py` can merge. There's also `reuse out.tsv 526`, which fills speaker tags from `script/speaker_names.tsv` and copies exact repeats of lines that are already translated. Read what it copies before merging, because a short reply like "Yes, sir." only fits when the person being answered is someone you'd call sir.
 
 Markup you'll meet:
 
@@ -40,6 +40,8 @@ Markup you'll meet:
 The font has no `!`, `"`, `[`, `]`, `<`, `>` or `~` in its ASCII set. `!` got redrawn into the font, and the rest get swapped for the nearest full-width glyph.
 
 The system text exists twice, at 14 px (`01000_098`) and 10 px (`01000_100`) with the same ids. Translate `01000_098` only; the build copies those lines into the 10 px bank.
+
+Some system lines are fragments the game glues to a name or number at runtime (17320 + 17321 make `[item] x[N] obtained!`). The build keeps spaces at either end of a translation, so a fragment carries the spaces it needs. Their order is mostly guessed; [CONTRIBUTING](CONTRIBUTING.md#fragments) has the details.
 
 Names, places and LBX terms are in `script/glossary.tsv`. In short: romanized Japanese names (Hepburn, no macrons, given name first), speaker tags with given names only, and honorifics turned into plain English.
 
@@ -105,7 +107,7 @@ SLZ types 1 and 3 end every block with a `00 00` end token (distance 0), and the
 
 ### In-game layout (measured in Azahar)
 
-The dialogue box holds 319 px per line and two lines. Past 319 px the game breaks words wherever it likes, and a third line lands below the box. Map chatter during missions (52508, 53900) uses a one-line strip at the bottom of the top screen, so a second line ends up off-screen; the Japanese there runs to 364 px. Files with a box other than the dialogue box are listed in `textfit.BOXES` with a hard limit, while everything else may use at least the Japanese width and line count.
+The dialogue box holds 319 px per line and two lines. Past 319 px the game breaks words wherever it likes, and a third line lands below the box. Map chatter during missions (52508, 53900) uses a one-line strip at the bottom of the top screen, so a second line ends up off-screen; the Japanese there runs to 364 px. Files with a box other than the dialogue box are listed in `textfit.BOXES` with a hard limit, while everything else may use at least the Japanese width and line count. Single system messages with a box of their own go in `textfit.MESSAGE_BOXES`; the examine hint 17922 sits in the bottom screen's one-line header, so it's capped at 280 px. Several of these sizes (the possible chatter files, the Special Function descriptions) are inferred from the Japanese and still need checking in game.
 
 There's no extra letter spacing; advance widths come straight from the font table. The original font only had a full-width `！`, drawn as a slanted stroke, so `fontpatch.py` redraws it as an ASCII-style `!` in all five global font copies (01000 and 01500) without changing any file size.
 

@@ -42,7 +42,7 @@ Translated so far:
 - **Prologue map events:** patrol chatter (53900, a copy of 52508) and the item-light tutorial (53902).
 - **The ship, 52513–52516:** arrival announcements, meeting Arata, the leg-parts chat (52514 repeats 52513 and adds it), and the talk after the tutorial battle. 52515 (`【01_0160】 チュートリアルバトル…`) is left as a label to see whether players ever see these scene titles.
 - **Chapter 1, 52517–52609:** arrival on Kamui Island, the academy, War Time and the ERP briefing, the first mission (Oasis 8), Duck Lodge, Saruta's class, Needs City, Cafe Swallow, the Enka Ruins race and the Port Grande rescue, up to 2nd and 3rd Squads joining. Also the mission tutorials they trigger (53903–53924). Scene titles (`【01_xxxx】`, one-line files) and debug lines (`ゔケノゔ絵`) are skipped.
-- **Chapters 2–4, 52700–53340:** the Bandits, Gold Valley scouting, Muraku and the truth about the Second World, the Deathwalz Brothers, the Jenock alliance and the "silent war", Rikuya and the Parasite Keys, the Death Forest and Overload, Seredi and Ezeldarm, the Dot Blastrizer, Rose City, Ayabe's betrayal and the Under Balance, the World Alliance and the Dol Garuda. About 420 story lines remain, in 53341–53388 (the ending), plus the mission-unlock messages in 53901.
+- **Chapters 2–4, 52700–53340:** the Bandits, Gold Valley scouting, Muraku and the truth about the Second World, the Deathwalz Brothers, the Jenock alliance and the "silent war", Rikuya and the Parasite Keys, the Death Forest and Overload, Seredi and Ezeldarm, the Dot Blastrizer, Rose City, Ayabe's betrayal and the Under Balance, the World Alliance and the Dol Garuda.
 - **The ending, 53341–53388,** and the mission-unlock messages (53901). The whole main story is now in English.
 - **LBX data (system text 01000.98):** all LBX and part names (1000–4999), weapons (5000–6023), weapon info lines (7000–8045, generated from a term table), chips and their descriptions (14xxx), Special Functions (48xxx, 51xxx), modes and misc parts (53xxx–56xxx), and the character lists (24xxx, 32xxx).
 - **13xxx data:** character name lists (13011 in three font sizes, 13017), base names, operation names, mission briefings ("Info") and goals (13260), and the multiplayer menus.
@@ -100,14 +100,12 @@ All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 - **Fragment order (guessed, check in-game).** The game joins these to a name or number at runtime, so they carry their own spaces (the build now keeps spaces at either end of a translation): 17176, 17190, 17320/17321 (`[item] x[N] obtained!`), 17327/17328 (`[char] learned [skill]!`), 17330/17331, 17349–17352, 17358/17359, 17454, 17498, 17581, 17594–17606, 17644/17645, 17653/17654, 17675/17676, 17801/17802 (`BA Cards: [N] left`), 17872/17873, 60055–60057, 61606, 62001–62029. 62001–62029 are the same fragments as 01047.12:152–182, which stay as labels.
 - **Day counter (top screen, 17900 + 1791x).** "Day" plus "(Mon)" ran off the right edge of the screen (Japanese 52 px, about 57 px fit, English needed 74). It's now `1・Mon`: 17900 is `・` and the weekdays have no brackets. 17901 "After School" (99 px vs 42) is probably in the same corner; no screenshot of it yet.
 - UI labels much wider than their kanji (stat labels, sort options, tabs, stage and area names) were shortened where it was cheap (RNG, WT, Attr., bare sort keys). Whatever still overlaps will show in the next playtest.
-
 - **Map tags and Special Function descriptions:** the examine labels (Clock Tower, Vending Machine…) are assumed to show in the speaker name box. The descriptions are assumed to be a 280 px one-line field. Check both in-game.
 - **Conversation boxes (11xxx)** are assumed to be the normal dialogue box (319 px x 2 lines) and were fitted to it. The NPC files (119xx) use a wider font, so their lines run shorter. Confirm in-game, along with the scout prompt `[x14:0200]` (assumed to be the SC price: "Scout for [x14:0200] SC?").
 
 ## Known issues
 
 - **Save states:** loading an emulator quicksave made with a different build crashes the game (2026-10-30: invalid-handle fatal error at PC 0x12610C). Use in-game saves across builds. Data strings are still kept within the original sizes as a precaution (`tools/sizecheck.py`).
-
 - About 5% of kanji uses in the dump are identified from the image alone (`⟨字⟩`). True homophones (態勢/体勢) and some names can be wrong. Fixes go in `script/glossary.tsv` (names) or `script/glyph_overrides.tsv` (glyphs).
 - Text drawn into images is still Japanese, e.g. the 進む button, the screen titles (名前入力, 容姿・声の選択, 所属国名の入力) and the 性別/容姿/声/決定 buttons, and the START スキップ hint in cutscenes.
 - The player-name tables in `code.bin` have I/J swapped. It's harmless because it round-trips, but names sent over StreetPass would show it.
@@ -194,3 +192,4 @@ Plan:
 
 ### 2026-11-02
 - Released **v0.1-beta** (closed beta) as a GitHub pre-release: a 657 KB xdelta patch against `DA3File_3ds.cpk` plus a README.txt with install steps, checksums, known issues and what to put in a bug report. A fresh build from `ce8bdf6` matches the release CPK byte for byte and passes `boot_test.sh`, and the patch rebuilds that CPK exactly. The first encode used a CPK-sized source window (`-B`) and filled RAM and swap in about 12 seconds, so systemd-oomd killed the whole terminal; the default window is enough (README, *Making a release*).
+- CONTRIBUTING caught up with the beta. *Where help is needed* now asks for playtests, bug reports, fragment screenshots, a real 3DS and textures instead of the conversations and examine text, which are done. It also gained a *Fragments* section and the newer boxes (`textfit.MESSAGE_BOXES`, the Special Function line).
