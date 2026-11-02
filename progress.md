@@ -73,7 +73,7 @@ Translated so far:
 | Nations | ジェノック → Jenock, ロシウス → Rossius |
 | Workflow | Story order, in playtested chunks: translate a chunk, play it in Azahar, fix |
 | Unsupported punctuation | `!` redrawn into the font. `"` `[` `]` `<` `>` `~` map to the nearest full-width glyph |
-| Release format | xdelta patch against the player's own `DA3File_3ds.cpk`, loaded as LayeredFS. No game data is shipped |
+| Release format | xdelta patch against the player's own `DA3File_3ds.cpk`, which the game picks up through LayeredFS. The release ships no game data |
 
 All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 
@@ -193,4 +193,4 @@ Plan:
 - `xlate.py show` now keys lines by RMD index (06500.7:1000) when the file isn't the 002 dialogue file, so its output can be pasted back as shorthand.
 
 ### 2026-11-02
-- Released **v0.1-beta** (closed beta) as a GitHub pre-release: a 657 KB xdelta patch against `DA3File_3ds.cpk`, with a README.txt covering install, checksums, known issues and bug reports. A fresh build from `ce8bdf6` matches the release CPK byte for byte, the patch rebuilds it exactly, and it passes `boot_test.sh`. The first try used a CPK-sized xdelta source window (`-B`) and ran out of memory; the default window is enough (README, *Making a release*).
+- Released **v0.1-beta** (closed beta) as a GitHub pre-release: a 657 KB xdelta patch against `DA3File_3ds.cpk` plus a README.txt with install steps, checksums, known issues and what to put in a bug report. A fresh build from `ce8bdf6` matches the release CPK byte for byte and passes `boot_test.sh`, and the patch rebuilds that CPK exactly. The first encode used a CPK-sized source window (`-B`) and filled RAM and swap in about 12 seconds, so systemd-oomd killed the whole terminal; the default window is enough (README, *Making a release*).
