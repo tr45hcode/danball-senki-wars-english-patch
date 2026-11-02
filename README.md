@@ -1,6 +1,6 @@
 # Danball Senki Wars (3DS, CTR-P-BDNJ) English patch
 
-A fan translation of Level-5's Danball Senki Wars, plus the tools that pull the game's text apart and put it back together. The main story is translated start to finish, and so are the LBX, weapon and Special Function names; roughly half the game's text is in English so far. [progress.md](progress.md) tracks what's done, what we decided and what's next. If you'd like to help, read [CONTRIBUTING.md](CONTRIBUTING.md).
+A fan translation of Level-5's Danball Senki Wars, plus the tools that pull the game's text apart and put it back together. The main story, the character conversations, the map examine text, the menus and the LBX data are translated, which is about 95% of the game's text. What's left is placeholders, debug lines and a few short pieces the game joins together while you play. To play it, get the patch from [Releases](https://github.com/tr45hcode/danball-senki-wars-english-patch/releases); the README.txt in the zip explains how to apply it. [progress.md](progress.md) tracks what's done, what we decided and what's next. If you'd like to help, read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 No game files live in this repo. You need your own dump of the Japanese cartridge.
 
@@ -64,6 +64,19 @@ The output, `build/mods/00040000000F4000/romfs/DA3File_3ds.cpk`, is a LayeredFS 
 `build/mods/text_report.txt` lists lines that overflow and UI strings much wider than their Japanese.
 
 Repacking leaves everything it doesn't touch byte-identical. Containers get patched in place (later entries shift by multiples of 0x80), and the CPK writer fixes up ITOC sizes and header totals; with nothing replaced, it reproduces the original file exactly.
+
+## Making a release
+
+Build without test options, then make an xdelta patch against the original CPK:
+
+```sh
+python3 tools/build_patch.py extracted/romfs/DA3File_3ds.cpk build/release
+mkdir -p build/release/patch
+xdelta3 -e -9 -S djw -s extracted/romfs/DA3File_3ds.cpk build/release/00040000000F4000/romfs/DA3File_3ds.cpk build/release/patch/DA3File_3ds.xdelta
+xdelta3 -d -c -s extracted/romfs/DA3File_3ds.cpk build/release/patch/DA3File_3ds.xdelta | sha256sum   # must match the built CPK
+```
+
+Leave xdelta's source window (`-B`) at its default. Changed files only push the files after them along a little, so the default window still finds every match. A window as big as the CPK used up all the memory on an 8 GB machine. Run `tools/boot_test.sh` on the release CPK before you ship it.
 
 ## File formats
 

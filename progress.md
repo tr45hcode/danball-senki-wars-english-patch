@@ -3,7 +3,7 @@
 English patch for **Danball Senki Wars** (3DS, CTR-P-BDNJ, title ID `00040000000F4000`).
 Technical details live in [README.md](README.md). This file tracks what's done, what's next, and what we've decided.
 
-_Last updated: 2026-11-01_
+_Last updated: 2026-11-02_
 
 ## Status at a glance
 
@@ -17,7 +17,7 @@ _Last updated: 2026-11-01_
 | Translation | 🟡 All text areas done except placeholders and runtime-joined fragments (95.4% overall); playtesting outstanding |
 | Graphics with baked-in Japanese | ⬜ Not started |
 | Cutscene videos (MOFLEX) | ⬜ Not started |
-| Distribution (patch packaging) | ⬜ Not started |
+| Distribution (patch packaging) | 🟡 v0.1-beta closed beta out (xdelta patch against the CPK). Not tested on real hardware |
 
 ## Translation progress
 
@@ -73,6 +73,7 @@ Translated so far:
 | Nations | ジェノック → Jenock, ロシウス → Rossius |
 | Workflow | Story order, in playtested chunks: translate a chunk, play it in Azahar, fix |
 | Unsupported punctuation | `!` redrawn into the font. `"` `[` `]` `<` `>` `~` map to the nearest full-width glyph |
+| Release format | xdelta patch against the player's own `DA3File_3ds.cpk`, loaded as LayeredFS. No game data is shipped |
 
 All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 
@@ -119,7 +120,7 @@ All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 3. **Playtest the character conversations and the map:** box size, voices, the scout/part-ways prompts, examine labels in the name box, and the Special Function description line.
 4. **Remaining text:** only placeholders, debug lines and the runtime-joined fragments (see Open questions) are left. Fill the fragments once screenshots show their order.
 5. **Graphics:** find and translate textures with baked-in Japanese (buttons, titles, menus).
-6. **Packaging:** decide on the release format, either a LayeredFS folder or a patch file against the CPK. Check it on real hardware (Luma3DS).
+6. **Real hardware:** test v0.1-beta on a 3DS, either through Luma3DS LayeredFS (the steps in the release README, untested) or with a patched CIA.
 
 ## Future work
 
@@ -190,3 +191,6 @@ Plan:
 - Fitting notes: about 70 characters is the practical limit for a two-line message. Hand-placed `[n]` usually costs a third line, so let the build wrap. `"` maps to a 14 px full-width glyph, and some files use a wider font, so trust `check` over character counts.
 - Translated the map examine text (065xx, about 2,600 lines) and the Special Function descriptions (440 lines, two copies). Speaker tags and labels go through `sizecheck.py` now (all 16 tag files are listed there). Glyph 14_d92d9cd98d (shown as ⟨Ω⟩) is a 9, so Suzune's record is "97 fights, 97 losses" and one Special Function fires 9 special rounds. It's in `script/glyph_overrides.tsv`; `script/raw` hasn't been re-dumped yet. Overall 95.4%. Build boots.
 - `xlate.py show` now keys lines by RMD index (06500.7:1000) when the file isn't the 002 dialogue file, so its output can be pasted back as shorthand.
+
+### 2026-11-02
+- Released **v0.1-beta** (closed beta) as a GitHub pre-release: a 657 KB xdelta patch against `DA3File_3ds.cpk`, with a README.txt covering install, checksums, known issues and bug reports. A fresh build from `ce8bdf6` matches the release CPK byte for byte, the patch rebuilds it exactly, and it passes `boot_test.sh`. The first try used a CPK-sized xdelta source window (`-B`) and ran out of memory; the default window is enough (README, *Making a release*).
