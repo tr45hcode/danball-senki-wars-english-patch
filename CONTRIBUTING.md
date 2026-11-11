@@ -109,10 +109,10 @@ Go for natural English that fits the box rather than a literal gloss, and when a
 Buttons, screen titles and battle callouts are pictures, not text, so they go through `tools/gfx.py` instead of `xlate.py`. README's *Text drawn into textures* section explains how it works; this is the loop:
 
 ```sh
-python3 tools/gfx.py sprites 54200_000 /tmp/s.png    # numbered sprites of one atlas
-# fill in the en column of script/gfx/54200_000.tsv (gfx.py template makes one)
-python3 tools/gfx.py render 54200_000                # prints a warning for every label that doesn't fit
-python3 tools/gfx.py preview 54200_000 /tmp/p.png    # check every row against its Japanese
+python3 tools/gfx.py sprites 13080_005 /tmp/s.png    # numbered sprites of one atlas
+# fill in the en column of script/gfx/13080_005.tsv (gfx.py template makes one for a new atlas)
+python3 tools/gfx.py render 13080_005                # prints a warning for every label that doesn't fit
+python3 tools/gfx.py preview 13080_005 /tmp/p.png    # check every row against its Japanese
 python3 tools/gfx.py copies
 ```
 
@@ -165,4 +165,4 @@ Before you open it, `xlate.py check` should show no BAD lines for anything you a
 
 **A real 3DS.** If you have Luma3DS, try the install steps in the release README.txt and tell us whether the game boots and the text shows.
 
-**Graphics.** About 400 labels in 34 atlases are in English, among them 進む, しらべる, the screen titles, the title and system menus, the Lab and the Shop, multiplayer, the mission map and the battle screen. Nobody has seen most of them in game, so a screenshot of any menu helps, especially one where a label looks cut off or squashed. Still in Japanese: the pause menu (54200), Mission Start and the victory and defeat conditions (01002_009), the notices at boot and the save-tampering warnings, the button hint bars, the team tabs and the menu screenshots on the help pages (06520). The squad formation screen is stuck behind a CPK size limit (README, *Things outside the text files*). Nobody has looked at the cutscene videos (MOFLEX) yet.
+**Graphics.** About 430 labels in 37 atlases are in English, among them 進む, しらべる, the screen titles, the title and system menus, the Lab and the Shop, multiplayer, the mission map and the battle screen. Nobody has seen most of them in game, so a screenshot of any menu helps, especially one where a label looks cut off or squashed. Still in Japanese: the pause menu (54200), Mission Start and the victory and defeat conditions (01002_009), the notices at boot and the save-tampering warnings, the button hint bars, the team tabs and the menu screenshots on the help pages (06520). The squad formation screen is stuck behind a CPK size limit (README, *Things outside the text files*). Nobody has looked at the cutscene videos (MOFLEX) yet.

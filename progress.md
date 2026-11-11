@@ -15,7 +15,7 @@ _Last updated: 2026-11-11_
 | Japanese script dump | ✅ Readable. Kanji identification 98.8% on a hand-checked sample |
 | English text in-game | ✅ Working: wrapping, `!` glyph, name entry, 10 px font spacing |
 | Translation | 🟡 All text areas done except placeholders and runtime-joined fragments (95.4% overall); playtesting outstanding |
-| Graphics with baked-in Japanese | 🟡 409 labels in 34 atlases (39 textures with the copies) redrawn in English. Pause menu, boot notices, hint bars and help screenshots still Japanese |
+| Graphics with baked-in Japanese | 🟡 426 labels in 37 atlases (42 textures with the copies) redrawn in English. Boot notices, hint bars and help screenshots still Japanese |
 | Cutscene videos (MOFLEX) | ⬜ Not started |
 | Distribution (patch packaging) | 🟡 v0.1-beta closed beta out (xdelta patch against the CPK). Not tested on real hardware |
 
@@ -61,7 +61,7 @@ Translated so far:
 - **Special Function descriptions (06525.5 and 06526.3, 33300–33519):** one line each, capped at 280 px in `textfit.BOXES` (the Japanese never exceeds it). 33300+k describes the Special Function named at 01000.98:48020+k, though the pairing drifts after about 33458. The second copy is filled from the first by id.
 - **Mission map (06730.24/.26):** both are copies of the 13260 place table and are filled from it by id; 13260:10052 is now "Jenock Base Drill".
 - **Multiplayer room help (01049.10).**
-- **Texture labels, 2026-11-10:** 409 sprites in 34 atlases (`script/gfx/`). The title and system menus, save/load, the appearance and voice screen, the screen titles (Enter Name, Enter Country, Squads, Link Menu), sort and hint labels, the Lab and the Shop, Customize, the Special Function swap screen, the multiplayer lobby and rooms, the mission map (Day, War Time Cost, Defense, Reward, Terrain), the island map menu and its place names, the battle screen's bottom menu (Switch LBX, Lock-On List, All-Out Attack, Close) and the status callouts (OVERHEAT, JAMMING, FINAL BREAK CHANCE!). Five more atlases are byte-identical copies in other containers (`script/gfx/copies.tsv`) and get the same English.
+- **Texture labels, 2026-11-10:** 426 sprites in 37 atlases (`script/gfx/`), counting the three added on 2026-11-11: squad formation, the battle pause menu (Give Up, Game Speed, Slow/Normal/Fast) and the Mission Start, Victory Conditions and Defeat Conditions banners. The title and system menus, save/load, the appearance and voice screen, the screen titles (Enter Name, Enter Country, Squads, Link Menu), sort and hint labels, the Lab and the Shop, Customize, the Special Function swap screen, the multiplayer lobby and rooms, the mission map (Day, War Time Cost, Defense, Reward, Terrain), the island map menu and its place names, the battle screen's bottom menu (Switch LBX, Lock-On List, All-Out Attack, Close) and the status callouts (OVERHEAT, JAMMING, FINAL BREAK CHANCE!). Five more atlases are byte-identical copies in other containers (`script/gfx/copies.tsv`) and get the same English.
 - **Character conversations (11700–11922), 2026-11-01:** all 135 scoutable characters (topic chats 10–3x, the "what do you need?" opener 40, gift thanks 50, being let go 60, leaving 70, joining 80, the morning meet-up 90) and their scout/part-ways messages (60000–60006, generated with each full name from the 13011 list); the commanders (Dordkins, Ms. Higurashi, Ms. Mito, Jordan, Croskey, Portman, Iceman, Todoroki, Nomi), Ayabe, Metazawa, Instructor Saruta and the Saruta School (11911:1000–2000), Tome, the Cafe Swallow master, teachers, guards and World Saver soldiers. Only the 16 `未使用` placeholder lines are left. New names and terms are in the glossary.
 
 ## Decisions
@@ -78,6 +78,7 @@ Translated so far:
 | Unsupported punctuation | `!` redrawn into the font. `"` `[` `]` `<` `>` `~` map to the nearest full-width glyph |
 | Release format | xdelta patch against the player's own `DA3File_3ds.cpk`, which the game picks up through LayeredFS. The release ships no game data |
 | Texture labels | Fira Sans, falling back to Fira Sans Condensed and then a smaller size when space is short. Colours, outline and shadow come from the Japanese sprite. 6 px labels use a built-in pixel font. Terms match the system text ("Sortie", "Squads", "Secret" for ウラ) |
+| Files that outgrow 64 KB | `cpk.py` moves them from the ITOC's `DataL` table (16-bit sizes) to `DataH`, keeping both sorted by id. It stops with an error if the ITOC would run into the file data |
 | Game art in the repo | None. The overlay PNGs hold only our English; the build wipes or clears the Japanese in the player's own textures |
 
 All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
@@ -94,7 +95,8 @@ All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 - Appearance/voice screen: prompt, Male/Female and Type N show in both the appearance and voice boxes.
 - `[x14:0000]` prints the country name the player typed on the country-entry screen.
 - Test labels (`--test-ids`) show where any untranslated text on screen comes from.
-- Redrawn textures load: the boot notice's "Next" prompt shows in English (headless Azahar screenshot, 2026-11-10), and a build with all 39 redrawn textures passes `boot_test.sh`.
+- Redrawn textures load: the boot notice's "Next" prompt shows in English (headless Azahar screenshot, 2026-11-10), and a build with all 42 redrawn textures passes `boot_test.sh`.
+- The game accepts files moved from the CPK's `DataL` table to `DataH`: a test CPK with 103 files moved (1106 the lowest id) boots to the same boot notice as the normal build (headless Azahar screenshots, 2026-11-11). Nobody has opened the squad formation screen itself yet.
 
 ## Open questions
 
@@ -115,8 +117,7 @@ All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 
 - **Save states:** loading an emulator quicksave made with a different build crashes the game (2026-10-30: invalid-handle fatal error at PC 0x12610C). Use in-game saves across builds. Data strings are still kept within the original sizes as a precaution (`tools/sizecheck.py`).
 - About 5% of kanji uses in the dump are identified from the image alone (`⟨字⟩`). True homophones (態勢/体勢) and some names can be wrong. Fixes go in `script/glossary.tsv` (names) or `script/glyph_overrides.tsv` (glyphs).
-- Some text drawn into textures is still Japanese: what's probably the battle pause menu (54200: あきらめる, ゲーム スピード, 普通/早い/遅い), Mission Start and the victory and defeat conditions (01002_009), the notice at boot (01100_004) and the two save-tampering warnings (01100_013, 13141), the button hint bars (せんたく, けってい, …), the team tabs (A–F チーム), the Spectating badge and the menu screenshots on the help pages (06520).
-- The squad formation screen (13070) can't be redrawn: the container is 61,520 bytes, and with the new texture it outgrows the 16-bit size field of the CPK's `DataL` table. Its table is parked in `script/gfx/13070_004.tsv.disabled`.
+- Some text drawn into textures is still Japanese: the notice at boot (01100_004) and the two save-tampering warnings (01100_013, 13141), the button hint bars (せんたく, けってい, …), the team tabs (A–F チーム), the Spectating badge and the menu screenshots on the help pages (06520).
 - Some `bg=rows` badges keep a faint line where the Japanese was (the Player tag in battle, the Defense tab on the mission map).
 - The player-name tables in `code.bin` have I/J swapped. It's harmless because it round-trips, but names sent over StreetPass would show it.
 - Debug file `60016` references glyphs it doesn't contain. It's ignored.
@@ -127,7 +128,7 @@ All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 2. **Check the new UI text in-game:** the fragment order and the day counter (Open questions), anything wider than its slot, and the redrawn texture labels (cut off, squashed, leftover Japanese).
 3. **Playtest the character conversations and the map:** box size, voices, the scout/part-ways prompts, examine labels in the name box, and the Special Function description line.
 4. **Remaining text:** only placeholders, debug lines and the runtime-joined fragments (see Open questions) are left. Fill the fragments once screenshots show their order.
-5. **Graphics:** finish the textures listed under Known issues, and teach `cpk.py` to move a file that outgrows `DataL` into `DataH` so 13070 can be redrawn. After that, the IMAG pictures outside the UI atlases (47xxx, 48xxx, 54xxx), which nobody has looked through yet.
+5. **Graphics:** finish the textures listed under Known issues. After that, the IMAG pictures outside the UI atlases (47xxx, 48xxx, 54xxx), which nobody has looked through yet.
 6. **Real hardware:** test v0.1-beta on a 3DS, either through Luma3DS LayeredFS (the steps in the release README, untested) or with a patched CIA.
 
 ## Future work
@@ -209,3 +210,11 @@ Plan:
 - `tools/gfx.py` redraws sprites from a table per atlas (`script/gfx/`). It samples the look of the Japanese label, wipes text off badges and buttons (`bg=rows`), can replace part of a sprite (`in=`), and has a 5 px pixel font for the smallest column headers. `build_patch.py` applies the tables. The overlays hold only our English; the build recomputes everything else from the player's CPK, and the output was byte-identical before and after that change.
 - Translated 409 sprites in 34 atlases; with 5 identical copies, a build redraws 39 textures and passes `boot_test.sh`. A headless Azahar screenshot shows the English "Next" on the boot notice.
 - 13070 (squad formation) broke the build: the container grows past the CPK's 16-bit `DataL` size limit. Its table is disabled until `cpk.py` can move the file.
+
+### 2026-11-11
+- `cpk.py` now moves a file that outgrows the 16-bit sizes of `DataL` into `DataH` and writes both tables again, which is what blocked 13070. With nothing moved, the build comes out byte for byte the same as before (sha256 `3f270514…`).
+- Switched the squad formation table back on (`script/gfx/13070_004.tsv`: Squads, 1st–5th Squad, Sortie). The container goes from 61,520 to 74,320 bytes; a build redraws 40 textures and passes `boot_test.sh`.
+- Tested the move harder than one file: a CPK with every `DataL` file over 60,000 bytes pushed into `DataH` (103 files, 416 more bytes of ITOC) boots to the same screen as the normal build.
+- `gfx.py` added a pixel of width for italic lean to upright fonts too, which made "2nd Squad" a size smaller than its four neighbours in a 39 px sprite. Only the italic faces get it now. Re-rendering moved 82 labels, most by a pixel; a dozen grew a size (Squads, Weapon, Remove, Convert, Specialty, the Wpn A/B slots) and the previews look right.
+- Two more atlases: 54200_000 (Give Up, Game Speed, Slow, Normal, Fast, System Menu) and 01002_009 (Mission Start twice, Victory Conditions, Defeat Conditions). 54200 is ETC1, flat black letters on flat colour, and looks like the battle pause menu; that's a guess until someone opens it in game. The two condition banners keep their art: `bg=rows` with `thresh=15` wipes the soft outline along with the kanji. Totals are now 426 labels in 37 atlases and 42 redrawn textures, and the build passes `boot_test.sh`.
+- New row option `valign=c` centres a label between the sprite's top and bottom. The three speed buttons needed it, because centring on each button's own kanji left them at three different heights.

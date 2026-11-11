@@ -92,6 +92,8 @@ The output, `build/mods/00040000000F4000/romfs/DA3File_3ds.cpk`, is a LayeredFS 
 
 Repacking leaves everything it doesn't touch byte-identical. Containers get patched in place (later entries shift by multiples of 0x80), and the CPK writer fixes up ITOC sizes and header totals; with nothing replaced, it reproduces the original file exactly.
 
+The ITOC keeps two size tables: `DataL` holds files under 64 KB with 16-bit sizes, and `DataH` holds the rest with 32-bit ones. When a rebuilt file outgrows 65,535 bytes, `cpk.py` moves its row from the first table to the second and writes both again. Only the squad formation container (13070) needs that so far, since it's 61,520 bytes in the original and 74,320 with its texture redrawn. Each move costs about 4 bytes of the 1,088 that sit free between the ITOC and the file data, so roughly 270 files can move before the writer stops with an error.
+
 ## Making a release
 
 Build without test options, then make an xdelta patch against the original CPK:
@@ -173,8 +175,6 @@ It scores 98.8% on the hand-checked sample. What's left wrong is mostly image-on
 ## Things outside the text files
 
 Some Japanese isn't in RMD at all. Textures are partly done (see [Text drawn into textures](#text-drawn-into-textures) and progress.md for what's left), while nobody has started on the FMV subtitles or the banner and icon.
-
-The squad formation screen (container 13070) can't be redrawn yet. That container is 61,520 bytes, and the CPK keeps files under 64 KB in its `DataL` table with 16-bit sizes, so when the recompressed texture pushes it past 65,535 bytes `cpk.py` refuses to write it. Its table waits in `script/gfx/13070_004.tsv.disabled` until the writer can move a file into the `DataH` table.
 
 Player names are stored as global-font glyph indices. In `code.bin`, the functions at 0x24D324, 0x24D338 and 0x24D35C convert between glyphs and full-width UTF-16/Shift-JIS through 297-entry tables at 0x5E3862 and 0x5E3610, and the runtime char-to-glyph table sits at 0x654DF0. English names typed on the `A/1` keyboard work in game. The tables swap I and J, which round-trips harmlessly but would show over StreetPass.
 
