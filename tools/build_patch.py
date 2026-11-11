@@ -4,7 +4,8 @@
 Usage: build_patch.py [--test-ids] [--ruler] <DA3File_3ds.cpk> <out_dir>
 
 Translations are read from script/en/<container>_<index>_<entry>.tsv
-(columns id, ja, en; see make_template.py). Messages without English keep
+(columns id, ja, en; see make_template.py), and English labels for text
+drawn into textures from script/gfx (see gfx.py). Messages without English keep
 the original Japanese unless a test option is given:
 
 --test-ids  untranslated messages show their location, e.g. "11812:10"
@@ -22,6 +23,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import fontpatch  # noqa: E402
+import gfx  # noqa: E402
 import mron  # noqa: E402
 import textfit  # noqa: E402
 from cpk import Cpk  # noqa: E402
@@ -129,6 +131,7 @@ def main():
 def build(cpk_path, out, translations, opts):
     cpk = Cpk(cpk_path)
     replacements, report = {}, []
+    n_textures = 0
     for e in cpk.files:
         data = cpk.read(e)
         if data[:8] != mron.MAGIC:
@@ -151,9 +154,12 @@ def build(cpk_path, out, translations, opts):
                 payloads[i] = rmd.with_texts(texts)
         if e['name'] in ('01000', '01500'):
             payloads.update(fontpatch.patch_container(data))
+        textures = gfx.patch_container(e['name'], data)
+        payloads.update(textures)
+        n_textures += len(textures)
         if payloads:
             replacements[e['id']] = mron.replace_entries(data, payloads)
-    print(f'{len(replacements)} containers rebuilt')
+    print(f'{len(replacements)} containers rebuilt, {n_textures} textures redrawn')
 
     os.makedirs(out, exist_ok=True)
     with open(os.path.join(out, 'text_report.txt'), 'w', encoding='utf-8') as f:

@@ -1,0 +1,51 @@
+sprite	ja	en	options
+0	こうか	EFF.	font=pixel
+1	スロット	SLOT	font=pixel
+2	ひつようSC	SC COST	font=pixel
+3	しょじすう	OWNED	font=pixel
+4	クリエイション開始	Start Creation	
+5	クリエイション開始	Start Creation	
+6	開発担当	Developer	
+7	開発担当	Developer	
+8	こうか	EFF.	font=pixel
+9	しょじすう	OWNED	font=pixel
+10	アイテム	Items	
+11	アイテム	Items	
+12	アーマーフレーム	Armor Frames	
+13	アーマーフレーム	Armor Frames	
+14	売る	Sell	
+15	売る	Sell	
+16	ウェポン	Weapons	
+17	ウェポン	Weapons	
+20	かいはつランク	DEV RANK	font=pixel
+21	レベル	LVL	font=pixel
+22	ぞくせい	ATTR	font=pixel
+23	せっけいず	PLANS	font=pixel
+24	ひつようSC	SC COST	font=pixel
+25	しょじチップすう	YOUR CHIPS	font=pixel
+26	しょじSC	YOUR SC	font=pixel
+27	ばいきゃくSC	SELL SC	font=pixel
+28	買う	Buy	
+29	買う	Buy	
+30	アーマーフレーム開発	Develop Armor Frame	
+31	ラボ	Lab	
+32	ショップ	Shop	
+33	ウェポン開発	Develop Weapon	
+34	開発担当選択	Choose Developer	
+35	ショップ	Shop	
+36	ショップ	Shop	
+37	ウェポン開発	Develop Weapon	
+38	ウェポン開発	Develop Weapon	
+39	アーマーフレーム開発	Develop Armor Frame	
+40	アーマーフレーム開発	Develop Armor Frame	
+41	ひつようSC	SC COST	font=pixel
+43	装備中	Equipped	bg=rows margin=0 font=plain
+44	クリエイション開始	Start Creation	
+51	開発するウェポンを選んでください	Choose a weapon to develop	
+52	開発担当を選んでください	Choose a developer	
+53	開発担当を選んでください	Choose a developer	
+54	開発するアーマーフレームを選んでください	Choose an Armor Frame to develop	
+55	開発するアーマーフレームを選んでください	Choose an Armor Frame to develop	
+56	開発するウェポンを選んでください	Choose a weapon to develop	
+57	そうび しょじ	EQP.  OWN	font=pixel
+58	ジャンル	Genre	font=plain

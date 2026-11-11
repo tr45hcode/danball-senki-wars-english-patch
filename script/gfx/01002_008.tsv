@@ -1,0 +1,18 @@
+sprite	ja	en	options
+0	オーバーヒート	OVERHEAT	
+1	ジャミング	JAMMING	
+2	カメラよごれ	DIRTY CAMERA	
+3	テンションぎれ	NO TENSION	
+4	フリーズ	FREEZE	
+5	スタン	STUN	
+6	回避	Evade	
+7	受身	Recov.	
+8	リロード	RELOAD	
+9	オートそうさ	AUTO	bg=rows margin=5 font=cond
+10	あと	Left	font=condbold
+11	機	~	
+14	つぎへ	Next	
+16	ブレイクオーバー	BREAK OVER	bg=rows margin=10 font=cond
+20	ファイナル	FINAL	
+21	ブレイク	BREAK	
+22	チャンス!	CHANCE!	

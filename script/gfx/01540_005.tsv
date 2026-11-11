@@ -1,0 +1,61 @@
+sprite	ja	en	options
+*			font=plain mode=none
+0	SR順	SR	
+1	性能順	Stats	
+3	種類順	Category	
+4	セット	Set	
+7	スピードランク	SPD RANK	size=5
+8	じょうほうきりかえ	Switch Info	
+11	DF順	DF	
+12	装備順	Equipped	
+13	LP順	LP	
+14	名前順	Name	
+16	レベル順	Level	
+17	AT順	AT	
+18	スキップ	Skip	
+19	ぞくせい	Attribute	
+23	第3	3rd	
+24	第4	4th	
+25	第5	5th	
+26	控え	Reserve	
+27	第1	1st	
+28	第2	2nd	
+29	装備中ウェポン	Equipped Wpn.	
+30	LBXプレイヤー	LBX Player	
+31	特性	Trait	
+32	得意ウェポン	Best Weapon	
+33	装備中コアパーツ	Equipped Core Parts	
+34	所持数順	Owned	
+35	価格順	Price	
+36	効果順	Effect	
+37	ジャンル順	Genre	
+38	設計図順	Blueprint	
+39	得意順	Specialty	
+40	タイプ順	Type	
+42	LBXかいてん	Rotate LBX	
+43	じょうたいきりかえ	Switch Status	
+46	もどる	Back	
+47	キャンセル	Cancel	
+48	きりかえ	Switch	
+49	ページきりかえ	Switch Page	
+50	じょうたいきりかえ	Switch Status	
+51	スキルレベルきりかえ	Switch Skill Level	
+52	タブきりかえ	Switch Tab	
+53	へんかん	Convert	
+54	せんたく	Select	
+55	データをけす	Delete Data	
+56	しゅうりょう	Finish	
+57	けってい	OK	
+58	かんしょう	View	
+59	ページおくり	Next Page	
+60	もじおくり	Next	
+61	さいかい	Resume	
+62	アーマーフレーム熟練度	Armor Frame Mastery	
+63	Cゲージ順	C Gauge	
+64	LV降順	LV Desc.	
+65	LV昇順	LV Asc.	
+66	ジャンル順	Genre	
+67	ランク順	Rank	
+68	はずす	Remove	
+69	フレーム順	Frame	
+70	キャラせんたく	Pick Character	

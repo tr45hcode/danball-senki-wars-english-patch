@@ -1,0 +1,6 @@
+sprite	ja	en	options
+21	ウェポンA左	Wpn A|Left	font=condbold
+22	ウェポンA右	Wpn A|Right	font=condbold
+23	ウェポンB左	Wpn B|Left	font=condbold
+24	ウェポンB右	Wpn B|Right	font=condbold
+25	とくいたいせい とくいぶき	RESISTS  BEST WPN	font=pixel

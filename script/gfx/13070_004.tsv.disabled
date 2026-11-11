@@ -1,0 +1,8 @@
+sprite	ja	en	options
+2	編成	Squads	
+7	第1小隊	1st Squad	font=plain
+8	第2小隊	2nd Squad	font=plain
+9	第3小隊	3rd Squad	font=plain
+10	第4小隊	4th Squad	font=plain
+11	第5小隊	5th Squad	font=plain
+13	出撃	Sortie	bg=rows margin=10

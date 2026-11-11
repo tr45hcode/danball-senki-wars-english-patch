@@ -1,0 +1,10 @@
+sprite	ja	en	options
+0	戻る	Back	bg=rows in=120,2,60,34
+1	調べる	Examine	bg=rows in=110,2,76,34
+2	司令室	Command|Room	bg=rows margin=7 pad=6
+3	コントロールポッド	Control|Pod	bg=rows margin=7 pad=6
+4	LBX塚	LBX Mound	bg=rows margin=2 thresh=25 font=condbold
+5	商店街	Shop District	bg=rows margin=2 thresh=25 font=condbold
+6	神威港	Kamui Port	bg=rows margin=2 thresh=25 font=condbold
+7	神威大門	Kamui Daimon	bg=rows margin=2 thresh=25 font=condbold
+8	ダック荘	Duck Lodge	bg=rows margin=2 thresh=25 font=condbold

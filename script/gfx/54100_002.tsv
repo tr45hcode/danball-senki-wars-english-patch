@@ -1,0 +1,32 @@
+sprite	ja	en	options
+0	しらべる	Examine	
+1	はいる	Enter	
+2	もどる	Back	
+3	司令室	COMMAND	font=pixel align=c
+4	通信	Link	font=condbold
+5	ラボ	Lab	font=condbold
+6	メニュー	Menu	font=condbold
+7	次の日	Next|Day	font=condbold
+8	もどる	Back	font=condbold
+9	ウォータイム出撃	War Time Sortie	font=condbold
+10	編成	Squads	font=condbold
+11	学園	Academy	bg=rows margin=2 thresh=25 font=condbold
+12	神威商店街	Shop District	bg=rows margin=2 thresh=25 font=condbold
+13	神威港	Kamui Port	bg=rows margin=2 thresh=25 font=condbold
+14	ダック荘	Duck Lodge	bg=rows margin=2 thresh=25 font=condbold
+15	LBX塚	LBX Mound	bg=rows margin=2 thresh=25 font=condbold
+16	玄関	Entrance	bg=rows margin=2 thresh=25 font=condbold
+17	娯楽室	Rec Room	bg=rows margin=2 thresh=25 font=condbold
+18	自室	My Room	bg=rows margin=2 thresh=25 font=condbold
+19	保健室	Infirmary	bg=rows margin=2 thresh=25 font=condbold
+20	教室	Classroom	bg=rows margin=2 thresh=25 font=condbold
+21	学生食堂	Cafeteria	bg=rows margin=2 thresh=25 font=condbold
+22	校庭	Schoolyard	bg=rows margin=2 thresh=25 font=condbold
+23	もどる	Back	
+30	正門	Main Gate	bg=rows margin=2 thresh=25 font=condbold
+24	しらべる	Examine	bg=rows in=66,6,100,24 align=l
+25	しらべる	Examine	bg=rows in=66,6,100,24 align=l
+26	はいる	Enter	bg=rows in=72,6,90,24 align=l
+27	はいる	Enter	bg=rows in=72,6,90,24 align=l
+28	もどる	Back	bg=rows in=72,6,90,24 align=l
+29	もどる	Back	bg=rows in=72,6,90,24 align=l

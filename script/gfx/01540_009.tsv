@@ -1,0 +1,5 @@
+sprite	ja	en	options
+2	データを消す	Delete Data	
+3	ロード	Load	
+4	セーブ	Save	
+5	プレイ時間	Time	font=plain

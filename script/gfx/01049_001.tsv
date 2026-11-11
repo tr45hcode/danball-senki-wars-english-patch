@@ -1,0 +1,12 @@
+sprite	ja	en	options
+2	ホスト	Host	bg=rows font=cond fill=ffffff edge=14501e
+3	リミットブレイク	Limit Break	
+8	ウラ	Secret	bg=rows margin=4
+23	スタンダードレギュレーション	Standard Regulation	
+24	ストリートレギュレーション	Street Regulation	
+26	バトルセレクト	Battle Select	
+29	アンリミテッドレギュレーション	Unlimited Regulation	
+35	ランク	Rank	
+36	ウラランク	Secret Rank	
+41	ボス	Boss	
+42	ゼネラルレギュレーション	General Regulation	

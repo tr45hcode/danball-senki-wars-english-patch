@@ -1,0 +1,26 @@
+sprite	ja	en	options
+58	経過日数	Day	bg=rows in=0,1,70,22 font=bold align=l
+58	日目	~	bg=rows in=88,1,42,22
+62	ウォータイムコスト	WAR TIME COST	bg=rows thresh=30 in=38,1,72,8 font=pixel
+67	司令室	COMMAND	font=pixel align=c
+68	編成	Squads	font=condbold
+69	ラボ	Lab	font=condbold
+70	メニュー	Menu	font=condbold
+79	ウォータイムコスト	War Time Cost	bg=rows margin=8 font=condbold
+92	ボウエイリョク	DEFENSE	bg=rows margin=2 font=condbold
+93	ホウシュウ	REWARD	bg=rows margin=2 font=condbold
+94	ラボ	LAB	bg=rows margin=2 font=condbold
+95	スカウト キャラ	SCOUTABLE	bg=rows margin=2 font=condbold
+96	チケイ ジョウホウ	TERRAIN	bg=rows margin=2 font=condbold
+107	ミッション	Mission	bg=rows margin=4
+108	クリア!	Clear!	bg=rows margin=4
+109	ケン	SWD	font=pixel
+110	ヤリ	SPR	font=pixel
+111	ナックル	KNUCKLE	font=pixel
+112	ハンマー	HAMMER	font=pixel
+113	カタテジュウ	HANDGUN	font=pixel
+114	リョウテジュウ	RIFLE	font=pixel
+115	ランチャー	LAUNCHER	font=pixel
+116	タテ	SHLD	font=pixel
+117	ブキウデ	WPN ARM	font=pixel
+118	LBXキソ	LBX BASE	font=pixel

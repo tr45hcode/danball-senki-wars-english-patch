@@ -1,0 +1,25 @@
+sprite	ja	en	options
+75	閉じる	Close	
+76	閉じる	Close	
+77	ゲスト	Guest	bg=rows margin=4 font=cond
+78	プレイヤー	Player	bg=rows margin=4 font=cond
+79	LBX切り替え	Switch LBX	
+80	ロックオン	Lock-On	bg=rows margin=4 font=condbold mode=none
+81	ロックオンリスト	Lock-On List	
+82	一斉攻撃	All-Out|Attack	
+83	一斉攻撃	All-Out|Attack	
+84	後退	Fall|Back	
+85	後退	Fall|Back	
+86	カメラ	Camera	bg=rows in=4,5,56,13 margin=3
+86	きりかえ	Switch	bg=rows in=4,46,56,12 margin=3
+87	カメラ	Camera	bg=rows in=4,5,56,13 margin=3
+87	きりかえ	Switch	bg=rows in=4,46,56,12 margin=3
+88	LBX切り替え	Switch LBX	
+89	LBX切り替え	Switch LBX	
+91	必殺ファンクション	Special Function	
+92	必殺ファンクション	Special Function	
+93	アイテム	Items	
+95	閉じる	Close	
+96	アイテム使用	Use Item	
+101	閉じる	Close	
+102	閉じる	Close	

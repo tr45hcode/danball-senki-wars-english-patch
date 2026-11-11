@@ -1,0 +1,6 @@
+sprite	ja	en	options
+0	待機	Standby	bg=rows margin=6
+1	出撃	Sortie	bg=rows margin=6
+12	準備OK	Ready	
+13	準備OK	Ready	
+14	準備OK	Ready	

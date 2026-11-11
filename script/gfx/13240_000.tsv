@@ -1,0 +1,9 @@
+sprite	ja	en	options
+2	ホスト	Host	bg=rows font=cond fill=ffffff edge=14501e
+3	リミットブレイク	Limit Break	
+13	スタンダードレギュレーション	Standard Regulation	
+14	ストリートレギュレーション	Street Regulation	
+18	アンリミテッドレギュレーション	Unlimited Regulation	
+33	せいげんじかん	Time Limit	font=plain mode=none
+34	通信対戦	Link Battle	
+35	ゼネラルレギュレーション	General Regulation	

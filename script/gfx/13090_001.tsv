@@ -1,0 +1,19 @@
+sprite	ja	en	options
+0	カスタマイズ	Customize	
+1	アーマーフレーム選択	Select Armor Frame	
+2	ウェポン選択	Select Weapon	
+3	カスタムエラー	CUSTOM|ERROR	bg=rows margin=3 font=cond
+4	とくいたいせい とくいぶき	RESISTS  BEST WPN	font=pixel
+5	ぞくせい	ATTR	font=pixel
+6	しょじすう	OWNED	font=pixel
+7	ジャンル	GENRE	font=pixel
+8	アーマーフレーム	Armor Frame	font=plain mode=none
+9	AT/しょじすう	AT/Owned	font=plain mode=none
+10	ぞくせい	Attribute	font=plain mode=none
+12	ウェポン	Weapon	font=plain mode=none
+13	装備中ウェポン	Equipped Weapon	font=plain mode=none
+14	装備中アーマーフレーム	Equipped Armor Frame	font=plain mode=none
+15	装備中ウェポン	Equipped Weapon	font=plain mode=none
+16	そうび しょじ	EQP.  OWN	font=pixel
+20	とくせい	Trait	font=plain mode=none
+21	弾数	Ammo	font=plain

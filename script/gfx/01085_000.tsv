@@ -1,0 +1,14 @@
+sprite	ja	en	options
+*			font=plain
+77	けってい	OK	
+78	もどる	Back	
+86	第1小隊	1st Squad	
+87	第2小隊	2nd Squad	
+88	第3小隊	3rd Squad	
+89	第4小隊	4th Squad	
+90	第5小隊	5th Squad	
+134	1文字戻る	Erase	
+139	かな	Hira	
+140	カナ	Kata	
+141	やめる	Quit	
+142	つぎへ	Next	
