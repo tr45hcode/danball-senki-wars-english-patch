@@ -1,6 +1,6 @@
 # Danball Senki Wars (3DS, CTR-P-BDNJ) English patch
 
-A fan translation of Level-5's Danball Senki Wars, plus the tools that pull the game's text apart and put it back together. We've translated the main story, the character conversations, the map examine text, the menus and the LBX data, about 95% of the game's text. What's left is mostly placeholders and debug lines, plus a few short pieces the game joins together while you play. To play it, get the patch from [Releases](https://github.com/tr45hcode/danball-senki-wars-english-patch/releases); the README.txt in the zip explains how to apply it. [progress.md](progress.md) tracks what's done, what we decided and what's next. If you'd like to help, read [CONTRIBUTING.md](CONTRIBUTING.md).
+A fan translation of Level-5's Danball Senki Wars, plus the tools that pull the game's text apart and put it back together. We've translated the main story, the character conversations, the map examine text, the menus and the LBX data, about 95% of the game's text. What's left is mostly placeholders and debug lines, plus a few short pieces the game joins together while you play. About 400 labels that the game draws as pictures rather than text (menu titles, buttons, the battle screen's callouts) have English versions too, though some screens still show Japanese. To play it, get the patch from [Releases](https://github.com/tr45hcode/danball-senki-wars-english-patch/releases); the README.txt in the zip explains how to apply it. [progress.md](progress.md) tracks what's done, what we decided and what's next. If you'd like to help, read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 No game files live in this repo. You need your own dump of the Japanese cartridge.
 
@@ -49,6 +49,31 @@ A few tools help with the awkward cases. Image-only glyphs show up as `⟨日⟩
 
 Story order: the 525xx containers are the story scenes in play order. 52500 is the opening battle, 52502/52504/52506 are name, appearance and country entry, 52511 is the intro narration and 52512 the opening song; the ship scene in 52513 picks up straight after. Mission events (tutorial pop-ups, map chatter) are in 539xx, character conversations in 11xxx, and things you examine on the map in 06xxx.
 
+## Text drawn into textures
+
+Menu titles, buttons and battle callouts aren't RMD text at all. They're sprites cut out of texture atlases, and `tools/gfx.py` redraws them in English. Each atlas gets a table in `script/gfx/` named after its container and entry index (`13080_005.tsv` is the system menu), with one row per sprite:
+
+```
+sprite	ja	en	options
+3	タイトルにもどる	Return to Title
+86	カメラ	Camera	bg=rows in=4,5,56,13 margin=3
+```
+
+```sh
+python3 tools/gfx.py list                          # every texture with a sprite list (~180)
+python3 tools/gfx.py sprites 13080_005 out.png     # numbered sprites, to read the Japanese
+python3 tools/gfx.py template 13080_005            # writes an empty table
+python3 tools/gfx.py render 13080_005              # draws script/gfx/13080_005.png
+python3 tools/gfx.py preview 13080_005 out.png     # Japanese and English side by side
+python3 tools/gfx.py copies                        # finds copies of translated atlases
+```
+
+`render` sets each label in Fira Sans and copies its look from the Japanese sprite: the fill colour at the top and bottom of the letters, and whether they have an outline, a drop shadow or neither. When the English is too wide it switches to Fira Sans Condensed, then shrinks the text, and it prints a warning if the label still doesn't fit. Labels only 6 px high get a small built-in pixel font (`font=pixel`), since outlined letters turn to mush at that size. The options column covers the awkward sprites, and `gfx.py`'s docstring lists every option; you'll mostly need `bg=rows`, which wipes the Japanese off a badge or button but keeps the badge, and `in=x,y,w,h`, which replaces one part of a sprite (the battle screen's camera button has a word above its icon and another below it).
+
+The PNG holds the English and nothing else. At build time, `gfx.py` clears each sprite in the original texture, or wipes its text for `bg=rows`, and draws the PNG's label on top, so none of the game's art ends up in the repo. `script/gfx/copies.tsv` lists atlases in other containers that are pixel-for-pixel copies of a translated one, and the build patches those as well; run `copies` again whenever you add a table.
+
+A sprite can't grow, because the game's layout files fix where and how big it's drawn. English that runs much longer than the Japanese has to shrink or abbreviate, which is how 声 on the appearance screen ended up as "Vo.".
+
 ## Building
 
 ```sh
@@ -63,7 +88,7 @@ After every build, run `tools/boot_test.sh`. It boots the patched game in a priv
 
 The output, `build/mods/00040000000F4000/romfs/DA3File_3ds.cpk`, is a LayeredFS replacement. In Azahar or Citra, right-click the game, pick *Open Mods Location*, and drop the `romfs` folder there; on a 3DS with Luma it goes in `luma/titles/00040000000F4000/romfs/`. Don't load an emulator save state made with a different build, because the game crashes when its memory doesn't match the files. In-game saves are fine.
 
-`build/mods/text_report.txt` lists lines that overflow and UI strings much wider than their Japanese.
+`build/mods/text_report.txt` lists lines that overflow and UI strings much wider than their Japanese. The build prints how many textures it redrew; it reads the overlay PNGs as they are and doesn't need Fira Sans installed.
 
 Repacking leaves everything it doesn't touch byte-identical. Containers get patched in place (later entries shift by multiples of 0x80), and the CPK writer fixes up ITOC sizes and header totals; with nothing replaced, it reproduces the original file exactly.
 
@@ -89,6 +114,9 @@ Leave xdelta's source window (`-B`) at its default. Changed files only push the 
 | CPK entries | `MRON3.00` containers of tagged entries | `mron.py` | read/write |
 | MRON payloads | `SLZ` compression, types 0–3 (all 26,092 blobs verified) | `slz.py` | both ways |
 | `RMD-` / `RMDT` | pre-rendered text: messages plus a per-file kanji atlas | `rmd.py` | read/write |
+| `IMAG`, `IMGR`, `UAIF` | AIF textures in the 3DS GPU's tiled layout | `aif.py` | read/write |
+| `ATD-`, `UATD` | sprite rectangles of a texture atlas | `gfx.py` | read |
+| `ULD-` | UI layouts: where each sprite goes on screen | | not yet |
 | `SCE-` | Lua 5.1 bytecode (game scripts) | | not yet |
 | `*.l2` | Mobiclip MOFLEX video (FMVs) | | not yet |
 | `*.awb`, `ACB-` | CRI ADX2 audio | | not needed |
@@ -104,6 +132,14 @@ Control codes are `b0 b1` with both high bits set. `0x00` is a newline, `0x06` a
 The message table stores a height of 22 px per furigana line plus 12 px per plain line at 14 px, and `with_texts` recomputes it the same way the original converter did. The "width" field is really a furigana value, 0 when there's none.
 
 SLZ types 1 and 3 end every block with a `00 00` end token (distance 0), and the game's decoder relies on it. Our compressor used to leave it out, so decoding ran past the block and corrupted the heap; both early black screens at boot came from that. `slz.py` explains it.
+
+### Textures (AIF)
+
+An AIF file starts with 0x1E0 bytes of headers. The `imgX` chunk at 0x80 holds the pixel format (+0x20), the width and height (+0x28) and the data size (+0x3C), and the pixels follow straight after in the GPU's own layout: 8×8 tiles in Morton order, rows stored bottom-up, each pixel's channels reversed (RGBA8 is stored A B G R). Two files leave out the `aRF ` chunk, which moves `imgX` to 0x10 and the pixels to 0x170.
+
+The game's textures come in RGBA8, RGBA4444, RGB8, RGB565, RGBA5551, A8, ETC1 and ETC1A4. ETC1 packs 4×4 blocks four to a tile in Z order, and ETC1A4 puts a 64-bit block of 4-bit alpha in front of each colour block. ETC1 is lossy, so `aif.py` re-encodes only the blocks under a changed sprite and leaves every other byte of the texture alone; the uncompressed formats round-trip byte for byte. It doesn't write RGB565 or RGBA5551 yet, since no translated sprite has needed them.
+
+The sprite list sits in a separate entry with the texture's id, `UATD` next to a `UAIF` or `ATD-` next to an `IMAG`. It has the sprite count at 0x14 and the atlas size as two floats at 0x18, then 28 bytes per sprite: u0, v0, u1, v1 as fractions of the atlas, the sprite's width and height in pixels, and a zero.
 
 ### In-game layout (measured in Azahar)
 
@@ -136,7 +172,9 @@ It scores 98.8% on the hand-checked sample. What's left wrong is mostly image-on
 
 ## Things outside the text files
 
-Some Japanese isn't in RMD at all: textures with text drawn into them (`IMAG`, `IMGR`, UI layouts such as the 進む and しらべる buttons and the screen titles), FMV subtitles, and the banner and icon. None of that is started.
+Some Japanese isn't in RMD at all. Textures are partly done (see [Text drawn into textures](#text-drawn-into-textures) and progress.md for what's left), while nobody has started on the FMV subtitles or the banner and icon.
+
+The squad formation screen (container 13070) can't be redrawn yet. That container is 61,520 bytes, and the CPK keeps files under 64 KB in its `DataL` table with 16-bit sizes, so when the recompressed texture pushes it past 65,535 bytes `cpk.py` refuses to write it. Its table waits in `script/gfx/13070_004.tsv.disabled` until the writer can move a file into the `DataH` table.
 
 Player names are stored as global-font glyph indices. In `code.bin`, the functions at 0x24D324, 0x24D338 and 0x24D35C convert between glyphs and full-width UTF-16/Shift-JIS through 297-entry tables at 0x5E3862 and 0x5E3610, and the runtime char-to-glyph table sits at 0x654DF0. English names typed on the `A/1` keyboard work in game. The tables swap I and J, which round-trips harmlessly but would show over StreetPass.
 
@@ -147,3 +185,5 @@ The kanji in the script dump were identified with **KANJIDIC2** and **JMdict**, 
 Those files are research tools only. The patch contains no dictionary data, so distributing it carries no licence obligations from them. If you share the dictionary files themselves, keep this attribution and the CC BY-SA 4.0 licence with them; that's why `data/jmdict/` and `data/kanjidic/` stay out of the repo and everyone downloads their own copy.
 
 Image matching also uses **Noto Sans CJK JP** (SIL Open Font License), read from your system's font directory and never copied into this project or the patch.
+
+The English in redrawn textures is set in **Fira Sans** and **Fira Sans Condensed** (SIL Open Font License), which `gfx.py render` also reads from your system (on Arch, the `ttf-fira-sans` package). The overlay PNGs and the patch contain text drawn with it, which the licence allows; the font files themselves aren't part of either.

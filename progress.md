@@ -3,7 +3,7 @@
 English patch for **Danball Senki Wars** (3DS, CTR-P-BDNJ, title ID `00040000000F4000`).
 Technical details live in [README.md](README.md). This file tracks what's done, what's next, and what we've decided.
 
-_Last updated: 2026-11-02_
+_Last updated: 2026-11-11_
 
 ## Status at a glance
 
@@ -15,7 +15,7 @@ _Last updated: 2026-11-02_
 | Japanese script dump | ✅ Readable. Kanji identification 98.8% on a hand-checked sample |
 | English text in-game | ✅ Working: wrapping, `!` glyph, name entry, 10 px font spacing |
 | Translation | 🟡 All text areas done except placeholders and runtime-joined fragments (95.4% overall); playtesting outstanding |
-| Graphics with baked-in Japanese | ⬜ Not started |
+| Graphics with baked-in Japanese | 🟡 409 labels in 34 atlases (39 textures with the copies) redrawn in English. Pause menu, boot notices, hint bars and help screenshots still Japanese |
 | Cutscene videos (MOFLEX) | ⬜ Not started |
 | Distribution (patch packaging) | 🟡 v0.1-beta closed beta out (xdelta patch against the CPK). Not tested on real hardware |
 
@@ -32,6 +32,8 @@ Refresh with `python3 tools/progress.py`.
 | System & UI | 5,745 | 5,780 | 99.4% |
 | Other | 27 | 34 | 79.4% |
 | **All** | **18,859** | **19,765** | **95.4%** |
+
+These counts cover RMD text only. Labels drawn into textures are tracked under *Graphics* in the table above.
 
 Story scenes include the speaker name tags (filled from `script/speaker_names.tsv`). The remaining story lines are debug/placeholder text, the 53922 CG list and the 53920/53921 debug lists.
 
@@ -59,6 +61,7 @@ Translated so far:
 - **Special Function descriptions (06525.5 and 06526.3, 33300–33519):** one line each, capped at 280 px in `textfit.BOXES` (the Japanese never exceeds it). 33300+k describes the Special Function named at 01000.98:48020+k, though the pairing drifts after about 33458. The second copy is filled from the first by id.
 - **Mission map (06730.24/.26):** both are copies of the 13260 place table and are filled from it by id; 13260:10052 is now "Jenock Base Drill".
 - **Multiplayer room help (01049.10).**
+- **Texture labels, 2026-11-10:** 409 sprites in 34 atlases (`script/gfx/`). The title and system menus, save/load, the appearance and voice screen, the screen titles (Enter Name, Enter Country, Squads, Link Menu), sort and hint labels, the Lab and the Shop, Customize, the Special Function swap screen, the multiplayer lobby and rooms, the mission map (Day, War Time Cost, Defense, Reward, Terrain), the island map menu and its place names, the battle screen's bottom menu (Switch LBX, Lock-On List, All-Out Attack, Close) and the status callouts (OVERHEAT, JAMMING, FINAL BREAK CHANCE!). Five more atlases are byte-identical copies in other containers (`script/gfx/copies.tsv`) and get the same English.
 - **Character conversations (11700–11922), 2026-11-01:** all 135 scoutable characters (topic chats 10–3x, the "what do you need?" opener 40, gift thanks 50, being let go 60, leaving 70, joining 80, the morning meet-up 90) and their scout/part-ways messages (60000–60006, generated with each full name from the 13011 list); the commanders (Dordkins, Ms. Higurashi, Ms. Mito, Jordan, Croskey, Portman, Iceman, Todoroki, Nomi), Ayabe, Metazawa, Instructor Saruta and the Saruta School (11911:1000–2000), Tome, the Cafe Swallow master, teachers, guards and World Saver soldiers. Only the 16 `未使用` placeholder lines are left. New names and terms are in the glossary.
 
 ## Decisions
@@ -74,6 +77,8 @@ Translated so far:
 | Workflow | Story order, in playtested chunks: translate a chunk, play it in Azahar, fix |
 | Unsupported punctuation | `!` redrawn into the font. `"` `[` `]` `<` `>` `~` map to the nearest full-width glyph |
 | Release format | xdelta patch against the player's own `DA3File_3ds.cpk`, which the game picks up through LayeredFS. The release ships no game data |
+| Texture labels | Fira Sans, falling back to Fira Sans Condensed and then a smaller size when space is short. Colours, outline and shadow come from the Japanese sprite. 6 px labels use a built-in pixel font. Terms match the system text ("Sortie", "Squads", "Secret" for ウラ) |
+| Game art in the repo | None. The overlay PNGs hold only our English; the build wipes or clears the Japanese in the player's own textures |
 
 All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 
@@ -89,6 +94,7 @@ All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 - Appearance/voice screen: prompt, Male/Female and Type N show in both the appearance and voice boxes.
 - `[x14:0000]` prints the country name the player typed on the country-entry screen.
 - Test labels (`--test-ids`) show where any untranslated text on screen comes from.
+- Redrawn textures load: the boot notice's "Next" prompt shows in English (headless Azahar screenshot, 2026-11-10), and a build with all 39 redrawn textures passes `boot_test.sh`.
 
 ## Open questions
 
@@ -101,23 +107,27 @@ All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 - **Day counter (top screen, 17900 + 1791x).** "Day" plus "(Mon)" ran off the right edge of the screen (Japanese 52 px, about 57 px fit, English needed 74). It's now `1・Mon`: 17900 is `・` and the weekdays have no brackets. 17901 "After School" (99 px vs 42) is probably in the same corner; no screenshot of it yet.
 - UI labels much wider than their kanji (stat labels, sort options, tabs, stage and area names) were shortened where it was cheap (RNG, WT, Attr., bare sort keys). Whatever still overlaps will show in the next playtest.
 - **Map tags and Special Function descriptions:** the examine labels (Clock Tower, Vending Machine…) are assumed to show in the speaker name box. The descriptions are assumed to be a 280 px one-line field. Check both in-game.
+- **Texture labels:** apart from the boot screen's "Next", every redrawn label has been checked only in `gfx.py preview`. Narrow sprites forced abbreviations that may read badly on screen: "Vo." (声), "Recov." (受身), "Wpn A / Left", "COMMAND" (司令室 in the mission map's 5 px font).
+- **Which スキップ is the cutscene hint?** Three skip sprites now say "Skip" (01100_003, 01085_003, 01047_007). Nobody has checked that one of them is the START スキップ hint in cutscenes.
 - **Conversation boxes (11xxx)** are assumed to be the normal dialogue box (319 px x 2 lines) and were fitted to it. The NPC files (119xx) use a wider font, so their lines run shorter. Confirm in-game, along with the scout prompt `[x14:0200]` (assumed to be the SC price: "Scout for [x14:0200] SC?").
 
 ## Known issues
 
 - **Save states:** loading an emulator quicksave made with a different build crashes the game (2026-10-30: invalid-handle fatal error at PC 0x12610C). Use in-game saves across builds. Data strings are still kept within the original sizes as a precaution (`tools/sizecheck.py`).
 - About 5% of kanji uses in the dump are identified from the image alone (`⟨字⟩`). True homophones (態勢/体勢) and some names can be wrong. Fixes go in `script/glossary.tsv` (names) or `script/glyph_overrides.tsv` (glyphs).
-- Text drawn into images is still Japanese, e.g. the 進む button, the screen titles (名前入力, 容姿・声の選択, 所属国名の入力) and the 性別/容姿/声/決定 buttons, and the START スキップ hint in cutscenes.
+- Some text drawn into textures is still Japanese: what's probably the battle pause menu (54200: あきらめる, ゲーム スピード, 普通/早い/遅い), Mission Start and the victory and defeat conditions (01002_009), the notice at boot (01100_004) and the two save-tampering warnings (01100_013, 13141), the button hint bars (せんたく, けってい, …), the team tabs (A–F チーム), the Spectating badge and the menu screenshots on the help pages (06520).
+- The squad formation screen (13070) can't be redrawn: the container is 61,520 bytes, and with the new texture it outgrows the 16-bit size field of the CPK's `DataL` table. Its table is parked in `script/gfx/13070_004.tsv.disabled`.
+- Some `bg=rows` badges keep a faint line where the Japanese was (the Player tag in battle, the Defense tab on the mission map).
 - The player-name tables in `code.bin` have I/J swapped. It's harmless because it round-trips, but names sent over StreetPass would show it.
 - Debug file `60016` references glyphs it doesn't contain. It's ignored.
 
 ## Next steps
 
 1. **Playtest chapter 1** (prologue through 52609). Fix wording and overflow, confirm the one-line boxes and `[x14:0000]`/`[x14:0100]`.
-2. **Check the new UI text in-game:** the fragment order and the day counter (Open questions), and anything wider than its slot.
+2. **Check the new UI text in-game:** the fragment order and the day counter (Open questions), anything wider than its slot, and the redrawn texture labels (cut off, squashed, leftover Japanese).
 3. **Playtest the character conversations and the map:** box size, voices, the scout/part-ways prompts, examine labels in the name box, and the Special Function description line.
 4. **Remaining text:** only placeholders, debug lines and the runtime-joined fragments (see Open questions) are left. Fill the fragments once screenshots show their order.
-5. **Graphics:** find and translate textures with baked-in Japanese (buttons, titles, menus).
+5. **Graphics:** finish the textures listed under Known issues, and teach `cpk.py` to move a file that outgrows `DataL` into `DataH` so 13070 can be redrawn. After that, the IMAG pictures outside the UI atlases (47xxx, 48xxx, 54xxx), which nobody has looked through yet.
 6. **Real hardware:** test v0.1-beta on a 3DS, either through Luma3DS LayeredFS (the steps in the release README, untested) or with a patched CIA.
 
 ## Future work
@@ -193,3 +203,9 @@ Plan:
 ### 2026-11-02
 - Released **v0.1-beta** (closed beta) as a GitHub pre-release: a 657 KB xdelta patch against `DA3File_3ds.cpk` plus a README.txt with install steps, checksums, known issues and what to put in a bug report. A fresh build from `ce8bdf6` matches the release CPK byte for byte and passes `boot_test.sh`, and the patch rebuilds that CPK exactly. The first encode used a CPK-sized source window (`-B`) and filled RAM and swap in about 12 seconds, so systemd-oomd killed the whole terminal; the default window is enough (README, *Making a release*).
 - CONTRIBUTING caught up with the beta. *Where help is needed* now asks for playtests, bug reports, fragment screenshots, a real 3DS and textures instead of the conversations and examine text, which are done. It also gained a *Fragments* section and the newer boxes (`textfit.MESSAGE_BOXES`, the Special Function line).
+
+### 2026-11-10
+- Started on the Japanese drawn into textures. The UI art lives in `UAIF` textures with a `UATD` sprite list (and `IMAG` + `ATD-` in a few places). `tools/aif.py` reads and writes the texture format, including ETC1, where it re-encodes only the 4×4 blocks under a changed sprite. Every UI texture in a format it writes round-trips byte for byte.
+- `tools/gfx.py` redraws sprites from a table per atlas (`script/gfx/`). It samples the look of the Japanese label, wipes text off badges and buttons (`bg=rows`), can replace part of a sprite (`in=`), and has a 5 px pixel font for the smallest column headers. `build_patch.py` applies the tables. The overlays hold only our English; the build recomputes everything else from the player's CPK, and the output was byte-identical before and after that change.
+- Translated 409 sprites in 34 atlases; with 5 identical copies, a build redraws 39 textures and passes `boot_test.sh`. A headless Azahar screenshot shows the English "Next" on the boot notice.
+- 13070 (squad formation) broke the build: the container grows past the CPK's 16-bit `DataL` size limit. Its table is disabled until `cpk.py` can move the file.
