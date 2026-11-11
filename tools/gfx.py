@@ -30,6 +30,8 @@ Row options, space separated (a row with sprite `*` sets defaults):
   outline=N    outline width in px (default: sampled)
   align=l|c|r  where the text sits in the sprite (default: centred on the
                Japanese ink)
+  valign=c     centre the text between the sprite's top and bottom
+               (default: on the Japanese glyphs)
   like=N       take the colours from sprite N instead
   fill=RRGGBB[,RRGGBB]  fill colour (top,bottom) instead of the sampled one
   edge=RRGGBB  outline colour instead of the sampled one
@@ -515,8 +517,9 @@ def draw_label(size, text, look, opts):
     warn = None
     while True:
         font = font_for_cap(key, cap)
-        # +1: italic letters lean a little past their advance width
-        widths = [font.getlength(s) + 1 for s in lines]
+        # italic letters lean a little past their advance width
+        lean = 'Italic' in FONTS[key]
+        widths = [font.getlength(s) + lean for s in lines]
         asc = font.getbbox('H')
         cap_h = asc[3] - asc[1]
         gap = max(2, cap_h // 3)
@@ -535,7 +538,7 @@ def draw_label(size, text, look, opts):
             if wide:
                 warn = f'"{text}" is {round(max(widths)) + pad_l + pad_r} px in a {w} px sprite'
             break
-    if len(lines) > 1:
+    if len(lines) > 1 or opts.get('valign') == 'c':
         y0 = (h - block) // 2
     else:
         y0 = look['core'][0] + (core - cap_h + 1) // 2

@@ -1,0 +1,5 @@
+sprite	ja	en	options
+95	勝利条件	Victory|Conditions	bg=rows in=0,1,68,27 thresh=15 font=bold outline=1
+96	敗北条件	Defeat|Conditions	bg=rows in=0,1,68,27 thresh=15 font=bold outline=1
+99	ミッションスタート	Mission Start	
+100	ミッションスタート	Mission Start	

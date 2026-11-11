@@ -1,0 +1,8 @@
+sprite	ja	en	options
+*			bg=rows mode=none font=bold fill=000000 margin=1 valign=c
+0	あきらめる	Give Up	fill=F0FF02
+1	ゲーム スピード	Game Speed	
+2	遅い	Slow	size=18 pad=4
+3	普通	Normal	size=18 pad=4
+4	早い	Fast	size=18 pad=4
+5	システムメニュー	System Menu	
