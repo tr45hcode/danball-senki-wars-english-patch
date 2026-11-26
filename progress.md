@@ -3,7 +3,7 @@
 English patch for **Danball Senki Wars** (3DS, CTR-P-BDNJ, title ID `00040000000F4000`).
 Technical details live in [README.md](README.md). This file tracks what's done, what's next, and what we've decided.
 
-_Last updated: 2026-11-11_
+_Last updated: 2026-11-26_
 
 ## Status at a glance
 
@@ -15,7 +15,7 @@ _Last updated: 2026-11-11_
 | Japanese script dump | ✅ Readable. Kanji identification 98.8% on a hand-checked sample |
 | English text in-game | ✅ Working: wrapping, `!` glyph, name entry, 10 px font spacing |
 | Translation | 🟡 All text areas done except placeholders and runtime-joined fragments (95.4% overall); playtesting outstanding |
-| Graphics with baked-in Japanese | 🟡 426 labels in 37 atlases (42 textures with the copies) redrawn in English. Boot notices, hint bars and help screenshots still Japanese |
+| Graphics with baked-in Japanese | 🟡 529 labels in 42 atlases (47 textures with the copies) redrawn in English, including the boot notices, the button hint bars, the team tabs and the Spectating badge. Help pages and help screenshots still Japanese |
 | Cutscene videos (MOFLEX) | ⬜ Not started |
 | Distribution (patch packaging) | 🟡 v0.1-beta closed beta out (xdelta patch against the CPK). Not tested on real hardware |
 
@@ -61,7 +61,7 @@ Translated so far:
 - **Special Function descriptions (06525.5 and 06526.3, 33300–33519):** one line each, capped at 280 px in `textfit.BOXES` (the Japanese never exceeds it). 33300+k describes the Special Function named at 01000.98:48020+k, though the pairing drifts after about 33458. The second copy is filled from the first by id.
 - **Mission map (06730.24/.26):** both are copies of the 13260 place table and are filled from it by id; 13260:10052 is now "Jenock Base Drill".
 - **Multiplayer room help (01049.10).**
-- **Texture labels, 2026-11-10:** 426 sprites in 37 atlases (`script/gfx/`), counting the three added on 2026-11-11: squad formation, the battle pause menu (Give Up, Game Speed, Slow/Normal/Fast) and the Mission Start, Victory Conditions and Defeat Conditions banners. The title and system menus, save/load, the appearance and voice screen, the screen titles (Enter Name, Enter Country, Squads, Link Menu), sort and hint labels, the Lab and the Shop, Customize, the Special Function swap screen, the multiplayer lobby and rooms, the mission map (Day, War Time Cost, Defense, Reward, Terrain), the island map menu and its place names, the battle screen's bottom menu (Switch LBX, Lock-On List, All-Out Attack, Close) and the status callouts (OVERHEAT, JAMMING, FINAL BREAK CHANCE!). Five more atlases are byte-identical copies in other containers (`script/gfx/copies.tsv`) and get the same English.
+- **Texture labels, 2026-11-10:** 529 sprites in 42 atlases (`script/gfx/`), counting the three added on 2026-11-11 and the ones of 2026-11-26 (below): squad formation, the battle pause menu (Give Up, Game Speed, Slow/Normal/Fast) and the Mission Start, Victory Conditions and Defeat Conditions banners. The title and system menus, save/load, the appearance and voice screen, the screen titles (Enter Name, Enter Country, Squads, Link Menu), sort and hint labels, the Lab and the Shop, Customize, the Special Function swap screen, the multiplayer lobby and rooms, the mission map (Day, War Time Cost, Defense, Reward, Terrain), the island map menu and its place names, the battle screen's bottom menu (Switch LBX, Lock-On List, All-Out Attack, Close) and the status callouts (OVERHEAT, JAMMING, FINAL BREAK CHANCE!). The 2026-11-26 additions are the button hint bars (01000_086: Select, OK, Cancel, Help, Tactics, Switch…, plus the small column headers; 01540_005's hint bars were redone to match), the boot notice and the save-data warning (01100_004, 01100_013) and the StreetPass update button (13080_003). Five more atlases are byte-identical copies in other containers (`script/gfx/copies.tsv`) and get the same English.
 - **Character conversations (11700–11922), 2026-11-01:** all 135 scoutable characters (topic chats 10–3x, the "what do you need?" opener 40, gift thanks 50, being let go 60, leaving 70, joining 80, the morning meet-up 90) and their scout/part-ways messages (60000–60006, generated with each full name from the 13011 list); the commanders (Dordkins, Ms. Higurashi, Ms. Mito, Jordan, Croskey, Portman, Iceman, Todoroki, Nomi), Ayabe, Metazawa, Instructor Saruta and the Saruta School (11911:1000–2000), Tome, the Cafe Swallow master, teachers, guards and World Saver soldiers. Only the 16 `未使用` placeholder lines are left. New names and terms are in the glossary.
 
 ## Decisions
@@ -95,7 +95,7 @@ All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 - Appearance/voice screen: prompt, Male/Female and Type N show in both the appearance and voice boxes.
 - `[x14:0000]` prints the country name the player typed on the country-entry screen.
 - Test labels (`--test-ids`) show where any untranslated text on screen comes from.
-- Redrawn textures load: the boot notice's "Next" prompt shows in English (headless Azahar screenshot, 2026-11-10), and a build with all 42 redrawn textures passes `boot_test.sh`.
+- Redrawn textures load: the boot notice's "Next" prompt shows in English (headless Azahar screenshot, 2026-11-10), and a build with all 42 redrawn textures passes `boot_test.sh`. The 47-texture build of 2026-11-26 passes it too (no crash in 30 s, 9.5 s of game time); none of the 2026-11-26 labels has been seen in a screenshot.
 - The game accepts files moved from the CPK's `DataL` table to `DataH`: a test CPK with 103 files moved (1106 the lowest id) boots to the same boot notice as the normal build (headless Azahar screenshots, 2026-11-11). Nobody has opened the squad formation screen itself yet.
 
 ## Open questions
@@ -109,7 +109,7 @@ All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 - **Day counter (top screen, 17900 + 1791x).** "Day" plus "(Mon)" ran off the right edge of the screen (Japanese 52 px, about 57 px fit, English needed 74). It's now `1・Mon`: 17900 is `・` and the weekdays have no brackets. 17901 "After School" (99 px vs 42) is probably in the same corner; no screenshot of it yet.
 - UI labels much wider than their kanji (stat labels, sort options, tabs, stage and area names) were shortened where it was cheap (RNG, WT, Attr., bare sort keys). Whatever still overlaps will show in the next playtest.
 - **Map tags and Special Function descriptions:** the examine labels (Clock Tower, Vending Machine…) are assumed to show in the speaker name box. The descriptions are assumed to be a 280 px one-line field. Check both in-game.
-- **Texture labels:** apart from the boot screen's "Next", every redrawn label has been checked only in `gfx.py preview`. Narrow sprites forced abbreviations that may read badly on screen: "Vo." (声), "Recov." (受身), "Wpn A / Left", "COMMAND" (司令室 in the mission map's 5 px font).
+- **Texture labels:** apart from the boot screen's "Next", every redrawn label has been checked only in `gfx.py preview`. Narrow sprites forced abbreviations that may read badly on screen: "Vo." (声), "Recov." (受身), "Wpn A / Left", "COMMAND" (司令室 in the mission map's 5 px font), and in the hint bars "TOGGLE AUTO", "DAKUTEN", "Hira"/"Kata" and "CHARACTER" (キャラせんたく, was "Pick Character"). The hint bars are set in capitals at 7 px; check that they read as one family.
 - **Which スキップ is the cutscene hint?** Three skip sprites now say "Skip" (01100_003, 01085_003, 01047_007). Nobody has checked that one of them is the START スキップ hint in cutscenes.
 - **Conversation boxes (11xxx)** are assumed to be the normal dialogue box (319 px x 2 lines) and were fitted to it. The NPC files (119xx) use a wider font, so their lines run shorter. Confirm in-game, along with the scout prompt `[x14:0200]` (assumed to be the SC price: "Scout for [x14:0200] SC?").
 
@@ -117,7 +117,7 @@ All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 
 - **Save states:** loading an emulator quicksave made with a different build crashes the game (2026-10-30: invalid-handle fatal error at PC 0x12610C). Use in-game saves across builds. Data strings are still kept within the original sizes as a precaution (`tools/sizecheck.py`).
 - About 5% of kanji uses in the dump are identified from the image alone (`⟨字⟩`). True homophones (態勢/体勢) and some names can be wrong. Fixes go in `script/glossary.tsv` (names) or `script/glyph_overrides.tsv` (glyphs).
-- Some text drawn into textures is still Japanese: the notice at boot (01100_004) and the two save-tampering warnings (01100_013, 13141), the button hint bars (せんたく, けってい, …), the team tabs (A–F チーム), the Spectating badge and the menu screenshots on the help pages (06520).
+- Some text drawn into textures is still Japanese: the help pages (54250–54266, two 400×240 screens each, paragraphs on the hex background) and the UI screenshots on the help screens (06520, 06522, 06524, 06525…, which show the game's own screens with the placeholder line 画面の説明を入れます). Both sit on a shaded hex background with other art close by, so `bg=repeat` can't heal them (a trial on 54250 copied the list box above the paragraph into the gap). They need a clean background plate or real inpainting. The cutscene stills (543xx–544xx) hold almost no text. 47xxx/48xxx hold no textures.
 - Some `bg=rows` badges keep a faint line where the Japanese was (the Player tag in battle, the Defense tab on the mission map).
 - The player-name tables in `code.bin` have I/J swapped. It's harmless because it round-trips, but names sent over StreetPass would show it.
 - Debug file `60016` references glyphs it doesn't contain. It's ignored.
@@ -128,7 +128,7 @@ All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 2. **Check the new UI text in-game:** the fragment order and the day counter (Open questions), anything wider than its slot, and the redrawn texture labels (cut off, squashed, leftover Japanese).
 3. **Playtest the character conversations and the map:** box size, voices, the scout/part-ways prompts, examine labels in the name box, and the Special Function description line.
 4. **Remaining text:** only placeholders, debug lines and the runtime-joined fragments (see Open questions) are left. Fill the fragments once screenshots show their order.
-5. **Graphics:** finish the textures listed under Known issues. After that, the IMAG pictures outside the UI atlases (47xxx, 48xxx, 54xxx), which nobody has looked through yet.
+5. **Graphics:** check the 2026-11-26 textures in game (boot notice, hint bars, StreetPass button, team tabs), then the help pages and screenshots listed under Known issues, which need a new way to clear the background. After that, the IMAG pictures outside the UI atlases (47xxx, 48xxx, 54xxx), which nobody has looked through yet.
 6. **Real hardware:** test v0.1-beta on a 3DS, either through Luma3DS LayeredFS (the steps in the release README, untested) or with a patched CIA.
 
 ## Future work
@@ -218,3 +218,16 @@ Plan:
 - `gfx.py` added a pixel of width for italic lean to upright fonts too, which made "2nd Squad" a size smaller than its four neighbours in a 39 px sprite. Only the italic faces get it now. Re-rendering moved 82 labels, most by a pixel; a dozen grew a size (Squads, Weapon, Remove, Convert, Specialty, the Wpn A/B slots) and the previews look right.
 - Two more atlases: 54200_000 (Give Up, Game Speed, Slow, Normal, Fast, System Menu) and 01002_009 (Mission Start twice, Victory Conditions, Defeat Conditions). 54200 is ETC1, flat black letters on flat colour, and looks like the battle pause menu; that's a guess until someone opens it in game. The two condition banners keep their art: `bg=rows` with `thresh=15` wipes the soft outline along with the kanji. Totals are now 426 labels in 37 atlases and 42 redrawn textures, and the build passes `boot_test.sh`.
 - New row option `valign=c` centres a label between the sprite's top and bottom. The three speed buttons needed it, because centring on each button's own kanji left them at three different heights.
+
+### 2026-11-26
+- Four more atlases, 70 more labels (496 in 41 atlases):
+  - **01000_086:** the button hint bars (せんたく, けってい, …) as 7 px capitals, plus the 5 px column headers and a few badges. 01540_005's hint bars (rotate LBX, switch status, … 42–61, 70) were redone as capitals at 7 px so the two atlases match.
+  - **01100_004 and 01100_013:** the boot copyright notice and the save-tampering warning, 11 px Fira over a striped background. Both sit on the same background but with different text, so each atlas lends the other's pixels to heal the wipe (`also=`).
+  - **13080_003:** the StreetPass update button (3 sprites).
+- `gfx.py` got new options for these: `bg=repeat step=dx,dy thresh=N also=<atlas>` removes light text from a background that repeats (and learns from a sibling atlas); `wipe=RRGGBB` gives `bg=rows` a fixed background colour for text that runs to the badge's edge; `align=c` now works with `font=pixel`, where the default is left; `gap=N` sets the space between stacked lines, and `A|B|C` stacks more than two.
+- A second pass with the rest of the UI (529 labels in 42 atlases; the build redraws 47 textures, passes `boot_test.sh` and `sizecheck.py`):
+  - **Hint bars with the buttons inside them** (06516_004 sprites 47–50, 13230_002 sprite 0): the icons stay and each word is replaced in place (SELECT, OK, NEXT PAGE, ROTATE LBX, SWITCH TAB, VIEW, CANCEL, SWITCH, DAKUTEN, NEXT, FINISH).
+  - **The 13141 save-tampering warning** (13141_001), **the Spectating badge** (01002_008 sprite 38), **the team tabs** (13240_000, "Team" next to the A–F letter, which keeps a faint dash on each side) and **the current ON/OFF badges** (13080_005, "NOW").
+  - `wipe=` now gives the wiped pixels the commonest opacity of the rest of the area. Before, text on a translucent bar left a ghost of the Japanese in the alpha channel.
+  - Looked through every container that has textures but no table (about 140 atlases): the rest are backgrounds, icons, numbers and art, apart from the help pages above.
+  - Re-dumped `script/raw` with the glyph overrides (three files changed, among them Suzune's record).
