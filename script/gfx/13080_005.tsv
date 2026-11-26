@@ -14,3 +14,7 @@ sprite	ja	en	options
 16	すれちがい通信	StreetPass	
 17	LBXプレイヤーリスト	LBX Player List	
 18	パスワード	Password	
+11	現在	NOW	bg=rows in=3,1,30,21 font=cond
+12	現在	NOW	bg=rows in=3,1,30,21 font=cond
+13	現在	NOW	bg=rows in=3,1,30,21 font=cond
+14	現在	NOW	bg=rows in=3,1,30,21 font=cond

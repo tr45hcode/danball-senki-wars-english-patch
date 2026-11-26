@@ -1,0 +1,2 @@
+sprite	ja	en	options
+0	<ご注意>|ゲームソフトを権利者の許諾なく|インターネットを通じて配信、配布する行為|また、違法なインターネット配信と知りながら|ダウンロードする行為は|法律で固く禁じられております。|みなさまのご理解とご協力をお願いいたします。	<Notice>|Distributing game software online|without the rights holder's permission,|or knowingly downloading|illegally distributed software,|is strictly prohibited by law.|Thank you for your cooperation.	bg=repeat step=0,70 thresh=2 also=01100_013 in=56,0,312,240 font=plain size=11 gap=12

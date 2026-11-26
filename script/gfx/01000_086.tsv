@@ -1,0 +1,67 @@
+sprite	ja	en	options
+*			font=plain size=7
+0	せんたく	SELECT
+1	けってい	OK
+2	キャンセル	CANCEL
+3	ヘルプ	HELP
+4	さくせんへんこう	TACTICS
+5	かんしょう	VIEW
+6	そうさキャラへんこう	CHANGE PLAYER
+7	さいかい	RESUME
+8	オートそうさへんこう	TOGGLE AUTO
+9	しょうさいデータ	DETAILS
+22	せっていかんりょう	DONE
+23	ソート	SORT
+24	もじおくり	NEXT
+26	だくてん/はんだくてん	DAKUTEN
+27	1文字戻る	Back	size=0
+28	やめる	Quit	size=0
+30	かな	Hira	size=0
+31	カナ	Kata	size=0
+35	きりかえ	SWITCH
+36	ガイド	GUIDE	font=pixel
+38	おもさ	WT	font=pixel align=c
+39	ぞくせい	ATTR.	font=pixel align=c
+41	チューンナップポイント	TUNE-UP POINTS	font=pixel
+42	こうげき	AT	font=pixel align=c
+43	弾数	AMMO	font=pixel align=c
+44	重さ	WT	size=0
+45	デフォルトカラー	DEFAULT COLOR	size=0
+46	専用	EXCLUSIVE	font=pixel align=c
+48	じどうほじゅう	AUTO REFILL	bg=rows wipe=652530 in=10,2,47,6 font=pixel align=c
+50	いりょく	PWR	font=pixel align=c
+51	スピード	SPD	font=pixel align=c
+52	ランク	RANK	font=pixel like=51
+58	カスタムエラー	CUSTOM ERROR	bg=rows wipe=e74e7d in=9,3,49,9 font=pixel align=c
+69	コアボックスサイズ	CORE BOX SIZE	font=pixel
+73	さくいん	INDEX
+84	ルーム	ROOM	font=pixel
+85	バトルスタートまで	BATTLE IN	size=0
+88	ホスト	HOST	bg=rows wipe=136764 in=5,5,20,6 font=pixel align=c mode=none fill=ffffff
+96	ジオラマ	DIORAMA
+97	ステータス	STATUS
+98	たいしつ	LEAVE
+99	かいてん	ROTATE
+100	ガイド	GUIDE
+101	ラインナップ	LINEUP
+102	データきりかえ	SWITCH DATA
+103	はずす	REMOVE
+104	カスタム	CUSTOM
+105	パーティいれかえ	SWAP PARTY
+106	カスタマイズ	CUSTOMIZE
+107	ひょうじきりかえ	SWITCH VIEW
+108	キャラきりかえ	SWITCH CHAR.
+109	モードへんこう	MODE
+110	ぶきじゅくれんど	MASTERY
+112	カスタマイズ中	Customizing	size=0 bg=rows margin=4 font=cond
+113	パーティー編成中	Editing Party	size=0 bg=rows margin=4 font=cond
+114	スキル	SKILL
+115	カテゴリきりかえ	CATEGORY
+116	へんこう	CHANGE
+117	パーツきりかえ	SWITCH PARTS
+118	キャラへんこう	CHARACTER
+119	いどう	MOVE
+120	チェック	CHECK
+121	ほうしゅう	REWARD
+122	こうしん	UPDATE
+123	アイテムぜんかいじょ	UNEQUIP ALL ITEMS

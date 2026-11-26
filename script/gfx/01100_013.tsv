@@ -1,0 +1,2 @@
+sprite	ja	en	options
+0	データ改造ツールなどによって|セーブデータを書き換えると|正しくプレイができなくなる可能性があります。|不正なデータが検出された場合、対戦などで|そのデータが利用できなくなります。|データ書き換えソフトを使用されないことを|強くおすすめします。	Rewriting your save data with a data|modification tool or similar software|may stop the game from working properly.|If invalid data is detected, it can't be|used for battles and other features.|We strongly recommend that you|do not use data rewriting software.	bg=repeat step=0,70 thresh=2 also=01100_004 in=56,52,312,188 font=plain size=11 gap=12

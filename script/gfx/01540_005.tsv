@@ -32,24 +32,24 @@ sprite	ja	en	options
 38	設計図順	Blueprint	
 39	得意順	Specialty	
 40	タイプ順	Type	
-42	LBXかいてん	Rotate LBX	
-43	じょうたいきりかえ	Switch Status	
-46	もどる	Back	
-47	キャンセル	Cancel	
-48	きりかえ	Switch	
-49	ページきりかえ	Switch Page	
-50	じょうたいきりかえ	Switch Status	
-51	スキルレベルきりかえ	Switch Skill Level	
-52	タブきりかえ	Switch Tab	
-53	へんかん	Convert	
-54	せんたく	Select	
-55	データをけす	Delete Data	
-56	しゅうりょう	Finish	
-57	けってい	OK	
-58	かんしょう	View	
-59	ページおくり	Next Page	
-60	もじおくり	Next	
-61	さいかい	Resume	
+42	LBXかいてん	ROTATE LBX	size=7
+43	じょうたいきりかえ	SWITCH STATUS	size=7
+46	もどる	BACK	size=7
+47	キャンセル	CANCEL	size=7
+48	きりかえ	SWITCH	size=7
+49	ページきりかえ	SWITCH PAGE	size=7
+50	じょうたいきりかえ	SWITCH STATUS	size=7
+51	スキルレベルきりかえ	SWITCH SKILL LEVEL	size=7
+52	タブきりかえ	SWITCH TAB	size=7
+53	へんかん	CONVERT	size=7
+54	せんたく	SELECT	size=7
+55	データをけす	DELETE DATA	size=7
+56	しゅうりょう	FINISH	size=7
+57	けってい	OK	size=7
+58	かんしょう	VIEW	size=7
+59	ページおくり	NEXT PAGE	size=7
+60	もじおくり	NEXT	size=7
+61	さいかい	RESUME	size=7
 62	アーマーフレーム熟練度	Armor Frame Mastery	
 63	Cゲージ順	C Gauge	
 64	LV降順	LV Desc.	
@@ -58,4 +58,4 @@ sprite	ja	en	options
 67	ランク順	Rank	
 68	はずす	Remove	
 69	フレーム順	Frame	
-70	キャラせんたく	Pick Character	
+70	キャラせんたく	CHARACTER	size=7

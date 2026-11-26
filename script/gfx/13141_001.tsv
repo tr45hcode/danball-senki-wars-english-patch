@@ -1,0 +1,2 @@
+sprite	ja	en	options
+2	データ改造ツールなどによって|書き換えたデータを使用した|対戦は禁止されています。||不正なデータが発見された場合|公式のゲーム大会に出場できなくなりますので|注意してください。	Battles using data that has been|rewritten with a data modification|tool or similar software are prohibited.||If invalid data is detected, you|may be barred from official|game tournaments. Please be careful.	bg=repeat step=0,70 thresh=1 in=56,52,312,188 font=plain size=11 gap=12

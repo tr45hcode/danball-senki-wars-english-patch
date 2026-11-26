@@ -7,3 +7,9 @@ sprite	ja	en	options
 33	せいげんじかん	Time Limit	font=plain mode=none
 34	通信対戦	Link Battle	
 35	ゼネラルレギュレーション	General Regulation	
+25	Aチーム	Team	bg=rows in=20,10,23,13 thresh=40 font=cond size=5 align=c
+26	Bチーム	Team	bg=rows in=20,10,23,13 thresh=40 font=cond size=5 align=c
+27	Cチーム	Team	bg=rows in=20,10,23,13 thresh=40 font=cond size=5 align=c
+28	Dチーム	Team	bg=rows in=20,10,23,13 thresh=40 font=cond size=5 align=c
+29	Eチーム	Team	bg=rows in=20,10,23,13 thresh=40 font=cond size=5 align=c
+30	Fチーム	Team	bg=rows in=20,10,23,13 thresh=40 font=cond size=5 align=c

@@ -29,7 +29,8 @@ Row options, space separated (a row with sprite `*` sets defaults):
   mode=outline|shadow|none  what surrounds the letters (default: sampled)
   outline=N    outline width in px (default: sampled)
   align=l|c|r  where the text sits in the sprite (default: centred on the
-               Japanese ink)
+               Japanese ink, which a highlight on a button can skew); with
+               font=pixel, c centres on the ink and the default is left
   valign=c     centre the text between the sprite's top and bottom
                (default: on the Japanese glyphs)
   like=N       take the colours from sprite N instead
@@ -40,12 +41,22 @@ Row options, space separated (a row with sprite `*` sets defaults):
   bg=rows      keep the sprite and paint over its text with each row's
                background colour (badges with a plain background); margin=N
                leaves N px at either end alone, thresh=N is how far a
-               pixel must be from the background to count as text (60)
+               pixel must be from the background to count as text (60),
+               wipe=RRGGBB takes that colour as every row's background
+               instead of sampling it (text that runs up to the badge's edge),
+               and gives the wiped pixels the commonest opacity of the rest
+  bg=repeat step=dx,dy   for light text on a background that repeats
+               every dx,dy px (the hex screens): each text pixel takes the
+               darkest of its copies whole steps away; thresh=N is how much
+               lighter than that a pixel must be to count as text (12);
+               also=<atlas> adds the copies in another atlas of the same
+               container (same place, same background, different text)
   pad=N        keep the text N px away from the sprite's edges
   rect=x,y,w,h use this atlas rectangle instead of the sprite's own
   in=x,y,w,h   replace only this part of the sprite (several rows may each
                take a part of one sprite)
-English `A|B` stacks two lines; `~` removes the Japanese and draws nothing.
+English `A|B` stacks two lines (more `|` for more lines; gap=N sets the
+space between them); `~` removes the Japanese and draws nothing.
 
 Usage:
   gfx.py list                         atlases and their sprite counts
@@ -216,7 +227,7 @@ def row_parts(rects, rows, defaults):
         yield sprite, en, opts, rect, (ix, iy, ix + iw, iy + ih)
 
 
-def background(img, rects, src, opts, rect, part):
+def background(img, rects, src, opts, rect, part, others=None):
     """What a row draws its English on, and the Japanese it removed.
 
     src is the part of the sprite the row replaces. Returns (base, marked):
@@ -224,12 +235,21 @@ def background(img, rects, src, opts, rect, part):
     part of a blank sprite (bg=N); marked is the removed text on a
     transparent image, or None when nothing was removed. Both come from
     the game's pixels, so the build recomputes them instead of storing
-    them in the overlay."""
+    them in the overlay. `others` maps the atlases named by also= to
+    their images."""
     w, h = rect[2:]
     size = (part[2] - part[0], part[3] - part[1])
+    if opts.get('bg') == 'repeat':
+        x, y = rect[:2]
+        step = tuple(int(v) for v in opts['step'].split(','))
+        box = (x, y, x + w, y + h)
+        extra = [others[n].crop(box) for n in also_names(opts)]
+        return heal_repeat(img.crop(box), part, step,
+                           int(opts.get('thresh', 12)), extra)
     if opts.get('bg') == 'rows':
         return wipe_rows(src, int(opts.get('margin', 0 if 'in' in opts else h // 2)),
-                         int(opts.get('thresh', 60)))
+                         int(opts.get('thresh', 60)),
+                         _hex(opts['wipe']) if 'wipe' in opts else None)
     if 'bg' in opts:
         bx, by, bw, bh = rects[int(opts['bg'])]
         base = img.crop((bx, by, bx + w, by + h)).crop(part)
@@ -241,7 +261,18 @@ def background(img, rects, src, opts, rect, part):
     return Image.new('RGBA', size, (0, 0, 0, 0)), None
 
 
-def apply(img, rects, name):
+def also_names(opts):
+    return [n for n in opts.get('also', '').split(',') if n]
+
+
+def table_others(name, load):
+    """{atlas: image} for every also= in table `name`; `load` reads one."""
+    rows, defaults = load_table(name)
+    names = {n for _, _, _, o in rows for n in also_names({**defaults, **o})}
+    return {n: load(n) for n in sorted(names)}
+
+
+def apply(img, rects, name, others=None):
     """Return `img` with the translated sprites of table `name` redrawn:
     each row's background (see background) with the overlay's English on
     top. Used by the build."""
@@ -254,7 +285,7 @@ def apply(img, rects, name):
     for sprite, en, opts, rect, part in row_parts(rects, rows, defaults):
         x, y, w, h = rect
         whole = drawn.get(rect) or img.crop((x, y, x + w, y + h))
-        base, _ = background(img, rects, whole.crop(part), opts, rect, part)
+        base, _ = background(img, rects, whole.crop(part), opts, rect, part, others)
         base.alpha_composite(labels.crop((x + part[0], y + part[1],
                                           x + part[2], y + part[3])))
         whole = whole.copy()
@@ -280,7 +311,12 @@ def patch_container(container, data):
         payload = mron.read_entry(data, entries[index])
         atlas = find_atlas(ids, index)
         rects = parse_atd(mron.read_entry(data, entries[atlas])) if atlas is not None else []
-        out[index] = aif.encode(payload, apply(aif.decode(payload), rects, table),
+        def load(other):
+            if other.split('_')[0] != container:
+                raise ValueError(f'{table}: also={other} is in another container')
+            return aif.decode(mron.read_entry(data, entries[entry_index(other)[1]]))
+        others = table_others(table, load)
+        out[index] = aif.encode(payload, apply(aif.decode(payload), rects, table, others),
                                 changed_rects(rects, table))
     return out
 
@@ -522,7 +558,7 @@ def draw_label(size, text, look, opts):
         widths = [font.getlength(s) + lean for s in lines]
         asc = font.getbbox('H')
         cap_h = asc[3] - asc[1]
-        gap = max(2, cap_h // 3)
+        gap = int(opts['gap']) if 'gap' in opts else max(2, cap_h // 3)
         block = cap_h * len(lines) + gap * (len(lines) - 1)
         rise = max(0, asc[1] - font.getbbox(lines[0])[1])   # l, d, k above H
         drop = max(0, font.getbbox(lines[-1])[3] - asc[3])  # g, p, y below
@@ -555,6 +591,8 @@ def draw_label(size, text, look, opts):
             x = min(x, max(pad_l, w - pad_r - tw))
         elif align == 'r':
             x = w - pad_r - tw
+        elif align == 'c':
+            x = pad_l + round((w - pad_l - pad_r - tw) / 2)
         else:
             centre = (look['left'] + look['right'] - dx) / 2
             x = round(centre - tw / 2)
@@ -590,13 +628,13 @@ def draw_label(size, text, look, opts):
     return out, warn
 
 
-def wipe_rows(sprite, margin, thresh=60):
+def wipe_rows(sprite, margin, thresh=60, colour=None):
     """Remove text drawn on a badge whose background only changes from row
     to row: every pixel that stands out from its row's background colour,
     `margin` px in from either end, becomes that colour. The background of
     a row is sampled at its two ends, so the area must be a little wider
-    than the text. Returns the cleaned sprite and the removed text on a
-    transparent image."""
+    than the text, unless `colour` gives the background instead. Returns
+    the cleaned sprite and the removed text on a transparent image."""
     w, h = sprite.size
     base = sprite.copy()
     marked = Image.new('RGBA', (w, h), (0, 0, 0, 0))
@@ -617,7 +655,7 @@ def wipe_rows(sprite, margin, thresh=60):
         # the row's background: what it looks like at either end, where
         # there is no text
         k = max(3, min(6, len(row) // 8))
-        med[y] = median(row[:k] + row[-k:])
+        med[y] = colour or median(row[:k] + row[-k:])
         for x in range(margin, w - margin):
             p = src[x, y]
             if p[3] > 16 and dist(p, med[y]) > thresh:
@@ -630,7 +668,20 @@ def wipe_rows(sprite, margin, thresh=60):
              for i in (-2, -1, 0, 1, 2) for j in (-2, -1, 0, 1, 2)}
     wiped = {(x, y) for x, y in wiped
              if margin <= x < w - margin and y in med and src[x, y][3] > 16}
+    flat = None
+    if colour:
+        # a background of one colour has one opacity too: the commonest
+        # among the pixels that stay (text on a translucent bar is opaque)
+        counts = {}
+        for y in med:
+            for x in range(margin, w - margin):
+                if (x, y) not in wiped and src[x, y][3] > 16:
+                    counts[src[x, y][3]] = counts.get(src[x, y][3], 0) + 1
+        flat = max(counts, key=counts.get) if counts else None
     for x, y in wiped:
+        if flat is not None:
+            dst[x, y] = med[y] + (flat,)
+            continue
         # opacity: carried over from the nearest untouched pixels of the row
         # (the background may fade out sideways)
         near = []
@@ -649,12 +700,53 @@ def wipe_rows(sprite, margin, thresh=60):
     return base, marked
 
 
+def heal_repeat(sprite, part, step, thresh=12, others=()):
+    """Remove light text from a background that repeats every `step`
+    (dx, dy) px: a pixel lighter by more than `thresh` than the darkest of
+    its copies whole steps away becomes that copy. Text that covers every
+    copy of a pixel stays. `others` are images of the same background with
+    different text, whose copies (and the pixel itself) count too. Returns
+    the cleaned `part` of the sprite and the removed text on a transparent
+    image."""
+    dx, dy = step
+    if not dx and not dy:
+        raise ValueError('step=0,0')
+    w, h = sprite.size
+    px = sprite.load()
+    more = [o.load() for o in others]
+    base = sprite.crop(part)
+    marked = Image.new('RGBA', base.size, (0, 0, 0, 0))
+    bp, mp = base.load(), marked.load()
+
+    def lum(p):
+        return (p[0] * 299 + p[1] * 587 + p[2] * 114) / 1000
+
+    for y in range(part[1], part[3]):
+        for x in range(part[0], part[2]):
+            p = best = px[x, y]
+            for op in more:
+                if lum(op[x, y]) < lum(best):
+                    best = op[x, y]
+            for sign in (1, -1):
+                cx, cy = x + sign * dx, y + sign * dy
+                while 0 <= cx < w and 0 <= cy < h:
+                    for q in [px[cx, cy]] + [op[cx, cy] for op in more]:
+                        if lum(q) < lum(best):
+                            best = q
+                    cx, cy = cx + sign * dx, cy + sign * dy
+            if lum(p) - lum(best) > thresh:
+                bp[x - part[0], y - part[1]] = best
+                mp[x - part[0], y - part[1]] = p
+    return base, marked
+
+
 def render(name):
     """Draw the overlay PNG of table `name`: the English labels alone, on
     a transparent atlas-sized image, so it holds none of the game's art.
     Returns fit warnings."""
     img, rects = load_atlas(name)
     rows, defaults = load_table(name)
+    others = table_others(name, lambda n: load_atlas(n)[0])
     labels = Image.new('RGBA', img.size, (0, 0, 0, 0))
     warnings = []
     drawn = {}      # rectangle -> sprite as redrawn so far (several rows may
@@ -663,7 +755,7 @@ def render(name):
         x, y, w, h = rect
         whole = drawn.get(rect) or img.crop((x, y, x + w, y + h))
         src = whole.crop(part)
-        base, marked = background(img, rects, src, opts, rect, part)
+        base, marked = background(img, rects, src, opts, rect, part, others)
         look = analyse(marked if marked is not None else src)
         if 'like' in opts:
             lx, ly, lw, lh = rects[int(opts['like'])]
@@ -730,7 +822,7 @@ def sprites_sheet(name, out_png, scale=2):
 def preview(name, out_png, scale=2):
     img, rects = load_atlas(name)
     rows, defaults = load_table(name)
-    new = apply(img, rects, name)
+    new = apply(img, rects, name, table_others(name, lambda n: load_atlas(n)[0]))
     cells = []
     for sprite, _, _, opts in rows:
         x, y, w, h = row_rect(rects, sprite, {**defaults, **opts})

@@ -1,2 +1,9 @@
 sprite	ja	en	options
 2	パスワード	Password	bg=rows in=20,3,84,21
+0	せんたく	SELECT	bg=rows wipe=182722 in=39,0,36,13 font=plain size=7 align=l
+0	けってい	OK	bg=rows wipe=182722 in=88,0,36,13 font=plain size=7 align=l
+0	キャンセル	CANCEL	bg=rows wipe=182722 in=138,0,39,13 font=plain size=7 align=l
+0	きりかえ	SWITCH	bg=rows wipe=182722 in=188,0,31,13 font=plain size=7 align=l
+0	だくてん	DAKUTEN	bg=rows wipe=182722 in=231,0,30,13 font=plain size=7 align=l
+0	もじおくり	NEXT	bg=rows wipe=182722 in=287,0,36,13 font=plain size=7 align=l
+0	しゅうりょう	FINISH	bg=rows wipe=182722 in=349,0,50,13 font=plain size=7 align=l

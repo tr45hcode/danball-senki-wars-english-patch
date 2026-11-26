@@ -49,3 +49,17 @@ sprite	ja	en	options
 56	開発するウェポンを選んでください	Choose a weapon to develop	
 57	そうび しょじ	EQP.  OWN	font=pixel
 58	ジャンル	Genre	font=plain
+47	せんたく	SELECT	bg=rows wipe=112222 in=315,0,37,13 font=plain size=7 align=l
+47	けってい	OK	bg=rows wipe=112222 in=365,0,34,13 font=plain size=7 align=l
+48	せんたく	SELECT	bg=rows wipe=112222 in=241,0,37,13 font=plain size=7 align=l
+48	ページおくり	NEXT PAGE	bg=rows wipe=112222 in=292,0,52,13 font=plain size=7 align=l
+48	けってい	OK	bg=rows wipe=112222 in=360,0,38,13 font=plain size=7 align=l
+49	せんたく	SELECT	bg=rows wipe=112222 in=30,0,37,13 font=plain size=7 align=l
+49	ページおくり	NEXT PAGE	bg=rows wipe=112222 in=81,0,52,13 font=plain size=7 align=l
+49	LBXかいてん	ROTATE LBX	bg=rows wipe=112222 in=145,0,58,13 font=plain size=7 align=l
+49	けってい	OK	bg=rows wipe=112222 in=216,0,33,13 font=plain size=7 align=l
+49	タブきりかえ	SWITCH TAB	bg=rows wipe=112222 in=273,0,53,13 font=plain size=7 align=l
+49	かんしょう	VIEW	bg=rows wipe=112222 in=353,0,43,13 font=plain size=7 align=l
+50	せんたく	SELECT	bg=rows wipe=112222 in=245,0,37,13 font=plain size=7 align=l
+50	けってい	OK	bg=rows wipe=112222 in=295,0,32,13 font=plain size=7 align=l
+50	かんしょう	VIEW	bg=rows wipe=112222 in=353,0,43,13 font=plain size=7 align=l

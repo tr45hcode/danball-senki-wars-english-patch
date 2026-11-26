@@ -16,3 +16,4 @@ sprite	ja	en	options
 20	ファイナル	FINAL	
 21	ブレイク	BREAK	
 22	チャンス!	CHANCE!	
+38	かんせん中	Spectating	bg=rows in=30,0,70,24 align=c font=plain
