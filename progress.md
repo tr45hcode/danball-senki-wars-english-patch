@@ -3,7 +3,7 @@
 English patch for **Danball Senki Wars** (3DS, CTR-P-BDNJ, title ID `00040000000F4000`).
 Technical details live in [README.md](README.md). This file tracks what's done, what's next, and what we've decided.
 
-_Last updated: 2026-11-26_
+_Last updated: 2026-11-27_
 
 ## Status at a glance
 
@@ -17,7 +17,7 @@ _Last updated: 2026-11-26_
 | Translation | 🟡 All text areas done except placeholders and runtime-joined fragments (95.4% overall); playtesting outstanding |
 | Graphics with baked-in Japanese | 🟡 529 labels in 42 atlases and all 17 help pages (34 full-screen pictures) redrawn in English; 81 textures in a build. The UI screenshots on the help screens (06520…) are still Japanese |
 | Cutscene videos (MOFLEX) | ⬜ Not started |
-| Distribution (patch packaging) | 🟡 v0.1-beta closed beta out (xdelta patch). A one-file web patcher is built and tested in Chromium (see Log, 2026-11-26) but not released yet. Not tested on real hardware |
+| Distribution (patch packaging) | 🟡 v0.2-beta out: a one-file web patcher (HTML page), tested in Chromium and Firefox. It replaces the v0.1-beta xdelta release. Not tested on real hardware or in Safari |
 
 ## Translation progress
 
@@ -129,7 +129,7 @@ All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 3. **Playtest the character conversations and the map:** box size, voices, the scout/part-ways prompts, examine labels in the name box, and the Special Function description line.
 4. **Remaining text:** only placeholders, debug lines and the runtime-joined fragments (see Open questions) are left. Fill the fragments once screenshots show their order.
 5. **Graphics:** check the 2026-11-26 textures in game (boot notice, hint bars, StreetPass button, team tabs, the help pages), then the help-screen screenshots listed under Known issues. After that, the IMAG pictures outside the UI atlases (47xxx, 48xxx, 54xxx), which nobody has looked through yet.
-6. **Real hardware:** try the patcher page's output on a 3DS through Luma3DS LayeredFS (untested), and the page itself in Firefox and Safari (only headless Chromium so far). Then publish it as the next release.
+6. **Real hardware:** try the patcher page's output on a 3DS through Luma3DS LayeredFS (untested), and the page itself in Safari.
 
 ## Future work
 
@@ -236,3 +236,7 @@ Plan:
 - **Help pages, 54250–54266:** 17 pages of two pictures each, redrawn in English (227 text blocks in `script/gfx/542[56]*.tsv`). They have no sprite list, so rows use `rect=`; the text sits on a shaded hex background, which `bg=plate` rebuilds from the other 16 pages (the commonest colour at each pixel). A first try that healed from a vertical offset copied the list box above the paragraph into the gap. `changed_rects` now re-encodes only the `in=` boxes of a row, not the whole sprite, so ETC1 textures keep more of their original bits. A build redraws 81 textures, passes `boot_test.sh` and `sizecheck.py`, and the built CPK shows the same pages as the preview. Left as they were: names and column labels inside the screenshots on the pages, and tags whose Japanese reaches the end of the bar (a faint stripe stays on a few titles).
 - **Warnings in `text_report.txt`:** all 1,466 are "English wider than the Japanese" (no overflows). The slot widths aren't in the data, so nothing can be fixed from them without the game on screen.
 - **Distribution:** replaced the xdelta step with a one-file web patcher. `tools/make_patch.py` makes a `.dswp` patch (3.9 MB for this build, about the size of the xdelta one) and also applies it from the command line; `tools/make_patcher.py` inlines the patch and `patcher/core.js` into `patcher/index.template.html`. The page takes a decrypted `.3ds`/`.cci`/`.cxi`/`.cia` or the CPK, checks it by size and SHA-256, patches in about 25 s using slices of the player's file (no 1.1 GB in memory), checks the result, and saves into an SD card or Mods Location folder (Chromium) or downloads it. Tested: Node on the real files (SHA-256 of 1.1 GB in 10 s, ROM and synthetic CIA found, garbage refused) and headless Chromium (CPK and `.3ds` in, wrong file refused, folder save through a stand-in directory handle, download matches the built CPK byte for byte). Not tested: Firefox, Safari, the real folder picker, a real CIA.
+
+### 2026-11-27
+- Firefox opens the patcher page and patches correctly (tested by hand).
+- Released **v0.2-beta** as a GitHub pre-release: just the patcher page, `Danball-Senki-Wars-English-Patcher.html`, with the install steps in the README (*Installing*). It replaces the v0.1-beta release; the `v0.1-beta` tag stays. A fresh build from the release commit matches the CPK the patch produces (sha256 `dd7adc73…`), passes `boot_test.sh`, and `patcher/test.js` passes against the real CPK and `.3ds`. No text changes since v0.1-beta: what's new is the texture labels, the help pages and the patcher.

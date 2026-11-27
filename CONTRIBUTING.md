@@ -2,7 +2,7 @@
 
 Glad you're here. This covers setting up, how translation works in this repo, testing your changes in an emulator, and sending them in. [README.md](README.md) explains the file formats and tools in more depth, and [progress.md](progress.md) has the current status, the decisions made so far and the open questions.
 
-About 95% of the text is in English now, and v0.1-beta went out as a closed beta on 2026-11-02, so most of the work left is playing the game and fixing what turns up. The other big job is the Japanese drawn into textures, which is partly done. [Where help is needed](#where-help-is-needed) says what that means in practice. You don't need any of the setup below to play the beta and report bugs; the zip on [Releases](https://github.com/tr45hcode/danball-senki-wars-english-patch/releases) has its own install steps.
+About 95% of the text is in English now, and the beta is out (v0.2-beta, 2026-11-27), so most of the work left is playing the game and fixing what turns up. The other big job is the Japanese drawn into textures, which is mostly done. [Where help is needed](#where-help-is-needed) says what that means in practice. You don't need any of the setup below to play the beta and report bugs; [Installing](README.md#installing) in the README is all you need.
 
 ## Before you start
 
@@ -159,7 +159,7 @@ Before you open it, `xlate.py check` should show no BAD lines for anything you a
 
 **Playtesting.** Our playtests so far covered the prologue and some menus in Azahar, but chapter 1, the character conversations and the map still need a proper run. Flag English that reads badly or sounds wrong for the character, text that runs out of its box, labels that overlap the menu next to them, and any Japanese left on screen. A playtest also settles the box sizes we guessed (see [How much fits](#how-much-fits)), so a screenshot of a map chatter line, a conversation or a Special Function description helps even when nothing looks wrong.
 
-**Bug reports from the beta.** [Open an issue](https://github.com/tr45hcode/danball-senki-wars-english-patch/issues) with the version (v0.1-beta), a screenshot, where you were in the game and what you did just before it, and your emulator and its version, or your 3DS and Luma version.
+**Bug reports from the beta.** [Open an issue](https://github.com/tr45hcode/danball-senki-wars-english-patch/issues) with the version (v0.2-beta), a screenshot, where you were in the game and what you did just before it, and your emulator and its version, or your 3DS and Luma version.
 
 **Fragment screenshots.** A shot of any message the game builds from pieces, such as an item pickup, a skill being learned or a partner's gift, tells us whether the guessed order is right. Build with `--test-ids` so the untranslated pieces show their labels; see [Fragments](#fragments).
 

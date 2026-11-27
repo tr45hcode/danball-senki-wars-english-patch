@@ -1,8 +1,26 @@
 # Danball Senki Wars (3DS, CTR-P-BDNJ) English patch
 
-A fan translation of Level-5's Danball Senki Wars, plus the tools that pull the game's text apart and put it back together. We've translated the main story, the character conversations, the map examine text, the menus and the LBX data, about 95% of the game's text. What's left is mostly placeholders and debug lines, plus a few short pieces the game joins together while you play. About 400 labels that the game draws as pictures rather than text (menu titles, buttons, the battle screen's callouts) have English versions too, though some screens still show Japanese. To play it, get the patch from [Releases](https://github.com/tr45hcode/danball-senki-wars-english-patch/releases); the README.txt in the zip explains how to apply it. [progress.md](progress.md) tracks what's done, what we decided and what's next. If you'd like to help, read [CONTRIBUTING.md](CONTRIBUTING.md).
+A fan translation of Level-5's Danball Senki Wars, plus the tools that pull the game's text apart and put it back together. We've translated the main story, the character conversations, the map examine text, the menus and the LBX data, about 95% of the game's text. What's left is mostly placeholders and debug lines, plus a few short pieces the game joins together while you play. The text the game draws as pictures rather than text is in English too: 529 labels (menu titles, buttons, hint bars, the battle screen's callouts) and all 17 help pages, though a few screens still show Japanese. To play it, follow [Installing](#installing) below. [progress.md](progress.md) tracks what's done, what we decided and what's next. If you'd like to help, read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 No game files live in this repo. You need your own dump of the Japanese cartridge.
+
+## Installing
+
+The patch works with one version of the game: the Japanese cartridge, `CTR-P-BDNJ`, title ID `00040000000F4000`. You need your own decrypted copy.
+
+1. **Download `Danball-Senki-Wars-English-Patcher.html`** from [Releases](https://github.com/tr45hcode/danball-senki-wars-english-patch/releases) and open it in a desktop browser. It's tested in Chrome and Firefox. Everything runs inside the page, so it works offline and your game file never leaves your computer.
+2. **Choose your game file.** The page takes a decrypted `.3ds`, `.cci`, `.cxi` or `.cia`, or the game's `DA3File_3ds.cpk` (about 1.1 GB) on its own.
+   - **Emulator:** use the game file you already play.
+   - **3DS:** in GodMode9, go to the game (cartridge or installed title), press A, pick *NCCH image options*, then *Mount as RomFS image*, and copy `DA3File_3ds.cpk` to the SD card. Choose that file in the page.
+
+   The page checks that it's the right version, patches it in about half a minute, and checks the result.
+3. **Save the patched `DA3File_3ds.cpk`** and put it where the game loads it. Chrome and Edge can save it straight into the folder; other browsers download it, and you move it there yourself.
+   - **Azahar or Citra:** right-click the game, pick *Open Mods Location*, make a `romfs` folder there and put the file inside it (`load/mods/00040000000F4000/romfs/DA3File_3ds.cpk`).
+   - **3DS with Luma3DS (untested):** copy it to `luma/titles/00040000000F4000/romfs/DA3File_3ds.cpk` on the SD card and turn on *Enable game patching* in the Luma config menu (hold SELECT while powering on).
+
+To go back to Japanese, delete or rename the `romfs` folder.
+
+**Don't load an emulator save state made with a different build** or with the unpatched game, because the game crashes when its memory doesn't match the files. In-game saves work fine.
 
 ## Getting the text out
 
