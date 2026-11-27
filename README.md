@@ -68,7 +68,7 @@ python3 tools/gfx.py preview 13080_005 out.png     # Japanese and English side b
 python3 tools/gfx.py copies                        # finds copies of translated atlases
 ```
 
-`render` sets each label in Fira Sans and copies its look from the Japanese sprite: the fill colour at the top and bottom of the letters, and whether they have an outline, a drop shadow or neither. When the English is too wide it switches to Fira Sans Condensed, then shrinks the text, and it prints a warning if the label still doesn't fit. Labels only 6 px high get a small built-in pixel font (`font=pixel`), since outlined letters turn to mush at that size. The options column covers the awkward sprites, and `gfx.py`'s docstring lists every option; you'll mostly need `bg=rows`, which wipes the Japanese off a badge or button but keeps the badge, and `in=x,y,w,h`, which replaces one part of a sprite (the battle screen's camera button has a word above its icon and another below it).
+`render` sets each label in Fira Sans and copies its look from the Japanese sprite: the fill colour at the top and bottom of the letters, and whether they have an outline, a drop shadow or neither. When the English is too wide it switches to Fira Sans Condensed, then shrinks the text, and it prints a warning if the label still doesn't fit. Labels only 6 px high get a small built-in pixel font (`font=pixel`), since outlined letters turn to mush at that size. The options column covers the awkward sprites, and `gfx.py`'s docstring lists every option; you'll mostly need `bg=rows`, which wipes the Japanese off a badge or button but keeps the badge, and `in=x,y,w,h`, which replaces one part of a sprite (the battle screen's camera button has a word above its icon and another below it). The help pages (containers 54250–54266, two 424×240 pictures each) have no sprite list and sit on a shaded hex background: their rows point at the picture with `rect=` and use `bg=plate`, which replaces the box with a clean background taken, pixel by pixel, from the commonest colour across all 17 pages (text that sits in the same place on only a few pages drops out). The build reads those other containers from the CPK itself.
 
 The PNG holds the English and nothing else. At build time, `gfx.py` clears each sprite in the original texture, or wipes its text for `bg=rows`, and draws the PNG's label on top, so none of the game's art ends up in the repo. `script/gfx/copies.tsv` lists atlases in other containers that are pixel-for-pixel copies of a translated one, and the build patches those as well; run `copies` again whenever you add a table.
 
@@ -96,16 +96,23 @@ The ITOC keeps two size tables: `DataL` holds files under 64 KB with 16-bit size
 
 ## Making a release
 
-Build without test options, then make an xdelta patch against the original CPK:
+Players get one HTML file, `Danball-Senki-Wars-English-Patcher.html`. They open it in a browser, choose their own game file, and it writes the patched `DA3File_3ds.cpk` where Luma3DS or Azahar picks it up. The file holds the patch and all the code, so it works offline and nothing is uploaded.
+
+Build without test options, then make the patch and the page:
 
 ```sh
 python3 tools/build_patch.py extracted/romfs/DA3File_3ds.cpk build/release
-mkdir -p build/release/patch
-xdelta3 -e -9 -S djw -s extracted/romfs/DA3File_3ds.cpk build/release/00040000000F4000/romfs/DA3File_3ds.cpk build/release/patch/DA3File_3ds.xdelta
-xdelta3 -d -c -s extracted/romfs/DA3File_3ds.cpk build/release/patch/DA3File_3ds.xdelta | sha256sum   # must match the built CPK
+tools/boot_test.sh build/release/00040000000F4000/romfs/DA3File_3ds.cpk
+python3 tools/make_patch.py make extracted/romfs/DA3File_3ds.cpk build/release/00040000000F4000/romfs/DA3File_3ds.cpk build/release/patch.dswp
+python3 tools/make_patcher.py build/release/patch.dswp build/release/Danball-Senki-Wars-English-Patcher.html --version "v0.2-beta"
+node patcher/test.js build/release/patch.dswp extracted/romfs/DA3File_3ds.cpk "path/to/decrypted.3ds"   # checks the JS against the real files
 ```
 
-Leave xdelta's source window (`-B`) at its default. Changed files only push the files after them along a little, so the default window still finds every match, while a window as big as the CPK filled all the memory on an 8 GB machine, and systemd-oomd killed the whole terminal. Run `tools/boot_test.sh` on the release CPK before you ship it.
+The `.dswp` patch (about 4 MB) lists stretches of the player's own file to keep and the bytes that differ, deflated. It is not xdelta: the web page needs a format it can apply to a 1.1 GB file without loading it, and the page builds the result out of slices of the player's file, so memory use stays small. `tools/make_patch.py apply patch.dswp original.cpk out.cpk` does the same on the command line, and `info` prints what a patch expects.
+
+`patcher/core.js` holds everything that isn't the page: a SHA-256 that reads in slices, the patch reader, and a finder that pulls `DA3File_3ds.cpk` out of a decrypted `.3ds`, `.cci`, `.cxi` or `.cia`, or takes the CPK itself. `patcher/test.js` runs it under Node. The page checks the player's file against the original's size and SHA-256 before it patches, and checks the result against the patched file's. It can save straight into a folder (SD card or Azahar's Mods Location) in Chromium-based browsers, and offers a normal download everywhere else.
+
+What has been tried: the page in headless Chromium with the CPK and with a decrypted `.3ds` (patched file matches byte for byte, a wrong file is refused, and the folder save writes the right path and checksum through a stand-in directory handle), and the core under Node. Not tried: Firefox, Safari, a real folder picker, an encrypted dump (the page says so and explains how to get the CPK), and a real `.cia` (the layout comes from the format description; a synthetic one works).
 
 ## File formats
 

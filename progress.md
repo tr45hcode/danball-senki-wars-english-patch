@@ -15,9 +15,9 @@ _Last updated: 2026-11-26_
 | Japanese script dump | ✅ Readable. Kanji identification 98.8% on a hand-checked sample |
 | English text in-game | ✅ Working: wrapping, `!` glyph, name entry, 10 px font spacing |
 | Translation | 🟡 All text areas done except placeholders and runtime-joined fragments (95.4% overall); playtesting outstanding |
-| Graphics with baked-in Japanese | 🟡 529 labels in 42 atlases (47 textures with the copies) redrawn in English, including the boot notices, the button hint bars, the team tabs and the Spectating badge. Help pages and help screenshots still Japanese |
+| Graphics with baked-in Japanese | 🟡 529 labels in 42 atlases and all 17 help pages (34 full-screen pictures) redrawn in English; 81 textures in a build. The UI screenshots on the help screens (06520…) are still Japanese |
 | Cutscene videos (MOFLEX) | ⬜ Not started |
-| Distribution (patch packaging) | 🟡 v0.1-beta closed beta out (xdelta patch against the CPK). Not tested on real hardware |
+| Distribution (patch packaging) | 🟡 v0.1-beta closed beta out (xdelta patch). A one-file web patcher is built and tested in Chromium (see Log, 2026-11-26) but not released yet. Not tested on real hardware |
 
 ## Translation progress
 
@@ -76,7 +76,7 @@ Translated so far:
 | Nations | ジェノック → Jenock, ロシウス → Rossius |
 | Workflow | Story order, in playtested chunks: translate a chunk, play it in Azahar, fix |
 | Unsupported punctuation | `!` redrawn into the font. `"` `[` `]` `<` `>` `~` map to the nearest full-width glyph |
-| Release format | xdelta patch against the player's own `DA3File_3ds.cpk`, which the game picks up through LayeredFS. The release ships no game data |
+| Release format | One HTML file (`tools/make_patcher.py`): the player opens it, picks their own game file, and it writes the patched `DA3File_3ds.cpk` for Luma3DS or Azahar LayeredFS. Inside is a `.dswp` patch (copies of the player's file plus the bytes that differ), not xdelta, so a browser can build the 1.1 GB result from slices without loading it. The release ships no copy of the game |
 | Texture labels | Fira Sans, falling back to Fira Sans Condensed and then a smaller size when space is short. Colours, outline and shadow come from the Japanese sprite. 6 px labels use a built-in pixel font. Terms match the system text ("Sortie", "Squads", "Secret" for ウラ) |
 | Files that outgrow 64 KB | `cpk.py` moves them from the ITOC's `DataL` table (16-bit sizes) to `DataH`, keeping both sorted by id. It stops with an error if the ITOC would run into the file data |
 | Game art in the repo | None. The overlay PNGs hold only our English; the build wipes or clears the Japanese in the player's own textures |
@@ -117,7 +117,7 @@ All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 
 - **Save states:** loading an emulator quicksave made with a different build crashes the game (2026-10-30: invalid-handle fatal error at PC 0x12610C). Use in-game saves across builds. Data strings are still kept within the original sizes as a precaution (`tools/sizecheck.py`).
 - About 5% of kanji uses in the dump are identified from the image alone (`⟨字⟩`). True homophones (態勢/体勢) and some names can be wrong. Fixes go in `script/glossary.tsv` (names) or `script/glyph_overrides.tsv` (glyphs).
-- Some text drawn into textures is still Japanese: the help pages (54250–54266, two 400×240 screens each, paragraphs on the hex background) and the UI screenshots on the help screens (06520, 06522, 06524, 06525…, which show the game's own screens with the placeholder line 画面の説明を入れます). Both sit on a shaded hex background with other art close by, so `bg=repeat` can't heal them (a trial on 54250 copied the list box above the paragraph into the gap). They need a clean background plate or real inpainting. The cutscene stills (543xx–544xx) hold almost no text. 47xxx/48xxx hold no textures.
+- Some text drawn into textures is still Japanese: the UI screenshots on the help screens (06520 and 06522–06529, which show the game's own screens, some with the placeholder line 画面の説明を入れます). Their backgrounds are 3D art, not the shared hex plate, so `bg=plate` can't clear them. The small column labels and sample item names inside the help pages' own screenshots (54254, 54258, 54260, 54261, 54264) are left too. The cutscene stills (543xx–544xx) hold almost no text. 47xxx/48xxx hold no textures.
 - Some `bg=rows` badges keep a faint line where the Japanese was (the Player tag in battle, the Defense tab on the mission map).
 - The player-name tables in `code.bin` have I/J swapped. It's harmless because it round-trips, but names sent over StreetPass would show it.
 - Debug file `60016` references glyphs it doesn't contain. It's ignored.
@@ -128,8 +128,8 @@ All names and terms are in [`script/glossary.tsv`](script/glossary.tsv).
 2. **Check the new UI text in-game:** the fragment order and the day counter (Open questions), anything wider than its slot, and the redrawn texture labels (cut off, squashed, leftover Japanese).
 3. **Playtest the character conversations and the map:** box size, voices, the scout/part-ways prompts, examine labels in the name box, and the Special Function description line.
 4. **Remaining text:** only placeholders, debug lines and the runtime-joined fragments (see Open questions) are left. Fill the fragments once screenshots show their order.
-5. **Graphics:** check the 2026-11-26 textures in game (boot notice, hint bars, StreetPass button, team tabs), then the help pages and screenshots listed under Known issues, which need a new way to clear the background. After that, the IMAG pictures outside the UI atlases (47xxx, 48xxx, 54xxx), which nobody has looked through yet.
-6. **Real hardware:** test v0.1-beta on a 3DS, either through Luma3DS LayeredFS (the steps in the release README, untested) or with a patched CIA.
+5. **Graphics:** check the 2026-11-26 textures in game (boot notice, hint bars, StreetPass button, team tabs, the help pages), then the help-screen screenshots listed under Known issues. After that, the IMAG pictures outside the UI atlases (47xxx, 48xxx, 54xxx), which nobody has looked through yet.
+6. **Real hardware:** try the patcher page's output on a 3DS through Luma3DS LayeredFS (untested), and the page itself in Firefox and Safari (only headless Chromium so far). Then publish it as the next release.
 
 ## Future work
 
@@ -231,3 +231,8 @@ Plan:
   - `wipe=` now gives the wiped pixels the commonest opacity of the rest of the area. Before, text on a translucent bar left a ghost of the Japanese in the alpha channel.
   - Looked through every container that has textures but no table (about 140 atlases): the rest are backgrounds, icons, numbers and art, apart from the help pages above.
   - Re-dumped `script/raw` with the glyph overrides (three files changed, among them Suzune's record).
+
+### 2026-11-26, later
+- **Help pages, 54250–54266:** 17 pages of two pictures each, redrawn in English (227 text blocks in `script/gfx/542[56]*.tsv`). They have no sprite list, so rows use `rect=`; the text sits on a shaded hex background, which `bg=plate` rebuilds from the other 16 pages (the commonest colour at each pixel). A first try that healed from a vertical offset copied the list box above the paragraph into the gap. `changed_rects` now re-encodes only the `in=` boxes of a row, not the whole sprite, so ETC1 textures keep more of their original bits. A build redraws 81 textures, passes `boot_test.sh` and `sizecheck.py`, and the built CPK shows the same pages as the preview. Left as they were: names and column labels inside the screenshots on the pages, and tags whose Japanese reaches the end of the bar (a faint stripe stays on a few titles).
+- **Warnings in `text_report.txt`:** all 1,466 are "English wider than the Japanese" (no overflows). The slot widths aren't in the data, so nothing can be fixed from them without the game on screen.
+- **Distribution:** replaced the xdelta step with a one-file web patcher. `tools/make_patch.py` makes a `.dswp` patch (3.9 MB for this build, about the size of the xdelta one) and also applies it from the command line; `tools/make_patcher.py` inlines the patch and `patcher/core.js` into `patcher/index.template.html`. The page takes a decrypted `.3ds`/`.cci`/`.cxi`/`.cia` or the CPK, checks it by size and SHA-256, patches in about 25 s using slices of the player's file (no 1.1 GB in memory), checks the result, and saves into an SD card or Mods Location folder (Chromium) or downloads it. Tested: Node on the real files (SHA-256 of 1.1 GB in 10 s, ROM and synthetic CIA found, garbage refused) and headless Chromium (CPK and `.3ds` in, wrong file refused, folder save through a stand-in directory handle, download matches the built CPK byte for byte). Not tested: Firefox, Safari, the real folder picker, a real CIA.

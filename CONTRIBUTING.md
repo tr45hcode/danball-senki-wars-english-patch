@@ -163,6 +163,6 @@ Before you open it, `xlate.py check` should show no BAD lines for anything you a
 
 **Fragment screenshots.** A shot of any message the game builds from pieces, such as an item pickup, a skill being learned or a partner's gift, tells us whether the guessed order is right. Build with `--test-ids` so the untranslated pieces show their labels; see [Fragments](#fragments).
 
-**A real 3DS.** If you have Luma3DS, try the install steps in the release README.txt and tell us whether the game boots and the text shows.
+**A real 3DS.** If you have Luma3DS, try the install steps on the patcher page and tell us whether the game boots and the text shows.
 
 **Graphics.** About 430 labels in 37 atlases are in English, among them 進む, しらべる, the screen titles, the title and system menus, the Lab and the Shop, multiplayer, the mission map and the battle screen. Nobody has seen most of them in game, so a screenshot of any menu helps, especially one where a label looks cut off or squashed. Still in Japanese: the pause menu (54200), Mission Start and the victory and defeat conditions (01002_009), the notices at boot and the save-tampering warnings, the button hint bars, the team tabs and the menu screenshots on the help pages (06520). The squad formation screen is stuck behind a CPK size limit (README, *Things outside the text files*). Nobody has looked at the cutscene videos (MOFLEX) yet.
