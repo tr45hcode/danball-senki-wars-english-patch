@@ -1,0 +1,5 @@
+sprite	ja	en	options
+0	ラボランクの上げ方	Raising Lab Rank	rect=0,0,320,240 in=0,0,128,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	ラボを持つ拠点をクリアするとラボランクが上がります。	Clearing a base that has a Lab raises your Lab Rank.	rect=0,0,320,240 in=22,36,290,32 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	ラボランクが上がると開発できるウェポン・アーマーフレームが増えます。	As your Lab Rank rises, more Weapons and|Armor Frames become available to develop.	rect=0,0,320,240 in=22,76,290,56 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	その他、設計図を持っていなくても開発できるウェポン・アーマーフレームがラインナップに追加されます。	Weapons and Armor Frames you can develop without|a blueprint are also added to the lineup.	rect=0,0,320,240 in=22,134,290,66 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6

@@ -1,0 +1,7 @@
+sprite	ja	en	options
+0	自拠点・フリーバトルやクリア済ミッションの再挑戦ができます。	Your base|Lets you do free battles and retry|cleared missions.	rect=0,0,320,240 in=52,8,260,56 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	敵拠点・ミッションをクリアすると自拠点に変わります。	Enemy base|Becomes your base when you clear the mission.	rect=0,0,320,240 in=52,64,260,48 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	ロック拠点・まだ攻める事ができない拠点です。ストーリーを進める事でロックが解除されます。	Locked base|A base you can't attack yet.|Progress the story to unlock it.	rect=0,0,320,240 in=52,108,260,66 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	※ストーリーに関するミッションが発生中の拠点には	* Bases with a story mission in progress show	rect=0,0,320,240 in=24,178,270,22 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	や	or	rect=0,0,320,240 in=74,198,14,14 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 align=c
+0	のアイコンが表示されます。	icons.	rect=0,0,320,240 in=128,196,150,22 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8

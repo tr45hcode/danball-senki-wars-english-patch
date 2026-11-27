@@ -1,0 +1,5 @@
+sprite	ja	en	options
+0	スカウトキャラを「呼び出す」	Calling Characters	rect=0,0,320,240 in=0,0,152,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	リストからキャラクターを選択するとダック荘の娯楽室に呼び出してそのキャラクターと会話する事ができます。	Select a character from the list to call them to|the Rec Room at Duck Lodge and talk with them.	rect=0,0,320,240 in=42,44,270,62 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	※アバターと同じ仮想国のメンバーは呼び出す事ができません。	* Members of the same virtual country as your|avatar can't be called.	rect=0,0,320,240 in=42,112,276,56 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	※総勢で50人までしか仲間にすることはできません。	* You can have at most 50 members in total.	rect=0,0,320,240 in=42,164,276,50 valign=c bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6

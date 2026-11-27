@@ -1,0 +1,7 @@
+sprite	ja	en	options
+0	ウェポンの種類	Weapon Types	rect=0,0,452,240 in=40,0,100,22 bg=rows font=plain size=9 gap=7 align=l font=bold mode=none fill=ffffff
+0	剣・・・バランスのとれた使いやすい武器です。|盾装備可能。両手に剣を装備すると二刀流になります。	Sword - A well-balanced, easy-to-use weapon.|Shield-compatible. Swords in both hands make you dual-wield.	rect=0,0,452,240 in=90,22,350,42 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l
+0	槍・・・銃以外の全武器中、最も射程の長い武器です。|盾装備可能。	Lance - The longest-reach weapon besides guns.|Shield-compatible.	rect=0,0,452,240 in=90,62,350,40 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l
+0	ナックル・・・スピードが速く手数の多い武器です。	Knuckle - A fast weapon with plenty of hits.	rect=0,0,452,240 in=90,102,350,28 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l
+0	ハンマー・・・一撃の威力が高いパワータイプの武器です。|装備中はジャンプ回数が1回減ります。	Hammer - A power weapon with heavy single hits.|Jump count is reduced by 1 while equipped.	rect=0,0,452,240 in=90,138,350,44 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l
+0	片手銃・・・単発銃・機関銃・散弾銃の3種類があります。|盾装備可能。両手に同じ種類の銃を装備すると二丁拳銃になります。	One-Hand Gun - 3 types: single-shot, machine and shotgun.|Shield-compatible. Equip the same type in both|hands to dual-wield.	rect=0,0,452,240 in=90,180,350,60 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l

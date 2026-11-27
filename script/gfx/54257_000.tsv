@@ -1,0 +1,10 @@
+sprite	ja	en	options
+0	ウェポン・アーマーフレーム開発	Weapon / Armor Frame Development	rect=0,0,452,240 in=36,0,192,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	開発には作りたいウェポンやアーマーフレームの設計図とシルバークレジット、ラボランクが必要です。	Developing needs the blueprint of the Weapon or|Armor Frame you want, Silver Credits and Lab Rank.	rect=0,0,452,240 in=66,22,290,40 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	ラボランク	Lab Rank	rect=0,0,452,240 in=196,74,66,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	現在のラボランクです。	Your current Lab Rank.	rect=0,0,452,240 in=278,72,160,26 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8
+0	パーツ別ランク	Part Ranks	rect=0,0,452,240 in=192,108,76,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	この合計がラボランクになります。	Their total becomes|your Lab Rank.	rect=0,0,452,240 in=278,106,160,42 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	ラボランク	Lab Rank	rect=0,0,452,240 in=64,72,50,13 bg=rows font=plain size=9 gap=7 align=l size=7 mode=none fill=ffffff
+0	LBX基礎ランク・アーマーフレーム開発に必要なランクです。	LBX Base Rank|Rank needed to develop Armor Frames.	rect=0,0,452,240 in=220,148,220,38 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	ウェポンランク・各ウェポン開発に必要なランクです。	Weapon Rank|Rank needed to develop each weapon.	rect=0,0,452,240 in=220,194,220,44 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6

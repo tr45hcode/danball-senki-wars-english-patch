@@ -1,0 +1,12 @@
+sprite	ja	en	options
+0	攻撃属性	Attack Attributes	rect=0,0,320,240 in=0,0,120,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	物理属性	Physical	rect=0,0,320,240 in=40,44,60,18 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	斬	Slash	rect=0,0,320,240 in=140,46,26,18 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=6 font=cond
+0	貫	Pierce	rect=0,0,320,240 in=178,46,26,18 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=6 font=cond
+0	衝	Impact	rect=0,0,320,240 in=216,46,26,18 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=6 font=cond
+0	自然属性	Natural	rect=0,0,320,240 in=40,82,60,18 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	火	Fire	rect=0,0,320,240 in=142,72,26,22 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=6 font=cond
+0	水	Water	rect=0,0,320,240 in=180,72,26,22 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=6 font=cond
+0	雷	Thunder	rect=0,0,320,240 in=216,72,26,22 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=6 font=cond
+0	光	Light	rect=0,0,320,240 in=254,72,26,22 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=6 font=cond
+0	アーマーフレームに属性の耐性チップがついている場合その属性の攻撃で受けるダメージが小さくなります。	If your Armor Frame has a resist chip for an|attribute, you take less damage from attacks|of that attribute.	rect=0,0,320,240 in=26,108,290,60 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6

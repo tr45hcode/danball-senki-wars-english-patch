@@ -1,0 +1,6 @@
+sprite	ja	en	options
+0	フレームアイコン	Frame Icons	rect=0,0,320,240 in=0,0,126,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	ナイトフレーム	Knight Frame	rect=0,0,320,240 in=114,62,114,17 bg=rows font=plain size=9 gap=7 align=l wipe=082931 size=8 mode=none fill=ffffff
+0	ストライダーフレーム	Strider Frame	rect=0,0,320,240 in=114,90,114,17 bg=rows font=plain size=9 gap=7 align=l wipe=082931 size=8 mode=none fill=ffffff
+0	ワイルドフレーム	Wild Frame	rect=0,0,320,240 in=114,118,114,17 bg=rows font=plain size=9 gap=7 align=l wipe=082931 size=8 mode=none fill=ffffff
+0	ブロウラーフレーム	Prowler Frame	rect=0,0,320,240 in=114,146,114,17 bg=rows font=plain size=9 gap=7 align=l wipe=082931 size=8 mode=none fill=ffffff

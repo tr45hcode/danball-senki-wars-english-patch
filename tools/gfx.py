@@ -51,6 +51,16 @@ Row options, space separated (a row with sprite `*` sets defaults):
                lighter than that a pixel must be to count as text (12);
                also=<atlas> adds the copies in another atlas of the same
                container (same place, same background, different text)
+  bg=plate plate=FIRST-LAST/ENTRY   for text on a shaded background that
+               other pages share (the help pages): the part is replaced by a
+               clean plate made from the same image entry of every container
+               numbered FIRST..LAST, taking at each pixel the commonest colour, so
+               text and art that sit at a given spot on only some pages
+               drop out.
+               Replaces every pixel of the part, so choose `in=` boxes that
+               hold only text. The build reads the other containers from the
+               CPK; `thresh=N` (12) is how much lighter than the plate a
+               pixel must be to count as text when sampling the label's look
   pad=N        keep the text N px away from the sprite's edges
   rect=x,y,w,h use this atlas rectangle instead of the sprite's own
   in=x,y,w,h   replace only this part of the sprite (several rows may each
@@ -211,8 +221,11 @@ def targets():
 
 
 def changed_rects(rects, name):
+    """The atlas rectangles a table redraws: each row's `in=` part, or the
+    whole sprite. ETC1 re-encodes only the blocks under them."""
     rows, defaults = load_table(name)
-    return [rect for _, _, _, rect, _ in row_parts(rects, rows, defaults)]
+    return [(rect[0] + part[0], rect[1] + part[1], part[2] - part[0], part[3] - part[1])
+            for _, _, _, rect, part in row_parts(rects, rows, defaults)]
 
 
 def row_parts(rects, rows, defaults):
@@ -239,6 +252,11 @@ def background(img, rects, src, opts, rect, part, others=None):
     their images."""
     w, h = rect[2:]
     size = (part[2] - part[0], part[3] - part[1])
+    if opts.get('bg') == 'plate':
+        x, y = rect[:2]
+        box = (x, y, x + w, y + h)
+        return heal_plate(img.crop(box), part, plate_image(opts['plate']).crop(box),
+                          int(opts.get('thresh', 12)))
     if opts.get('bg') == 'repeat':
         x, y = rect[:2]
         step = tuple(int(v) for v in opts['step'].split(','))
@@ -697,6 +715,57 @@ def wipe_rows(sprite, margin, thresh=60, colour=None):
         else:
             alpha = near[0][1] if near else src[x, y][3]
         dst[x, y] = med[y] + (alpha,)
+    return base, marked
+
+
+PLATE_LOADER = None     # name -> Image, for plate=; the build sets it to read the CPK
+_PLATES = {}
+
+
+def plate_image(spec):
+    """The clean background for `plate=FIRST-LAST/ENTRY`: image entry
+    ENTRY of every container FIRST..LAST that has one, and at each pixel
+    the commonest colour among them (colours within 10 levels count as
+    one)."""
+    if spec in _PLATES:
+        return _PLATES[spec]
+    span, entry = spec.split('/')
+    first, last = (int(v) for v in span.split('-'))
+    load = PLATE_LOADER or (lambda n: load_atlas(n)[0])
+    imgs = []
+    for c in range(first, last + 1):
+        try:
+            imgs.append(load(f'{c:05d}_{int(entry):03d}').convert('RGB'))
+        except (KeyError, FileNotFoundError, OSError, IndexError):
+            continue
+    if len(imgs) < 4:
+        raise ValueError(f'plate={spec}: only {len(imgs)} images')
+    out = []
+    for px in zip(*(list(getattr(im, "get_flattened_data", im.getdata)()) for im in imgs)):
+        bins = {}
+        for p in px:
+            bins.setdefault((p[0] // 10, p[1] // 10, p[2] // 10), []).append(p)
+        # the commonest colour; of equal counts, the darkest
+        best = max(bins.values(), key=lambda v: (len(v), -sum(v[0])))
+        out.append(tuple(sum(c[i] for c in best) // len(best) for i in range(3)))
+    plate = Image.new('RGB', imgs[0].size)
+    plate.putdata(out)
+    _PLATES[spec] = plate.convert('RGBA')
+    return _PLATES[spec]
+
+
+def heal_plate(sprite, part, plate, thresh=12):
+    """Replace `part` of the sprite by the same part of `plate`. Returns it
+    and the text that was there (the pixels lighter than the plate by more
+    than `thresh`) on a transparent image."""
+    base = plate.crop(part)
+    here = sprite.crop(part)
+    marked = Image.new('RGBA', base.size, (0, 0, 0, 0))
+    hp, bp, mp = here.load(), base.load(), marked.load()
+    for y in range(base.height):
+        for x in range(base.width):
+            if _lum(hp[x, y]) - _lum(bp[x, y]) > thresh:
+                mp[x, y] = hp[x, y]
     return base, marked
 
 

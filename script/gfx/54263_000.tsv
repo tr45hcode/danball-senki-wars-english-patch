@@ -1,0 +1,11 @@
+sprite	ja	en	options
+0	司令室メニュー	Command Room Menu	rect=0,0,452,240 in=36,0,134,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	ストーリーの進行度に合わせて各メニューがオープンしていきます。	Each menu opens up as you|progress through the story.	rect=0,0,452,240 in=198,0,242,46 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	メニュー	Menu	rect=0,0,452,240 in=48,94,40,14 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=7 align=c
+0	システムメニューを開きます。セーブはここから行います。	Opens the system menu.|You save from here.	rect=0,0,452,240 in=88,46,160,44 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	ラボ	Lab	rect=0,0,452,240 in=252,92,40,14 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=7 align=c
+0	アーマーフレーム、ウェポンの開発とショップで買い物ができます。	Develop Armor Frames and|Weapons, and buy things|at the shop.	rect=0,0,452,240 in=294,46,146,60 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	必殺ファンクションのセット入れ替え、アイテムのセットLBXのカスタマイズを行います。	Swap Special Function sets, set|items and customize LBXs.	rect=0,0,452,240 in=92,104,162,62 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	ランキングバトル、通信対戦を行います。	Play Ranking Battles|and Link Battles.	rect=0,0,452,240 in=294,104,146,50 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	もどる	Back	rect=0,0,452,240 in=48,212,40,14 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=7 align=c
+0	司令室から出ます。	Leaves the Command Room.	rect=0,0,452,240 in=88,180,160,30 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8

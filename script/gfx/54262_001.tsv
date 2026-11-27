@@ -1,0 +1,5 @@
+sprite	ja	en	options
+0	次の日	Next Day	rect=0,0,320,240 in=36,70,48,18 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=7 align=c
+0	1日を終了し次の日へ進みます。ウォータイムが終了し、放課後になった時にアイコンが表示されます。	Ends the day and moves on to the next.|The icon appears when War Time has ended|and it's after school.	rect=0,0,320,240 in=80,22,226,66 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	しらべる	Examine	rect=0,0,320,240 in=82,104,60,20 bg=rows font=plain size=9 gap=7 align=l size=8 thresh=40 mode=none fill=ffffff
+0	マップを調べたり、マップにいるキャラクターと会話する事ができます。マップを調べると何かいい事があるかも…？	You can examine the map and talk to characters|on it. Examining the map might turn up|something good...	rect=0,0,320,240 in=42,132,262,56 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6

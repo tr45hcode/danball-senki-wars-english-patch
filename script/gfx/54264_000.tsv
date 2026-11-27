@@ -1,0 +1,13 @@
+sprite	ja	en	options
+0	ワールド戦略マップ	World Strategy Map	rect=0,0,452,240 in=36,0,140,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	ボウエイリョク	Defense	rect=0,0,452,240 in=47,50,84,19 valign=c bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	ホウシュウ	Reward	rect=0,0,452,240 in=47,150,64,19 valign=c bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	スカウトキャラ	Scout Char.	rect=0,0,452,240 in=345,50,90,19 valign=c bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	チケイジョウホウ	Terrain Info	rect=0,0,452,240 in=345,150,90,19 valign=c bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	ラボ	Lab	rect=0,0,452,240 in=144,195,46,14 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	ミッションクリアの目安となるキャラクターレベルです。	The character level|recommended for the mission.	rect=0,0,452,240 in=172,14,160,40 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	ミッションの難易度を表します。	Shows the|mission's|difficulty.	rect=0,0,452,240 in=44,68,90,40 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	ミッションクリア後スカウト可能になるキャラクターです。	A character you can|scout after clearing|the mission.	rect=0,0,452,240 in=340,60,98,66 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	ミッションクリア時に入手するシルバークレジットです。	Silver Credits you|get for clearing|the mission.	rect=0,0,452,240 in=44,172,98,62 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	エリア戦術マップの地形の割合です。	Terrain ratios on the|area tactical map.	rect=0,0,452,240 in=340,172,100,46 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	ミッションクリア時にアップするパーツ別ランクの種類です。	The part rank that goes up|when the mission is cleared.	rect=0,0,452,240 in=188,204,170,34 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6

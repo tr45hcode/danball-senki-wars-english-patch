@@ -1,0 +1,9 @@
+sprite	ja	en	options
+0	チップセット	Chip Sets	rect=0,0,452,240 in=36,0,130,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	手に入れたチップを消費してアーマーフレームを強化する事ができます。	You can use chips you've obtained to power up your Armor Frame.	rect=0,0,452,240 in=64,20,376,26 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8
+0	チップ枠	Chip Slot	rect=0,0,452,240 in=58,56,58,18 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	セットできるチップの枠です。Aタイプは最大3枚、Bタイプは最大2枚セット可能です。	Slots where chips can be set.|Type A allows up to 3 chips, Type B up to 2.	rect=0,0,452,240 in=120,50,320,46 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	初期セットチップ	Starting Chip	rect=0,0,452,240 in=57,155,100,18 valign=c bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	セット不可枠	Locked Slot	rect=0,0,452,240 in=277,155,102,18 valign=c bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	初めからセットされているチップです。チップを削除して他のチップを付ける事もできます。	Chips that are set from the start.|You can also remove one and|attach a different chip.	rect=0,0,452,240 in=52,172,200,66 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	チップをセットできない枠です。フレームタイプによってセットできるチップ数が違います。	A slot that can't hold a chip.|The number of chips you can set|depends on the frame type.	rect=0,0,452,240 in=272,172,168,66 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6

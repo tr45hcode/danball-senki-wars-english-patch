@@ -1,0 +1,8 @@
+sprite	ja	en	options
+0	キャラクター入れ替え方法	How to Swap Characters	rect=0,0,452,240 in=44,0,150,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	リーダー	Leader	rect=0,0,452,240 in=60,26,54,15 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	一番上の枠が小隊リーダーです。	The top slot is the squad leader.	rect=0,0,452,240 in=126,20,200,26 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8
+0	メカニック	Mechanic	rect=0,0,452,240 in=60,222,54,14 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	一番下の枠がメカニックです。	The bottom slot is the mechanic.	rect=0,0,452,240 in=126,218,200,22 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8
+0	キャラクターを入れ替えます	Swap Characters	rect=0,0,452,240 in=126,48,146,16 bg=rows thresh=30 font=plain size=9 gap=7 align=l size=8
+0	キャラクターを2回タッチして選択後、他のキャラクターをタッチすると入れ替わります。	Touch a character twice to|select it, then touch another|character to swap places.	rect=0,0,452,240 in=277,168,146,56 bg=rows font=plain size=9 gap=7 align=l size=8 gap=5 mode=none fill=ffffff

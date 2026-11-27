@@ -1,0 +1,9 @@
+sprite	ja	en	options
+0	チップタイプ	Chip Type	rect=0,0,320,240 in=29,12,74,17 valign=c bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	ひつようSC	SC Cost	rect=0,0,320,240 in=137,12,76,17 valign=c bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	チップのタイプです。AとBがあります。	The chip's type.|There are A and B.	rect=0,0,320,240 in=36,24,100,42 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	セットするのに必要なシルバークレジットです。	Silver Credits needed|to set it.	rect=0,0,320,240 in=148,24,130,42 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	しょじチップすう	Chips Owned	rect=0,0,320,240 in=79,123,96,16 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	持っているチップの数です。	How many chips you own.	rect=0,0,320,240 in=184,126,136,22 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8
+0	苦手ウェポン	Weak Weapons	rect=0,0,320,240 in=0,152,112,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	ストライダーとブロウラーフレームのLBXにはそれぞれ苦手ウェポンがあります。苦手ウェポンの得意ウェポンチップはセットできません。	Strider and Prowler Frame LBXs each have weak weapons.|Specialty Weapon Chips for weak weapons|can't be set.	rect=0,0,320,240 in=28,172,290,66 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6

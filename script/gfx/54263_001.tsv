@@ -1,0 +1,5 @@
+sprite	ja	en	options
+0	ウォータイムに出撃しワールド戦略マップへ移動します。	Sortie for War Time and move to|the world strategy map.	rect=0,0,320,240 in=138,10,172,46 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	一度出撃するとウォータイム終了まで司令室から出る事ができなくなります。	Once you sortie, you can't leave|the Command Room until|War Time ends.	rect=0,0,320,240 in=138,56,172,56 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	しらべる	Examine	rect=0,0,320,240 in=66,132,60,18 pad=3 bg=rows font=plain size=9 gap=7 align=l size=8 thresh=40 mode=none fill=ffffff
+0	マップを調べたり、マップにいるキャラクターと会話する事ができます。マップを調べると何かいい事があるかも…？	You can examine the map and talk to characters|on it. Examining the map might turn up|something good...	rect=0,0,320,240 in=28,152,280,58 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6

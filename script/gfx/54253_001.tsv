@@ -1,0 +1,5 @@
+sprite	ja	en	options
+0	キャラクターの親密度	Character Affinity	rect=0,0,320,240 in=0,0,128,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	親密度	Affinity	rect=0,0,320,240 in=18,76,50,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	アバターと一緒にバトルに参加するとキャラクターの親密度が上がります。親密度が上がると、必殺ファンクションのデータディスクをもらえる事があります。	Taking part in battles together with your|avatar raises a character's affinity. As it rises,|you may receive a Special Function data disc.	rect=0,0,320,240 in=66,104,242,84 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	※データディスクは1つの技につき最大99枚所持できます。99枚以上は自動で破棄されます。	* You can hold up to 99 data discs per move.|Any beyond 99 are discarded automatically.	rect=0,0,320,240 in=12,188,300,52 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6

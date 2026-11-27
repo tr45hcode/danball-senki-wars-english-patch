@@ -1,0 +1,14 @@
+sprite	ja	en	options
+0	アーマーフレームリスト	Armor Frame List	rect=0,0,452,240 in=36,0,140,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	かいはつランク	Dev. Rank	rect=0,0,452,240 in=56,32,88,15 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	フレームタイプ	Frame Type	rect=0,0,452,240 in=181,32,86,15 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	ひつようSC	SC Cost	rect=0,0,452,240 in=306,32,80,15 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	開発に必要なLBX基礎ランクです。	The LBX base rank|needed to develop it.	rect=0,0,452,240 in=66,48,114,42 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	フレームのタイプを表します。	The frame's type.	rect=0,0,452,240 in=190,48,100,42 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	開発に必要なシルバークレジットです。	Silver Credits needed|to develop it.	rect=0,0,452,240 in=320,48,118,40 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	フレームアイコン	Frame Icon	rect=0,0,452,240 in=56,158,96,18 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	せっけいず	Blueprints	rect=0,0,452,240 in=312,158,76,18 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	パーツの部位を表します。	Shows which part it is.	rect=0,0,452,240 in=46,174,130,24 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	武器腕はアーマーフレームから開発します。	Weapon Arms are made|from Armor Frames.	rect=0,0,452,240 in=68,198,134,40 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	アーマーフレームのLPランクとDFランクです。	The Armor Frame's LP|rank and DF rank.	rect=0,0,452,240 in=176,172,124,40 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	持っている設計図の数です。「∞」となっているものは開発しても数が減りません。	The number of blueprints|you hold. Items marked ∞|aren't used up.	rect=0,0,452,240 in=302,172,138,66 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6

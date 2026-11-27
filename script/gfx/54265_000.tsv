@@ -1,0 +1,6 @@
+sprite	ja	en	options
+0	通信対戦	Link Battle	rect=0,0,452,240 in=36,0,134,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	ローカル通信を利用して、最大6人でアクションバトルができます。	Use local wireless to play Action Battles with up to 6 players.	rect=0,0,452,240 in=54,30,340,28 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8
+0	ランキングバトル	Ranking Battle	rect=0,0,452,240 in=36,78,130,26 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	LBXプレイヤーの強者たちとランキングに挑みます。ローカル通信を利用して最大3人で協力して挑む事もできます。	Take on strong LBX Players in the rankings.|You can also team up with up to 3 players over local wireless.	rect=0,0,452,240 in=54,108,350,46 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	※挑戦する相手のランクが一定以上になると、協力してもらうプレイヤーが同じランク以上になっていなければ、協力バトルはできません。	* Once your opponent's rank reaches a certain level, you can't do|a co-op battle unless your partner players are at that rank or higher.	rect=0,0,452,240 in=54,160,380,56 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6

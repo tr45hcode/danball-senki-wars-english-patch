@@ -1,0 +1,9 @@
+sprite	ja	en	options
+0	LBXプレイヤーリスト	LBX Player List	rect=0,0,452,240 in=36,0,140,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	プレイヤーキャラリスト	Player Character List	rect=0,0,452,240 in=57,32,130,17 bg=rows font=plain size=9 gap=7 align=l valign=c font=bold size=8 mode=none fill=ffffff
+0	スカウト一覧リスト	Scout List	rect=0,0,452,240 in=257,29,112,22 bg=rows font=plain size=9 gap=7 align=l valign=c font=bold size=8 mode=none fill=ffffff
+0	キャラクターレベル	Character Level	rect=0,0,452,240 in=67,200,121,24 bg=rows font=plain size=9 gap=7 align=l valign=c font=bold size=8 mode=none fill=ffffff
+0	親密度	Affinity	rect=0,0,452,240 in=197,200,50,24 bg=rows font=plain size=9 gap=7 align=l valign=c font=bold size=8 mode=none fill=ffffff
+0	装備ウェポン	Equipped Weapon	rect=0,0,452,240 in=277,200,92,24 bg=rows font=plain size=9 gap=7 align=l valign=c font=bold size=7 mode=none fill=ffffff
+0	仲間にいるキャラクターのリストです。最大50人まで仲間にできます。	A list of the characters on your team.|You can have up to 50 members.	rect=0,0,452,240 in=78,52,196,44 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	スカウト可能なキャラクターのリストです。	A list of characters|you can scout.	rect=0,0,452,240 in=280,52,158,44 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6

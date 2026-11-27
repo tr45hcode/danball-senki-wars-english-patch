@@ -1,0 +1,4 @@
+sprite	ja	en	options
+0	メカニックスキル	Mechanic Skills	rect=0,0,452,240 in=36,0,130,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	メカニックはそれぞれスキルを持っており開発するパーツとスキルの条件が合えば消費するSCやチップを節約できます。	Each Mechanic has their own skill. If the part and|the skill's conditions match, you can save the SC|and chips you would spend.	rect=0,0,452,240 in=122,58,250,72 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	メカニックはレベルアップで新しいスキルを覚える事があります。	Mechanics can learn new skills|when they level up.	rect=0,0,452,240 in=122,138,250,50 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6

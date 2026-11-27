@@ -1,0 +1,12 @@
+sprite	ja	en	options
+0	レッグパーツの特性	Leg Part Traits	rect=0,0,452,240 in=44,0,110,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	レッグパーツはフレームやパーツの形によって、それぞれ特性が違います。	Leg parts have different traits depending on|the frame and the shape of the part.	rect=0,0,452,240 in=62,26,374,26 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	ストライダーフレーム	Strider Frame	rect=0,0,452,240 in=52,58,108,16 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=9
+0	空中で2回ダッシュができます。	Can dash twice in the air.	rect=0,0,452,240 in=70,70,200,22 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l
+0	ブロウラーフレーム	Prowler Frame	rect=0,0,452,240 in=52,98,108,16 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=9
+0	ハンマー、両手銃、ランチャーを装備していても2段ジャンプができます。	Can double-jump even with a Hammer, Two-Hand Gun or Launcher equipped.	rect=0,0,452,240 in=70,110,370,22 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8
+0	ワイルドフレーム	Wild Frame	rect=0,0,452,240 in=52,138,108,16 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=9
+0	空中でのジャンプ回数が1回増えます。	Adds 1 more jump in the air.	rect=0,0,452,240 in=70,150,200,22 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l
+0	タンク・ホバータイプ	Tank / Hover Type	rect=0,0,452,240 in=52,178,110,16 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=9
+0	ナックルを装備した時に動きが変化します。	Its movement changes when a Knuckle is equipped.	rect=0,0,452,240 in=70,194,300,18 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l
+0	前に移動しながらランチャーを撃つ事ができます。	Can fire a Launcher while moving forward.	rect=0,0,452,240 in=70,214,300,24 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l

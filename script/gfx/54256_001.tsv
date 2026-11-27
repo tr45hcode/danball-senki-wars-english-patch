@@ -1,0 +1,6 @@
+sprite	ja	en	options
+0	発動に必要なチャンスゲージ量です。技の威力を表します。	Chance Gauge needed to activate.|Power of the move.	rect=0,0,320,240 in=106,2,206,50 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=14
+0	固有必殺ファンクション	Unique Special Function	rect=0,0,320,240 in=0,58,134,28 bg=rows font=plain size=9 gap=7 align=l font=condbold size=8 mode=none fill=ffffff
+0	特定のウェポン、LBXパーツを装備している時に使用可能になる必殺ファンクションです。Lボタンにのみセット可能です。	A Special Function usable only while certain|weapons or LBX parts are equipped.|It can only be set to the L Button.	rect=0,0,320,240 in=38,86,276,60 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	データディスク	Data Discs	rect=0,0,320,240 in=0,152,118,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	使用する事で、新しい必殺ファンクションを覚えさせる事ができます。データディスクは使用するとなくなります。	Using one teaches a character a new|Special Function.|A data disc is used up when you use it.	rect=0,0,320,240 in=38,172,276,66 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6

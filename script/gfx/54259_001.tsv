@@ -1,0 +1,2 @@
+sprite	ja	en	options
+0	選択したウェポンやアーマーフレームでスキルが発動するメカニックはリストの横にアイコンが表示されます。	Mechanics whose skill activates with the|selected Weapon or Armor Frame are shown|with an icon next to them in the list.	rect=0,0,320,240 in=48,14,222,64 bg=rows font=plain size=9 gap=7 align=l size=8 gap=6 mode=none fill=ffffff

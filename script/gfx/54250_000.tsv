@@ -1,0 +1,9 @@
+sprite	ja	en	options
+0	特性チップと得意ウェポンチップ	Trait and Specialty Weapon Chips	rect=0,0,452,240 in=46,0,176,23 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	LBXにセットされているチップによって耐性やスピードランクが変化します。	The chips set on an LBX change its|resistances and Speed Rank.	rect=0,0,452,240 in=116,26,268,38 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l
+0	耐性チップ	Resist Chips	rect=0,0,452,240 in=118,66,90,26 bg=rows font=plain size=9 gap=7 align=l font=bold
+0	それぞれの属性の耐性を上げます。	Raises resistance to each attribute.	rect=0,0,452,240 in=132,92,200,24 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l
+0	地形チップ	Terrain Chips	rect=0,0,452,240 in=118,120,90,28 bg=rows font=plain size=9 gap=7 align=l font=bold
+0	その地形での攻撃力とスピードランクが上がります。	Raises attack and Speed Rank on that terrain.	rect=0,0,452,240 in=132,152,266,24 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l
+0	得意ウェポンチップ	Specialty Wpn Chips	rect=0,0,452,240 in=112,176,104,26 bg=rows font=plain size=9 gap=7 align=l font=bold size=8
+0	その武器を装備した時のスピードランクが上がります。	Raises Speed Rank when that weapon is equipped.	rect=0,0,452,240 in=132,208,268,28 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l

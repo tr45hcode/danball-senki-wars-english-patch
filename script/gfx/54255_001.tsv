@@ -1,0 +1,5 @@
+sprite	ja	en	options
+0	アイテムのセット・使用	Item Setup and Use	rect=0,0,320,240 in=0,0,126,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	バトルアイテムは小隊ごとに4種類セットできます。アイテムは小隊で共有します。バトル中、操作キャラ以外はアイテムを使用しません。	Each squad can set 4 types of battle items.|Items are shared across the squad.|In battle, only the character you control uses items.	rect=0,0,320,240 in=24,26,290,70 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	アイテムの最大所持数	Max Items Carried	rect=0,0,320,240 in=0,110,128,26 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	バトルアイテムや設計図、データディスクなどは1つにつき最大99個までしか持てません。99個持っている状態で新しく入手した場合は自動で破棄されます。	You can hold at most 99 of each battle item,|blueprint, data disc and so on.|If you already have 99 and obtain another,|it is discarded automatically.	rect=0,0,320,240 in=24,136,290,100 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6

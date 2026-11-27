@@ -22,6 +22,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import aif  # noqa: E402
 import fontpatch  # noqa: E402
 import gfx  # noqa: E402
 import mron  # noqa: E402
@@ -132,6 +133,14 @@ def build(cpk_path, out, translations, opts):
     cpk = Cpk(cpk_path)
     replacements, report = {}, []
     n_textures = 0
+    by_name = {e['name']: e for e in cpk.files}
+
+    def read_image(name):
+        # an image entry of another container, for gfx plate= backgrounds
+        container, index = name.split('_')
+        blob = cpk.read(by_name[container])
+        return aif.decode(mron.read_entry(blob, mron.parse(blob)[int(index)]))
+    gfx.PLATE_LOADER = read_image
     for e in cpk.files:
         data = cpk.read(e)
         if data[:8] != mron.MAGIC:

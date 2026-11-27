@@ -1,0 +1,6 @@
+sprite	ja	en	options
+0	アイテムの種類	Item Types	rect=0,0,452,240 in=44,0,110,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	回復系	Recovery	rect=0,0,452,240 in=80,52,56,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	攻撃系	Attack	rect=0,0,452,240 in=80,134,56,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	LBXのLPや状態異常などを回復するアイテムです。エリア戦術マップ、アクションバトルで使用可能です。	Items that restore LBX LP, cure status ailments, etc.|Usable on the area tactical map and in Action Battles.	rect=0,0,452,240 in=80,76,330,46 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l
+0	「グレネード」「マイン」など、相手を攻撃するアイテムです。アクションバトルのみ使用可能です。	Items like Grenades and Mines that attack opponents.|Usable in Action Battles only.	rect=0,0,452,240 in=80,156,350,44 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l

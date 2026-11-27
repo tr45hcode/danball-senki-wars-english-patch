@@ -1,0 +1,9 @@
+sprite	ja	en	options
+0	必殺ファンクション	Special Function	rect=0,0,452,240 in=36,0,124,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	通常の必殺ファンクションを表します。	Normal Special Function.	rect=0,0,452,240 in=182,2,256,28 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8
+0	超必殺ファンクションを表します。この技は範囲内全員にダメージを与えます。	Ultimate Special Function.|Hits everyone in range.	rect=0,0,452,240 in=182,31,256,40 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	LBX同士が連携する協力超必殺ファンクション。エリア戦術マップ上では使用できません。	Cooperative Ultimate between LBXs.|Not usable on the area tactical map.	rect=0,0,452,240 in=182,72,256,42 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	射撃タイプの必殺ファンクションを表します。エリア戦術マップ上では使用できません。	Shooting-type Special Function.|Not usable on the area tactical map.	rect=0,0,452,240 in=182,116,256,38 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	強化系・特殊モード系の必殺ファンクションを表します。エリア戦術マップ上では使用できません。	Buff or special-mode Special Function.|Not usable on the area tactical map.	rect=0,0,452,240 in=182,155,256,43 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	固有必殺ファンクションを表します。	Unique Special Function.	rect=0,0,452,240 in=182,199,256,20 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8
+0	必殺ファンクションの攻撃属性です。	Attack attribute of the Special Function.	rect=0,0,452,240 in=182,221,256,19 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8

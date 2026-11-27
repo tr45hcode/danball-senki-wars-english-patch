@@ -1,0 +1,8 @@
+sprite	ja	en	options
+0	武器腕について	About Weapon Arms	rect=0,0,320,240 in=16,0,100,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	武器腕はアーマーフレームとして装備する武器です。	Weapon Arms are weapons equipped as Armor Frames.	rect=0,0,320,240 in=42,22,262,28 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	装備すると、自動でウェポンが武器腕に切り替わり、A武器がナックル、B武器は単発・連射・放射のいずれかとなります。武器腕はウェポンを装備する事ができません。	When equipped, your weapons automatically switch|to the Weapon Arm. Weapon A becomes a Knuckle,|and Weapon B becomes Single, Rapid or Spray.|Weapon Arms can't equip other weapons.	rect=0,0,320,240 in=42,52,262,86 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	遠距離攻撃の得意ウェポンは以下の対応となります。	Specialty ranged weapons correspond as follows:	rect=0,0,320,240 in=42,140,262,24 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=8 gap=6
+0	単発⇒ランチャー	Single → Launcher	rect=0,0,320,240 in=50,165,140,19 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l
+0	連射⇒片手銃	Rapid → One-Hand Gun	rect=0,0,320,240 in=50,185,140,19 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l
+0	放射⇒両手銃	Spray → Two-Hand Gun	rect=0,0,320,240 in=50,205,140,22 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l

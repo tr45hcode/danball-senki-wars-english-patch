@@ -1,0 +1,7 @@
+sprite	ja	en	options
+0	アーマーフレーム熟練度	Armor Frame Mastery	rect=0,0,320,240 in=6,0,128,24 bg=rows font=plain size=9 gap=7 align=l font=bold mode=none fill=ffffff
+0	ナイトフレーム	Knight Frame	rect=0,0,320,240 in=80,44,92,11 bg=rows font=plain size=9 gap=7 align=l size=7
+0	ストライダーフレーム	Strider Frame	rect=0,0,320,240 in=80,63,92,11 bg=rows font=plain size=9 gap=7 align=l size=7
+0	ブロウラーフレーム	Prowler Frame	rect=0,0,320,240 in=80,82,92,11 bg=rows font=plain size=9 gap=7 align=l size=7
+0	ワイルドフレーム	Wild Frame	rect=0,0,320,240 in=80,102,92,11 bg=rows font=plain size=9 gap=7 align=l size=7
+0	アーマーフレームには4つのタイプがあります。…	Armor Frames come in four types.|Each type has its own mastery. The higher it is,|the more LP and DF the frame gains when equipped.|Mastery rises as you equip it and fight battles.	rect=0,0,320,240 in=20,124,286,84 bg=plate plate=54250-54266/1 mode=none fill=ffffff font=plain size=9 gap=7 align=l

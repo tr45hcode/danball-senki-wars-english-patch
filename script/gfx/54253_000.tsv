@@ -1,0 +1,11 @@
+sprite	ja	en	options
+0	小隊移動力	Squad Movement	rect=0,0,452,240 in=44,0,110,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	小隊移動力	Squad Mobility	rect=0,0,452,240 in=104,48,92,22 bg=rows font=plain size=9 gap=7 align=l font=bold size=8 mode=none fill=ffffff
+0	エリア戦術マップでの小隊のスピードランクです。各LBXにセットされた地形チップの合計で決定します。	This is the squad's Speed Rank on the|area tactical map. It is decided by the|total of the terrain chips set on each LBX.	rect=0,0,452,240 in=228,56,206,88 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l
+0	草	Grass	rect=0,0,452,240 in=232,172,20,24 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=6 font=cond align=c
+0	森	Wood	rect=0,0,452,240 in=252,172,20,24 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=6 font=cond align=c
+0	砂	Sand	rect=0,0,452,240 in=272,172,20,24 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=6 font=cond align=c
+0	氷	Ice	rect=0,0,452,240 in=292,172,20,24 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=6 font=cond align=c
+0	岩	Rock	rect=0,0,452,240 in=312,172,20,24 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=6 font=cond align=c
+0	水	Water	rect=0,0,452,240 in=332,172,20,24 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=6 font=cond align=c
+0	道	Road	rect=0,0,452,240 in=352,172,20,24 bg=plate plate=54250-54266/0 mode=none fill=ffffff font=plain size=9 gap=7 align=l size=6 font=cond align=c
